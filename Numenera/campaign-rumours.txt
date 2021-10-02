@@ -1,4 +1,12 @@
 - The size of the "village" at the tree in the Grey Sea never changes -- the people that live there aren't actually human, they're facimilies created by the tree. When one dies they're taken to the crown of the tree, and then a few years later that person is alive again, living a simple life among the branches. Nobody who joins the tree village ever leaves.
 
-- 
+
+robot rumors on the ship:
+- However, there are stories of machines that roam the halls of the ship that
+should you encounter them, your only recourse is to run. Machines that are only
+whispered of in stories around campfires. Many new explorers think these just
+fanciful tales, thinking it's just a tall tale to scare them away from the best
+parts of the ship. The old timers keep their secrets though, and many wonder if
+friends that never came back up lost their lives to the dread machine that
+stalks the halls.
 
