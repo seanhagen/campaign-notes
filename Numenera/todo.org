@@ -1,0 +1,153 @@
+* First Session [0%]
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+** TODO finish Ager's article & related stuff [0/3]
+*** TODO needs section headings
+*** TODO probably needs re-writing
+*** TODO maybe some images
+** TODO Need several potential scenarios & encounters [0/6]
+*** TODO in town scenario 1 (ghoka)
+*** TODO in town scenario 2 (wright)
+*** TODO in town scenario 3 (pamki)
+*** TODO near town scenario 1 (sherif)
+*** TODO near town scenario 2 (wood worker)
+*** TODO far from town scenario 1 (pamki)
+** TODO Finish populating town with major NPCs [0/12]
+*** TODO sheriff
+*** TODO pamki, ager's daughter
+*** TODO pamki's wife
+*** TODO village wright
+*** TODO village herbalist/healer
+*** TODO aeon priest
+*** TODO the "seamstress" madam
+*** TODO innkeeper
+*** TODO the mason
+*** TODO the woodworker
+*** TODO "lead" farmer ( or their representative )
+*** TODO quartermaster/general store
+** TODO Create some goons & flesh out Ghoka's gang [0/4]
+*** TODO more on ghoka
+*** TODO his second-in-command
+*** TODO the "voice of reason" gang member
+*** TODO an insane/not-all-there "shaman"
+** TODO Sable Hegemony [0/5]
+*** TODO the empress
+*** TODO consort of the empress
+*** TODO general of the armies
+*** TODO others?
+*** TODO anything special about the army
+** TODO Voz Dynasty [0/6]
+*** TODO the khan
+*** TODO his sons ( leaders of his armies )
+*** TODO his daughter ( ager's wife )
+*** TODO the "twisted" ( aeon priest who wants power and sees the khan as his way
+  to get it )
+*** TODO more info on their army, how they fight, how they hold territory
+*** TODO what do they ride into battle?
+** TODO Maka-Tho [0/6]
+*** TODO make map of hills region for exploration by players
+*** TODO figure out where on region map the giant hand & screaming tower are
+*** TODO decide on scale -- region needs to be at least as big as bc, alberta, and
+  saskatchewan combined
+*** TODO near the town, the "hills area" [0/2]
+*** TODO figure out basic ecology of the hills region
+  - what are some of the animals most likely to be seen?
+  - what are the plants like?
+*** TODO decide if it's only the hills region plagued by the lightning storms
+** TODO Ararholm [0/5]
+*** TODO flesh out areas near the town, in case the players want to go exploring there [0/3]
+**** TODO the pit
+**** TODO the city of the dead
+**** TODO some of the 'tombs' & ruins nearby
+*** TODO maybe a map of the immediate area, but in a much more sketchy style
+  need to know about the following:
+  - how many homesteads are there, and what do they produce?
+  - what resources are nearby that are easy to get to (wood, water, etc)
+  - what resources are nearby that would require organization to get to (buried
+    ruins with synth and building materials, ore deposits, etc)
+  - are there gangs or bandits hiding out nearby, and does Ghoka know about them?
+** other prep that needs doing [0/3]
+*** TODO how exploring unknown hexes will work
+*** TODO travel distances & times & other considerations
+  - how do they get lost?
+  - how do they get un-lost?
+  - how long can they be lost before food & resources becomes an issue?
+  - how easy is it to find shelter out in the wild?
+  - can the players determine how safe a shelter might be?
+  - what kinds of shelter might they find?
+*** TODO how big is a hex, for each "zoom level"
+** physical prep [0/5]
+*** TODO create maps for me on hex paper
+*** TODO on hex side of big battle mat, create map of all maka-tho
+*** TODO on hex side of small battle mat, create map of the region they're in
+*** TODO see if maybe just giving players hex paper will work better than battle
+  mat ( maybe a discussion before first session )
+*** TODO determine what i want in front of me when running a game
+* can wait until after first session [0%]
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+** Ager [0/11]
+*** TODO timeline, work backwards from death for the following [0/9]
+**** TODO founding ararholm
+**** TODO gathering people and preparing to leave for ararholm
+**** TODO death of his wife
+pamki should be around 2 or 3, she vaguely remembers her mom
+**** TODO when did he first explore maka-tho
+and is he lying about that or not
+**** TODO how long spent in calda before mists disappeared
+**** TODO when did he go to sudboia
+  - and for how long
+  - and was he sent by the Sable Empress?
+**** TODO how long did he spend in the Steadfast after finding the Kala Arch
+**** TODO how old was he when he discovered the Kala Arch?
+ - was it before, after, or during the building of his trade empire?
+**** TODO put in a few gaps
+ - stuff like "it is unknown what Ager was up to during this X
+    <year/month> period"
+*** TODO figure out his personality a bit more
+  - outwardly he's a dynamic, charismatic, fun yet ruggedly noble
+  - was he the same inside?
+  - what regrets haunted him?
+  - what did he really want from Maka-Tho?
+  - besides the ship, what else did he leave unfinished before his death?
+** the kingdoms [0/3]
+*** TODO sable hegemony: general overview, culture, foods, etc
+*** TODO voz empire: general overview, culture, foods, etc
+*** TODO history of the war
+** the ship [0/6]
+*** TODO more on the AI
+  - is it actually an ally, or biding its time?
+  - is the AI actually part of the ship, or trapped there ( or prisioner? )
+  - how much does the AI know about what happens outside the ship?
+  - how much does the AI know about humans?
+  - was the AI ever a friend to humanity in the past? 
+*** TODO some more info on the ship
+  - is it even a ship?
+  - if it is a ship, what was it meant for? war? colonization? exploration?
+  - if it's not a ship, what was it?
+  - do the corridors shift and change?
+  - is danger spread randomly through the ship, or do things get more dangerous
+    the deeper you go ( or the closer you get to specific areas? )
+  - are there "boss" creatures within the ship?
+*** TODO how much of the ship did Ager actually explore?
+  - areas he ( or anyone, really ) explored would be marked ( marked with
+    symbols to denote what might lie ahead -- danger, safety, resources, etc )
+*** TODO is there another way into the ship?
+*** TODO just... how big IS the ship
+*** TODO is the ship entirely in our reality?
+** maka-tho [0/4]
+*** TODO is the device that created the mist destroyed, turned off, or being
+  prevented from functioning ( in stasis, broken, etc )
+*** TODO was the mist to keep people out, keep something in, or... something else?
+  - is that something else "knowable", or a mystery
+*** TODO what groups or civilizations survived under the mists?
+  - cherry tree area
+  - green city behind scary mountains
+  - tower to the east, just near the swamps
+  - inverted pyramid
+  - crashed ship to the north
+  - the black tower in the north-east
+*** TODO was the mist created before or after the beginning of the ninth world?
+  - ie, when was the device turned on
