@@ -33,30 +33,20 @@
 *** TODO an insane/not-all-there "shaman"
 ** TODO Sable Hegemony [0/5]
 *** TODO the empress
-*** TODO consort of the empress
-*** TODO general of the armies
-*** TODO others?
-*** TODO anything special about the army
 ** TODO Voz Dynasty [0/6]
 *** TODO the khan
-*** TODO his sons ( leaders of his armies )
 *** TODO his daughter ( ager's wife )
-*** TODO the "twisted" ( aeon priest who wants power and sees the khan as his way
-  to get it )
-*** TODO more info on their army, how they fight, how they hold territory
-*** TODO what do they ride into battle?
 ** TODO Maka-Tho [0/6]
 *** TODO make map of hills region for exploration by players
 *** TODO figure out where on region map the giant hand & screaming tower are
-*** TODO decide on scale -- region needs to be at least as big as bc, alberta, and
-  saskatchewan combined
-*** TODO near the town, the "hills area" [0/2]
+*** TODO decide on scale
+region needs to be at least as big as bc, alberta, and saskatchewan combined
 *** TODO figure out basic ecology of the hills region
   - what are some of the animals most likely to be seen?
   - what are the plants like?
 *** TODO decide if it's only the hills region plagued by the lightning storms
 ** TODO Ararholm [0/5]
-*** TODO flesh out areas near the town, in case the players want to go exploring there [0/3]
+*** TODO write up articles for things already revealed on map
 **** TODO the pit
 **** TODO the city of the dead
 **** TODO some of the 'tombs' & ruins nearby
@@ -77,6 +67,10 @@
   - can the players determine how safe a shelter might be?
   - what kinds of shelter might they find?
 *** TODO how big is a hex, for each "zoom level"
+- in town: 10ft hexes
+- hills region:
+- maka-tho:
+- continent: 
 ** physical prep [0/5]
 *** TODO create maps for me on hex paper
 *** TODO on hex side of big battle mat, create map of all maka-tho
@@ -84,26 +78,36 @@
 *** TODO see if maybe just giving players hex paper will work better than battle
   mat ( maybe a discussion before first session )
 *** TODO determine what i want in front of me when running a game
-* can wait until after first session [0%]
+* can wait until after first session [33%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** Ager [0/11]
-*** TODO timeline, work backwards from death for the following [0/9]
-**** TODO founding ararholm
-**** TODO gathering people and preparing to leave for ararholm
-**** TODO death of his wife
+** Ager [10/11]
+*** DONE timeline, work backwards from death for the following [9/9]
+CLOSED: [2021-10-11 Mon 15:45]
+**** DONE founding ararholm
+CLOSED: [2021-10-11 Mon 15:44]
+**** DONE gathering people and preparing to leave for ararholm
+CLOSED: [2021-10-11 Mon 15:44]
+**** DONE death of his wife
+CLOSED: [2021-10-11 Mon 15:44]
 pamki should be around 2 or 3, she vaguely remembers her mom
-**** TODO when did he first explore maka-tho
+**** DONE when did he first explore maka-tho
+CLOSED: [2021-10-11 Mon 15:44]
 and is he lying about that or not
-**** TODO how long spent in calda before mists disappeared
-**** TODO when did he go to sudboia
+**** DONE how long spent in calda before mists disappeared
+CLOSED: [2021-10-11 Mon 15:44]
+**** DONE when did he go to sudboia
+CLOSED: [2021-10-11 Mon 15:44]
   - and for how long
   - and was he sent by the Sable Empress?
-**** TODO how long did he spend in the Steadfast after finding the Kala Arch
-**** TODO how old was he when he discovered the Kala Arch?
+**** DONE how long did he spend in the Steadfast after finding the Kala Arch
+CLOSED: [2021-10-11 Mon 15:44]
+**** DONE how old was he when he discovered the Kala Arch?
+CLOSED: [2021-10-11 Mon 15:44]
  - was it before, after, or during the building of his trade empire?
-**** TODO put in a few gaps
+**** DONE put in a few gaps
+CLOSED: [2021-10-11 Mon 15:44]
  - stuff like "it is unknown what Ager was up to during this X
     <year/month> period"
 *** TODO figure out his personality a bit more
@@ -112,9 +116,43 @@ and is he lying about that or not
   - what regrets haunted him?
   - what did he really want from Maka-Tho?
   - besides the ship, what else did he leave unfinished before his death?
-** the kingdoms [0/3]
-*** TODO sable hegemony: general overview, culture, foods, etc
-*** TODO voz empire: general overview, culture, foods, etc
+** the kingdoms [0/9]
+*** TODO sable hegemony
+- [ ] general overview
+- [ ] culture (music, popular foods, clothing style, manerisms, traditions)
+- [ ] religion
+**** TODO army
+- leader
+- fighting style
+- structure
+- anything else special about the army
+**** TODO cities
+- [ ] capital city
+- [ ] mining outpost
+- [ ] trade stop
+- [ ] city near no-mans land
+- [ ] one more city
+**** TODO nobles and important npcs
+- [ ] queen's consort ( crown prince )
+- [ ] how the nobility works, what's their duties, etc
+- [ ] any other important or renowned figures?
+*** TODO voz empire
+- [ ] general overview
+- [ ] culture (music, popular foods, clothing style, manerisms, traditions)
+- [ ] religion
+**** TODO army
+- [ ] leaders ( khan's sons )
+- [ ] fighting style
+- [ ] what do they ride into battle
+- [ ] structure
+- [ ] anything else special
+**** TODO cities
+- [ ] capital city
+- [ ] city near no-mans land
+- [ ] city at edge of mists
+**** TODO nobles & important npcs
+- [ ] the "twisted" (aeon priest who wants power and sees the khan as his way to get it)
+- [ ] others?
 *** TODO history of the war
 ** the ship [0/6]
 *** TODO more on the AI
