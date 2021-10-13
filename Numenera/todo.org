@@ -1,10 +1,12 @@
-* First Session [0%]
+* First Session [3%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** TODO finish Ager's article & related stuff [0/3]
-*** TODO needs section headings
-*** TODO probably needs re-writing
+** TODO finish Ager's article & related stuff [2/3]
+*** DONE needs section headings
+CLOSED: [2021-10-13 Wed 00:04]
+*** DONE probably needs re-writing
+CLOSED: [2021-10-13 Wed 00:04]
 *** TODO maybe some images
 ** TODO Need several potential scenarios & encounters [0/6]
 *** TODO in town scenario 1 (ghoka)
@@ -78,11 +80,11 @@ region needs to be at least as big as bc, alberta, and saskatchewan combined
 *** TODO see if maybe just giving players hex paper will work better than battle
   mat ( maybe a discussion before first session )
 *** TODO determine what i want in front of me when running a game
-* can wait until after first session [33%]
+* can wait until after first session [32%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** Ager [10/11]
+** Ager [10/12]
 *** DONE timeline, work backwards from death for the following [9/9]
 CLOSED: [2021-10-11 Mon 15:45]
 **** DONE founding ararholm
@@ -110,6 +112,9 @@ CLOSED: [2021-10-11 Mon 15:44]
 CLOSED: [2021-10-11 Mon 15:44]
  - stuff like "it is unknown what Ager was up to during this X
     <year/month> period"
+*** TODO finish entries in timeline
+the last few entries just have what was in the repo copied into the secrets,
+need to write better articles for each timeline entry
 *** TODO figure out his personality a bit more
   - outwardly he's a dynamic, charismatic, fun yet ruggedly noble
   - was he the same inside?
