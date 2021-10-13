@@ -78,7 +78,7 @@ region needs to be at least as big as bc, alberta, and saskatchewan combined
 *** TODO see if maybe just giving players hex paper will work better than battle
   mat ( maybe a discussion before first session )
 *** TODO determine what i want in front of me when running a game
-* can wait until after first session [33%]
+* Can wait until after first session [33%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
