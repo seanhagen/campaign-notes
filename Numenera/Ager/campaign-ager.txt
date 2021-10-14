@@ -9,11 +9,9 @@ When the mists of Maka-Tho receded, Ager was one of the first to explore the reg
 He is the man responsible for the party being out here, at the edge of the known world, trying to make a shanty town into something more.
 
 [h2]Early Life[/h2]
-
 Born to unknown parents, Ager has not shared much about his life before he set out on his first walkabout. He first made a name for himself as a young glaive travelling through some of the most remote and dangerous areas of the Steadfast. There are stories across many of the more remote aldeia in the Steadfast of the Wandering Glaive, drawn to some of the more mysterious or dangerous ruins in the wilds.
 
 [h3]X Marks The Spot[/h3]
-
 At some point, Ager came upon a strange map. Eventually he deciphered the directions contained within and followed where they led him. Where they led him was a ruin that had somehow had escaped discovery by both humans and abhumans. Exploring the interior, he came upon a great cache of shins, numenera, and knowledge.
 
 At least, that's the story Ager tells of how he came into his riches.
@@ -21,17 +19,14 @@ At least, that's the story Ager tells of how he came into his riches.
 Regardless of how he came into a fortune, Ager put it to good use. He started a trade business, using his knowledge of outlying and rarely visited aldeia to plan trade routes. 
 
 [h2]Adventures[/h2]
-
 During his life, Ager went on many adventures and explored many new lands and strange ruins.
 
 [h3]Clearing Bandits[/h3]
-
 When the city of Qi put out the call for warriors and adventurers, Ager answered the call. Bandits had become a major nuisance along the border of Draolis and the Sea Kingdom of Ghan. Enlisting adventurers was a common practice for these sorts of tasks, as Qi did not wish to risk sending an army to their borders that could be mistaken as them riding to war.
 
 Ager and a number of other warriors were given titles and land within Draolis for their service. Upon the land granted to Ager was a manor, which he refurbished and used as the center of his growing trade company. A town grew  around the manor, at first just the home of the families of his employees. But over time the town grew as the company did. People came to join the caravans, or to work in one of the businesses that supplied and repaired the vehicles and equipment of the caravans.
 
 [h3]New Lands[/h3]
-
 On one of his many journeys, Ager discovered something hidden in one of the few short valleys in the side of the Clock of Kala. While he was unable to figure out how to make it work, Ager knew the knowledge of how to do so was out there in the world. It was only a matter of time and luck until he figured it out.
 
 It took him many years, but he eventually found the knowledge he needed to activate the portal. The other side of the portal lay thousands of kilometers to the north, far from the Steadfast & the Beyond. Venturing out into this land, Ager was surprised to find that although harsher and somewhat crueler it shared many things with the Steadfast.
@@ -39,7 +34,6 @@ It took him many years, but he eventually found the knowledge he needed to activ
 He learned that this land was named Calda, and was ruled over by the Sable Hegemony. 
 
 [h3]A Queen's Request[/h3]
-
 After spending several years exploring and wandering the lands of Calda, Ager had built a reputation much like he had in the Steadfast. At some point, one of his adventures reached the ears of the Queen.
 
 Eventually, his exploits grew enough for the nobles to grow worried. An outsider, becoming well known and loved among the common folk? Not something that should be ignored or left alone. The Queen agreed; someone not from Calda, without a title, without any ties to the throne? No, that wouldn't do.
@@ -51,7 +45,6 @@ After this, Ager returned home for a spell before returning to Calda. Once back,
 When he returned it was with a wife, Tashi Shaho. She travelled with him to Magglen and the Sunshine Manor. She quickly became well known and loved within the town and the trade company.
 
 [h3]Expedition To Maka-Tho[/h3]
-
 Eventually Ager returned once more to Calda to continue his explorations.
 
 One year, the whole of Calda was shaken as news that the mists of Maka-Tho had disappeared. Once an impassable barrier, their removal meant a whole new region of potential ruins and numenera just waiting to be explored.
@@ -61,7 +54,6 @@ Ager immediately made his way to the Queen, wanting to be part of the expedition
 The expedition returned after a year, at half strength and weary. Ager returned with them, with plans for the future.
 
 [h3]Settling In Maka-Tho[/h3]
-
 Upon returning to Magglen and Tashi, Ager immediately began making preparations for an expedition to settle Maka-Tho. After convincing Tashi, they set about making preparations. After selling or bequeathing much of what they weren't taking with them, they left with a large group of people to follow Ager's dreams.
 
 Once arriving in Maka-Tho, they built a new town and christined it Ararholm. The town has grown slowly since its founding. Most of the people who come are adventurers and delvers who come to explore the ruins within Maka-Tho. One of the discoveries is the ship that lay beneath Ararholm that Ager had discovered when he first came to Maka-Tho. Unfortunately, as most of the people who come to Ararholm are not coming to settle, the town has run into problems lately.
@@ -69,21 +61,12 @@ Once arriving in Maka-Tho, they built a new town and christined it Ararholm. The
 The delvers camped outside the town grow larger every year. Some of the townsfolk worry that they may decide to ransack the town some day, so that they would have full control over the entrance to the ship.
 
 [h3]Legacy[/h3]
-
 [h2]Titles, Awards, & Honors[/h2]
-
 Ager is well known throughout much of the world. During his travels, he has earned many nicknames, given to him by grateful villages and towns. 
 
 These are just some of the nicknames he's earned over the years:
 
-[ul]
-  [li]The Wandering Glaive[/li]
-  [li]The Red Blade[/li]
-  [li]Savior of Nambohr[/li]
-  [li]The Blade of Wrath[/li]
-  [li]The Reach of Trials[/li]
-[/ul]
-
+[ul]  [li]The Wandering Glaive[/li]  [li]The Red Blade[/li]  [li]Savior of Nambohr[/li]  [li]The Blade of Wrath[/li]  [li]The Reach of Trials[/li][/ul]
 In addition to these and many others, he also earned titles bestowed by nobility. One was bestowed by the Council of Qi, the other by the Sable Queen.
 
 In Draolis, he is known as [b]The Unbound Justice of Coalthon Province[/b].
@@ -91,7 +74,6 @@ In Draolis, he is known as [b]The Unbound Justice of Coalthon Province[/b].
 In Calda, he is known as a member of the zaman kansa, and given the title [b]Jauna Waid, Bearer of the Jet Spear[/b].
 
 [h2]Reputation[/h2]
-
 Over his life, Ager built a reputation as many things; a skilled trader, a peerless warrior, a noble-hearted leader, a trickster, a rogue, a madman. Nearly everyone who knows of Ager would tell a different story. Yet there is a few things all the tales agree on.
 
 The first is that Ager was a fearsome enemy. If you struck at him ( either his person, his holdings, or his family ), you best be sure you kill him. Otherwise, all you've done is sign your own death warrant.
@@ -103,7 +85,6 @@ The last is that he was a man of secrets. Nobody knows where he was born, or who
 A strange man, who left a noticeable impact on not just the Steadfast or Calda -- but on the lives of everyone he met.
 
 [h2]Final Years[/h2]
-
 Ager spent his final years in Ararholm trying to ensure the town would survive long after he was gone. Unfortunately, the plan he had followed to build his trade empire in the Steadfast didn't translate so well to a city far beyond the frontier of civilization. The townsfolk live a hard life; resources are some times hard to come by, and the land is not a welcoming one.
 
 In addition to those problems, Ager also spent much time trying to figure out how to entice settlers to come and build homes & lives in Ararholm. He was worried that his town would end up like so many others he had found on his journeys: an empty village, dead after the ruin or numenera that had brought visitors had been picked clean, stolen, or lost. Or worse, like one of the towns that was little more than a smugglers waypoint on a map.
