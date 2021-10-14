@@ -1,4 +1,4 @@
-* First Session [3%]
+* First Session [18%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -8,33 +8,260 @@ CLOSED: [2021-10-13 Wed 00:04]
 *** DONE probably needs re-writing
 CLOSED: [2021-10-13 Wed 00:04]
 *** TODO maybe some images
-** TODO Need several potential scenarios & encounters [0/6]
-*** TODO in town scenario 1 (ghoka)
-*** TODO in town scenario 2 (wright)
-*** TODO in town scenario 3 (pamki)
-*** TODO near town scenario 1 (sherif)
-*** TODO near town scenario 2 (wood worker)
-*** TODO far from town scenario 1 (pamki)
-** TODO Finish populating town with major NPCs [0/12]
-*** TODO sheriff
-*** TODO pamki, ager's daughter
-*** TODO pamki's wife
-*** TODO village wright
-*** TODO village herbalist/healer
-*** TODO aeon priest
-*** TODO the "seamstress" madam
-*** TODO innkeeper
-*** TODO the mason
-*** TODO the woodworker
-*** TODO "lead" farmer ( or their representative )
-*** TODO quartermaster/general store
-** TODO Create some goons & flesh out Ghoka's gang [0/4]
+** STARTED Need several potential scenarios & encounters [0/27]
+*** STARTED in town scenario 1 (ghoka)
+  someone has stolen supplies from the warehouse. the sheriff thinks it was one
+of ghoka's men. he's got a lot of things on his plate, so if someone can
+investigate and either find the stolen goods or find evidence of who stole
+them.
+
+  a box of amber crystal was taken. these are crystals that are used in
+self-repair numenera, or in numenera that float
+
+**** TODO design mystery [0%]
+***** TODO who stole the amber crystal [0/3]
+clues:
+- [ ] 
+- [ ] 
+- [ ]
+***** TODO where did they go
+***** TODO why did they steal
+***** TODO design ruin of where they're hiding
+
+*** STARTED in town scenario 2 (wright)
+the wright needs iotum to build some healing numenera to help some homesteading
+families that are sick. unfortunately, they're completely out of the ones they
+need to complete their project.
+
+they've heard rumors of a ruin in the area that may have the materials they
+require; the rumors she heard described some symbols she's seen before on
+healing numenera
+
+if someone can retrieve the iotum and bring them to the wright, there will
+probably be some leftover healing cyphers they can give out
+
+**** TODO build map of ruin
+
+**** TODO place ruin on map
+
+**** TODO creature encounter
+pick a creature that would make sense to have made its lair in the entrance to
+the ruin, preferably a pack
+
+*** STARTED in town scenario 3 (pamki)
+  pamki needs someone to go into the ship and fix the water supply. either fix
+  whatever broke and is fouling the water, or stop the water completely -- the
+  poison is getting into the ground water table and causing issues for nearby
+  farms.
+  
+**** TODO build the ship "entrance hall"
+the parts of the ship that are well known and fully explored
+
+**** TODO build the part of the ship that contains the broken equipment
+need:
+- [ ] broken machine that's fouling the water
+- [ ] the machine that produces or pumps the water
+
+*** STARTED in town scenario 4 (pamki)
+someone has stolen some old numenera that belonged to ager. pamki needs someone
+to find out who stole them and return the numenera.
+
+while pamki is normally somewhat shy and quiet, she becomes angry and animated
+when talking about this. whatever was stolen was important.
+
+**** TODO what was stolen
+- the numenera:
+  - 
+  - 
+  - 
+- the personal item pamki actually cares about:
+  - 
+**** TODO who stole it
+**** TODO where they are now
+*** STARTED near town scenario 1 (sherif)
+- the sheriff knows that ghoka has found somewhere else to set up camp. sheriff
+  is worried that it's a ruin where ghoka will find something that will give him
+  a deadly edge against the town.
+
+  he's heard rumours about where the ruin is.
+
+  what the sheriff knows:
+  - when ghoka leaves he's going south, but could be doubling back
+  - rumor: that ruin ghoka is using has a secret entrance
+  - rumor: ghoka keeps something in the ruin that he uses to punish gang members
+    that step out of line
+     
+  ghoka is smart, the ruin is actually to the west.
+
+  ghoka keeps a xacorocax inside the ruin, in a pit. he throws gang members that
+  fail him into the pit, if they can survive for ten minutes a rope is thrown in
+  ( they still have to manage to climb out on their own, though )
+
+  when the players reach the room with the pit, they'll see Leverett Stamper
+  getting pushed into the pit and dying to the xacorocax. he'll show up in town
+  a month later
+
+**** TODO build map of ruin
+
+*** STARTED near town scenario 2 (wood worker)
+- there's a small forest near the town, only a few acres, but it'll provide
+  enough wood to keep the woodworker in enough wood for the next few projects
+  he's got planned.
+
+  however, the second to last person he sent to scout the wood came back
+  claiming there were demons. the last person he sent didn't make it back.
+
+  he needs someone to either make those woods safe, or to find him another acre
+  of woods. he'd prefer this forest, the trees there have particularly hard and
+  strong wood.
+
+**** TODO design forest ( design it like a ruin )
+
+**** TODO pick a creature
+- if it's dangerous, it killed the last person that came exploring
+- if it's not, they died to a stupid accident
+
+*** STARTED far from town scenario 1 (pamki)
+  word has reached pamki that a caravan bringing food & building materials
+has gotten lost somewhere between the city of the dead and ararholm.
+
+  pamki would like someone to go and find the caravan and guide it to
+ararholm. while they need the food and materials, she's mostly concerned about
+the caravan -- the trader is an old friend of hers, and she wants to make sure
+they're safe.
+
+**** TODO figure out where the caravan is
+**** TODO figure out how many are still alive
+**** TODO create map of ruin that they're sheltering in
+**** TODO figure out what needs to happen for the wagons to make it back to ararholm
+
+** TODO Finish populating town with major NPCs [27/330]
+*** TODO sheriff [36%]
+**** TODO basic npc profile [50%]
+***** DONE short bio
+CLOSED: [2021-10-13 Wed 22:35]
+***** TODO secrets
+**** DONE name
+CLOSED: [2021-10-13 Wed 22:24]
+edgar mannes
+**** DONE quick profile [100%]
+CLOSED: [2021-10-13 Wed 22:34]
+***** DONE introduction
+CLOSED: [2021-10-13 Wed 22:33]
+***** DONE species
+CLOSED: [2021-10-13 Wed 22:34]
+***** DONE alignment
+CLOSED: [2021-10-13 Wed 22:34]
+***** DONE date of birth
+CLOSED: [2021-10-13 Wed 22:34]
+***** DONE gender
+CLOSED: [2021-10-13 Wed 22:34]
+***** DONE eyes
+CLOSED: [2021-10-13 Wed 22:34]
+***** DONE hair
+CLOSED: [2021-10-13 Wed 22:34]
+***** DONE skin tone
+CLOSED: [2021-10-13 Wed 22:34]
+***** DONE height
+CLOSED: [2021-10-13 Wed 22:34]
+***** DONE weight
+CLOSED: [2021-10-13 Wed 22:34]
+**** DONE basics [100%]
+CLOSED: [2021-10-13 Wed 22:34]
+***** DONE job
+CLOSED: [2021-10-13 Wed 22:31]
+***** DONE goal
+CLOSED: [2021-10-13 Wed 22:31]
+***** DONE use
+CLOSED: [2021-10-13 Wed 22:31]
+***** DONE quirk
+CLOSED: [2021-10-13 Wed 22:32]
+***** DONE coolness
+CLOSED: [2021-10-13 Wed 22:32]
+***** DONE fear
+CLOSED: [2021-10-13 Wed 22:32]
+***** DONE desires
+CLOSED: [2021-10-13 Wed 22:32]
+***** DONE facial features
+CLOSED: [2021-10-13 Wed 22:32]
+***** DONE speech pattern
+CLOSED: [2021-10-13 Wed 22:32]
+***** DONE body type
+CLOSED: [2021-10-13 Wed 22:32]
+***** DONE equipment
+CLOSED: [2021-10-13 Wed 22:32]
+**** TODO appearance [0%]
+***** TODO pyhsique
+***** TODO body features
+***** TODO facial features
+***** TODO identifying features
+***** TODO physical quirks
+***** TODO apparel & accessories
+***** TODO specialized
+***** TODO special abilities
+**** TODO mentality [9%]
+***** TODO personal history
+***** DONE education
+CLOSED: [2021-10-13 Wed 22:21]
+***** TODO employment
+***** TODO failures & embarassments
+***** TODO mental trauma
+***** TODO intellectual characteristics
+***** TODO morality & philosophy
+***** TODO sexuality
+***** TODO gender identity
+***** TODO taboos
+***** TODO known languages
+**** TODO personality [0%]
+***** TODO motivation
+***** TODO famous quotes & catchphrases
+***** TODO savvies & inneptitudes
+***** TODO likes & dislikes
+***** TODO virtues & perks
+***** TODO vices & flaws
+***** TODO ticks & quirks
+***** TODO hygine
+**** TODO social status [0%]
+***** TODO place of birth
+***** TODO current residence
+***** TODO relations
+***** TODO titles
+***** TODO wealth
+***** TODO contacts, relations & other affiliations
+***** TODO spiritual & religious views
+***** TODO social aptitude
+***** TODO mannerisms
+***** TODO pets & hobbies
+***** TODO speech
+*** TODO pamki, ager's daughter [4%]
+**** DONE name
+CLOSED: [2021-10-13 Wed 22:24]
+*** TODO pamki's wife [%]
+*** TODO village wright [%]
+*** TODO village herbalist/healer [%]
+*** TODO aeon priest [0%]
+*** TODO the "seamstress" madam [%]
+*** TODO innkeeper [%]
+*** TODO the mason [%]
+*** TODO the woodworker [%]
+*** TODO "lead" farmer ( or their representative )[%]
+*** TODO quartermaster/general store[%]
+** TODO Create some goons & flesh out Ghoka's gang [0/13]
 *** TODO more on ghoka
+**** TODO stat him up
+**** TODO a little bit of history
+**** TODO what are his plans, really
 *** TODO his second-in-command
+**** TODO stats
+**** TODO little bio
 *** TODO the "voice of reason" gang member
+**** TODO stats
+**** TODO little bio
 *** TODO an insane/not-all-there "shaman"
+**** TODO stats
+**** TODO little bio
 ** TODO Sable Hegemony [0/5]
-*** TODO the empress
+*** TODO the empress/queen
 ** TODO Voz Dynasty [0/6]
 *** TODO the khan
 *** TODO his daughter ( ager's wife )
