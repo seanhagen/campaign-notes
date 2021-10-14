@@ -1,4 +1,4 @@
-* First Session [18%]
+* First Session [13%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -8,7 +8,7 @@ CLOSED: [2021-10-13 Wed 00:04]
 *** DONE probably needs re-writing
 CLOSED: [2021-10-13 Wed 00:04]
 *** TODO maybe some images
-** STARTED Need several potential scenarios & encounters [0/27]
+** STARTED Need several potential scenarios & encounters [0/29]
 *** STARTED in town scenario 1 (ghoka)
   someone has stolen supplies from the warehouse. the sheriff thinks it was one
 of ghoka's men. he's got a lot of things on his plate, so if someone can
@@ -16,7 +16,7 @@ investigate and either find the stolen goods or find evidence of who stole
 them.
 
   a box of amber crystal was taken. these are crystals that are used in
-self-repair numenera, or in numenera that float
+self-repair numenera, or in numenera that float.
 
 **** TODO design mystery [0%]
 ***** TODO who stole the amber crystal [0/3]
@@ -27,7 +27,8 @@ clues:
 ***** TODO where did they go
 ***** TODO why did they steal
 ***** TODO design ruin of where they're hiding
-
+***** TODO don't forget, lots of cluuuuuuuues
+- if players get stuck, have thief try to bribe them ( or ambush them )
 *** STARTED in town scenario 2 (wright)
 the wright needs iotum to build some healing numenera to help some homesteading
 families that are sick. unfortunately, they're completely out of the ones they
@@ -62,9 +63,19 @@ need:
 - [ ] broken machine that's fouling the water
 - [ ] the machine that produces or pumps the water
 
+**** TODO the twist
+- to get to the area of the ship they need to get to, there's a door they need
+  to pass through that's protected by a strong force field. a holographic
+  assistant will inform them that secure areas of the ship are off limits to
+  passengers, and that they should inform the steward if they feel there is an
+  issue
+  - alternate routes?
+  - use the ring to turn off the force field ( same ring that opens the ship,
+    pamki has it, if they get the ring then have them meet the ship AI )
+
 *** STARTED in town scenario 4 (pamki)
-someone has stolen some old numenera that belonged to ager. pamki needs someone
-to find out who stole them and return the numenera.
+someone has stolen some old numenera and some personal items that belonged to
+ager. pamki needs someone to find out who stole them and return the numenera.
 
 while pamki is normally somewhat shy and quiet, she becomes angry and animated
 when talking about this. whatever was stolen was important.
@@ -74,8 +85,9 @@ when talking about this. whatever was stolen was important.
   - 
   - 
   - 
-- the personal item pamki actually cares about:
-  - 
+- the personal items pamki actually cares about:
+  - a still image of her parents and her, taken before her mom got sick
+  - one of her father's journals
 **** TODO who stole it
 **** TODO where they are now
 *** STARTED near town scenario 1 (sherif)
@@ -135,7 +147,7 @@ they're safe.
 **** TODO create map of ruin that they're sheltering in
 **** TODO figure out what needs to happen for the wagons to make it back to ararholm
 
-** TODO Finish populating town with major NPCs [27/330]
+** TODO Finish populating town with major NPCs [28/153]
 *** TODO sheriff [36%]
 **** TODO basic npc profile [50%]
 ***** DONE short bio
@@ -236,6 +248,80 @@ CLOSED: [2021-10-13 Wed 22:21]
 *** TODO pamki, ager's daughter [4%]
 **** DONE name
 CLOSED: [2021-10-13 Wed 22:24]
+*** TODO the ship AI [1%]
+**** DONE name
+CLOSED: [2021-10-13 Wed 22:51]
+Felwinter
+**** TODO basic npc profile [0%]
+***** TODO short bio
+***** TODO secrets
+**** TODO name
+edgar mannes
+**** TODO quick profile [0%]
+***** TODO introduction
+***** TODO species
+***** TODO alignment
+***** TODO date of birth
+***** TODO gender
+***** TODO eyes
+***** TODO hair
+***** TODO skin tone
+***** TODO height
+***** TODO weight
+**** TODO basics [0%]
+***** TODO job
+***** TODO goal
+***** TODO use
+***** TODO quirk
+***** TODO coolness
+***** TODO fear
+***** TODO desires
+***** TODO facial features
+***** TODO speech pattern
+***** TODO body type
+***** TODO equipment
+**** TODO appearance [0%]
+***** TODO pyhsique
+***** TODO body features
+***** TODO facial features
+***** TODO identifying features
+***** TODO physical quirks
+***** TODO apparel & accessories
+***** TODO specialized
+***** TODO special abilities
+**** TODO mentality [0%]
+***** TODO personal history
+***** TODO education
+***** TODO employment
+***** TODO failures & embarassments
+***** TODO mental trauma
+***** TODO intellectual characteristics
+***** TODO morality & philosophy
+***** TODO sexuality
+***** TODO gender identity
+***** TODO taboos
+***** TODO known languages
+**** TODO personality [0%]
+***** TODO motivation
+***** TODO famous quotes & catchphrases
+***** TODO savvies & inneptitudes
+***** TODO likes & dislikes
+***** TODO virtues & perks
+***** TODO vices & flaws
+***** TODO ticks & quirks
+***** TODO hygine
+**** TODO social status [0%]
+***** TODO place of birth
+***** TODO current residence
+***** TODO relations
+***** TODO titles
+***** TODO wealth
+***** TODO contacts, relations & other affiliations
+***** TODO spiritual & religious views
+***** TODO social aptitude
+***** TODO mannerisms
+***** TODO pets & hobbies
+***** TODO speech
 *** TODO pamki's wife [%]
 *** TODO village wright [%]
 *** TODO village herbalist/healer [%]
