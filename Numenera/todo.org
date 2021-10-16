@@ -1,13 +1,19 @@
-* First Session [13%]
+* First Session [56%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** TODO finish Ager's article & related stuff [2/3]
+** DONE finish Ager's article & related stuff [3/3]
+CLOSED: [2021-10-14 Thu 16:52]
 *** DONE needs section headings
 CLOSED: [2021-10-13 Wed 00:04]
 *** DONE probably needs re-writing
 CLOSED: [2021-10-13 Wed 00:04]
-*** TODO maybe some images
+*** CANCELLED maybe some images                                 :CANCELLED:
+CLOSED: [2021-10-14 Thu 16:51]
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2021-10-14 Thu 16:51] \\
+  too much work for now, may do later
+:END:
 ** STARTED Need several potential scenarios & encounters [0/29]
 *** STARTED in town scenario 1 (ghoka)
   someone has stolen supplies from the warehouse. the sheriff thinks it was one
@@ -147,12 +153,15 @@ they're safe.
 **** TODO create map of ruin that they're sheltering in
 **** TODO figure out what needs to happen for the wagons to make it back to ararholm
 
-** TODO Finish populating town with major NPCs [28/153]
-*** TODO sheriff [36%]
-**** TODO basic npc profile [50%]
+** TODO Finish populating town with major NPCs [103/119]
+*** DONE sheriff [100%]
+CLOSED: [2021-10-14 Thu 12:24]
+**** DONE basic npc profile [100%]
+CLOSED: [2021-10-14 Thu 11:43]
 ***** DONE short bio
 CLOSED: [2021-10-13 Wed 22:35]
-***** TODO secrets
+***** DONE secrets
+CLOSED: [2021-10-14 Thu 11:43]
 **** DONE name
 CLOSED: [2021-10-13 Wed 22:24]
 edgar mannes
@@ -202,137 +211,174 @@ CLOSED: [2021-10-13 Wed 22:32]
 CLOSED: [2021-10-13 Wed 22:32]
 ***** DONE equipment
 CLOSED: [2021-10-13 Wed 22:32]
-**** TODO appearance [0%]
-***** TODO pyhsique
-***** TODO body features
-***** TODO facial features
-***** TODO identifying features
-***** TODO physical quirks
-***** TODO apparel & accessories
-***** TODO specialized
-***** TODO special abilities
-**** TODO mentality [9%]
-***** TODO personal history
+**** DONE appearance [100%]
+CLOSED: [2021-10-14 Thu 11:56]
+***** DONE pyhsique
+CLOSED: [2021-10-14 Thu 11:55]
+***** DONE body features
+CLOSED: [2021-10-14 Thu 11:55]
+***** DONE facial features
+CLOSED: [2021-10-14 Thu 11:55]
+***** DONE identifying features
+CLOSED: [2021-10-14 Thu 11:56]
+***** DONE physical quirks
+CLOSED: [2021-10-14 Thu 11:56]
+***** DONE apparel & accessories
+CLOSED: [2021-10-14 Thu 11:56]
+***** DONE specialized
+CLOSED: [2021-10-14 Thu 11:56]
+***** DONE special abilities
+CLOSED: [2021-10-14 Thu 11:56]
+**** DONE mentality [100%]
+CLOSED: [2021-10-14 Thu 12:05]
+***** DONE personal history
+CLOSED: [2021-10-14 Thu 11:57]
 ***** DONE education
 CLOSED: [2021-10-13 Wed 22:21]
-***** TODO employment
-***** TODO failures & embarassments
-***** TODO mental trauma
-***** TODO intellectual characteristics
-***** TODO morality & philosophy
-***** TODO sexuality
-***** TODO gender identity
-***** TODO taboos
-***** TODO known languages
-**** TODO personality [0%]
-***** TODO motivation
-***** TODO famous quotes & catchphrases
-***** TODO savvies & inneptitudes
-***** TODO likes & dislikes
-***** TODO virtues & perks
-***** TODO vices & flaws
-***** TODO ticks & quirks
-***** TODO hygine
-**** TODO social status [0%]
-***** TODO place of birth
-***** TODO current residence
-***** TODO relations
-***** TODO titles
-***** TODO wealth
-***** TODO contacts, relations & other affiliations
-***** TODO spiritual & religious views
-***** TODO social aptitude
-***** TODO mannerisms
-***** TODO pets & hobbies
-***** TODO speech
-*** TODO pamki, ager's daughter [4%]
+***** DONE employment
+CLOSED: [2021-10-14 Thu 11:57]
+***** DONE failures & embarassments
+CLOSED: [2021-10-14 Thu 11:59]
+***** DONE mental trauma
+CLOSED: [2021-10-14 Thu 11:59]
+***** DONE intellectual characteristics
+CLOSED: [2021-10-14 Thu 12:01]
+***** DONE morality & philosophy
+CLOSED: [2021-10-14 Thu 12:04]
+***** DONE sexuality
+CLOSED: [2021-10-14 Thu 12:04]
+***** DONE gender identity
+CLOSED: [2021-10-14 Thu 12:04]
+***** DONE taboos
+CLOSED: [2021-10-14 Thu 12:05]
+***** DONE known languages
+CLOSED: [2021-10-14 Thu 12:05]
+**** DONE personality [100%]
+CLOSED: [2021-10-14 Thu 12:13]
+***** DONE motivation
+CLOSED: [2021-10-14 Thu 12:11]
+***** DONE famous quotes & catchphrases
+CLOSED: [2021-10-14 Thu 12:11]
+***** DONE savvies & inneptitudes
+CLOSED: [2021-10-14 Thu 12:11]
+***** DONE likes & dislikes
+CLOSED: [2021-10-14 Thu 12:11]
+***** DONE virtues & perks
+CLOSED: [2021-10-14 Thu 12:13]
+***** DONE vices & flaws
+CLOSED: [2021-10-14 Thu 12:13]
+***** DONE ticks & quirks
+CLOSED: [2021-10-14 Thu 12:13]
+***** DONE hygine
+CLOSED: [2021-10-14 Thu 12:13]
+**** DONE social status [100%]
+CLOSED: [2021-10-14 Thu 12:23]
+***** DONE place of birth
+CLOSED: [2021-10-14 Thu 12:23]
+***** DONE current residence
+CLOSED: [2021-10-14 Thu 12:23]
+***** DONE relations
+CLOSED: [2021-10-14 Thu 12:23]
+***** DONE titles
+CLOSED: [2021-10-14 Thu 12:23]
+***** DONE wealth
+CLOSED: [2021-10-14 Thu 12:23]
+***** DONE contacts, relations & other affiliations
+CLOSED: [2021-10-14 Thu 12:23]
+***** DONE spiritual & religious views
+CLOSED: [2021-10-14 Thu 12:23]
+***** DONE social aptitude
+CLOSED: [2021-10-14 Thu 12:23]
+***** DONE mannerisms
+CLOSED: [2021-10-14 Thu 12:23]
+***** DONE pets & hobbies
+CLOSED: [2021-10-14 Thu 12:23]
+***** DONE speech
+CLOSED: [2021-10-14 Thu 12:23]
+*** DONE pamki, ager's daughter [100%]
+CLOSED: [2021-10-14 Thu 13:05]
 **** DONE name
 CLOSED: [2021-10-13 Wed 22:24]
-*** TODO the ship AI [1%]
+**** DONE other details
+CLOSED: [2021-10-14 Thu 13:05]
+*** DONE the ship AI [100%]
+CLOSED: [2021-10-14 Thu 13:18]
+**** DONE basic npc profile [100%]
+CLOSED: [2021-10-14 Thu 13:18]
+***** DONE short bio
+CLOSED: [2021-10-14 Thu 13:18]
+***** DONE secrets
+CLOSED: [2021-10-14 Thu 13:18]
 **** DONE name
-CLOSED: [2021-10-13 Wed 22:51]
+CLOSED: [2021-10-14 Thu 13:18]
 Felwinter
-**** TODO basic npc profile [0%]
-***** TODO short bio
-***** TODO secrets
+**** DONE other details [0%]
+CLOSED: [2021-10-14 Thu 13:18]
+*** DONE pamki's wife [100%]
+CLOSED: [2021-10-14 Thu 13:46]
+**** DONE name
+CLOSED: [2021-10-14 Thu 13:46]
+**** DONE basic details
+CLOSED: [2021-10-14 Thu 13:46]
+**** DONE other details
+CLOSED: [2021-10-14 Thu 13:46]
+*** DONE village wright [100%]
+CLOSED: [2021-10-14 Thu 13:56]
+**** DONE name
+CLOSED: [2021-10-14 Thu 13:56]
+**** DONE basic info
+CLOSED: [2021-10-14 Thu 13:56]
+**** DONE important details
+CLOSED: [2021-10-14 Thu 13:56]
+*** DONE village herbalist/healer [100%]
+CLOSED: [2021-10-14 Thu 14:32]
+**** DONE name
+CLOSED: [2021-10-14 Thu 14:32]
+**** DONE important details
+CLOSED: [2021-10-14 Thu 14:32]
+**** DONE other details
+CLOSED: [2021-10-14 Thu 14:32]
+*** DONE aeon priest [100%]
+CLOSED: [2021-10-14 Thu 14:11]
+**** DONE name
+CLOSED: [2021-10-14 Thu 13:56]
+**** DONE important details
+CLOSED: [2021-10-14 Thu 14:11]
+**** DONE other details
+CLOSED: [2021-10-14 Thu 14:11]
+*** TODO the "seamstress" madam [0%]
 **** TODO name
-edgar mannes
-**** TODO quick profile [0%]
-***** TODO introduction
-***** TODO species
-***** TODO alignment
-***** TODO date of birth
-***** TODO gender
-***** TODO eyes
-***** TODO hair
-***** TODO skin tone
-***** TODO height
-***** TODO weight
-**** TODO basics [0%]
-***** TODO job
-***** TODO goal
-***** TODO use
-***** TODO quirk
-***** TODO coolness
-***** TODO fear
-***** TODO desires
-***** TODO facial features
-***** TODO speech pattern
-***** TODO body type
-***** TODO equipment
-**** TODO appearance [0%]
-***** TODO pyhsique
-***** TODO body features
-***** TODO facial features
-***** TODO identifying features
-***** TODO physical quirks
-***** TODO apparel & accessories
-***** TODO specialized
-***** TODO special abilities
-**** TODO mentality [0%]
-***** TODO personal history
-***** TODO education
-***** TODO employment
-***** TODO failures & embarassments
-***** TODO mental trauma
-***** TODO intellectual characteristics
-***** TODO morality & philosophy
-***** TODO sexuality
-***** TODO gender identity
-***** TODO taboos
-***** TODO known languages
-**** TODO personality [0%]
-***** TODO motivation
-***** TODO famous quotes & catchphrases
-***** TODO savvies & inneptitudes
-***** TODO likes & dislikes
-***** TODO virtues & perks
-***** TODO vices & flaws
-***** TODO ticks & quirks
-***** TODO hygine
-**** TODO social status [0%]
-***** TODO place of birth
-***** TODO current residence
-***** TODO relations
-***** TODO titles
-***** TODO wealth
-***** TODO contacts, relations & other affiliations
-***** TODO spiritual & religious views
-***** TODO social aptitude
-***** TODO mannerisms
-***** TODO pets & hobbies
-***** TODO speech
-*** TODO pamki's wife [%]
-*** TODO village wright [%]
-*** TODO village herbalist/healer [%]
-*** TODO aeon priest [0%]
-*** TODO the "seamstress" madam [%]
-*** TODO innkeeper [%]
-*** TODO the mason [%]
-*** TODO the woodworker [%]
-*** TODO "lead" farmer ( or their representative )[%]
-*** TODO quartermaster/general store[%]
-** TODO Create some goons & flesh out Ghoka's gang [0/13]
+**** TODO basic details
+**** TODO other details
+*** TODO innkeeper [0%]
+**** TODO name
+**** TODO basic details
+**** TODO other details
+*** TODO the mason [0%]
+**** TODO name
+**** TODO basic details
+**** TODO other details
+*** TODO the woodworker [0%]
+**** TODO name
+**** TODO basic details
+**** TODO other details
+*** DONE "lead" farmer  [100%]
+CLOSED: [2021-10-14 Thu 17:21]
+**** DONE name
+CLOSED: [2021-10-14 Thu 17:21]
+**** DONE basic details
+CLOSED: [2021-10-14 Thu 17:21]
+**** DONE other details
+CLOSED: [2021-10-14 Thu 17:21]
+*** DONE quartermaster/general store [100%]
+CLOSED: [2021-10-14 Thu 17:06]
+**** DONE name
+CLOSED: [2021-10-14 Thu 17:06]
+**** DONE basic details
+CLOSED: [2021-10-14 Thu 17:06]
+**** DONE other details
+CLOSED: [2021-10-14 Thu 17:06]
+** TODO Create some goons & flesh out Ghoka's gang [%]
 *** TODO more on ghoka
 **** TODO stat him up
 **** TODO a little bit of history
@@ -360,10 +406,12 @@ region needs to be at least as big as bc, alberta, and saskatchewan combined
   - what are some of the animals most likely to be seen?
   - what are the plants like?
 *** TODO decide if it's only the hills region plagued by the lightning storms
-** TODO Ararholm [0/5]
-*** TODO write up articles for things already revealed on map
-**** TODO the pit
-**** TODO the city of the dead
+** TODO Ararholm [40%]
+*** TODO write up articles for things already revealed on map [2/3]
+**** DONE the pit
+CLOSED: [2021-10-14 Thu 16:51]
+**** DONE the city of the dead
+CLOSED: [2021-10-14 Thu 16:51]
 **** TODO some of the 'tombs' & ruins nearby
 *** TODO maybe a map of the immediate area, but in a much more sketchy style
   need to know about the following:
