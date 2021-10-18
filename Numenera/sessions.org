@@ -34,3 +34,6 @@ maps will be symbolic on world anvil instead of using hex paper, players won't
 be doing cartography of the area
 
 determine what the bandits had on them that the party takes
+
+map out some more ruins -- maybe find something to do the mapping digitally, so
+it's easier to run off the laptop

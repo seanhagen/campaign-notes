@@ -1,4 +1,4 @@
-* First Session [30%]
+* First Session [31%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -16,7 +16,7 @@ they travel
 *** Fox - general guard
 the person who's responsible for making sure that nothing ambushes the party
 from in front or above
-** STARTED Need several potential scenarios & encounters [24/35]
+** STARTED Need several potential scenarios & encounters [25/36]
 sheriff:
  - scenario 1
  - scenario 5
@@ -219,8 +219,10 @@ in ghoka's hideout, they're one of the explorers in chamber 8
   getting pushed into the pit and dying to the xacorocax. he'll show up in town
   a month later
 
-**** STARTED build map of ruin
+**** DONE build map of ruin
+CLOSED: [2021-10-17 Sun 21:58]
 [[file:Scenarios/scenario-5.org::*entrance][scenario 5 map outline]]
+**** TODO fill in map parts
 **** DONE place map on ruins
 CLOSED: [2021-10-16 Sat 23:01]
 township level, hex d1 ( name: ghoka's hideout )
