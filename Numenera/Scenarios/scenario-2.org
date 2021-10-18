@@ -1,0 +1,376 @@
+* entrance
+the ruins a corner of a rectangular building are all that remain, but a hatch
+opens to reveal a set of stairs descending into a corridor
+** corridor A
+the corridor contains the workings of a machine with two openings (blue,
+entrance and green, the exit) and a set of controls at one end. if a pc steps
+into one of the entrances and another pc succeeds on a level 4 intellect check
+the device is activated.
+
+if standing in the blue entrance, they are shifted out of phase for [2d10+1]
+hours
+
+if standing in the green entrance after being phase shifted, they're returned to
+normal, otherwise nothing happens
+
+seems to be a charing dock for an automaton of some kind, but is empty
+*** chamber 1
+a square 30 feet across
+contains a floating black sphere within a cage of hexagonal pieces of glass,
+when the glass is touched the sphere shifts color underneath before returning to
+black
+
+***** interstitial cavity 2
+discharges of electricity play throughout this chamber, leaping from the
+machinery and floors before grounding itself a few feet away.
+
+requires a level 8 speed task to pass through without being hit. on failure a
+character is hit [2d4+1] times for 1 point of speed damage each hit
+
+****** corridor J
+10 feet long
+******* sealed exit
+level 5 intellect task to open
+******** chamber 14
+a rectangle 10 feet across and 20 long
+
+contains five explorers. one has secretly been killing the others off for their
+own reasons. one of the other explorers will say that when they entered the
+structure they numbered 11, but the others met with sad accidents.
+
+********* sealed exit
+level 5 intellect task
+********** chamber 15
+a rectangle 30 feet across and 60 long
+
+contains a 3 meter tall metallic urn that emits bubbles made of some kind of
+crystal that waft through the room until they burst and rain splinters of
+crystal in an immediate area
+
+if a creature touches a crystal they must make a level 3 speed check or get some
+of the splinters stuck in them and take 2 points of damage. if this is enough to
+drop someone down the damage track, they must make a level 4 might check or the
+splinters will start to grow into them.
+
+*********** sealed exit
+level 5 intellect task
+************ chamber 16
+a rectangle 30 feet across and 60 feet long
+
+contains a yellow fluid in a trough, turns to a harmless glass if warmed by touch
+
+************* corridor K
+a short corridor 10 feet across, containing a few dead machines and one live
+machine of indeterminate purpose.
+
+a plasmar stands before the working machine (bestiary, pg 98, a 7 foot tall
+humanoid with skin like the void surrounded by wisps of bright plasma)
+
+will let creatures pass, so long as they stay away from "its" machine
+
+************** interstitial cavity 2
+broken conduits drizzle the exposed areas of this space with a yellowish,
+sap-like substance that has formed stalagmites and stalactites over the
+centuries.
+
+the sap smells sweet, or like baked bread depending on the person.
+
+the sap is delicious and nutritious
+
+*************** connects to corridor f
+collapsed
+*************** chamber 17
+a rectangle 30 feet across and 50 feet long
+
+a thick blue disc that floats in the air emits of variety of intense, moody, and
+sometimes overwhelming sounds that can be pleasant or evocative.
+
+when characters approach the sounds get louder, the yovok in chamber 18 will
+yell and snarl in response ( it hates the music )
+
+no exit
+*************** chamber 18
+a square chamber 30 feet to a side
+
+contains a checkered floor, where each square has a 30% chance of becoming
+intangible when trod upon. a level 4 speed check is required, otherwise the
+creature materializes in another chamber within the ruin at random. intangible
+squares gain their solidity after a few moments.
+
+contains a yovok (discovery, pg 261), a short squat abhuman with jaundiced
+yellow skin drapped loosely over a flabby hairless body. a mouth like a dog with
+an unnaturally long tounge sits below beady red eyes that stare at you with
+malice and bloodlust.
+
+the creature is apparently unwilling to move from its spot, is actually trying
+to get the players to come closer before attacking ( it figured out the trick
+for stepping on a square without triggering the intangibility -- or it has a
+cypher that prevents it from falling ).
+
+if the players agree to destroy the disc in chamber 17, it'll let them leave
+without trying to attack them.
+
+no exit
+*************** chamber 19
+a hexagon where each side is 90 feet long
+
+contains a number of machines that all have the same function; any object placed
+in a machine will cause the machine to activate and will stitch metallic wires
+into the object, regardless of what the object is made of.
+
+the object will conduct electricity much more efficiently now
+
+no exit
+*************** rupture 2
+a passage that ends in a sudden cliff. not part of the original plans, this
+cliff is a rift that extends for 50 feet down before ending in a pile of rocks,
+and continues all the way to the surface, exiting at a spot about an hour away
+from the ruin
+
+*************** corridor L
+a 100 foot pass passage that bends left, then continues for 50 more feet while
+sloping down at a 20 degree angle
+
+**************** interstitial cavity 4
+type: 28
+
+these possibly lead to other ruins, each of them is a very, very, very, VERY
+long corridor. would probably need a vehicle of some kind to make it to the
+other end without running out of supplies.
+
+***************** exit 1
+***************** exit 2
+***************** exit 3
+***************** exit 4
+***************** exit 5
+***************** connects to corridor h
+blocked
+***************** exit 6
+***************** collapsed exit
+***************** collapsed exit
+***************** collapsed exit
+***************** corridor N
+connects to chamber 4
+*************** corridor M
+a corridor that travels for 30 feet before coming to a rounded chamber with
+three exits, each leads down a corridor 60 feet long
+
+**************** chamber 20
+a rectangle 90 feet across and 180 feet long
+
+filled with floating spheres that flash incredibly brightly if a creature comes
+within 10 feet
+
+no exit
+**************** chamber 21
+a rectangle 60 feet across and 120 feet long
+
+contains a crystal dome showing the exterior of the ruin, surrounded by tiers of
+steps, or seats meant for creatures at least twice as large as a human
+
+no exit
+**************** chamber 22
+a rectangle 60 feet across and 120 feet long
+
+contains many crystal domes, each showing an aereal view of alternate earths
+
+no exit
+****** shaft 1
+very deep, unclimbable sides
+
+would require something that can float to make it to the bottom safely
+
+and not a cypher, a vehicle -- a cypher's effects may wear off too quickly
+
+****** sealed exit
+level 5 intellect task
+******* chamber 13
+a rectangle 30 feet across and 60 feet wide
+
+filled with floating orb-shaped voids that eat light
+
+an object thrown in the room disappears after leaving the hand, to reappear
+somewhere else before continuing on its trajectory
+
+no exit
+*** corridor B
+passage goes for about 15 meters before exiting onto a catwalk that passes above
+a huge chamber. within the chamber are a number of vorticies of swirling purple
+and white energy around small black spheres. when you enter you see two of them
+attacking some kind of creature -- it's hard to tell because it's missing
+chunks.
+
+there is no way down from the catwalk, the chamber floor is 50 meters below.
+
+the catwalk exits into the opposite wall, continuing for another 40 meters
+***** interstitial cavity 1
+a lens dozens of feet across composed of clear synth has been crudely installed
+here; it focuses sunlight that sometimes shines in from crystals on the ceiling
+onto a device. when the sunlight is properly focused the device hums and
+vibrates
+
+when the sunlight is focused properly, the device serves as a terminal into the
+datasphere
+
+there are five explorers in this chamber, who are leaving with their packs full
+of oddities, cyphers, and shins -- salvaged from another chamber further on in
+
+ - four explorers and a tech shaman ( aeon priest, but from calda )
+
+****** chamber 10
+a square chamber 30 feet to a side
+
+contains a rack of devices made of simple geometric shapes. they hum and whisper
+in unknown languages, if touched they yell. a who touches a device must make a
+level 4 intellect check. if they **succeed** they take 2 points of intellect
+damage due to understanding the horrors the devices are talking about
+
+******* chamber 11
+a closet sized room, 5 feet wide and 10 feet long
+
+contains floating shards of crystal, each shard contains dozens of laaks --
+green skinned reptiles normally about a couple of feet long, but within the
+crystal they are tiny. each crystal shows a different scene, but usually rocks
+or desert with the laaks sunning themselves or in the middle of tearing some
+meat off a carcass. the scenes within each crystal are unmoving, like they are
+frozen in time.
+
+there must be hundreds of them within the crystals.
+
+******** chamber 12
+a half circle ( players emerge from the apex of the circle ) that is 30 feet
+across on the straight side
+
+contains a crystal dome set into the ground that shows a view of a planet from
+mid-orbit, a level 3 intellect task will reveal it's earth
+
+contains a divellent (jade ruins, pg 134), which is hiding itself behind some of
+the machinery in the room ( stealth level 7 )
+
+an intellect task to identify the creature will reveal that within is the body
+of Bryok Ede, an explorer who went missing after being sent to this ruin
+
+contains the iotum required by mex
+
+no exit
+****** rupture
+the corridor that used to exist has been twisted and melted, as if the walls
+were taken by madness and flowed like wax before solidifying. the passage is
+impassable. despite not feeling any wind, characters at the entrance to the
+passageway will hear what sounds like sand shifting in the wind -- they'll
+recognize it as the sound of the iron wind.
+
+****** chamber 8
+a square 15 feet to a side
+
+chamber contains a xacorocax that is chained and bolted to the far wall
+
+it is chained in place as if to protect the exit
+
+******* corridor I
+a 15 meter corridor
+
+******** chamber 9
+a half circle chamber, the straight side being 30 feet across
+
+contains three crystal columns that drain the energy from cyphers that get
+within 10 feet
+
+contains a callerail (destiny, pg 228) that is stuck in a stasis
+field. callerail are creatures that look like 15 feet tall silverback gorillas
+made of fused organic and inorganic substances.
+
+****** corridor E
+turns into a catwalk passing through an interstital cavity (type: 77), then into t-junction
+******* corridor F
+a passage that goes for 50 feet before ending in a pile of rubble and synth; the
+corridor has collapsed and would require specialized machinery to excavate
+
+******* corridor G
+this corridor continues for 20 feet before coming to an X intersection, each
+branch is 30 feet 
+
+******** chamber  7
+a square 30 feet to a side
+
+a wavering sculpture of hard light that seems to show a human brain -- except
+it's divided into three parts, not two
+
+no exit
+******** chamber 6
+a rectangle 50 feet across and 100 feet long
+
+contains a synth machine that magnetizes metallic objects, objects keep their
+magnetic charge for 1d4 days
+
+weapons that have been magnetized count as an asset when making an attack roll
+on anything wearing metallic armor, but have a 50% [1d2] chance of getting stuck
+and requiring a level 4 might task to remove
+
+no exit
+******** chamber 5
+a rectangle 30 feet across and 60 long
+
+contains a square pool of an opaque black fluid. it ripples and moves (looks
+like ferro fluid under the effect of a magnetic field). if a character touches
+it, the fluid latches on and attempts to cover their entire body -- creating a
+second skin that unfortunately doesn't have any holes for seeing, breathing,
+etc.
+
+fluid is level 2
+
+********* corridor H
+passage slopes up, before ending in a collapse
+*** sealed exit 1
+requires a level 6 intellect check to disable the force field
+**** corridor C
+a passage that extends for 30 meters 
+***** chamber 2
+a rectangle 30 feet long and 15 feet across
+
+contains a metallic arch about as large as a person that freezes whatever passes
+through, creatures take 6 points of might damage and must make a level 5 might
+check to break free of the ice
+
+
+creature: ergovore hound, level 4 (bestiary, pg 47)
+
+found sleeping in the corner, with a small pile of very dead looking cyphers (
+along with some small bones, like a rat or a bird or two -- and some rotting
+pieces of fruit & vegetables )
+
+looks a bit like a bulldog the size of a horse with multiple long, barbed
+toungues. an omnivore, mostly eats small prey, grass, and leaves -- but also
+energy fields
+
+can be trained by using numenera with energy, requires a level 6 intellect check
+to convince
+****** corridor D
+passage slopes up slightly, about 10 feet long
+
+there are 4 explorers in this corridor, following the lead of a level 4
+automaton salvaged from the corridor a
+
+explorers
+  - 3 explorers 
+  - nano
+
+******* chamber 3
+a rectangle 15 feet across and 30 long
+
+a water leak in the ceiling is creating bizzare ice sculptures
+
+no exits
+****** sealed exit 2
+requires a level 5 intellect task ( or the automaton ) to open
+******* chamber 4
+a square 60 feet to a side
+
+contains numerous floating panes of glass, but they reflect time backwards
+starting from the point you look at the mirror
+
+each N times someone looks a a mirror after the first they must make an
+intellect check at that level or take 1 point of intellect damage from the
+mirror trying to show them multiple pasts at once
+
+no exits

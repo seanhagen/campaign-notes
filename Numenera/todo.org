@@ -1,41 +1,124 @@
-* First Session [56%]
+* First Session [30%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** DONE finish Ager's article & related stuff [3/3]
-CLOSED: [2021-10-14 Thu 16:52]
-*** DONE needs section headings
-CLOSED: [2021-10-13 Wed 00:04]
-*** DONE probably needs re-writing
-CLOSED: [2021-10-13 Wed 00:04]
-*** CANCELLED maybe some images                                 :CANCELLED:
-CLOSED: [2021-10-14 Thu 16:51]
-:LOGBOOK:
-- State "CANCELLED"  from "TODO"       [2021-10-14 Thu 16:51] \\
-  too much work for now, may do later
-:END:
-** STARTED Need several potential scenarios & encounters [0/29]
-*** STARTED in town scenario 1 (ghoka)
-  someone has stolen supplies from the warehouse. the sheriff thinks it was one
+** travel roles
+*** Klep - navigator
+person in charge of path-finding through the wilds
+*** Zeno - scout
+can travel ahead to check for hazards and whatnot
+*** Belel - cartographer 
+required if needing to come back easily, or to tell other people exactly where a
+ruin is
+*** Ureos - rear guard
+the person who's responsible for making sure nothing sneaks up on the party as
+they travel
+*** Fox - general guard
+the person who's responsible for making sure that nothing ambushes the party
+from in front or above
+** STARTED Need several potential scenarios & encounters [24/35]
+sheriff:
+ - scenario 1
+ - scenario 5
+ - will say that scenario 4 is probably linked to scenario 1
+
+mex (wright):
+ - scenario 2
+
+pamki:
+ - scenario 3
+ - scenario 4
+ - scenario 7
+ - will mention mex saying something that morning about something being stolen,
+   maybe it's related
+
+jacka (woodworker):
+ - scenario 6
+   
+*** STARTED scenario 1: in town (ghoka)
+handed out by: mex, sherrif, or pamki
+
+someone has stolen supplies from the warehouse. the sheriff thinks it was one
 of ghoka's men. he's got a lot of things on his plate, so if someone can
 investigate and either find the stolen goods or find evidence of who stole
 them.
 
-  a box of amber crystal was taken. these are crystals that are used in
+a box of amber crystal was taken. these are crystals that are used in
 self-repair numenera, or in numenera that float.
 
-**** TODO design mystery [0%]
-***** TODO who stole the amber crystal [0/3]
+**** DONE design mystery [100%]
+CLOSED: [2021-10-16 Sat 23:35]
+***** DONE who stole the amber crystal [8/10]
+CLOSED: [2021-10-16 Sat 23:33]
+the same thief who stole from pamki. not one of ghoka's men, but figured that if
+they followed one of ghoka's men to his hideout if the ruin was big enough he
+could lay low there and hope that anyone who followed would figure it was ghoka.
+
 clues:
-- [ ] 
-- [ ] 
-- [ ]
-***** TODO where did they go
-***** TODO why did they steal
-***** TODO design ruin of where they're hiding
-***** TODO don't forget, lots of cluuuuuuuues
-- if players get stuck, have thief try to bribe them ( or ambush them )
-*** STARTED in town scenario 2 (wright)
+
+in warehouse
+- [X] the thief only took the box, nothing else was disturbed
+- [ ] a box in warehouse has green thread on it from a cloak
+- [X] a bit of powder near the box, a product kind of like snuff called "quick"
+  commmon to glaives who used to be part of the army, herbalist or general
+  store proprietor might know who buys that stuff
+- [ ] a discarded and dead cypher near the door to the warehouse can be found, a
+  successful check will show it would have made the door insubstantial for about
+  5 minutes (not enough time for someone to ransack the warehouse, they had to
+  know what they were looking for was in that particular warehouse and what it
+  looked like)
+- [X] one of the mugs from the tavern is sitting on a barrel near the warehouse,
+  tavern keeper will remember who took it (a man in a green cloak, who
+- [X] near the mug will be a partially eaten bit of "street meat", sold by
+  Dibbler, a strange little man who sells what he claims is meat in the town
+  square in the evenings and nights ( he doesn't wake up until noon at the
+  earliest, he's usually up until nearly dawn trying to sell his "meat" to
+  drunks leaving the tavern ( they're the only folks who will buy his
+  stuff... cause they're drunk and hungry and the canteen is closed )
+
+tavern:
+- [X] can easily find stories about the "adventuring corporation" getting in a
+  fight with some of ghoka's men about a previous run-in in a ruin -- more
+  checking into this (other people, etc) will reveal that the run-in was in or
+  near ghoka's hideout
+- [X] the inn keeper will share a rumor told to him by one of his patrons after
+  the fight, he heard one of the green cloaks suggesting they frame ghoka
+
+around town:
+- [X] one of the townsfolk will see someone wearing a green cloak sneaking out
+  of the warehouse late last night ( ghoka hates that color )
+- [X] another townsperson saw a small group of adventurers head out well after
+  midnight (after the brawl and the theft), they were all wearing green cloaks
+
+***** DONE where did they go
+CLOSED: [2021-10-16 Sat 23:33]
+went to hide out in the ruin that ghoka uses as his hideout ( his plan was to
+follow one of ghokas men, if they were in a ruin then try to find somewhere else
+in that ruin to hide and hope he's not found so they'll pin it on ghoka; if it
+wasn't a ruin was just going to keep going after sneaking through the camp and
+hoping that their trail would get lost in the camp
+
+***** DONE why did they steal
+CLOSED: [2021-10-16 Sat 23:34]
+saw the wright buying it from a merchant for a lot of shins, thought it was
+super valuable -- but mex has been waiting for this for a while, she paid extra
+as thanks to the merchant for getting it so quickly
+
+took the stuff from pamki because they saw it being handed over by a group that
+came out of the ship, figured if pamki wanted the numenera then they must be
+valuable ( not having gone into the ship, didn't realize that there's a tithe of
+numenera recovered from within the ship )
+
+***** DONE design ruin of where they're hiding
+CLOSED: [2021-10-16 Sat 23:16]
+***** DONE don't forget, lots of cluuuuuuuues
+CLOSED: [2021-10-16 Sat 23:35]
+if players get stuck:
+- another one of the green cloaks tries to bribe them
+- a few of the green cloaks attack them when they leave town
+- one of ghoka's men will offer to sell them info on the thief
+*** DONE scenario 2: in town (wright)
+CLOSED: [2021-10-17 Sun 11:46]
 the wright needs iotum to build some healing numenera to help some homesteading
 families that are sick. unfortunately, they're completely out of the ones they
 need to complete their project.
@@ -47,23 +130,33 @@ healing numenera
 if someone can retrieve the iotum and bring them to the wright, there will
 probably be some leftover healing cyphers they can give out
 
-**** TODO build map of ruin
+they sent Bryok Ede about a week ago, he hasn't returned.
 
-**** TODO place ruin on map
+iotum is in chamber 12
 
-**** TODO creature encounter
+**** DONE build map of ruin
+CLOSED: [2021-10-17 Sun 11:44]
+[[file:Scenarios/scenario-2.org::*entrance][scenario 2 map outline]]
+***** DONE fill out scenario outline with descriptions
+CLOSED: [2021-10-17 Sun 11:44]
+**** DONE place ruin on map
+CLOSED: [2021-10-16 Sat 22:59]
+province level, township E8 
+**** DONE creature encounter
+CLOSED: [2021-10-17 Sun 11:44]
 pick a creature that would make sense to have made its lair in the entrance to
 the ruin, preferably a pack
-
-*** STARTED in town scenario 3 (pamki)
+*** STARTED scenario 3: in town (pamki)
   pamki needs someone to go into the ship and fix the water supply. either fix
   whatever broke and is fouling the water, or stop the water completely -- the
   poison is getting into the ground water table and causing issues for nearby
   farms.
   
-**** TODO build the ship "entrance hall"
+**** STARTED build the ship "entrance hall"
 the parts of the ship that are well known and fully explored
+[[file:Scenarios/scenario-3.org::*entrance][scenario 3 map outline]]
 
+***** TODO fill out scenario outline with descriptions
 **** TODO build the part of the ship that contains the broken equipment
 need:
 - [ ] broken machine that's fouling the water
@@ -79,24 +172,31 @@ need:
   - use the ring to turn off the force field ( same ring that opens the ship,
     pamki has it, if they get the ring then have them meet the ship AI )
 
-*** STARTED in town scenario 4 (pamki)
-someone has stolen some old numenera and some personal items that belonged to
+*** DONE scenario 4: in town (pamki)
+CLOSED: [2021-10-16 Sat 23:43]
+  someone has stolen some old numenera and some personal items that belonged to
 ager. pamki needs someone to find out who stole them and return the numenera.
 
-while pamki is normally somewhat shy and quiet, she becomes angry and animated
+  while pamki is normally somewhat shy and quiet, she becomes angry and animated
 when talking about this. whatever was stolen was important.
 
-**** TODO what was stolen
+**** DONE what was stolen
+CLOSED: [2021-10-16 Sat 23:43]
 - the numenera:
-  - 
-  - 
-  - 
+  - hanging cocoon (level 5)
+  - habiliment mirage (level 5)
+  - occular helm (level 6)
+
 - the personal items pamki actually cares about:
   - a still image of her parents and her, taken before her mom got sick
   - one of her father's journals
-**** TODO who stole it
-**** TODO where they are now
-*** STARTED near town scenario 1 (sherif)
+**** DONE who stole it
+CLOSED: [2021-10-16 Sat 23:43]
+not one of ghoka's men, same person who stole from warehouse
+**** DONE where they are now
+CLOSED: [2021-10-16 Sat 23:12]
+in ghoka's hideout, they're one of the explorers in chamber 8
+*** STARTED scenario 5: near town (sheriff)
 - the sheriff knows that ghoka has found somewhere else to set up camp. sheriff
   is worried that it's a ruin where ghoka will find something that will give him
   a deadly edge against the town.
@@ -119,9 +219,13 @@ when talking about this. whatever was stolen was important.
   getting pushed into the pit and dying to the xacorocax. he'll show up in town
   a month later
 
-**** TODO build map of ruin
-
-*** STARTED near town scenario 2 (wood worker)
+**** STARTED build map of ruin
+[[file:Scenarios/scenario-5.org::*entrance][scenario 5 map outline]]
+**** DONE place map on ruins
+CLOSED: [2021-10-16 Sat 23:01]
+township level, hex d1 ( name: ghoka's hideout )
+*** STARTED scenario 6: near town (wood worker)
+forest name: grey woods
 - there's a small forest near the town, only a few acres, but it'll provide
   enough wood to keep the woodworker in enough wood for the next few projects
   he's got planned.
@@ -133,13 +237,18 @@ when talking about this. whatever was stolen was important.
   of woods. he'd prefer this forest, the trees there have particularly hard and
   strong wood.
 
-**** TODO design forest ( design it like a ruin )
+**** DONE design forest ( design it like a ruin, but small )
+CLOSED: [2021-10-16 Sat 23:03]
+[[file:Scenarios/scenario-6.org::*forest exterior][scenario 6 map outline]]
+**** DONE place on map
+CLOSED: [2021-10-16 Sat 23:04]
+**** DONE pick a creature
+CLOSED: [2021-10-17 Sun 13:02]
+it's not dangerous, last person died falling down the shaft into chamber 3
 
-**** TODO pick a creature
-- if it's dangerous, it killed the last person that came exploring
-- if it's not, they died to a stupid accident
-
-*** STARTED far from town scenario 1 (pamki)
+a "consortium" of Kalyptein crabs (bestiary, pg 70) have gained sentence and
+want the aid of the players, they want 
+*** STARTED scenario 7: far from town (pamki)
   word has reached pamki that a caravan bringing food & building materials
 has gotten lost somewhere between the city of the dead and ararholm.
 
@@ -148,204 +257,33 @@ ararholm. while they need the food and materials, she's mostly concerned about
 the caravan -- the trader is an old friend of hers, and she wants to make sure
 they're safe.
 
-**** TODO figure out where the caravan is
-**** TODO figure out how many are still alive
-**** TODO create map of ruin that they're sheltering in
-**** TODO figure out what needs to happen for the wagons to make it back to ararholm
+**** DONE figure out where the caravan is
+CLOSED: [2021-10-16 Sat 23:06]
+kingdom level, province B3
 
-** TODO Finish populating town with major NPCs [103/119]
-*** DONE sheriff [100%]
-CLOSED: [2021-10-14 Thu 12:24]
-**** DONE basic npc profile [100%]
-CLOSED: [2021-10-14 Thu 11:43]
-***** DONE short bio
-CLOSED: [2021-10-13 Wed 22:35]
-***** DONE secrets
-CLOSED: [2021-10-14 Thu 11:43]
-**** DONE name
-CLOSED: [2021-10-13 Wed 22:24]
-edgar mannes
-**** DONE quick profile [100%]
-CLOSED: [2021-10-13 Wed 22:34]
-***** DONE introduction
-CLOSED: [2021-10-13 Wed 22:33]
-***** DONE species
-CLOSED: [2021-10-13 Wed 22:34]
-***** DONE alignment
-CLOSED: [2021-10-13 Wed 22:34]
-***** DONE date of birth
-CLOSED: [2021-10-13 Wed 22:34]
-***** DONE gender
-CLOSED: [2021-10-13 Wed 22:34]
-***** DONE eyes
-CLOSED: [2021-10-13 Wed 22:34]
-***** DONE hair
-CLOSED: [2021-10-13 Wed 22:34]
-***** DONE skin tone
-CLOSED: [2021-10-13 Wed 22:34]
-***** DONE height
-CLOSED: [2021-10-13 Wed 22:34]
-***** DONE weight
-CLOSED: [2021-10-13 Wed 22:34]
-**** DONE basics [100%]
-CLOSED: [2021-10-13 Wed 22:34]
-***** DONE job
-CLOSED: [2021-10-13 Wed 22:31]
-***** DONE goal
-CLOSED: [2021-10-13 Wed 22:31]
-***** DONE use
-CLOSED: [2021-10-13 Wed 22:31]
-***** DONE quirk
-CLOSED: [2021-10-13 Wed 22:32]
-***** DONE coolness
-CLOSED: [2021-10-13 Wed 22:32]
-***** DONE fear
-CLOSED: [2021-10-13 Wed 22:32]
-***** DONE desires
-CLOSED: [2021-10-13 Wed 22:32]
-***** DONE facial features
-CLOSED: [2021-10-13 Wed 22:32]
-***** DONE speech pattern
-CLOSED: [2021-10-13 Wed 22:32]
-***** DONE body type
-CLOSED: [2021-10-13 Wed 22:32]
-***** DONE equipment
-CLOSED: [2021-10-13 Wed 22:32]
-**** DONE appearance [100%]
-CLOSED: [2021-10-14 Thu 11:56]
-***** DONE pyhsique
-CLOSED: [2021-10-14 Thu 11:55]
-***** DONE body features
-CLOSED: [2021-10-14 Thu 11:55]
-***** DONE facial features
-CLOSED: [2021-10-14 Thu 11:55]
-***** DONE identifying features
-CLOSED: [2021-10-14 Thu 11:56]
-***** DONE physical quirks
-CLOSED: [2021-10-14 Thu 11:56]
-***** DONE apparel & accessories
-CLOSED: [2021-10-14 Thu 11:56]
-***** DONE specialized
-CLOSED: [2021-10-14 Thu 11:56]
-***** DONE special abilities
-CLOSED: [2021-10-14 Thu 11:56]
-**** DONE mentality [100%]
-CLOSED: [2021-10-14 Thu 12:05]
-***** DONE personal history
-CLOSED: [2021-10-14 Thu 11:57]
-***** DONE education
-CLOSED: [2021-10-13 Wed 22:21]
-***** DONE employment
-CLOSED: [2021-10-14 Thu 11:57]
-***** DONE failures & embarassments
-CLOSED: [2021-10-14 Thu 11:59]
-***** DONE mental trauma
-CLOSED: [2021-10-14 Thu 11:59]
-***** DONE intellectual characteristics
-CLOSED: [2021-10-14 Thu 12:01]
-***** DONE morality & philosophy
-CLOSED: [2021-10-14 Thu 12:04]
-***** DONE sexuality
-CLOSED: [2021-10-14 Thu 12:04]
-***** DONE gender identity
-CLOSED: [2021-10-14 Thu 12:04]
-***** DONE taboos
-CLOSED: [2021-10-14 Thu 12:05]
-***** DONE known languages
-CLOSED: [2021-10-14 Thu 12:05]
-**** DONE personality [100%]
-CLOSED: [2021-10-14 Thu 12:13]
-***** DONE motivation
-CLOSED: [2021-10-14 Thu 12:11]
-***** DONE famous quotes & catchphrases
-CLOSED: [2021-10-14 Thu 12:11]
-***** DONE savvies & inneptitudes
-CLOSED: [2021-10-14 Thu 12:11]
-***** DONE likes & dislikes
-CLOSED: [2021-10-14 Thu 12:11]
-***** DONE virtues & perks
-CLOSED: [2021-10-14 Thu 12:13]
-***** DONE vices & flaws
-CLOSED: [2021-10-14 Thu 12:13]
-***** DONE ticks & quirks
-CLOSED: [2021-10-14 Thu 12:13]
-***** DONE hygine
-CLOSED: [2021-10-14 Thu 12:13]
-**** DONE social status [100%]
-CLOSED: [2021-10-14 Thu 12:23]
-***** DONE place of birth
-CLOSED: [2021-10-14 Thu 12:23]
-***** DONE current residence
-CLOSED: [2021-10-14 Thu 12:23]
-***** DONE relations
-CLOSED: [2021-10-14 Thu 12:23]
-***** DONE titles
-CLOSED: [2021-10-14 Thu 12:23]
-***** DONE wealth
-CLOSED: [2021-10-14 Thu 12:23]
-***** DONE contacts, relations & other affiliations
-CLOSED: [2021-10-14 Thu 12:23]
-***** DONE spiritual & religious views
-CLOSED: [2021-10-14 Thu 12:23]
-***** DONE social aptitude
-CLOSED: [2021-10-14 Thu 12:23]
-***** DONE mannerisms
-CLOSED: [2021-10-14 Thu 12:23]
-***** DONE pets & hobbies
-CLOSED: [2021-10-14 Thu 12:23]
-***** DONE speech
-CLOSED: [2021-10-14 Thu 12:23]
-*** DONE pamki, ager's daughter [100%]
-CLOSED: [2021-10-14 Thu 13:05]
-**** DONE name
-CLOSED: [2021-10-13 Wed 22:24]
-**** DONE other details
-CLOSED: [2021-10-14 Thu 13:05]
-*** DONE the ship AI [100%]
-CLOSED: [2021-10-14 Thu 13:18]
-**** DONE basic npc profile [100%]
-CLOSED: [2021-10-14 Thu 13:18]
-***** DONE short bio
-CLOSED: [2021-10-14 Thu 13:18]
-***** DONE secrets
-CLOSED: [2021-10-14 Thu 13:18]
-**** DONE name
-CLOSED: [2021-10-14 Thu 13:18]
-Felwinter
-**** DONE other details [0%]
-CLOSED: [2021-10-14 Thu 13:18]
-*** DONE pamki's wife [100%]
-CLOSED: [2021-10-14 Thu 13:46]
-**** DONE name
-CLOSED: [2021-10-14 Thu 13:46]
-**** DONE basic details
-CLOSED: [2021-10-14 Thu 13:46]
-**** DONE other details
-CLOSED: [2021-10-14 Thu 13:46]
-*** DONE village wright [100%]
-CLOSED: [2021-10-14 Thu 13:56]
-**** DONE name
-CLOSED: [2021-10-14 Thu 13:56]
-**** DONE basic info
-CLOSED: [2021-10-14 Thu 13:56]
-**** DONE important details
-CLOSED: [2021-10-14 Thu 13:56]
-*** DONE village herbalist/healer [100%]
-CLOSED: [2021-10-14 Thu 14:32]
-**** DONE name
-CLOSED: [2021-10-14 Thu 14:32]
-**** DONE important details
-CLOSED: [2021-10-14 Thu 14:32]
-**** DONE other details
-CLOSED: [2021-10-14 Thu 14:32]
-*** DONE aeon priest [100%]
-CLOSED: [2021-10-14 Thu 14:11]
-**** DONE name
-CLOSED: [2021-10-14 Thu 13:56]
-**** DONE important details
-CLOSED: [2021-10-14 Thu 14:11]
-**** DONE other details
-CLOSED: [2021-10-14 Thu 14:11]
+attack site is kingdom level, C4 -- looks like they quickly left, a few busted
+wagons and empty boxes, a fire, and a nearly dead man ( under wagon ) are at the
+site, with tracks of wagons and a big creature leading north-west
+
+nearly dead man will not be alive if this is not the first scenario they deal with
+**** DONE figure out how many are still alive
+CLOSED: [2021-10-16 Sat 23:07]
+out of 38, 17 are still alive
+***** DONE why did they die
+CLOSED: [2021-10-16 Sat 23:44]
+the creature that attacked, some died as they fled, others died trying to chase
+the creature away from the ruin they took shelter in
+**** DONE figure out why they got lost
+CLOSED: [2021-10-16 Sat 23:44]
+chased by a creature, took shelter in the ruins
+**** TODO create map of ruin that they're sheltering in
+gonna use the cards, should be interesting
+**** DONE figure out what needs to happen for the wagons to make it back to ararholm
+CLOSED: [2021-10-16 Sat 23:45]
+the caravan can repair their floating "wagons", but it'll take a day and they
+need to do it out in the open, so they'd appreciate some protection while they
+do so
+** TODO Finish populating town with major NPCs [2/16]
 *** TODO the "seamstress" madam [0%]
 **** TODO name
 **** TODO basic details
@@ -358,26 +296,19 @@ CLOSED: [2021-10-14 Thu 14:11]
 **** TODO name
 **** TODO basic details
 **** TODO other details
-*** TODO the woodworker [0%]
-**** TODO name
-**** TODO basic details
+*** TODO the woodworker [66%]
+**** DONE name
+CLOSED: [2021-10-17 Sun 13:04]
+Jacka Ward
+**** DONE basic details
+CLOSED: [2021-10-17 Sun 13:06]
+tends to wear baggy pants and a cloak, while cutting wood or working goes
+shirtless, showing off the tattoos covering his right arm
+
+is a very talented wood worker
+
 **** TODO other details
-*** DONE "lead" farmer  [100%]
-CLOSED: [2021-10-14 Thu 17:21]
-**** DONE name
-CLOSED: [2021-10-14 Thu 17:21]
-**** DONE basic details
-CLOSED: [2021-10-14 Thu 17:21]
-**** DONE other details
-CLOSED: [2021-10-14 Thu 17:21]
-*** DONE quartermaster/general store [100%]
-CLOSED: [2021-10-14 Thu 17:06]
-**** DONE name
-CLOSED: [2021-10-14 Thu 17:06]
-**** DONE basic details
-CLOSED: [2021-10-14 Thu 17:06]
-**** DONE other details
-CLOSED: [2021-10-14 Thu 17:06]
+a bit of a hippy kind of person
 ** TODO Create some goons & flesh out Ghoka's gang [%]
 *** TODO more on ghoka
 **** TODO stat him up

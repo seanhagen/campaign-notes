@@ -1,0 +1,143 @@
+notes:
+ - sealed exits should require a key or something found in another ruin elsewhere
+ - hidden exits, if not already leading somewhere, should lead to a small
+   storage room with some cyphers and shins
+ - unexplored exits should be treated like sealed exits, although the ship AI
+   may have clues about where to find the keys
+* entrance
+** corridor A
+type: 16
+*** chamber 1
+size: 17
+shape: 18
+feature: 43
+**** corridor B
+type: 9
+integrated machine: 44
+***** chamber 2
+size: 16
+shape: 20
+feature: 30
+****** shaft
+type: 8
+depth roll: 4
+****** chamber 3
+size: 19
+shape: 16
+feature: 78
+- door to chamber 4 needs a sign saying it's a repair facility or something
+******* interstitial cavity
+******** chamber
+size: 16
+shape: 13
+feature: 90
+******** corridor
+type: 19 (t-junction)
+********* chamber
+size: 19
+shape: 16
+feature: 69
+********** corridor
+*********** sealed exit
+********* accessway
+type: 20
+********** chamber
+size: 6
+shape: 9
+feature: 13
+*********** hidden exit
+************ chamber
+size: 17
+shape: 20
+feature: 26
+************* hidden
+************* chamber
+size: 7
+shape: 11
+feature: 25
+************** sealed exit
+************** hidden exit
+*************** corridor
+type: 18
+**************** corridor
+type: 9
+***************** chamber
+size: 5
+shape: 18
+feature: 96
+there are 4 explorers in this chamber
+situation: 12
+****************** sealed exit
+************* chamber
+size: 9
+shape: 18
+feature: 83
+creature: 99
+*********** sealed exit
+********** vault
+size:
+shape:
+vault contents:
+  level 5 artifact air vehicle of some kind
+
+  entrance to vault protected by level 10 security field
+******** corridor D
+type: 19 (t-intersection)
+********* chamber  6
+size: 16
+shape: 11
+feature: 70
+no exit
+********* sealed exit
+******** corridor C
+type: 9
+********* chamber 5
+size: 13
+shape: 13
+feature: 5
+********** sealed exit
+********** sealed exit
+********** corridor to another area of ship
+broken down tram, otherwise space is far too long or impassable
+********** hidden exit
+********** broken exit
+- key in chamber 4
+*********** corridor E
+partially collapsed
+************ chamber 7
+size:
+shape:
+feature:
+
+feature is broken, and is the reason for the water being fouled
+ - it's a machine that did _something_ to the water
+ - can be bypassed (level 5)
+ - machine can be turned off (level 3), but that means no more waterfall in the village
+ - if players want to fix the machine, they need parts (figure out a list, the
+   wright should have some and know a good place to find the rest -- like the
+   ruin they need the party to check out!)
+
+this is where the broken piece of the ship is
+******** sealed exit
+********* relic chamber
+relic anatomy: eye
+quality: 19
+******** unexplored exit 1
+******** unexplored exit 2
+******** unexplored exit 3
+******** unexplored exit 4
+******** unexplored exit 5
+******** unexplored exit 6
+******* chamber 4
+size: 18
+shape: 16
+feature: 85
+******** sealed exit
+******** hidden exit
+**** hidden door
+***** accessway 1
+connects to interstitial cavity 1
+**** hidden & sealed door
+this door can be unsealed from the opposite side
+***** accessway 2
+connects to chamber 6

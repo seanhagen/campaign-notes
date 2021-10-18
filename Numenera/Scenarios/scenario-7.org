@@ -1,0 +1,12 @@
+* entrance
+** corridor A
+*** chamber 1
+**** corridor B
+***** chamber 2
+****** sealed entrance
+******* artefact chamber
+**** corridor C
+***** interstitial cavity 1
+all exits from this chamber ( except the one coming in ) are blocked in various
+ways; the exit itself is sealed shut in a way that won't allow it to open again,
+the corridor is collapsed or blocked, etc.

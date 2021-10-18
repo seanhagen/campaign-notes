@@ -1,0 +1,23 @@
+* forest exterior
+** meadow clearing
+*** strange hill
+**** weird stone/thing
+hidden entrance, a shaft 20 meters deep, opens into:
+***** chamber 3
+****** corridor 2
+connects to chamber 2
+** small pond
+*** stream
+**** waterfall
+***** hidden entrance
+****** chamber 1
+size: [1d20] -> = 11
+shape: [1d20] -> = 18
+feature: [1d100] -> = 45
+******* corridor A
+******** chamber 2
+size: [1d20] -> = 3
+shape: [1d20] -> = 19
+feature: [1d100] -> = 63
+
+this is the lair of the creature(s)
