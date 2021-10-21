@@ -25,15 +25,19 @@ Characters have all been in town for a few weeks.
 ** notes
 [[https://cdnb.artstation.com/p/assets/images/images/035/662/293/large/edward-barons-gaspard-final-illustration-crop.jpg?1615551259][innkeep photo]]
 
-madam: Lowenna Oates
+seamstress/madam: Jun Shitoshi
 
-healing: level 4 difficulty task
+rule thing: healing is a level 4 difficulty task
 
 
-maps will be symbolic on world anvil instead of using hex paper, players won't
-be doing cartography of the area
+- maps will be symbolic on world anvil instead of using hex paper, players won't
+  be doing cartography of the area
 
-determine what the bandits had on them that the party takes
+- determine what the bandits had on them that the party takes
 
-map out some more ruins -- maybe find something to do the mapping digitally, so
-it's easier to run off the laptop
+- map out some more ruins on the overworld -- maybe find something to do the
+  mapping digitally, so it's easier to run off the laptop
+
+- trade and stuff: stores that sell common goods will take shins, merchants that
+  sell rarer stuff will barter ( or take a LOT of shins, like more than the
+  item is really worth ) 

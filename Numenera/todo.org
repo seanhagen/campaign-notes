@@ -1,4 +1,4 @@
-* First Session [31%]
+* First Session [35%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -285,32 +285,43 @@ CLOSED: [2021-10-16 Sat 23:45]
 the caravan can repair their floating "wagons", but it'll take a day and they
 need to do it out in the open, so they'd appreciate some protection while they
 do so
-** TODO Finish populating town with major NPCs [2/16]
-*** TODO the "seamstress" madam [0%]
-**** TODO name
+** TODO Finish populating town with major NPCs [4/19]
+*** TODO the "seamstress" madam [33%]
+**** DONE name
+CLOSED: [2021-10-18 Mon 14:14]
+Jun Shitoshi
 **** TODO basic details
 **** TODO other details
-*** TODO innkeeper [0%]
-**** TODO name
+*** TODO innkeeper [33%]
+**** DONE name
+CLOSED: [2021-10-18 Mon 14:14]
+Lowen Hob
 **** TODO basic details
+has a very deep voice, almost makes your bones rumble
 **** TODO other details
-*** TODO the mason [0%]
-**** TODO name
-**** TODO basic details
+*** TODO the mason [33%]
+**** DONE name
+CLOSED: [2021-10-18 Mon 14:16]
+Sech Nokham
+**** STARTED basic details
+image: https://db4sgowjqfwig.cloudfront.net/campaigns/123273/assets/577028/3d6d33d7fb089d1fdfc39b70a826e171.jpg?1460139730
 **** TODO other details
-*** TODO the woodworker [66%]
+*** TODO the woodworker [33%]
 **** DONE name
 CLOSED: [2021-10-17 Sun 13:04]
 Jacka Ward
-**** DONE basic details
-CLOSED: [2021-10-17 Sun 13:06]
+**** STARTED basic details
 tends to wear baggy pants and a cloak, while cutting wood or working goes
 shirtless, showing off the tattoos covering his right arm
 
 is a very talented wood worker
 
-**** TODO other details
+**** STARTED other details
 a bit of a hippy kind of person
+
+*** TODO Dibbler [0%]
+**** TODO personality, basic details
+**** TODO other details
 ** TODO Create some goons & flesh out Ghoka's gang [%]
 *** TODO more on ghoka
 **** TODO stat him up
@@ -355,25 +366,40 @@ CLOSED: [2021-10-14 Thu 16:51]
   - are there gangs or bandits hiding out nearby, and does Ghoka know about them?
 ** other prep that needs doing [0/3]
 *** TODO how exploring unknown hexes will work
-*** TODO travel distances & times & other considerations
-  - how do they get lost?
-  - how do they get un-lost?
-  - how long can they be lost before food & resources becomes an issue?
-  - how easy is it to find shelter out in the wild?
-  - can the players determine how safe a shelter might be?
-  - what kinds of shelter might they find?
+*** TODO travel distances & times & other considerations [2/2]
+  - [X] how do they get lost -- GM intervention!
+  - [X] how do they get un-lost -- intellect task
+  - [ ] how long can they be lost before food & resources becomes an issue?
+  - [ ] how easy is it to find shelter out in the wild?
+  - [ ] can the players determine how safe a shelter might be?
+  - [ ] what kinds of shelter might they find?
 *** TODO how big is a hex, for each "zoom level"
-- in town: 10ft hexes
+- in town: 
 - hills region:
 - maka-tho:
 - continent: 
-** physical prep [0/5]
-*** TODO create maps for me on hex paper
-*** TODO on hex side of big battle mat, create map of all maka-tho
-*** TODO on hex side of small battle mat, create map of the region they're in
-*** TODO see if maybe just giving players hex paper will work better than battle
+** physical prep [3/5]
+*** STARTED create maps for me on hex paper
+*** CANCELLED on hex side of big battle mat, create map of all maka-tho :CANCELLED:
+CLOSED: [2021-10-18 Mon 14:29]
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2021-10-18 Mon 14:29] \\
+  not doing area maps for the players, just a "symbolic" map on world anvil
+:END:
+*** CANCELLED on hex side of small battle mat, create map of the region they're in :CANCELLED:
+CLOSED: [2021-10-18 Mon 14:30]
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2021-10-18 Mon 14:30] \\
+  same as above
+:END:
+*** CANCELLED see if maybe just giving players hex paper will work better than battle :CANCELLED:
+CLOSED: [2021-10-18 Mon 14:30]
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2021-10-18 Mon 14:30] \\
+  again, above
+:END:
   mat ( maybe a discussion before first session )
-*** TODO determine what i want in front of me when running a game
+*** STARTED determine what i want in front of me when running a game
 * Can wait until after first session [33%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
