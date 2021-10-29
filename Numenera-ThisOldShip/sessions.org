@@ -27,8 +27,11 @@ Characters have all been in town for a few weeks.
 
 seamstress/madam: Jun Shitoshi
 
-rule thing: healing is a level 4 difficulty task
-
+ruling:
+ - going up a level on the damage track is a level 4/6 difficulty task depending
+   on if the character is impaired or debilitated
+ - healing points in a pool is an intellect task with the difficulty equal to
+   how many points they're trying to heal
 
 - maps will be symbolic on world anvil instead of using hex paper, players won't
   be doing cartography of the area
