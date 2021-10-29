@@ -16,7 +16,7 @@ they travel
 *** Fox - general guard
 the person who's responsible for making sure that nothing ambushes the party
 from in front or above
-** STARTED Need several potential scenarios & encounters [25/36]
+** STARTED Need several potential scenarios & encounters [25/37]
 sheriff:
  - scenario 1
  - scenario 5
@@ -285,6 +285,7 @@ CLOSED: [2021-10-16 Sat 23:45]
 the caravan can repair their floating "wagons", but it'll take a day and they
 need to do it out in the open, so they'd appreciate some protection while they
 do so
+*** TODO put clues in each ruin about "big bad" or overarching mystery
 ** TODO Finish populating town with major NPCs [4/19]
 *** TODO the "seamstress" madam [33%]
 **** DONE name
@@ -400,7 +401,7 @@ CLOSED: [2021-10-18 Mon 14:30]
 :END:
   mat ( maybe a discussion before first session )
 *** STARTED determine what i want in front of me when running a game
-* Can wait until after first session [33%]
+* Can wait until after first session [30%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -461,7 +462,7 @@ need to write better articles for each timeline entry
 - [ ] queen's consort ( crown prince )
 - [ ] how the nobility works, what's their duties, etc
 - [ ] any other important or renowned figures?
-*** TODO voz empire
+*** TODO voz dynasty
 - [ ] general overview
 - [ ] culture (music, popular foods, clothing style, manerisms, traditions)
 - [ ] religion
@@ -514,3 +515,20 @@ need to write better articles for each timeline entry
   - the black tower in the north-east
 *** TODO was the mist created before or after the beginning of the ninth world?
   - ie, when was the device turned on
+** TODO flora & fauna
+[[file:flora-and-fauna.md::Flora & Fauna][doc with ideas]]
+- put a bunch of these into world anvil as creature species
+** TODO figure out what the big problem is
+- something in the ship?
+- ghoka, or the person funding ghoka?
+- the sable empire?
+- the voz dynasty?
+- someone else? some**thing** else?
+
+
+what is the big bad that's lurking behind the scenes?
+
+is there one, or is is just a land wanted by two kingdoms?
+
+there should be a few things hidden in maka-tho that are dangerous if set loose,
+and there should be some powerful numenera hiding out there too
