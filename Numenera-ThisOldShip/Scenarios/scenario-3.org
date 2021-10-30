@@ -5,6 +5,7 @@ notes:
  - unexplored exits should be treated like sealed exits, although the ship AI
    may have clues about where to find the keys
 * entrance
+a 
 ** corridor A
 type: 16
 *** chamber 1

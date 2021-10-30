@@ -1,4 +1,4 @@
-* First Session [35%]
+* First Session [36%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -16,7 +16,7 @@ they travel
 *** Fox - general guard
 the person who's responsible for making sure that nothing ambushes the party
 from in front or above
-** STARTED Need several potential scenarios & encounters [25/37]
+** STARTED Need several potential scenarios & encounters [26/37]
 sheriff:
  - scenario 1
  - scenario 5
@@ -35,7 +35,8 @@ pamki:
 jacka (woodworker):
  - scenario 6
    
-*** STARTED scenario 1: in town (ghoka)
+*** DONE scenario 1: in town (ghoka)
+CLOSED: [2021-10-29 Fri 15:45]
 handed out by: mex, sherrif, or pamki
 
 someone has stolen supplies from the warehouse. the sheriff thinks it was one
@@ -156,7 +157,7 @@ the ruin, preferably a pack
 the parts of the ship that are well known and fully explored
 [[file:Scenarios/scenario-3.org::*entrance][scenario 3 map outline]]
 
-***** TODO fill out scenario outline with descriptions
+**** TODO fill out scenario outline with descriptions
 **** TODO build the part of the ship that contains the broken equipment
 need:
 - [ ] broken machine that's fouling the water

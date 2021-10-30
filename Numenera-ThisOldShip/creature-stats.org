@@ -1,0 +1,33 @@
+Just a place to keep stats for easy reference.
+
+* Colchin
+Motive: Defense
+Health: 12  Damage: 5 points  Armor: 2
+Movement: Short
+Modifications: Knowledge of fungi as level 7
+
+Combat:
+  Colchin prepared to fight wear fungal layers that provide 2 (or more) points
+  of Armor and have one or more strange weapons at hand, including a spine
+  thrower. A colchin with a spine thrower can make a short-range attack that inflicts 5
+  points of damage, and on a failed Might defense task, inflicts 1 additional
+  point of Speed damage. Some colchin also carry a spore bomb, which acts like a
+  level 6 corrosive spawn detonation but does not count against a character’s
+  cypher limit.
+
+
+Interaction:
+  Colchin speak their own language but can make themselves understood using
+  gestures and hand motions. They are open to negotiation, as long as no
+  cultural taboos come into play. For the most part, they are opposed to
+  allowing non-colchin to enter their communities.
+  
+Use:
+  A colchin hunting party has gotten into trouble with local human villagers,
+  each claiming the other as the antagonist. The PCs are called on to help both
+  sides.
+  
+Loot:
+  A spine thrower (depletion: 1 in 1d10) or spore bomb might be found in a
+  colchin’s belongings.
+  

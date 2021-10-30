@@ -1,6 +1,10 @@
 * entrance
+A cleft in the rocks opens up into a round chamber about 20 feet across. There
+are three doors in this chamber, but two are filled with rubble from collapsed ceilings.
 ** corridor A
-type: 20 (x)
+The only exit from the entrance chamber leads to a corridor that comes to
+an X intersection after about 10 feet or so.
+
 *** relic chamber
 *** chamber 1
 size: 16
@@ -81,44 +85,213 @@ shape: 18
 feature: 31
 no exits
 **** chamber at bottom of shaft (chamber 2)
+
+
 size: 20
 shape: 1
 feature: 32
 
-shaft ends, there's a door
+shaft ends, there 
 
 ***** accessway
+A small accessway is the only exit from the bottom of the shaft. It is cramped,
+normal height humans have to duck to get in.
+
+The accessway winds back up the shaft a few times before veering away,
+continuing for another 50 feet before opening up into a giant cavity.
+
 ****** interstitial cavity 1
-type: 82
-creature: 13
+The accessway opens up onto a catwalk above a massive chamber roughly 900 feet
+long and 550 wide.
+
+About 15 feet wide, with no handrails or guards, the catwalk is suspended
+several stories above the ground, and circles the perimeter of the room.
+
+Within the chamber the air is hazy, caused by narrow vortices that move randomly
+about the chamber. They drift randomly, sometimes combining or splitting apart.
+
+A number of exits lead from the catwalk out of this chamber.
+
+Growing from the ceiling is what appears to be a giant fungus colony. Upon
+closer inspection you can see creatures climbing over the colony -- Colchin!
+
+A group of six of them approach you on the catwalk.
+
+In a series of grunts and hand motions, they seem to be trying to tell you not
+to approach the colony. Either they're being extra cautious or they think you
+can climb the synth walls as well as they can ( you can't ).
+
+If the players nod or make positive noises, the colchin go back to where they
+were standing and ignore the PCs. The PCs can ask questions to try and get
+information, but the colchin only speak in grunts and hand gestures; they
+apparently can't speak a language you know. If the players are antagonistic or
+attempt to approach the colony the colchin on the catwalk will sound an alarm
+and then attack. The alarm draws colchin from the colony, five to six more
+appear every round.
+
+[[file:~/Documents/CampaignNotes/Numenera-ThisOldShip/creature-stats.org::*Colchin][Colchin Stats]]
+
+Group of five: horde, increase level by 2 and double damage.
+
 ******* trapped exit
+This exit seems to be sealed, it's a level 5 intellect task to unseal. On a
+failure the area around the door is filled with a shocking energy that does 8
+points of damage, anything within close range of the door is effected.
+
 ******** chamber 6
-size: [1d20] -> = 14
-shape: [1d20] -> = 17
-feature: [1d100] -> = 8
+A hexagonal chamber 30 feet across. The ceiling of the chamber is a mess of
+pipes and cables.
+
+Despite the temperature being the same as everywhere else in the ruin, water
+leaking from these pipes has frozen into what you first think are stalactites
+and stalagmites. However, upon closer inspection you see that they're not either
+of those, but are _statues_. Each seems to form the likeness of a person. There
+are unfinished statues, the ice not having built up enough mass to be a whole
+person.
+
+One of the statues is wearing your shoes.
+
+A single exit is found opposite the door you entered from.
+
 ********* chamber 7
-size: [1d20] -> = 17
-shape: [1d20] -> = 7
-feature: [1d100] -> = 82
-no exit
+You've found the hideout of Ghoka's gang. 
 
-ghoka's gang hides out here
+You're in a rectangular room, 30 feet across and 60 feet long. The door you
+entered the room from is on one of the short walls.
 
+Halfway down the room are two large, hovering, spinning metallic spheres.
+
+The spheres seem to be malfunctioning. A sphere might drop a few feet before
+stopping and then floating back to their original position. Maybe it will
+suddenly stop spinning, spin in the opposite direction for a moment before
+immediately changing direction. One seems to be rotating around an axis set on
+the horizontal plane, though the axis switches angles quickly; shuffling through
+a random number of angles before snapping back to the horizontal. They also
+flash red occasionally. Despite all this activity, the spheres are completely silent.
+
+There are no other exits that you can see from this chamber.
+
+Between you and the spheres are a number of boxes, cots, and scattered
+trash. The boxes appear to be part storage, part wall or dividers; they're being
+used to demarcate areas. None of the "walls" is more than a foot or two high for
+the most part.
+
+On the other side of the spheres is a more open area, with some of the panels in
+the floor having been pried up to reveal a pit of some kind. From where you are,
+you can see some of the gang members clustered around a man on the edge of the
+pit. From what you can see he's a wall dressed man, with dark skin and brunette
+hair cut in a faux-hawk.
+
+The well-dressed man seems to be arguing his case, but the gang isn't buying
+whatever he's saying. After a moment the biggest gang member steps forward, and
+says something to the well dressed man. They both laugh for a moment, then
+without warning the big gang member pushes the man into the pit. You hear the
+sound of a squad of table saws and drills being activated along with the screams
+of the well dressed man.
+
+The screams are suddenly cut short as the whine of the drills and saws takes on
+a... wetter tone.
+
+=======
+
+The pit is about 20 feet across, and contains a xacorocax.
+
+Ukrurg will challenge the party to a fight. If they refuse or run he'll
+attack. He should come across as a bit unhinged (kinda Kharn-ish).
+
+Ghoka is currently not in the ruin, currently home are the following:
+
+- Ukrurg Sovil, second-in-command ( [[file:~/Documents/CampaignNotes/Numenera-ThisOldShip/Maka_Tho/immaculates.md::They're not good people.][but not really]] )
+  Uses "Deadly Warrior" stats ( bestiary, pg 140 ):
+  Level:  6 (18)  Health: 28 [28]  Armor: 3
+
+  Modifications: Attacks and might defense as level 7, speed defense as level 8 (
+                 partially due to shield )
+
+  Combat:
+    Can make single attack with weapon for 10 points of damage, but can also
+    attack two different foes as single action, doing 8 points of damage with each
+    attack. All their attacks ignore armor.
+
+  Carries:
+  - 52 shins
+  - Stasis detonation grenade, level 10
+  - Vocal translator, level 3
+  - An oblong metal plate covered with strange inscriptions and diagrams
+
+- Fifteen bandits, split into three groups of five:
+
+  Bandit grouping:
+  Level: 4 (12)  Health: 30  Armor: 2  Damage: 8 points
+
+  Modifications: speed defense as level 5 due to the shields they carry
+
+  Combat: Armed with axes and swords and simple shields. If Ukrurg Sovil dies
+          and more than half the bandits are dead, the rest will give up.
+  
+  Loot:
+  - 55 shins
+  - Banishing nodule, level 5
 ******* chamber 5
-size: 6
-shape: 1
-feature: 68
-no exits
+A circular chamber with a radius of 15 feet.
+
+Standing in the center of the chamber is what appears to be a pillar made of a
+metal with a strange shimmer to it, covered in a design that looks like ribbons
+etched into metal.
+
+Any object or creature that gets within five feet of the pillar causes it to
+activate: a ribbon of molecule thin material unwinds from the pillar and then
+makes a level 6 attack against the object or creature. Objects are destroyed,
+creatures move down one step on the damage track.
+
+There are no other exits from this chamber.
 ******* blocked exit
+This doorway is covered in a strange fleshy mass. If touched it does 1 point of
+Speed damage. The door can be opened, but the entire corridor beyond is full of
+the strange fleshy substance -- including strange glowing blisters and some very
+deadly looking spines.
+
+Attempting to enter the corridor results in an attack from one of the tendrils,
+which is a Level 9 defense task and moves the PC one step down the damage track.
 ******* blocked exit
+There is no door or gate in this doorway, just what looks like a very detailed
+painting or photo of some kind. 
 ******* blocked corridor
+This doorway opens into a corridor that travels straight for about 20 feet
+before curving down. Shortly after it begins to curve it ends abruptly in a pile
+of rubble, the ceiling collapsed at some point.
 ******* chamber 4
-size: 20
-shape: 13
-feature: 91
-no exits
+A rectangular chamber, 30 feet across and 60 feet long.
+
+The long walls are a deep but bright blue. Painted on these walls every 6.5 feet
+is a white circle about 2 feet across with the outline of a hand that is not
+human etched into the synth wall within the circle.
+
+Above each circle is a pipe that ends in some kind of feeding apparatus. It looks
+like it might fit on your head.
+
+If they touch one of the circles, some sort of white paste is pumped out of the
+tube. It's harmless, slightly nutritious, but tastes _terrible_
+
+There are no other exits from this chamber.
 ***** chamber 3
-size: 16
-shape: 3
-feature: 3
-no exit
+A square chamber, 50ft to a side.
+
+Contains thin glass panels floating in the air. Each is barely thicker than a
+sheet of paper, and edged in gold trim with swirling flourishes that seem to
+symbolize water or a flow. The glass panels are slightly tinted, giving them a
+mirrored effect on their surface.
+
+Looking into a panel you see the strangest sight. From the moment your eyes
+look into a panel, your reflection starts moving in reverse -- backwards through
+time. Not only that, but each one seems to show a slightly different reality. In
+some you're alone, others you are with a party of explorers. However, it's not
+always the same party standing with you in the chamber now.
+
+There are no other exits from this chamber.
+
+Intrusion: A shadowy reflection leaps through the glass pane, shattering it -- and
+bringing the shadow into the chamber with you. The reflection stands before you,
+mirroring your movements. You notice that it has some very wicked looking
+claws. When you try to move away it follows, coming a bit closer with every
+step. 
