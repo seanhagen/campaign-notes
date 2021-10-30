@@ -1,4 +1,4 @@
-* First Session [36%]
+* First Session [38%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -287,13 +287,16 @@ the caravan can repair their floating "wagons", but it'll take a day and they
 need to do it out in the open, so they'd appreciate some protection while they
 do so
 *** TODO put clues in each ruin about "big bad" or overarching mystery
-** TODO Finish populating town with major NPCs [4/19]
-*** TODO the "seamstress" madam [33%]
+** TODO Finish populating town with major NPCs [7/19]
+*** DONE the "seamstress" madam [100%]
+CLOSED: [2021-10-28 Thu 21:20]
 **** DONE name
 CLOSED: [2021-10-18 Mon 14:14]
 Jun Shitoshi
-**** TODO basic details
-**** TODO other details
+**** DONE basic details
+CLOSED: [2021-10-28 Thu 21:20]
+**** DONE other details
+CLOSED: [2021-10-28 Thu 21:20]
 *** TODO innkeeper [33%]
 **** DONE name
 CLOSED: [2021-10-18 Mon 14:14]
@@ -402,7 +405,7 @@ CLOSED: [2021-10-18 Mon 14:30]
 :END:
   mat ( maybe a discussion before first session )
 *** STARTED determine what i want in front of me when running a game
-* Can wait until after first session [30%]
+* Can wait until after first session [29%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -533,3 +536,5 @@ is there one, or is is just a land wanted by two kingdoms?
 
 there should be a few things hidden in maka-tho that are dangerous if set loose,
 and there should be some powerful numenera hiding out there too
+** TODO fill out the tavern with stuff
+- crib from here: https://thealexandrian.net/wordpress/37558/roleplaying-games/numenera-tavern
