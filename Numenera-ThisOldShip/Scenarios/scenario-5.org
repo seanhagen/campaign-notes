@@ -20,19 +20,166 @@ feature: [1d100] -> = 72
 no exits
 *** shaft
 depth: 200 meters
-how do people get down -- ghoka's gang does, so it's got to be easy and
-repeatable and mostly safe
-**** exits along side
-*****  chamber 8
-size: 7
-shape: 13
-feature: 35
-there are 3 explorers in this chamber (see [[file:~/Documents/CampaignNotes/Numenera/todo.org::*where they are now][scenario 4, where are they now]])
-situation: 11
-****** chamber 11
-size: 9
-shape: 1
-feature: 30
+
+You enter into a circular chamber about 90 feet across. Set into the ground is
+an enormous shaft about 75 feet across. It's offset from the center of the
+chamber, the wall opposite the door you entered has no ledge while there is
+about 15 feet of solid ground from the door to the edge of the shaft. From the
+entrance you can't see the bottom of the shaft.
+
+Next to the door you entered through is a small rusty looking panel set into the
+wall, not fully closed.
+
+Fifteen feet further down is a machine built into the wall, with some cables
+attached it that disappear over the side.
+
+descriptions:
+**** the shaft
+The shaft appears to be at least 200 meters tall ( about 650 feet ) deep. You
+can see the bottom, just barely -- a small circle of light showing a chamber
+deep below you. On the shaft walls, you can see at least three or four lit
+platforms; potential other routes to explore?
+
+**** broken machine
+A piece of machinery has three synthcord cables tied to it, the other ends
+disappear over the edge. Inspecting the synthcord reveals it was cut. The knots
+where the synthcord was attached to the machine have some green threads caught
+in the knots.
+
+**** box near doorway
+Set into the wall near the doorway is a small panel that isn't fully
+shut. Opening it reveals a small box, inside of which is a rail of some kind
+with a button.
+
+Pressing the button causes the rail to advance forward, bringing forth from a
+hidden compartment a strange oddly shaped device with a strap, hanging from a
+hook on the conveyor.
+
+Though oddly shaped, the device fits quite comfortably into your hand. You can't
+tell if it's changing shape to fit your hand or not though -- it feels like it
+shifts when you move your fingers around, but you don't see any movement when
+you look at it.
+
+Next to where your thumb rests are two buttons with strange sigils.
+
+Within this chamber, pressing one of the buttons causes the device to slowly
+rise, the other causes the device to slowly fall. To descend, you have to press
+the button that lowers the device and step off the ledge into the shaft. The
+device reduces gravity just for you within the shaft, causing you to fall quite
+slowly down the shaft.
+
+It's a level 3 might task to go to the bottom without slipping, while a level 5
+intellect task allows the PC to figure out how to "steer".
+
+**** exits along the side of the shaft
+***** chamber 8
+A rectangular chamber 30 feet across and 60 feet long.
+
+The longer walls are covered in racks and shelves that contain thousands of
+nodules. Each one produces a whispering susurrus that on its own is nothing but
+noise, but when you step back the susurrus combines into a quiet voice that does
+nothing but insult you in a unending string of expletives, curses, and remarks
+about your mother.
+
+Spread throughout the room area number of boxes and crates. An open one shows
+even more of the strange devices.
+
+In the center of the chamber a group of explorers have set up camp. Currently
+they're all laying down, circled around a softly glowing numenera that you
+recognize as a smokeless fire -- handy when you want heat or to cook while in a
+ruin and don't want to worry about some ancient fire suppression system going
+off.
+
+Each of them is either wrapped in a green cloak or is using a green cloak for a
+pillow.
+
+There are three of them, although it looks like there are cots and supplies for
+twice their number.
+
+One of the ones left is the thief who stole from Mex & Pamki.
+
+The group contains:
+
+- the thief, a level 4 (12) nano
+  health: 15  damage: 3  movement: short
+  resists mental effects as level 4
+
+  attacks with ice based esotaries from up to a long distance away
+
+  if attacked, immediately casts an esotary that gives them 4 points of armour
+  and causes 2 points of might damage to anyone that attacks them
+
+  in addition to the loot they stole, they also have on them:
+  - 4 shins
+  - Teleporter (mass), level 2 (pg 94 in tech compendium)
+
+- two explorers, level 4(12)
+  health: 18  damage: 4  movement: short  armor: 2
+
+  Try to stay at range and attack with pistols, will abandon the nano if made
+  aware he stole from Pamki or Mex
+
+  loot:
+  - light pistol
+  - light sword
+  - explorers pack
+  - 17 shins between the two of them
+  - 2 oddities (a crystal antiprism about 4 inches across that is mildly
+    repelled away from living flesh, and a human-faced insect trapped in a piece
+    of amber)
+  - a remote sensorium, level 3 (tech compendium, pg 85)
+
+***** chamber 11
+A circular chamber with a 30 foot diameter.
+
+Standing in the center of the chamber is a silver arch that twists once at the
+apex of the arch. Each support is about 2 feet long and half a foot wide and
+seems to maintain those dimensions for the entire length of the arch.
+
+One support of the arch has a set of five symbols, one of which is glowing. You
+don't recognize any of the symbols at first glance. The other support has a
+small chamber with a steelglass door with a handle.
+
+Stepping through the arch removes one organ from a living creature. The organ
+removed still all the parts and pieces it needs to be put into a living creature
+of the same species, but the "donor" has their body changed to accomodate the
+lost organ -- the esophagus gets connected directly to the intestines, the aorta
+that would connect to the heart is simply closed off. Only removing the heart or
+brain is immediately fatal (although quick thinking could save someone who had
+their heart removed). Some organs can be removed without immediate death (
+stomach, liver, etc ) although without them the creature will die
+eventually. Others can be removed without issue ( except perhaps an inability is
+gained, losing a lung makes it harder to do cardio stuff, losing a kidney makes
+you more vulnerable to poisons, etc ).
+
+Player who steps through rolls a d100, then from this chart you tell them what
+they lost:
+
+|  Roll | Organ         | Result                                           |
+|-------+---------------+--------------------------------------------------|
+|   1-5 | Tounge        | Any task requiring speech is hindered by two     |
+|       |               |steps, and you can no longer taste food           |
+|  6-10 | Eye           | Disadvantage on any searching, perception, or    |
+|       |               |attack roles                                      |
+| 11-15 | Hearing Bones | Deaf, can't hear anything, tasks requiring       |
+|       |               |understanding speech hindered by two steps        |
+| 16-20 | Kidney        | Disadvantage on saves vs poison or disease       |
+| 21-40 | Lung          | Inability on tasks requiring cardio or holding   |
+|       |               |your breath                                       |
+| 41-60 | Stomach       | Eating solid food causes 1 point of might damage |
+|       |               |for [1d10] hours, will slowly succumb to          |
+|       |               |starvation over [1d20+10] days                    |
+| 61-89 | Liver         |Goes down one step on the damage track every [1d4]|
+|       |               | days, can't go back up damage track at all until |
+|       |               |liver is replaced (by original or something else) |
+| 90-99 | Heart         | You're unconcious, and will be dead in [1d10+5]  |
+|       |               |minutes unless you get your heart back (or        |
+|       |               |something that can pump blood for you)            |
+|   100 | Brain         | You dead.                                        |
+
+Replacing the organ requires either a difficulty 7 medical task, or a level 5
+intellect task to change select the right symbol so the organ is put back. 
+
 
 rupture: 9
 weird event: 12
@@ -73,32 +220,51 @@ shape: [1d20] -> = 15
 feature: [1d100] -> = 49
 
 put an artefact in here
-****** sealed exit
+***** sealed exit
+A force field blocks passage through this door. There is a panel next to the
+door with 9 symbols you don't recognize. A level 5 intellect task disables the
+force field, allowing you access to the chamber beyond.
 ******* chamber 9
-size: 4
-shape: 9
-feature: 8
+A rectangular chamber, 15 feet across and 30 feet long.
+
+The only things you can see in this room are some broken boxes, scattered scrap,
+and some wide pillars at the far end.
+
 ******** hidden exit
+The pillars actually are a clever illusion, hiding the edges of a false wall --
+behind which is an exit from the chamber.
+
 ********* chamber 10
-size: 1
-shape: 18
-feature: 31
-no exits
+A hexagonal chamber barely 10 feet across
+
+Contains nothing but a strange device that murmurs in unknown languages when you
+approach.
+
+There are no other exits from this room.
 **** chamber at bottom of shaft (chamber 2)
+A circular chamber with a 90 foot radius.
 
+The ground is steelglass, beneath your feet you can see an incredibly complex
+machine with thousands of moving parts. After staring for a moment you realize
+that the machine doesn't return to a previous state, it's always moving to a new
+formation you haven't seen before.
 
-size: 20
-shape: 1
-feature: 32
+In the center of the chamber a portion of the device sticks through the floor --
+a circle about 30 feet in diamter rises two feet from the floor. The edge of
+plinth looks like its made from a weave of constantly shifting metalic
+fibers. The surface of the plinth is a flat sparkling surface. Anything that
+touches the surface will be drained of water ( inflicts 2 points of Speed damage
+to a PC who touches the surface ).
 
-shaft ends, there 
+There is a single exit, an accessway previously hidden by a panel of synth.
 
 ***** accessway
-A small accessway is the only exit from the bottom of the shaft. It is cramped,
-normal height humans have to duck to get in.
+The only exit from the shaft, the accessway is cramped, and normal height humans
+have to duck to get in.
 
-The accessway winds back up the shaft a few times before veering away,
-continuing for another 50 feet before opening up into a giant cavity.
+The accessway winds back up the "outside" of the shaft a few times before
+veering away, continuing for another 50 feet before opening up into a giant
+cavity.
 
 ****** interstitial cavity 1
 The accessway opens up onto a catwalk above a massive chamber roughly 900 feet
