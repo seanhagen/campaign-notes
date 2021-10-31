@@ -1,0 +1,30 @@
+zeno:
+ - camo spray ( used? ) [level 3]
+ - mind module [level 4]
+
+klep:
+ - banishing module [level 3]
+ - butterfly drone [level 2]
+ - firebreather - foot long tube [level 4]
+
+belel:
+ - lutin nanites [level 6]
+ - ray emitter [paralysis] ( used? ) - useable, handheld device [level 3]
+ - repair unit - usable, handheld device [level 4]
+
+ureos:
+ - stasis field emitter - wristband [level 4]
+ - transposer - belt [level 4]( used? )
+ - true speak [level 6]
+
+fox:
+ - needleburst [level 8]
+ - data vault [level 4]
+
+
+
+yet to hand out:
+ - vocal translator - a tube of yellow ooze-like liquid [level 3]
+ - detonation (stasis) - grenade [level 10]
+ - sparkle [level 6]
+ - banishing nodule (level 5]

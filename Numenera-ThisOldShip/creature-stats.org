@@ -1,6 +1,6 @@
 Just a place to keep stats for easy reference.
 
-* Colchin
+* Colchin - 4 (12)
 Motive: Defense
 Health: 12  Damage: 5 points  Armor: 2
 Movement: Short
@@ -31,3 +31,54 @@ Loot:
   A spine thrower (depletion: 1 in 1d10) or spore bomb might be found in a
   colchin’s belongings.
   
+* Ruin Defense Drone - 4 (12)
+Motive: capture intruders
+Health: 12   Damage: 2   Armor: 3
+Movement: Short, flying
+Modifications: defense as level 7 ( small )
+
+Combat:
+  The defense drone uses a small paralysis ray to attack. On a successful hit it
+  does 2 points of speed damage, and the target must make a Might defense
+  roll. If they fail, they are knocked unconcious -- at which point the drone
+  will use a gravity field emitter to pick up the creature and take it to
+  "jail".
+
+  If attacking as a horde, all drones will target the same creature with their
+  beams. If struck, the creature will still only take 2 points of Speed damage,
+  but the difficulty of the save roll is increased to 6.
+
+Loot:
+  D6
+  1-2 the paralysis ray can be scrounged for a Ray Emitter (paralysis)
+  3-4 the gravity field emitter can be salvaged for a Gravity Dampener
+  4-6 the gravity field emitter can be salvaged for a Gravity Nodule
+
+* Yellow Swarm 5 (15)
+Motive: Hugners for various organic compounds
+Health: 18  Damage: 5  Armor: none
+Movement: Short, flying
+Modifications: Speed defense as level 6
+
+They look like a small cloud of yellow locusts until you get close enough to see
+that they are transparent and oddly configured, with asymmetrical bodies that
+have seven legs and five wings.
+
+Combat:
+  A yellow swarm moves in and attacks with hundreds of tiny bites and stings. The
+  trick of fighting a swarm is that it fades in and out of reality, so every
+  round, the GM rolls a [1d6]. If the result is 1-3, no attacks or special
+  abilities will affect the swarm in that round, but the players don't learn this
+  until after they have declared their actions. However, the swarm always attacks
+  just before or after fading, so it is always able to affect creatures in this
+  world.
+  
+  Tell the players that due to the strange effect these creatures have on
+  reality, combat will work a bit differently. Players will make describe what
+  actions they wish to take in initiative order, and the GM will describe how
+  the round plays out after they've all described what they're going to
+  do. After they've all gone, tell them the result of the roll, and then the
+  creature will attack.
+
+Interaction:
+  It's not possible to communicate with the swarm.

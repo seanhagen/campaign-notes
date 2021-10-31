@@ -6,20 +6,44 @@ The only exit from the entrance chamber leads to a corridor that comes to
 an X intersection after about 10 feet or so.
 
 *** relic chamber
+
+
 *** chamber 1
-size: 16
-shape: 5
-feature: 72 
-creature: 94
+After travelling down a long corridor that makes strange 90 degree turns (
+you're pretty sure you should have doubled back at least once or twice ), you
+emerge into the next chamber.
+
+A triangular chamber, with each side being 50 feet across... you think. It's
+hard to get a good grasp of just how big this chamber is. There's a strange
+echoing buzz, but you can't tell where it's coming from.
+
+This room is full of what appear to be bean bag chairs and discarded toys.
+
+Drifting through the air in the center of the chamber is a yellowish, hazy cloud.
+
+The cloud is a [[file:~/Documents/CampaignNotes/Numenera-ThisOldShip/creature-stats.org::*Yellow Swarm 5 (15)][Yellow Swarm]], which will attack after a character gets close
+enough to tell that they're insects ( read description, then call the attack ).
+
 **** corridor B
-type: [1d20] -> = 14
+A passage that runs for about 50 feet, slowly bending to the right until you've
+made a 90 degree turn.
+
 ***** chamber 7
-size: [1d20] -> = 13
-shape: [1d20] -> = 8
-feature: [1d100] -> = 72
-no exits
+A rectangular chamber that's 30 feet across and 40 feet long.
+
+Mostly filled with shelves and storage alcoves, this room appears to be a
+warehouse of some kind. All the barrels and boxes you find are empty, except for
+one. It contains a small colourful device about three feet across and two feet
+high. The buttons have large and easy to read icons, almost like it was built
+for a child. There is a hatch on one side that opens easily, with a 2x1.5 foot
+chamber within.
+
+Anything placed within the device has metallic googly eyes attached.
+
+There are no other exits from this room.
 *** shaft
-depth: 200 meters
+After travelling down a corridor that descends for about 50 feet, you find
+yourself entering another chamber.
 
 You enter into a circular chamber about 90 feet across. Set into the ground is
 an enormous shaft about 75 feet across. It's offset from the center of the
@@ -33,20 +57,20 @@ wall, not fully closed.
 Fifteen feet further down is a machine built into the wall, with some cables
 attached it that disappear over the side.
 
-descriptions:
-**** the shaft
+**** descriptions and stuff
+***** the shaft
 The shaft appears to be at least 200 meters tall ( about 650 feet ) deep. You
 can see the bottom, just barely -- a small circle of light showing a chamber
 deep below you. On the shaft walls, you can see at least three or four lit
 platforms; potential other routes to explore?
 
-**** broken machine
+***** broken machine
 A piece of machinery has three synthcord cables tied to it, the other ends
 disappear over the edge. Inspecting the synthcord reveals it was cut. The knots
 where the synthcord was attached to the machine have some green threads caught
 in the knots.
 
-**** box near doorway
+***** box near doorway
 Set into the wall near the doorway is a small panel that isn't fully
 shut. Opening it reveals a small box, inside of which is a rail of some kind
 with a button.
@@ -132,10 +156,22 @@ The group contains:
 ***** chamber 11
 A circular chamber with a 30 foot diameter.
 
+The walls and ceiling of the chamber is covered by a thick mat of some kind of
+fungi you've never seen before. Purple with yellow and electric blue stippling,
+the fungus produces odd patterns on the walls and ceiling. There are also many
+large whorled growths, some on the ceiling nearly reach the ground. They fill
+the chamber with a cinnamony musk.
+
 Standing in the center of the chamber is a silver arch that twists once at the
 apex of the arch. Each support is about 2 feet long and half a foot wide and
 seems to maintain those dimensions for the entire length of the arch.
 
+You notice that between the time you entered the chamber ( just moments ago )
+and now, the temperature has begun to drop. Doesn't seem to be an issue right
+now, though.
+
+****** chamber features
+******* the arch
 One support of the arch has a set of five symbols, one of which is glowing. You
 don't recognize any of the symbols at first glance. The other support has a
 small chamber with a steelglass door with a handle.
@@ -180,47 +216,169 @@ they lost:
 Replacing the organ requires either a difficulty 7 medical task, or a level 5
 intellect task to change select the right symbol so the organ is put back. 
 
+******* temperature
+The temperature will continue to drop, slowly at first, but by the time they're
+done inspecting things and playing around with the arch it should be noticiably
+colder. Probably getting close to freezing.
 
-rupture: 9
-weird event: 12
+The chamber will continue to cool, reaching a temperature far below 0 degrees.
 
-******* trapped exit
-******** chamber 13
-size: 8
-shape: 5
-feature: 37 
-********* hidden exit
-********** chamber 14
-size: 5
-shape: 2
-feature: 78 
-creature: 42
-no exit
-********* accessway
-********** chamber 15
-size: 14
-shape: 9
-feature: 9
-no exit
-******* sealed exit
-******** collapsed corridor 2
-if rubble is shifted, players can squeeze through to chamber 16
-******* sealed exit
-******** chamber 12
-size: 20
-shape: 14
-feature: 44
-********* collapsed corridor 1
-something is crushed by the rubble
+It will stay that way for two hours, then very quickly revert to normal. This
+doesn't happen again.
 
-if rubble is shifted, players can squeeze through to chamber 16
-******* chamber 16
-size: [1d20] -> = 6
-shape: [1d20] -> = 15
-feature: [1d100] -> = 49
+The fungus is affected by the cold; it will freeze completely solid.
 
-put an artefact in here
-***** sealed exit
+Potential GM intrusion: if the players attempt to cross while the fungus is
+frozen, they slip and hit one. It will explode, doing 4 points of Speed
+damage that bypasses armor. There is a 50% chance this will set off other fungus
+columns ( which will affect someone from the party at random -- assign everyone
+a number and roll [1d5] ). Each other fungus that explodes has the same chance
+to set off another explosion.
+****** trapped exit
+A door with a shining golden veil of energy preventing access further. Touching
+the veil gives you a warm feeling.
+
+A panel nearby can be used to open the door, a level 6 Intellect task. Failing
+sets off a defense mechanism: All the doors in chamber 11 are sealed by panels,
+and 5 small defense drones are released into the chamber. They act as a horde,
+attacking whoever set off the trap.
+
+If captured, the target is taken to Chamber 7
+
+******* chamber 13
+A hexagonal chamber 30 feet across.
+
+The center of the chamber is occupied by a large metallic urn. Every 30-90
+seconds a bubble drifts up from the urn. The bubbles are formed from a liquid
+that creates strange refraction patterns on the surface of the bubble.
+
+Each bubble emits psychic talk -- surprised and curious questions. These
+questions continue until the bubble pops.
+
+The wall to the right-hand side of the wall opposite the door you came in on is
+covered by a gigantic three dimensional mural about a foot deep. The mural seems
+to be made from grains of coloured sand that showly shift as the mural slowly
+runs through a scene of a space battle of some kind.
+
+After watching for a few repetitions, you realize that each time it's
+different. It's almost like the creatures and ships react to what their opponent
+did in the last repetition.
+
+Touching the sand creates ripples, and seems to change the outcome of that repetition.
+
+******** hidden exit
+A section of the mural is always dark -- no ships, lasers, stars, planets, gas
+clouds, or anything else seem to approach a section on the right of the
+mural. This is actually a door covered by a darkfield emitter. 
+
+********* chamber 14
+A circular chamber with a radius of about 15 feet.
+
+A device is built into a section of the wall opposite the door you come in. 
+
+A murden is currently inspecting the device. It will step aside to allow you to
+inspect the device, and if asked nicely will show you how it works. If attacked
+will activate a cypher that instantly teleports it elsewhere.
+
+The device is a blister of synth that seemingly grows from the wall. It has an
+opening about three feet wide and two feet tall. On the left side of the
+opening there is a lever, and below the lever is a button.
+
+The device attaches a small nodule to any metallic object placed within the
+device once the lever is pulled ( activates a force field over the hole ) and
+the button is pushed.
+
+Once attached, the nodule electrifies the metallic portion of the object for the
+next [1d10] days. After the charge dissipates, the nodule falls off on its own.
+
+Any creature hit by a weapon with the nodule attached must make a Level 4 Might
+defense roll or be stunned for its next turn.
+
+There are no other exits from this chamber.
+******** accessway
+Nearly hidden behind bundles of frayed wires, this accessway was built for
+slightly shorter creatures -- humans have to duck their heads to avoid hitting
+their heads on pipes and protuberances that extrude from the ceiling.
+********* chamber 15
+A rectangular chamber 30 feet across and 60 feet long.
+
+The walls are covered in iconography and what looks like written instructions,
+although you don't recognize the script.
+
+Two rows of chair-pods stretch the length of the chamber. Both rows are oriented
+so they open towards the center of the chamber. The pods are roughly ovoid, and
+stand about six feet tall. The body of the pod is made from a highly reflective
+metal, and the door seems to be made of some kind of crystal. Within the pod
+there is a comfortable looking chair.
+
+The pods don't seem to be built for humans; or at least not any humans you
+recognize. Iconography on the walls of the chamber seem to indicate that the pods
+are for a race of humans at least two feet taller than the average person today.
+
+Sitting in a pod activates it, which induces sleep in the occupant. The pod
+rises into the air and docks with a port set into the ceiling. For the next five
+minutes, the pod emits lights and sounds before settling back to the ground.
+
+Any human or human-enough creature that enters the pod gains +1 Intellect Edge
+for the next 28 hours. The process doesn't seem to be repeatable.
+
+There are no other exits from this chamber.
+****** sealed exit A
+A doorway filled with a jagged field of dark energy. Any creature that attempts
+to touch the field or pass through takes 2 points of Intellect damage.
+
+There is a panel that can be used to unlock the door, but the panel is broken,
+leaving only what appears to be a key slot of some kind. (key is in chamber 16)
+******* collapsed corridor 2
+Filled with rubble, this corridor is impassible.
+
+(if they insist on trying to clear it, gm intrusion to have the ceiling collapse
+more, potentially trapping one of them)
+****** sealed exit B
+A doorway filled with a shimmering field that gently rebuffs any attempt to
+cross it.
+
+A nearby panel can be used to unlock the door, a level 5 Intellect task.
+
+******* chamber 12
+A rectangular chamber 90 feet across and 180 feet long.
+
+This room is filled with shelves that are full of small square crystals. Most
+are inactive, but the handful that are show either a slideshow of images, or
+short films.
+
+This seems to just be some kind of physical storage for photos and videos, long abandoned.
+
+******** collapsed corridor 1
+The multi-segmented body of a machine intelligence is crushed underneath the
+collapsed ceiling of this corridor. At least, you think it's a machine
+intelligence; it's a little hard to tell because of the damage.
+
+It might be possible to dig a way through the rubble or the crushed robot, a
+level 4 might task to clear enough rubble for someone small to slip through (
+level 6 to clear enough for Zeno to get through )
+
+If players succeed, they find the chamber connects to Chamber 16 through a
+one-way phase door ( they can pass through into chamber 16, but not back through ).
+
+****** chamber 16
+A rectangular chamber that's 15 feet across and 30 feet long.
+
+The far end of the chamber is an intricate fountain, with multiple height pools
+and many spouts. However, instead of water it's filled with a strange yellow fluid.
+
+There are some chests and boxes stacked along one of the long walls near the
+door you used to enter the chamber. One of the boxes has been tipped over, and
+you can what looks like shins and maybe a cypher in the detritus.
+
+The cypher they saw is defunct, but if they search they can find:
+ - A level 6 Nano Needler
+ - 39 shins
+ - A small flask of level 3 Numbing Oil
+ - A small device, appears to be made of coral. Squeezing it causes it to
+   extrude a key made of silver wires and hard light. This is the key for sealed
+   exit A
+***** sealed exit C
 A force field blocks passage through this door. There is a panel next to the
 door with 9 symbols you don't recognize. A level 5 intellect task disables the
 force field, allowing you access to the chamber beyond.
@@ -300,9 +458,22 @@ appear every round.
 Group of five: horde, increase level by 2 and double damage.
 
 ******* trapped exit
-This exit seems to be sealed, it's a level 5 intellect task to unseal. On a
-failure the area around the door is filled with a shocking energy that does 8
-points of damage, anything within close range of the door is effected.
+This exit is blocked by a shimmering haze of sparkling energy.
+
+Attempting to touch it or pass through causes 2 points of Speed damage and
+prevents you from passing through.
+
+You can see the emitter for the field on the other side of the shimmering haze
+of energy, it looks like something cobbled together from random numenera and
+junk laying around.
+
+There is a panel affixed to the side of the doorway, it probably controls the
+field. A level 5 Intellect task will disable the field of energy.
+
+On a failure the area around the door is filled with a shocking energy that does
+8 points of damage, anything within close range of the door is
+effected. Touching or attempting to pass through the field of energy causes 2
+points of Speed damage.
 
 ******** chamber 6
 A hexagonal chamber 30 feet across. The ceiling of the chamber is a mess of
@@ -397,7 +568,7 @@ Ghoka is currently not in the ruin, currently home are the following:
   
   Loot:
   - 55 shins
-  - Banishing nodule, level 5
+  - Banishing Nodule, level 5
 ******* chamber 5
 A circular chamber with a radius of 15 feet.
 
@@ -441,6 +612,10 @@ tube. It's harmless, slightly nutritious, but tastes _terrible_
 
 There are no other exits from this chamber.
 ***** chamber 3
+A twisting corridor 30 feet long with what looks like framed paintings hung on
+either side. The paintings seem to be random splashes of colour, but they change
+each time you look at them.
+
 A square chamber, 50ft to a side.
 
 Contains thin glass panels floating in the air. Each is barely thicker than a

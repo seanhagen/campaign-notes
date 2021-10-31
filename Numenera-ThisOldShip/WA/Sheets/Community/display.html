@@ -1,0 +1,93 @@
+<div class="community community-display">
+  <div class="row">
+    <div class="col-sm">
+      <h1><strong>Community:</strong> {{ variables.name }}</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md">
+      <h1><strong>Rank:</strong> {{ variables.rank}}</h1>
+    </div>
+    {% if variables.population is not empty %}
+    <div class="col-md">
+      <h1><strong>Population:</strong> {{ variables.population}}</h1>
+    </div>
+    {% endif %}
+  </div>
+
+  <div class="row">
+    <div class="col-md">
+      <h3>Health: {{variables.health}}</h3>
+    </div>
+    <div class="col-md">
+      <h3>Armor: {{variables.armor}}</h3>
+    </div>
+    <div class="col-md">
+      <h3>Infrastructure: {{variables.infrastructure}}</h3>
+    </div>
+    <div class="col-md">
+      <h3>Damage Inflicted: {{variables.damage_inflicted}}</h3>
+    </div>
+  </div>
+
+  <div class="row">
+  {% if variables.government is not empty %}
+    <div class="col-lg">
+      <h2>Government</h2>
+      <p>{{ variables.government }}</p>
+    </div>
+  {% endif %}
+  {% if variables.overview is not empty %}
+    <div class="col-lg">
+      <h2>Overview</h2>
+      <p>{{ variables.overview }}</p>
+    </div>
+  {% endif %}
+  </div>
+
+  <div class="row">
+    {% if variables.combat is not empty %}
+    <div class="col-lg">
+      <h2>Combat</h2>
+      <p>{{variables.combat}}</p>
+    </div>
+    {% endif %}
+    {% if variables.pc_special_abilities is not empty %}
+    <div class="col-lg">
+      <h2>PC Special Abilities</h2>
+      <p>{{ variables.pc_special_abilities|ParseTable }}
+    </div>
+    {% endif %}
+  </div>
+  
+  <div class="row">
+    {% if variables.gm_intrusion is not empty %}
+    <div class="col-lg">
+      <h3>GM Intrusion</h3>
+      <p>{{ variables.gm_intrusion }}</p>
+    </div>
+    {% endif %}
+  </div>
+</div>
+
+variables:
+name                 | string *
+rank                 | integer *
+population           | integer
+
+health               | integer *
+armor                | integer *
+infrastructure       | integer *
+damage_inflicted     | integer *
+
+government           | text
+overview             | text
+
+combat               | text
+pc_special_abilities | text (table)
+
+gm_intrusion         | text
+
+
+|ParseTable
+

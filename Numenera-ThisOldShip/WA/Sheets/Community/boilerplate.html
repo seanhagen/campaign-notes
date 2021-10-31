@@ -1,0 +1,51 @@
+<div>
+	<h1>{{ variables.name }}</h1>
+	{% if variables.name is defined %}
+			<dt>Name</dt>
+		<dd> {{ variables.name}} </dd>
+		{% endif %}
+	{% if variables.rank is defined %}
+			<dt>Rank</dt>
+		<dd> {{ variables.rank}} </dd>
+		{% endif %}
+	{% if variables.government is defined %}
+			<dt>Government</dt>
+		<dd> {{ variables.government}} </dd>
+		{% endif %}
+	{% if variables.health is defined %}
+			<dt>Health</dt>
+		<dd> {{ variables.health}} </dd>
+		{% endif %}
+	{% if variables.infrastructure is defined %}
+			<dt>Infrastructure</dt>
+		<dd> {{ variables.infrastructure}} </dd>
+		{% endif %}
+	{% if variables.damage_inflicted is defined %}
+			<dt>Damage Inflicted</dt>
+		<dd> {{ variables.damage_inflicted}} </dd>
+		{% endif %}
+	{% if variables.armor is defined %}
+			<dt>Armor</dt>
+		<dd> {{ variables.armor}} </dd>
+		{% endif %}
+	{% if variables.combat is defined %}
+			<dt>Combat</dt>
+		<dd> {{ variables.combat}} </dd>
+		{% endif %}
+	{% if variables.overview is defined %}
+			<dt>Overview</dt>
+		<dd> {{ variables.overview}} </dd>
+		{% endif %}
+	{% if variables.gm_intrusion is defined %}
+			<dt>GM Intrusion</dt>
+		<dd> {{ variables.gm_intrusion}} </dd>
+		{% endif %}
+	{% if variables.population is defined %}
+			<dt>Population</dt>
+		<dd> {{ variables.population}} </dd>
+		{% endif %}
+	{% if variables.pc_special_abilities is defined %}
+			<dt>PC Special Abilities</dt>
+		<dd> {{ variables.pc_special_abilities|ParseTable}} </dd>
+		{% endif %}
+</div>
