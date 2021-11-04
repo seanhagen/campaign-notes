@@ -6,6 +6,28 @@ The only exit from the entrance chamber leads to a corridor that comes to
 an X intersection after about 10 feet or so.
 
 *** relic chamber
+After passing through a corridor about 100 meters long, you find yourselves in a
+massive chamber. From what you can tell, it appears to be hexagonal.
+
+At least 100 feet across, you are unable to determine the length or true shape
+of the chamber for several reasons:
+
+1) Most of the chamber is shrouded in darkness. You don't feel or sense any
+   threat or danger from the darkness, it seems to be simply a case of "let's
+   find the light switch".
+2) A shimmering veil of energy prevents you from going more than 50 feet into
+   the chamber, and the nature of the veil makes it harder to ascertain what's
+   in the chamber.
+3) The one thing you are able to make out quite clearly though, is the massive
+   airship that takes up much of the chamber. It blocks out much of what lay
+   behind it, further lending to your issues determining the size and shape of
+   the chamber.
+
+From what you can tell, the ship is in perfect condition. Roughly 80 feet wide
+and you estimate that it's at least 200 feet long -- although the back half is
+shrouded by darkness, making it hard to accurately determine the dimensions of
+the vessel.
+
 
 
 *** chamber 1
