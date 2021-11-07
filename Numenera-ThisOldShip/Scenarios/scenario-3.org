@@ -4,27 +4,37 @@ notes:
    storage room with some cyphers and shins
  - unexplored exits should be treated like sealed exits, although the ship AI
    may have clues about where to find the keys
-* entrance
-a 
+* ship entrance
+The metal of the hatch into the ship lay open, exposing the ramps that lead into
+the ship. Walking down them, you travel a short distance before finding yourself
+in an open room.
+
+What look like lockers surround the edge of the room, with a single door leading
+out. The door is either jammed open or broken somehow, but it won't close.
 ** corridor A
 type: 16
 *** chamber 1
-size: 17
-shape: 18
+The door leads you into a half-circular room, the door you emerged from set into
+the flat wall that bisects the circle. The straight wall is 50 feet across.
+
 feature: 43
+
+After searching the room, you find two partially hidden doors in addition to the
+one leading into a corridor.
+
 **** corridor B
 type: 9
 integrated machine: 44
 ***** chamber 2
-size: 16
-shape: 20
+A triangular room, with each wall being 50 feet long.
+
 feature: 30
 ****** shaft
 type: 8
 depth roll: 4
 ****** chamber 3
-size: 19
-shape: 16
+A rectangular room 60 feet wide and 120 feet long.
+
 feature: 78
 - door to chamber 4 needs a sign saying it's a repair facility or something
 ******* interstitial cavity
@@ -85,44 +95,286 @@ vault contents:
 ******** corridor D
 type: 19 (t-intersection)
 ********* chamber  6
-size: 16
-shape: 11
-feature: 70
-no exit
+A rectangular room 40 feet across and 60 feet long.
+
+The ground seems to be covered in a fine layer of sand.
+
+The room contains 8 metallic green boxes. Each one has a number of slots on top,
+it looks like they're meant to hold crystals. Only a few have crystals slotted
+in. A few of the boxes are humming, others occasionally spit sparks.
+
+On the far wall, you see what appears to be storage shelves containing a number
+of boxes.
+
+As you approach the far wall, something that was hidden by the devices reveals
+itself: a few skeletons. They seem to have died running to or from the wall.
+
+(if inspected): They seem to have been gathering crystals from the devices in
+the room when they were killed; the ones that seem to have fallen towards the
+storage boxes are all holding small tubes in their hands, the others are holding
+nothing. The small tubes contain nothing but sand.
+
+(if the boxes are searched): You search through the boxes, finding nothing but
+the tubes of sand. [if Neta is with the party, she will be visibly agitated]
+You're about to give up, when you find one box that was better sealed than the
+rest. Within you find [1d8+2] crystals [Neta will be visibly relieved to see this].
+
+The boxes are arranged like so:
+
+A B C
+D   E
+F G H
+
+Each box contains a portion of Neta's memories, personality, or provides access
+to a limited portion of the ships systems.
+
+## GM Only ##
+
+This is what each box contains:
+
+A -> several libraries worth of philosphical texts, as well as a small
+collection of memories about Ager
+
+B -> war protocols, luckily this one is damaged (spitting sparks) if a player
+tries to fix the box, Neta will become very agitated and say things like
+"there's a bad part of me in there, please leave it alone". if the machine is
+fixed, every crystal slotted into this machine moves her further from "cortana
+in halo 1" to "the offspring of cortana from halo 5 and light hope who will try
+to kill you"
+
+C -> an increidbly detailed encylopedia about several extinct cultures, as well
+as information about the flora and fauna of the area around ararholm
+
+D -> star charts, shipping lanes, and navigational routes (this box hums)
+
+E -> limited control over security functions in this area of the ship
+
+F -> information on several of the relics contained in the ship
+
+G -> incredibly detailed logs of the weather and events that happened near the
+door to the ship, dating back thousands of years ( by incredibly detailed,
+imagine a log file that had the exact temperature, wind speed, wind direction,
+humidity, and uv index for each second, as well as plenty of other readings, and
+entries detailing creatures seen near the ship, strange cloud formations, etc --
+anything the ship could see or hear or sense, for every second over the last
+several thousand years, detailed in stupifying detail ) (this box hums)
+
+H -> blueprints for numenera
+
+The number of crystals slotted into a box determines the level that Neta is for
+that particular kind of thing -- the formula is [10 - <number of crystals
+inserted>]. Each box has 15 slots.
+
+Slot in one crystal into box E and she can control a couple of doors, but not
+lock them. Slot in 10 and she has access to security drones, teleportation
+functions, and a host of other security protocols.
+
+For boxes that contain information, the level determines how much of that
+knowledge Neta has access to, as well as how well she is able to find particular
+pieces of information. Slotting in more than 10 and she'll start to unlock
+specialized equipment relating to that area of expertise.
+
+The humming boxes contain either information that is currently useless, or
+contains /too much/ information that it's practically useless without 8 or more
+crystals.
+
+## Neta ##
+
+If the players stumble upon this room, Neta will show up in "dumb terminal" mode
+and state this area is off limits to passengers. If they continue to mess about,
+or try to take things, she'll activate a level 7 security automaton that will
+attempt to subdue the party and move them elsewhere. 
+
+If the players have met her elsewhere but haven't gained her trust, she may or
+may not appear in "dumb terminal" mode, but she will be visibly upset the party
+is in this room and will ask them to leave. If they find the crystals and try to
+leave with them, she'll activate the security automaton.
+
+If the players have gained her trust, once they find the crystals she'll tell
+them what boxes to put them in based on what the party is trying to do:
+
+- she needs 3 in box E to turn off the force field preventing access to corridor
+  E/chamber 7
+- she needs 2 in box F to remember what the eye does, more will let give her
+  access to information on artefacts and vaults in the ship ( the more crystals,
+  the better the relics/artefacts/vaults )
+
+There are no other exits from this room.
+
 ********* sealed exit
 ******** corridor C
 type: 9
 ********* chamber 5
-size: 13
-shape: 13
-feature: 5
+A rectangular chamber 25 feet across and 40 feet long.
+
+This room seems to be some kind of train station, you see what are clearly
+ticket booths, plenty of benches for waiting, and a number of depowered
+automatons that seem to be guides.
+
+For some reason, it seems creepier that there's no dust or cobwebs.
+
 ********** sealed exit
+This sealed door requires a key found in another ruin.
 ********** sealed exit
+This sealed door requires a key found in another ruin.
 ********** corridor to another area of ship
-broken down tram, otherwise space is far too long or impassable
-********** hidden exit
-********** broken exit
-- key in chamber 4
+You travel down a corridor that ramps down, deeper into the earth. After a few
+minutes, you emerge through a doorway into a huge open space. Mostly the space
+is just dark, but it's large enough you can't hear an echo. You can see a few
+spots that appear to be lit up far in the distance. If you carefully sidle up to
+the edge of the platform and peer over, you can see that the platforms float or
+are otherwise supported -- there's nothing beneath them. Far below you can see a
+few other lights; more sections of the ship.
+
+Each of the two platforms have two sets of tracks, one on each side. This
+appears to be a terminus station for four different tram lines.
+
+Each of the tracks is made from several parts. The most immediately noticeable
+part is the third rail; it's a tube of material that seems to have some kind of
+glowing liquid flowing through it. The two support rails are made from a
+shimmering metal that you could swear is liquid aluminum. The track ties are
+rods of a bronze-colored metal, each end capped with a semi-spherical cap that
+glows yellow.
+
+One of the platforms has a tram stationed there.
+
+The tram is powered off, and opening either of the doors is a level 5 might
+task.
+
+The tram can't be powered up, a part is missing.
+
+Traversing the tracks isn't impossible, but making it to another station without
+falling off is improbable.
+
+********** sealed exit
+A force field covers this door, and the keypad seems to be damaged beyond
+repair.
+
+However, there does seem to be a spot for a physical key of some kind, which may
+allow you to open the door -- once you take care of the force field.
+
+If they haven't met Neta yet, she will appear here in a "dumb voice terminal"
+mode; although this is an act. She will inform the players that secure areas of
+the ship are off limits to passengers; they should contact the ship steward if
+there is an issue they require help with.
+
 *********** corridor E
-partially collapsed
+Partially collapsed, requires a difficulty 5 might task to squeeze through (
+difficulty 6 for Xeno, because Xeno )
+
 ************ chamber 7
-size:
-shape:
-feature:
+A square room, 15 feet to a side.
 
-feature is broken, and is the reason for the water being fouled
- - it's a machine that did _something_ to the water
- - can be bypassed (level 5)
- - machine can be turned off (level 3), but that means no more waterfall in the village
- - if players want to fix the machine, they need parts (figure out a list, the
-   wright should have some and know a good place to find the rest -- like the
-   ruin they need the party to check out!)
+Hovering the center of the room are a number of floating dark blue orbs. Every
+few seconds, an orb... well, glitches is the only way to describe what
+happens. Perhaps for a moment it seems to be split in two, or the color changes,
+or seems to be hazed by static. No two glitches seem to be the same. 
 
-this is where the broken piece of the ship is
+The orbs are spread throughout the room, floating between 5 and 8 feet from the
+ground.
+
+In the center of the room is a large tube made from glass or some clear
+crystal. The bottom of the tube is connected to a large brass device that seems
+to be entirely made of globular chambers and lots and lots of pipes. Every five
+minutes or so, a hole in the bottom of the tube burps forth a smaller, thumbnail
+sized version of the orbs you see floating through the room. These smaller orbs
+tend to wander and orbit within the glass tube.
+
+One section of the tube is missing, where there seems to be a hole that was
+blasted or melted through the glass.
+
+However, unlike the orbs floating through the room, the smaller ones will hit
+each other as they wander within the tube. If they hit with enough force, they
+merge. This snowballs until they reach the same size as the orbs floating
+outside the tube, at which point they begin glitching. A short while after they
+begin glitching, the orb will disappear from the tube, and appear within the
+room.
+
+Observing the tube for a few minutes, you're able to calculate that this machine
+has been broken like this for 20-25 years; a good candiate for the machine
+that's fouling the water ( Neta will confirm this if they're with the party ).
+
+You're not sure how it's affecting the water, but this seems to be the root
+cause of the problem.
+
+Potential solutions ( that don't fix the machine, just stop the flow of water ):
+ - Can be bypassed (level 5) 
+ - Machine can be turned off (level 3)
+
+Fixing the machine is more involved:
+ - they need to find Neta if they haven't already
+ - Neta can provide a list of parts
+ - One part is within a part of the ship accessible from the entrance
+ - Other parts will require either fixing the tram system or finding a vehicle
+   they can get down into the ship
+ - A few parts are in sections of the ship that got disconnected; these parts
+   are in ruins near Ararholm
+
 ******** sealed exit
+A force field blocks your way.
+
+Through the haze of the field, you can just barely make out what lies beyond --
+some kind of floating orb.
 ********* relic chamber
-relic anatomy: eye
-quality: 19
+A hexagonal chamber about 35 feet across.
+
+Floating in the center of the room in a glittering energy field is a great
+orb. The orb is about 1.75 meters in diameter, and the dark green material it is
+made from is slightly reflective.
+
+Upon closer inspection, you realize that this orb is an eye; either a replica or
+an actual organ, floating here before you. As you look at the eye, you keep
+finding new details -- even in places you had examined previously.
+
+You find something about the eye contemplative and restful.
+
+[if they rest in the room for a minute or two]
+
+After contemplating the eye for a minute, your sight is drawn to the walls of
+the chamber. After a moment, you realize that what you thought were circuits or
+decorative scrollwork actually form a mural.
+
+Upon further inspection, you see events depicted using a combination of images
+and pictographs, although the nature of the mural makes deciphering the images a
+bit tricky.
+
+You're just about to turn away when one set of images catches your
+eye. Something about them seems familiar. Looking closely, you see a series of
+images:
+
+- A man stepping through a giant doorway
+- That same man, now paired with a woman, running from... something
+- The man, leading a group of people past a tree
+- The man and a shining being, talking
+- An images of the man and someone bearing a likeness to Fox, both standing over
+  a child and protecting them
+- A crowd of mourners surrounding the man, apparently now dead
+- The final image in the sequence is the man -- represented with thinner, dotted
+  lines -- standing behind a what appears to be a young woman; it appears to be Pamki
+
+[if the players realize it's Ager and parts of his life]
+
+Behind you a column of light appears, before reducing in intensity and
+revealing... a blue woman, made of light?
+
+(introduce Neta/Weaver)
+
+- she'll tell the team that some parts of the ship were separated long ago, she
+  doesn't remember when exactly, or how.
+- the other portions of the ship contained powerful technology ( they may have
+  already found one -- the ship hidden in Ghoka's hideout )
+- she has limited control of the ships systems; she was built to be a navigator,
+  not a mechanic or engineer
+- she tells them the one thing she does remember is that the ship was carrying a
+  very dangerous cargo, and was meant to take it far away and dispose of it --
+  somehow; she remembers the cargo being particularly hard to destroy with the
+  means available to the builders of the ship
+- she's been alone a very long time, Ager was the first being she had met for as
+  long as she could remember ( will ask where Ager is, and then glitch out for a
+  moment before stating "oh. i see.", and continues on )
+- she can guide them to where the broken machinery is that's fouling the water (
+  she doesn't know where the key for chamber 5 is, though )
+  
 ******** unexplored exit 1
 ******** unexplored exit 2
 ******** unexplored exit 3
@@ -130,11 +382,22 @@ quality: 19
 ******** unexplored exit 5
 ******** unexplored exit 6
 ******* chamber 4
-size: 18
-shape: 16
+A rectangular room 40 feet wide and 80 feet long.
+
+## needs to contain key for broken exit in chamber 5##
+
 feature: 85
+
 ******** sealed exit
+This door is sealed, and you don't see a panel or lock or keyhold that you could
+use to unseal it.
+
+It may be opened from elsewhere in the ship, or require some kind of device to
+open.
+
 ******** hidden exit
+
+
 **** hidden door
 ***** accessway 1
 connects to interstitial cavity 1

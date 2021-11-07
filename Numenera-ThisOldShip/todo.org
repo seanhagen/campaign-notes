@@ -1,8 +1,8 @@
-* First Session [38%]
+* First Session [39%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** travel roles
+** travel roles 
 *** Klep - navigator
 person in charge of path-finding through the wilds
 *** Zeno - scout
@@ -16,7 +16,11 @@ they travel
 *** Fox - general guard
 the person who's responsible for making sure that nothing ambushes the party
 from in front or above
-** STARTED Need several potential scenarios & encounters [27/42]
+** travel notes
+- need to tell me /how/ they're travelling -- quickly, normal pace, carefully,
+  etc.
+-   
+** STARTED Need several potential scenarios & encounters [29/43]
 sheriff:
  - scenario 1
  - scenario 5
@@ -173,6 +177,8 @@ need:
   - use the ring to turn off the force field ( same ring that opens the ship,
     pamki has it, if they get the ring then have them meet the ship AI )
 
+**** TODO 
+
 *** DONE scenario 4: in town (pamki)
 CLOSED: [2021-10-16 Sat 23:43]
   someone has stolen some old numenera and some personal items that belonged to
@@ -197,7 +203,8 @@ not one of ghoka's men, same person who stole from warehouse
 **** DONE where they are now
 CLOSED: [2021-10-16 Sat 23:12]
 in ghoka's hideout, they're one of the explorers in chamber 8
-*** STARTED scenario 5: near town (sheriff)
+*** DONE scenario 5: near town (sheriff)
+CLOSED: [2021-11-06 Sat 17:11]
 - the sheriff knows that ghoka has found somewhere else to set up camp. sheriff
   is worried that it's a ruin where ghoka will find something that will give him
   a deadly edge against the town.
@@ -223,7 +230,8 @@ in ghoka's hideout, they're one of the explorers in chamber 8
 **** DONE build map of ruin
 CLOSED: [2021-10-17 Sun 21:58]
 [[file:Scenarios/scenario-5.org::*entrance][scenario 5 map outline]]
-**** TODO fill in map parts
+**** DONE fill in map parts
+CLOSED: [2021-11-06 Sat 17:11]
 **** DONE place map on ruins
 CLOSED: [2021-10-16 Sat 23:01]
 township level, hex d1 ( name: ghoka's hideout )
