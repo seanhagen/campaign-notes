@@ -16,7 +16,7 @@ they travel
 *** Fox - general guard
 the person who's responsible for making sure that nothing ambushes the party
 from in front or above
-** STARTED Need several potential scenarios & encounters [26/37]
+** STARTED Need several potential scenarios & encounters [27/42]
 sheriff:
  - scenario 1
  - scenario 5
@@ -227,7 +227,8 @@ CLOSED: [2021-10-17 Sun 21:58]
 **** DONE place map on ruins
 CLOSED: [2021-10-16 Sat 23:01]
 township level, hex d1 ( name: ghoka's hideout )
-*** STARTED scenario 6: near town (wood worker)
+*** DONE scenario 6: near town (wood worker)
+CLOSED: [2021-11-06 Sat 17:01]
 forest name: grey woods
 - there's a small forest near the town, only a few acres, but it'll provide
   enough wood to keep the woodworker in enough wood for the next few projects
@@ -286,7 +287,12 @@ CLOSED: [2021-10-16 Sat 23:45]
 the caravan can repair their floating "wagons", but it'll take a day and they
 need to do it out in the open, so they'd appreciate some protection while they
 do so
-*** TODO put clues in each ruin about "big bad" or overarching mystery
+*** TODO put clues in each ruin about "big bad" or overarching mystery [0/5]
+**** TODO scenario 2
+**** TODO scenario 3
+**** TODO scenario 5
+**** TODO scenario 6
+**** TODO scenario 7
 ** TODO Finish populating town with major NPCs [7/19]
 *** DONE the "seamstress" madam [100%]
 CLOSED: [2021-10-28 Thu 21:20]
