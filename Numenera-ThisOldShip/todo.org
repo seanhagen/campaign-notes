@@ -351,8 +351,7 @@ a bit of a hippy kind of person, really doesn't like fighting
 **** TODO little bio
 *** TODO an insane/not-all-there "shaman"
 **** TODO stats
-**** TODO little bio
-** TODO Sable Hegemony [0/5]
+**** TODO little bio** TODO Sable Hegemony [0/5]
 *** TODO the empress/queen
 ** TODO Voz Dynasty [0/6]
 *** TODO the khan

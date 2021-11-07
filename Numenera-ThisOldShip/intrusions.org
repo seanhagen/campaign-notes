@@ -1,9 +1,5 @@
-Intrusions
-==========
-
-These are suggestions of intrusions to use in various scenarios.
-
-# Cyphers or Artefacts
+* Intrusions
+** Cypers or Artefacts
 Not all GM intrusions, even those triggered by a roll of 1 on the die, should be
 fumbles or malfunctions. A GM intrusion can be anything that potentially changes
 the course of the action or the storyline. However, when the intrusion involves
