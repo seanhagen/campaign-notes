@@ -160,13 +160,11 @@ the ruin, preferably a pack
 **** STARTED build the ship "entrance hall"
 the parts of the ship that are well known and fully explored
 [[file:Scenarios/scenario-3.org::*entrance][scenario 3 map outline]]
-
 **** TODO fill out scenario outline with descriptions
 **** TODO build the part of the ship that contains the broken equipment
 need:
-- [ ] broken machine that's fouling the water
+- [X] broken machine that's fouling the water
 - [ ] the machine that produces or pumps the water
-
 **** TODO the twist
 - to get to the area of the ship they need to get to, there's a door they need
   to pass through that's protected by a strong force field. a holographic
@@ -176,9 +174,6 @@ need:
   - alternate routes?
   - use the ring to turn off the force field ( same ring that opens the ship,
     pamki has it, if they get the ring then have them meet the ship AI )
-
-**** TODO 
-
 *** DONE scenario 4: in town (pamki)
 CLOSED: [2021-10-16 Sat 23:43]
   someone has stolen some old numenera and some personal items that belonged to
@@ -336,11 +331,13 @@ shirtless, showing off the tattoos covering his right arm
 is a very talented wood worker
 
 **** STARTED other details
-a bit of a hippy kind of person
+a bit of a hippy kind of person, really doesn't like fighting
 
 *** TODO Dibbler [0%]
 **** TODO personality, basic details
+- wants to be a rumor monger, but is really not very good at it
 **** TODO other details
+- 
 ** TODO Create some goons & flesh out Ghoka's gang [%]
 *** TODO more on ghoka
 **** TODO stat him up
@@ -465,6 +462,10 @@ need to write better articles for each timeline entry
 - [ ] general overview
 - [ ] culture (music, popular foods, clothing style, manerisms, traditions)
 - [ ] religion
+
+https://static.tvtropes.org/pmwiki/pub/images/EmpressOfMijak_6998.jpg
+
+
 **** TODO army
 - leader
 - fighting style
@@ -552,3 +553,10 @@ there should be a few things hidden in maka-tho that are dangerous if set loose,
 and there should be some powerful numenera hiding out there too
 ** TODO fill out the tavern with stuff
 - crib from here: https://thealexandrian.net/wordpress/37558/roleplaying-games/numenera-tavern
+* Tools to look into
+- https://infinite-woodland-34884.herokuapp.com/
+- https://encounters.heromuster.com/
+- https://docs.google.com/spreadsheets/d/1CMIvdqooE-snXUROMPXSoW2gmRPxGrU1yDtcrrwQoM0/edit#gid=0
+- https://www.gnu.org/software/emacs/manual/html_mono/forms.html
+- https://gitlab.com/maltelau/org-lookup-dnd
+- https://www.youtube.com/watch?v=KctY8FCXgi8

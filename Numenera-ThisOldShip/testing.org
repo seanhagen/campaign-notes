@@ -1,0 +1,27 @@
+#+TITLE: My awesome editing log
+
+This will invoke inkscape for editing "pill.svg".
+
+#+BEGIN_SRC sh :results raw :var file="./pill.svg"
+inkscape $file >/dev/null 2>&1
+echo "[[file:$file]]"
+#+END_SRC
+
+#+RESULTS:
+[[file:./pill.svg]]
+
+
+This will invoke gimp for editing "image.png".
+
+#+BEGIN_SRC sh :results raw :var file="./image.png"
+gimp $file >/dev/null 2>&1
+echo "[[file:$file]]"
+#+END_SRC
+
+#+RESULTS:
+[[file:./image.png]]
+
+
+# Local variables:
+# after-save-hook: org-redisplay-inline-images
+# end:

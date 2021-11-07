@@ -1,3 +1,8 @@
+# Local Variables:
+# mode: org
+# mode: org-d20
+# org-d20-party: (("Zeno" . 0) ("Belel" . 0) ("Ureos" . 0) ("Fox" . 0) ("Klep". 0)
+# End:
 * entrance
 the ruins a corner of a rectangular building are all that remain, but a hatch
 opens to reveal a set of stairs descending into a corridor
@@ -345,6 +350,17 @@ energy fields
 
 can be trained by using numenera with energy, requires a level 6 intellect check
 to convince
+
+Round of combat: 1
+| Turn | Creature | Mod | Init | HP | Damage | Status |
+|------+----------+-----+------+----+--------+--------|
+| >>>> | ergovore |  +0 |      | 12 |      0 |        |
+|      | fox      |  +0 |      | 50 |      0 |        |
+|      | belel    |  +0 |      | 50 |      0 |        |
+|      | ureos    |  +0 |      | 50 |      0 |        |
+|      | klep     |  +0 |      | 50 |      0 |        |
+
+
 ****** corridor D
 passage slopes up slightly, about 10 feet long
 
