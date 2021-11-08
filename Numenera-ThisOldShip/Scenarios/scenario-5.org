@@ -1,7 +1,7 @@
-* entrance
+* entrance                                                         :explored:
 A cleft in the rocks opens up into a round chamber about 20 feet across. There
 are three doors in this chamber, but two are filled with rubble from collapsed ceilings.
-** corridor A
+** corridor A                                                     :explored:
 The only exit from the entrance chamber leads to a corridor that comes to
 an X intersection after about 10 feet or so.
 
@@ -61,8 +61,8 @@ chamber within.
 Anything placed within the device has metallic googly eyes attached.
 
 There are no other exits from this room.
-*** shaft
-After travelling down a corridor that descends for about 50 feet, you find
+*** shaft                                                        :explored:
+After travelling down a corridor that descends for about 10 feet, you find
 yourself entering another chamber.
 
 You enter into a circular chamber about 90 feet across. Set into the ground is
@@ -116,7 +116,7 @@ It's a level 3 might task to go to the bottom without slipping, while a level 5
 intellect task allows the PC to figure out how to "steer".
 
 **** exits along the side of the shaft
-***** chamber 8
+***** chamber 8                                                :explored:
 A rectangular chamber 30 feet across and 60 feet long.
 
 The longer walls are covered in racks and shelves that contain thousands of
@@ -144,6 +144,15 @@ One of the ones left is the thief who stole from Mex & Pamki.
 
 The group contains:
 
+Round of combat: 4
+| Turn | Creature   | Mod | Init | HP | Damage | Status |
+|------+------------+-----+------+----+--------+--------|
+|      | ureos 1    |  +0 |   30 | 50 |      0 |        |
+|      | thief 1    |  +0 |   29 | 15 |      0 |        |
+|      | explorer 1 |   0 |   25 | 18 |      0 |        |
+|      | explorer 2 |   0 |   25 | 18 |      0 |        |
+| >>>> | fox 1      |  +0 |   11 | 50 |      0 |        |
+
 - the thief, a level 4 (12) nano
   health: 15  damage: 3  movement: short
   resists mental effects as level 4
@@ -155,6 +164,8 @@ The group contains:
 
   in addition to the loot they stole, they also have on them:
   - 4 shins
+
+  he managed to hide this, uses it to escape:    
   - Teleporter (mass), level 2 (pg 94 in tech compendium)
 
 - two explorers, level 4(12)
@@ -162,6 +173,15 @@ The group contains:
 
   Try to stay at range and attack with pistols, will abandon the nano if made
   aware he stole from Pamki or Mex
+
+  - explorers:
+     sharlon vortez (sword)
+      - a squat, unkempt man, full of energy.
+        deception & intimidation tasks at +1, running & climbing at -1
+        
+     georgio carlucci (pistol)
+      - a huge, awkward, deliberate man
+        eletronic tasks at +2, perception-related tasks at -1
 
   loot:
   - light pistol
@@ -419,16 +439,16 @@ Contains nothing but a strange device that murmurs in unknown languages when you
 approach.
 
 There are no other exits from this room.
-**** chamber at bottom of shaft (chamber 2)
+**** chamber at bottom of shaft (chamber 2)                     :explored:
 A circular chamber with a 90 foot radius.
 
-The ground is steelglass, beneath your feet you can see an incredibly complex
+The floor is steelglass, beneath your feet you can see an incredibly complex
 machine with thousands of moving parts. After staring for a moment you realize
 that the machine doesn't return to a previous state, it's always moving to a new
 formation you haven't seen before.
 
-In the center of the chamber a portion of the device sticks through the floor --
-a circle about 30 feet in diamter rises two feet from the floor. The edge of
+Near the exit of the chamber a portion of the device sticks through the floor --
+a circle about 20 feet in diamter rises two feet from the floor. The edge of
 plinth looks like its made from a weave of constantly shifting metalic
 fibers. The surface of the plinth is a flat sparkling surface. Anything that
 touches the surface will be drained of water ( inflicts 2 points of Speed damage
@@ -436,15 +456,18 @@ to a PC who touches the surface ).
 
 There is a single exit, an accessway previously hidden by a panel of synth.
 
-***** accessway
+***** accessway                                                :explored:
 The only exit from the shaft, the accessway is cramped, and normal height humans
 have to duck to get in.
+
+Zeno needs to make a level 4 might task to get through (failure means getting
+stuck).
 
 The accessway winds back up the "outside" of the shaft a few times before
 veering away, continuing for another 50 feet before opening up into a giant
 cavity.
 
-****** interstitial cavity 1
+****** interstitial cavity 1                                  :explored:
 The accessway opens up onto a catwalk above a massive chamber roughly 900 feet
 long and 550 wide.
 
@@ -457,7 +480,7 @@ about the chamber. They drift randomly, sometimes combining or splitting apart.
 A number of exits lead from the catwalk out of this chamber.
 
 Growing from the ceiling is what appears to be a giant fungus colony. Upon
-closer inspection you can see creatures climbing over the colony -- Colchin!
+closper inspection you can see creatures climbing over the colony -- Colchin!
 
 A group of six of them approach you on the catwalk.
 
@@ -477,7 +500,7 @@ appear every round.
 
 Group of five: horde, increase level by 2 and double damage.
 
-******* trapped exit
+******* trapped exit (northern most exit)           :disarmed:explored:
 This exit is blocked by a shimmering haze of sparkling energy.
 
 Attempting to touch it or pass through causes 2 points of Speed damage and
@@ -495,7 +518,7 @@ On a failure the area around the door is filled with a shocking energy that does
 effected. Touching or attempting to pass through the field of energy causes 2
 points of Speed damage.
 
-******** chamber 6
+******** chamber 6                                          :explored:
 A hexagonal chamber 30 feet across. The ceiling of the chamber is a mess of
 pipes and cables.
 
@@ -510,7 +533,7 @@ One of the statues is wearing your shoes.
 
 A single exit is found opposite the door you entered from.
 
-********* chamber 7
+********* chamber 7                                        :explored:
 You've found the hideout of Ghoka's gang. 
 
 You're in a rectangular room, 30 feet across and 60 feet long. The door you
@@ -589,6 +612,25 @@ Ghoka is currently not in the ruin, currently home are the following:
   Loot:
   - 55 shins
   - Banishing Nodule, level 5
+
+bandit group:
+hp: 6/bandit
+
+Round of combat: 2
+| Turn | Creature  | Mod | Init | HP | Damage | Status              |
+|------+-----------+-----+------+----+--------+---------------------|
+|      | zeno      |  +0 |   20 | 50 |      0 |                     |
+|      | ukrurg 1  |  +0 |   18 | 28 |     19 | bloodied; disarmed, fox has longsword |
+|      | djall 1   |  +0 |   18 | 10 |      0 |                     |
+|      | fox       |  +0 |   17 | 50 |      0 |                     |
+|      | belel     |  +0 |   14 | 50 |      0 |                     |
+| >>>> | bandit 1  |  +0 |   12 | 30 |     16 | 2 bandits; bloodied |
+|      | bandit 2  |  +0 |   12 | 30 |     16 | 1 bandits; bloodied |
+|      | bandit 3  |  +0 |   12 | 30 |     10 | 3 bandits          |
+|      | ureos     |  +0 |   10 | 50 |      0 |                     |
+|      | sharlon 1 |  +0 |    1 | 10 |      0 |                     |
+|      | klep      |  +0 |    3 | 50 |      0 |                     |
+
 ******* chamber 5
 A circular chamber with a radius of 15 feet.
 
