@@ -7,10 +7,10 @@
 the ruins a corner of a rectangular building are all that remain, but a hatch
 opens to reveal a set of stairs descending into a corridor
 ** corridor A
-the corridor contains the workings of a machine with two openings (blue,
-entrance and green, the exit) and a set of controls at one end. if a pc steps
-into one of the entrances and another pc succeeds on a level 4 intellect check
-the device is activated.
+the corridor contains the workings of a machine with two openings (blue and
+green, the entrance and exit respectively) and a set of controls at one end. if
+a pc steps into one of the entrances and another pc succeeds on a level 4
+intellect check the device is activated.
 
 if standing in the blue entrance, they are shifted out of phase for [2d10+1]
 hours
