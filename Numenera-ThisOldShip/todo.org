@@ -19,7 +19,7 @@ from in front or above
 ** travel notes
 - need to tell me /how/ they're travelling -- quickly, normal pace, carefully,
   etc.
--   
+- 
 ** STARTED Need several potential scenarios & encounters [29/43]
 sheriff:
  - scenario 1
@@ -184,12 +184,12 @@ when talking about this. whatever was stolen was important.
 
 **** DONE what was stolen
 CLOSED: [2021-10-16 Sat 23:43]
-- the numenera:
+ - the numenera:
   - hanging cocoon (level 5)
   - habiliment mirage (level 5)
   - occular helm (level 6)
 
-- the personal items pamki actually cares about:
+ - the personal items pamki actually cares about:
   - a still image of her parents and her, taken before her mom got sick
   - one of her father's journals
 **** DONE who stole it
@@ -313,6 +313,8 @@ Lowen Hob
 **** TODO basic details
 has a very deep voice, almost makes your bones rumble
 **** TODO other details
+can fight, but prefers to use some numenera he's picked up over the years to
+stop fights in his tavern
 *** TODO the mason [33%]
 **** DONE name
 CLOSED: [2021-10-18 Mon 14:16]
@@ -320,6 +322,10 @@ Sech Nokham
 **** STARTED basic details
 image: https://db4sgowjqfwig.cloudfront.net/campaigns/123273/assets/577028/3d6d33d7fb089d1fdfc39b70a826e171.jpg?1460139730
 **** TODO other details
+a bit arrogant about his skills, has a bit of a friendly/unfriendly rivalry with
+mex about who's the better craftsperson ( he thinks she doesn't create things
+with any "art or soul", she thinks his designs are almost so artistic they lose
+functionality )
 *** TODO the woodworker [33%]
 **** DONE name
 CLOSED: [2021-10-17 Sun 13:04]

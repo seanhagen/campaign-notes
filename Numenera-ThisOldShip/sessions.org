@@ -33,14 +33,58 @@ ruling:
  - healing points in a pool is an intellect task with the difficulty equal to
    how many points they're trying to heal
 
-- maps will be symbolic on world anvil instead of using hex paper, players won't
-  be doing cartography of the area
+other bits:    
+ - maps will be symbolic on world anvil instead of using hex paper, players won't
+   be doing cartography of the area
+ - determine what the bandits had on them that the party takes
+ - map out some more ruins on the overworld -- maybe find something to do the
+   mapping digitally, so it's easier to run off the laptop
+ - trade and stuff: stores that sell common goods will take shins, merchants that
+   sell rarer stuff will barter ( or take a LOT of shins, like more than the
+   item is really worth ) 
 
-- determine what the bandits had on them that the party takes
+* Session 2
+2021-11-07
 
-- map out some more ruins on the overworld -- maybe find something to do the
-  mapping digitally, so it's easier to run off the laptop
+Party is on their way back to Ararholm with their captives.
 
-- trade and stuff: stores that sell common goods will take shins, merchants that
-  sell rarer stuff will barter ( or take a LOT of shins, like more than the
-  item is really worth ) 
+ - takes them about 35 minutes to get back to town
+ - arrive back in town in late afternoon
+ - the sheriff embarasses zeno ( mentions their dinner date with mex )
+ - the group decides to wait until they've got information from the captives
+ - decide to go back to the ruin either at night, or pre-dawn
+ - find the green cloaks, leave the thief (barnabus) in the chamber where they
+   were staying, bring the other two along
+ - didn't antagonize the colchin in the interstitiatl chamber, are allowed to
+   pass without issue
+ - using a mind spike, klep is able to effortlessly disable a trap set to
+   prevent folks from getting closer to where the bandits were hiding out
+ - the party is creeped out by the ice sculpture room
+ - make a plan of attack for ghoka's men
+ - ureos creates an illusion that the hallway to the chamber where the gang is
+   in, so that it looks empty
+ - fox throws a needleburst cypher, that ureos sets off with his voice. this
+   kills several bandits
+ - zeno shoots a frangible shell at the other bandits, killing three
+ - belel and klep are unable to damage the big bandit
+ - the big bandit rushes the hallway, and after passing through the doorway
+   recovers quickly enough to attack klep, doing 10 points of damage and
+   knocking him down one step on the damage track
+ - belel creates a zone of dark tentacles, hindering the bandit leader and his subordinates
+ - in the swirling melee, klep takes a few more hits, knocking him further down
+   the damage track
+ - fox disarms the bandit leader, stealing his sword right out of his hand
+ - zeno pushes klep out of the way, and stands between the bandit leader and klep
+ - session ends...
+
+stuff to do before next session:
+ - figure out the properties of Ukrurg's sword for Fox
+ - stat up the two green cloaks a bit more
+ - get list of personality traits, quirks, and other things for each of the PCs
+   to use as inspiration for GM Intrusions while playing ( ie, oh, Fox is doing
+   <this kind of thing>, use a GM intrusion that <does something like this> )
+ - build gm intrusions into the rest of the ruins
+ - add another cypher or two to the gear that Ukrurg is carrying
+ - set up emacs so that I can mark chambers/etc in ruins as UNEXPLORED or EXPLORED
+ - see about making my own table thing (copy from org-d20) for handling combat
+ - see what else i can do to better run games from within emacs
