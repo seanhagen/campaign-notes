@@ -1,5 +1,5 @@
-* Articles To Read [0/80]
-- [ ] https://thealexandrian.net/wordpress/43899/roleplaying-games/thinking-about-wilderness-travel
+* Articles To Read [1/82]
+- [X] https://thealexandrian.net/wordpress/43899/roleplaying-games/thinking-about-wilderness-travel
 - [ ] https://thealexandrian.net/wordpress/36473/roleplaying-games/thinking-about-urbancrawls
 - [ ] https://thealexandrian.net/wordpress/45878/roleplaying-games/game-structure-sector-crawl
 - [ ] https://thealexandrian.net/wordpress/45645/roleplaying-games/game-structure-the-festival
@@ -79,3 +79,157 @@
 - [ ] https://d20.rs/assembling-revel-sabrina-station
 - [ ] https://d20.rs/faction-drama-over-saturn
 - [ ] https://d20.rs/information-clues-secrets
+- [ ] https://thealexandrian.net/wordpress/7897/roleplaying-games/breathing-life-into-the-wandering-monster
+- [ ] https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing
+* Notes
+** Thinking About Wilderness Travel
+[[https://thealexandrian.net/wordpress/43899/roleplaying-games/thinking-about-wilderness-travel][page]]
+
+- don't try to do a hexcrawl unless it's what the players specifically want
+*** basic travel routes
+**** choose your route
+- PCs must choose the route
+- they can only do this if they're /aware/ of what routes they could use
+- they can get that info from: maps, local guides, mystical assistance, personal experience
+- if they don't have /any/ info on potential routes, then they will need to do
+  some exploring (ie, a hexcrawl or similar structure)
+- there has to be meaningful differences between routes
+- common differences between routes are: speed, difficulty, stealth (example:
+  taking the high road means you'll be spotted by the army), expense (a ship
+  might be quicker but will cost way more than just walking), advantageous
+  landmarks (a route that passes through a town or something could be better
+  than trudging through the wilderness), hazards
+- for the choice to be an actual _choice_ and not just a _calculation_, routes
+  should be distinguished by at least two incomparable characteristics
+
+a good example is [[https://media.wizards.com/2015/images/dnd/resources/Sword-Coast-Map_HighRes.jpg][the journey from waterdeep to neverwinter]]
+
+> You look at the map and say, “You can take the High Road or you can travel by sea.”
+>
+> “What’s the difference?” they ask.
+>
+> “Well,” you say, “You’ll get there faster by sea.”
+>
+> This is not a choice. It’s a simple calculation: The routes are identical
+>  except for the speed with which they’ll get you to Neverwinter, and so you take
+>  the route which is faster.
+>
+> But if you instead say, “Well, it’s faster to sail, but there are reports of
+>  Moonshae pirates hitting ships along the coast,” this is no longer a simple
+>  calculation. The PCs have to choose whether speed or safety is more important
+>  to them.
+
+- one solid set of incomparable distinctions is all i should need
+- can add more, but beware of turning the choice back into a calculation:
+  - sea route is faster and is dangerous due to pirates
+  - road is dangerous due to the hazards of the mere of dead men
+- both are dangerous now, and one is faster -- it's a calculation again
+- although if they're not able to infer the relative hazard of either route it
+  becomes an 'incomplete information problem' -- still not good, as the players
+  will probably assume they're equally dangerous
+- PCs have to /care/ about the distinction, as well -- if either route will get
+  them there before their deadline then speed isn't really a factor
+**** traveling the route
+- break the journey into a number of turns ( recommended multipler turns per
+  day, so it's possible to have more than one encounter per day )
+- use same timekeeping if campaign also has hexcrawling
+
+three things to track in this procedure:
+- *landmarks* such as permanent structures (cities, statues, etc) or "programmed"
+  encounters just for this journey (broken-down wagon, an ambush by bandits,
+  etc) but either way they'll be encountered at specific points along the route
+- *random encounters* -- keep these tables simple unless it's a route they'll be
+  traveling a lot
+- *resources used* -- food, water, etc. this is optional, and for some types of
+  trips it won't be relevant (paying for passage on a ship would include food &
+  water, for example)
+
+when traveling via a defined route, don't have to track distance traveled; it's
+built into the design of the route.
+
+if pcs take actions that change the speed of travel, you can apply that directly
+to the route timetable
+**** unpathed routes
+most routes for this kind of travel will be a clear and unmistakable path -- a
+road, a river, etc.
+
+some routes don't follow paths. these generally take the form of a landmark
+chain (head north till you reach village x, head east till you get to
+<landmark>, then head south till...)
+
+to handle unpathed routes, you'll need to add mechanics for both:
+- getting lost
+- getting back on track after you've become lost
+- may need a mechanic to determine whether or not the pcs /realize/ they're lost
+**** hidden route features
+although pcs need to know enough to make an actual /choice/ about the route
+they're going to take, they don't need to know everything
+
+things can change that the pcs could never discover before setting out:
+- a bridge has been washed out by a spring flood
+- a bandit gang has moved into the area and is menacing travellers
+- an army checkpoint has been abandoned due to being recalled for <reasons>
+
+some hidden route features can be discovered ahead of time, but would require
+the pcs putting in the work (researching the route, finding better maps, getting
+info from someone who recently traveled that way, etc)
+**** forked routes
+sometimes a new route ( or routes ) can appear after the journey has begun; this
+includes *detours*, which the fork will collapse back into the route they
+initially chose
+
+detours are often responses to hidden route features discovered during travel
+(have to find a different way across the river because the bridge got washed
+out, etc)
+
+in addition to trying to avoid bad things on the original route, pcs may choose
+a fork because it may provide a benefit (if they go south from the washed out
+bridge there's a druid enclave that may have information and aid for the party)
+*** running with routes
+a few things to keep in mind when running a game with a route system
+
+- this structure does not inherently make travel interesting
+- if i think of the structure as a way to easily frame specific scenes
+  (landmarks, random encounters, etc) then i still need to make the scenes
+  themselves meaningful
+- by default a route system will lead me into a generic travelogue ( we went to
+  X then we went to Y then... ); the best travelogues find ways to elevate the
+  sequence of events
+- think about what kind of story the journey should be trying to tell:
+  exploration, a race, escape, survival, edification, self-discovery, etc
+- or is the journey just a convenient framing device for individually
+  interesting and complete short stories?
+- journeys can set a mood, emphasize a theme, establish current events, or
+  provide hooks to side quests
+- think about the *agenda* of the scenes i'm framing -- why am i framing those
+  moments? what's the *bang* that forces the pcs to make one or more meaningful choices?
+- if i can't think of an agenda or bang for a particular landmark, then consider
+  demoting that landmark to part of the abstract description of the journey or
+  even drop it entirely
+- the truth is that the pcs will see *a lot* of stuff on the road, and i'm going
+  to skip a bunch; the goal is to figure out the important stuff i /need/ to focus
+  on in order for the journey to be meaningful
+*** the problem with multiple routes
+- route systems can too-easily become choose-your-own-adventure structures (ie,
+  having to prep content for each potential route and then immediately throwing
+  out all the content for the routes not chosen)
+
+a few ways to mitigate this:
+
+- try to have players decide the route they'll take at the _end_ of a session;
+  still need to prep the details required for the party to make a choice, but
+  then only the route chosen needs to be prepped in detail
+- in many cases there may not be a choice, simply a _calculation_; if this is the
+  case simply prep the route
+- focus prep on *proactive elements* that are relevant regardless of the route
+  chosen; being chased by bad guys is an easy example -- choosing between speed,
+  safety, and stealth is more impactful when you're being chased, but you still
+  only have to prep the bad guys *once*
+- there's also content that the pcs bring with them; npcs, puzzles, etc
+- and there's always ways to reuse & recycle material from one route for a later journey
+*** final notes
+at some point a map should be updated with routes and whatnot so that players
+have an easy to reference document
+
+- [[https://detectmagic.blogspot.com/2014/04/pathcrawl.html][good noes on building pathcrawls here]]
+- [[https://hillcantons.blogspot.com/2012/01/crawling-without-hexes-pointcrawl.html][here too]]
