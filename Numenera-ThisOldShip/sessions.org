@@ -91,3 +91,6 @@ stuff to do before next session:
  - figure out best way to remind myself that players are supposed to roll to
    determine what a cypher or artefact is
  - how many times can they try to identify a numenera per hour/day/etc
+
+stuff to remember for next session:
+ - don't need pencils or paper, doing everything in emacs works pretty well
