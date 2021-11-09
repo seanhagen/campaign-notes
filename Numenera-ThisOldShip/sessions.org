@@ -88,3 +88,6 @@ stuff to do before next session:
  - set up emacs so that I can mark chambers/etc in ruins as UNEXPLORED or EXPLORED
  - see about making my own table thing (copy from org-d20) for handling combat
  - see what else i can do to better run games from within emacs
+ - figure out best way to remind myself that players are supposed to roll to
+   determine what a cypher or artefact is
+ - how many times can they try to identify a numenera per hour/day/etc
