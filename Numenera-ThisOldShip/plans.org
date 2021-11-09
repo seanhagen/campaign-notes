@@ -1,0 +1,117 @@
+* Numenera + Org
+** Combat Tracker
+things I need to know:
+- what round is it
+- whose turn is it
+- creature name
+- creature level (should auto-fill hp & initiative, but allow me to change)
+- initiative
+- current & max hp
+- armor value
+- movement speed
+- statuses
+
+other things i need to track:
+- is creature a swarm/horde/group (and how many in group)
+- link or something to creature stats, so i can reference attacks and whatnot
+
+nice to haves:
+- combat log ( who hit who for how much damage, & maybe ask for comment after each turn )
+- command to apply status, with optional turn counter for how long the status
+  will last ( if it goes away after a certain number of turns/minutes/etc )
+- skip creature's turn if certain statuses are set ( stunned, etc )
+
+
+example:
+=======================================================
+Round of combat: 1
+| Turn | Creature     | Initiative | HP | DT | A | Mvmt | Status      |
+| >>>> | thief (4)    |    12      | 15 | 0  | 0 |  S   |             |
+|      |  bob (PC)    |    14      | x  | 0  | 2 |  S   |             |
+|      | ratdog (2|4) |    18      | 5  | 0  | 2 |  S   | group(6,30) |
+|      |  stacy (PC)  |    20      | x  | 0  | 1 |  S   | dazed(1)    |
+
+Log:
+ - thief hit bob for 4 points of damage
+
+=======================================================
+
+notes:
+
+- creatures like so:
+# ratdog (2|4)
+are showing their base level (2) and the level of the group/swarm (4)
+- the "group (6,30)" status marks that creature as a group, and shows how many
+  creatures there are, as well as the health of the group
+- when damage is taken, the "group(6,30)" should get updated as appropriate;
+  for example if it takes 6 points of damage it should read "group(5,24)" as
+  it's taken enough damage to kill one of the creatures in the swarm
+- once a group is down to a final creature, the "group" status should be removed
+- the "dazed(1)" status shows that this creature is afflicted by that status,
+  and the status will get removed after that creature's turn ( when their turn
+  is over, the number gets decremented, and hits 0, so the status gets removed )
+
+functions:
+ - create-combat-table
+ - add-npc-to-combat
+ - add-pc-to-combat
+ - modify-health
+ - modify-armor
+ - modify-movement
+ - add-creature-status
+ - modify-creature-status
+ - remove-creature-status
+ - show-creature-stats
+ - start-combat
+ - restart-combat
+ - end-combat
+ - attack-creature (assumes whoevers turn it is will be doing the attacking)
+ - heal-creature (same as healing, assumes whoevers turn is it is will be doing
+   the healing)
+ - kill-creature (for those moments when a PC figures out how to straight-up
+   kill or remove a creature from combat)
+
+
+** Generators
+the cards are great, but if i can move stuff into emacs that'd be even greater
+*** Cyphers, Artefacts, and Shins
+mvp:
+- can pick random cypher/artefact from table or sub-list
+- rolls appropriate dice to determine item level
+- produces link to description
+- sends info to discord
+  
+** Ruins & Exploration
+is there a better way than tags to mark rooms in a ruin unexplored/explored (
+that can adapt to other "room statuses", like "destroyed" )
+
+* Numenera & World Anvil
+** Writing Tools
+*** API + Emacs
+there must be a way to export content from World Anvil into a format I can edit
+in Emacs and then sync back
+
+- major-mode? a "world-anvil-mode", that can search the project for the correct
+  ids and whatnot when creating a reference link ( or create stub articles when
+  referencing something new )
+*** Quick Cypher/Artefact Creation
+it'd be nice if i had a simple tool that could create the appropriate article in
+WA when I need to reference a cypher or artefact
+* Maps
+** Ruins
+*** Graph Image Output
+it'd be nice if the program i wrote would output a graph image so i can get a
+feel for the ruin at a glance
+*** Ruin Modifications  [0%]
+there are some things i'd like to be able to do before or after a ruin is
+generated
+
+**** Before [0/4]
+ - [ ] multiple exits
+ - [ ] depth
+ - [ ] should branches interconnect
+ - [ ] disabling main features ( prevent them from being added to ruin )
+
+**** After [0/2]
+ - [ ] read in ruin to "validate" it
+ - [ ] given a room id, add another exit and extend the ruin from that exit
