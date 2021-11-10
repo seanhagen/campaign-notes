@@ -1,8 +1,8 @@
-* Articles To Read [1/82]
+* Articles To Read [4/82]
 - [X] https://thealexandrian.net/wordpress/43899/roleplaying-games/thinking-about-wilderness-travel
-- [ ] https://thealexandrian.net/wordpress/36473/roleplaying-games/thinking-about-urbancrawls
-- [ ] https://thealexandrian.net/wordpress/45878/roleplaying-games/game-structure-sector-crawl
-- [ ] https://thealexandrian.net/wordpress/45645/roleplaying-games/game-structure-the-festival
+- [X] https://thealexandrian.net/wordpress/36473/roleplaying-games/thinking-about-urbancrawls
+- [X] https://thealexandrian.net/wordpress/45878/roleplaying-games/game-structure-sector-crawl
+- [X] https://thealexandrian.net/wordpress/45645/roleplaying-games/game-structure-the-festival
 - [ ] https://thealexandrian.net/wordpress/37995/roleplaying-games/game-structure-party-planning
 - [ ] https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
 - [ ] https://arsludi.lamemage.com/index.php/41/revelations/
@@ -233,3 +233,159 @@ have an easy to reference document
 
 - [[https://detectmagic.blogspot.com/2014/04/pathcrawl.html][good noes on building pathcrawls here]]
 - [[https://hillcantons.blogspot.com/2012/01/crawling-without-hexes-pointcrawl.html][here too]]
+** Thinking About Urbancrawls
+nothing i want to take notes on here, i'm probably not going to be running a
+city-bound campaign any time soon
+** Game Structure: Sector Crawl
+[[https://thealexandrian.net/wordpress/45878/roleplaying-games/game-structure-sector-crawl][article]]
+
+some good stuff in here if the players actually want to start exploring the ship
+thoroughly, but otherwise not useful yet
+
+also potentially an idea in designing a megadungeon as a sector crawl
+** Game Structure: The Festival
+[[https://thealexandrian.net/wordpress/45645/roleplaying-games/game-structure-the-festival][article]]
+
+doesn't seem to be much here that would be useful -- the "festival" he's talking
+about is more "burning man" than "knightly tournament"
+
+feels like something to design a short campaign around, not something i'd work
+up for section of a campaign
+** Game Structure: Party Planning
+[[https://thealexandrian.net/wordpress/37995/roleplaying-games/game-structure-party-planning][article]]
+
+big social events are great set pieces; hotbeds of intruige, innocent bystanders
+raise the stakes if a fight breaks out, if a murder happens there's plenty of
+suspects, if the pcs are trying to pull of a heist the bystanders add a
+wonderful complication
+
+also a good way to show that the pcs have changed their sphere of influence;
+powerful and important people may want to make the acquaintance
+*** location
+where is this event taking place?
+
+avoid making the location too small or too simple. need multiple zones of
+activity so social groups can form and break apart. similarly, the pcs need to
+have a natural barrier preventing them from interacting with every single npc at
+the event at the same time
+
+don't needs lots and lots of rooms; for example: a nightclub. it's got a dance
+floor, the bar area, and a vip area -- you can probably see everybody from any
+of those spots, but you can't interact with someone in the vip area when you're
+at the bar.
+
+this doesn't mean the area can't be a wholistic environment, either. the high
+school dance from _Back to the Future_ has a dance floor, area around the punch
+bowl, a backstage area, and a parking lot; not to mention the rest of the
+school. private ( or theoretically private ) are a good idea -- not only do the
+pcs get a place to gather and discuss things, but npcs can slip in or out of the
+private areas to invoke intruige ("why did they leave just before the first dance?")
+*** guest list
+need a guest list of 10-20 people. fewer than 10 and it's not a party it's a
+small gathering. more than 20 and i won't be able to manage things. aim for 15
+folks.
+
+first thing is a master list: names, titles, key fact.
+
+then prep a sheet for each npc ( see [[*Universal NPC Roleplaying Template][Universal NPC Roleplaying Template]]
+). biggest thing here is *key info*, the scenario-essential information that's
+crucial for me to remember when using the NPC
+*** main event sequence
+an example sequence:
+ - Announcing Guests of Special Honor
+ - Iron Mage Appears
+ - Aoska Arrives
+ - Urlenius Arrives
+ - Lord Dallimothan Arrives
+ - Lady Rill Joins the Party
+ - Arguing About the Balacazars
+ - Debate of the Twelve Commanders
+ - Sheva and Jevicca Seek Out the PCs
+ - A Poetry Reading
+
+these could be a linear sequence, a grab bag, or both.
+
+pcs can also initiate alternative "major events", or they may end up derailing
+or transforming the events that were originally planned. the main event sequence
+is a tool -- not fate.
+
+the sequence is also not the "story of the party". it's the core around which
+the /experience/ of the party crystalizes.
+
+*** topics of conversation
+these could be momentous recent events, or just insignificant local happenings
+(who won the latest kickball match?).
+
+usually a good idea to mix "irrelevant" topics with the "important" ones, as
+camouflage
+
+some of the topics could/should be referenced in the *Key Info* section of NPCs on
+the guest list
+
+*** running the party
+- what's happening right when the party arrives. what will attract their
+  attention, who will they see? is there a major announcment? this will
+  generally be the first event in the sequence. serves as initial hook and gives
+  the players enough context to begin taking action
+- after that, it's basically playing around with the toys i've created (npcs,
+  topics of conversation, event sequence) -- which npcs are talking to each
+  other? who might join a conversation with the pcs? what are folks talking
+  about?
+- encourage the pcs to split up. cutting back and forth between conversations is
+  extremely effective in large social events. use [[https://thealexandrian.net/wordpress/33791/roleplaying-games/the-art-of-pacing-part-5-advanced-techniques][crossovers]] between various
+  interactions (ie, if one pc gets into a huge shouting match, other pcs should
+  hear it or hear folks talking about it)
+- keep social groups circulating.
+- don't use up everything an npc has to offer in a single interaction
+- pay attention to which npcs "click" with the pcs (positive or negative)
+- if things start to lag, cut to another group of pcs or trigger the next event
+  in the sequence
+- don't hog the driver's seat; allow pcs to observe things they can /choose/ to
+  react to. eg: instead of each NPC coming /to the player/, have npcs walk past or
+  the pcs could overhear a conversation -- let the pc choose whether and how to engage
+- make a point of asking them what they want to do -- and if they don't have an
+  answer, next event in the sequence!
+
+ultimately this works because i don't have to prep a bunch of specific interactions  
+
+*** quick 'n dirty
+just coppied whole hog from the site:
+
+>The full scenario structure I’m describing here obviously requires preparation
+>to run to full effect. But what if the players have just spontaneously decided
+>to crash the society debut of the Governor’s daughter? Is there any way to use
+>this scenario structure on-the-fly? 
+>
+>Here’s the five minute version for emergency use:
+>
+> - Make a list of 3-5 places people can congregate.
+> - Make a list of 10 characters.
+> - Make a list of 5 events.
+> - Make a list of 5 topics of conversation.
+> - Don’t go into detail. Just list ‘em.
+>
+>If this social event is growing organically out of game play, then you’ve
+>probably already got the NPCs and the topics of conversation prepped – you just
+>need to pull them onto the lists for this event.
+>
+>Finally, if the PCs are going to the social event in order to achieve some
+>specific goal, use the Three Clue Rule and figure out three ways that they can
+>do that. Notate it in the appropriate places. (For example, if they’re trying
+>to figure out who in the Governor’s circle of friends might have assassinated
+>Marco’s sister, then you’ll probably want to identify a couple people who can
+>tell them that. And maybe one of the events is an opportunity to witness the
+>Governor’s chief of staff slipping off to talk to a known Mafioso.) Of course,
+>when you’re actually running the scenario don’t forget the principle of
+>Permissive Clue-Finding – there may be a bunch of other ways for the PCs to
+>also accomplish their goal. Follow their lead.
+
+** Universal NPC Roleplaying Template
+the template:
+
+- name
+- appearance -- short and sweet, 1-2 sentences, 3 at max. most interesting and
+  unique features
+- quote -- single sentence, should help me get in the mindset/voice of the npc
+- roleplaying -- a few brief bullet points. should have one simple, physical
+  action to perform while playing the npc.
+- background 
