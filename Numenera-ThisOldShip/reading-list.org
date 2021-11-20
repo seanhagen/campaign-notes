@@ -1,12 +1,12 @@
-* Articles To Read [4/82]
+* Articles To Read [8/82]
 - [X] https://thealexandrian.net/wordpress/43899/roleplaying-games/thinking-about-wilderness-travel
 - [X] https://thealexandrian.net/wordpress/36473/roleplaying-games/thinking-about-urbancrawls
 - [X] https://thealexandrian.net/wordpress/45878/roleplaying-games/game-structure-sector-crawl
 - [X] https://thealexandrian.net/wordpress/45645/roleplaying-games/game-structure-the-festival
-- [ ] https://thealexandrian.net/wordpress/37995/roleplaying-games/game-structure-party-planning
-- [ ] https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
-- [ ] https://arsludi.lamemage.com/index.php/41/revelations/
-- [ ] https://www.reddit.com/r/HexCrawl/comments/aapix1/great_post_from_urealjessemartin/
+- [X] https://thealexandrian.net/wordpress/37995/roleplaying-games/game-structure-party-planning
+- [X] https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
+- [X] https://arsludi.lamemage.com/index.php/41/revelations/
+- [X] https://www.reddit.com/r/HexCrawl/comments/aapix1/great_post_from_urealjessemartin/
 - [ ] https://www.reddit.com/r/DnDBehindTheScreen/comments/f5ztc2/west_marcheshex_crawl_custom_travel_revised/
 - [ ] https://www.reddit.com/r/Tombofannihilation/comments/iiw1n9/hex_crawl_daily_routine_revised/
 - [ ] https://hillcantons.blogspot.com/2012/01/crawling-without-hexes-pointcrawl.html
@@ -387,5 +387,165 @@ the template:
   unique features
 - quote -- single sentence, should help me get in the mindset/voice of the npc
 - roleplaying -- a few brief bullet points. should have one simple, physical
-  action to perform while playing the npc.
-- background 
+  action to perform while playing the npc. *avoid repetition* by having each point
+  describe a completely distinct classification of thing: values, physical
+  mannerism, way of speaking, personality, etc.
+- background -- a short narrative that covers essential context and interesting
+  anecdotes. something that will influence how they make decisions, or something
+  they'll use as context to explain stuff. use *bold* text to call out important
+  features.
+- key info -- essential interaction or info pcs should get from this npc. can
+  have multiple key info sections, one for each "type" of info (ie, an npc in a
+  mystery game at a party might have "clues" and "topics of conversation" as key
+  info sections ).
+- stat block -- comes last, least important
+
+[[https://thealexandrian.net/wordpress/37916/roleplaying-games/universal-npc-roleplaying-template][some examples]] are at the bottom of the page, use for reference if needed  
+[[https://thealexandrian.net/wordpress/46250/roleplaying-games/advanced-npc-templates][some expanded info]] on the advanced npc template page that could be handy
+
+** Jaquaying the Dungeon
+Series on how to make non-linear dungeons
+*** Part 2 - Basic Techniques
+Meant to offer complex geographic relationships (so players can have meaningful
+choices), and to confuse the mapping/general understanding of the complex. Not
+to create a maze, but so that the "hand of the author" and underlying structure
+are obfuscated -- ie, players can't easily guess the way through the dungeon.
+
+*Multiple Entrances*
+Immediate strategic choice. Hidden entrances reward exploration in and out of
+the dungeon.
+
+*Loops*
+Branching paths are functionally linear, they're just linear paths that may not
+lead to the "goal". Loops provide meaningful strategic and tactical choices,
+make exploration meaningful, and allow PCs to find alternative routes
+around/through potential threats.
+
+*Multiple Level Connections*
+Create loops between levels of the dungeon to prevent the complexity of a
+specific level from collapsing into a chokepoint.
+
+*Discontinuous Level Connections*
+Have connections between levels that aren't "neighbours". An elevator that goes
+from level 1 to level 4. A tunnel on level 3 that takes you to a hidden entrance
+half a mile away from the dungeon. Etc, etc.
+
+*Secret & Unusual Paths*
+"One thing to note is that not every secret path needs to take the conventional
+form of a camouflaged doorway: Tunnels that have suffered cave-ins. Traps that
+drop you to lower levels. Archaic teleportation systems that must be
+decoded. Rope bridges that cross over caverns that can also be explored from
+below. A submerged bypass connecting two seemingly unrelated lakes."
+
+*Sub-Levels*
+Smaller, or difficult to reach, or both -- these are areas of the dungeon/ruin
+where players are no longer on the previous "level", but it's not a whole floor.
+
+*Divided Levels*
+Levels in which one section is inaccessible from elsewhere on the same level.
+A good example is a level that has two staircases leading down to the level
+below; but there is no path connecting those two staircases on that lower
+level (there could be an incredibly well hidden or difficult to traverse path,
+though, but shouldn't be common)
+
+*Nested Dungeons*
+Having two separate and distinct dungeons that have been linked through various
+means (creature dug a tunnel, teleports,
+etc). [[https://www.thealexandrian.net/creations/misc/jaquay-dungeon/kots-jaquay5.jpg][image example]].
+
+*Minor Elevation Shifts*
+Have parts of a single level be different elevation -- staircases that don't
+lead down to the next floor, etc.
+
+This isn't just about confusing the player's mapping -- it's disrupting their
+ability to intuit the organization of my maps by analyzing the reality of the
+game world.
+
+*Midpoint Entry*
+Instead of just entering on level 1 and going down (to level 2, then 3, etc),
+have them enter and have the choice of going up /or/ down -- from level 1 they can
+get to +2 or -2, etc.
+
+*Non-Euclidian Geometry*
+Think places inspired by MC Escher, etc. Waterfalls that are their own source, a
+group of rooms where you can travel ever downwards but still be on the same
+level, etc.
+
+[[https://thealexandrian.net/wordpress/4974/roleplaying-games/halls-of-the-mad-mage][An example dungeon here]]
+
+*Extradimensional Spaces*
+A portion of the dungeon/ruin may extend into an extradimensional space.
+*** Part 3 - Philosophy
+Don't think of these techniques as ways to make chaotic, "funhouse dungeon"
+designs that don't make logical sense.
+
+*Beware Sprawl*
+Too many loops, connections, and whatnot turn meaningful choices into
+meaningless ones.
+
+*Structure In The Dungeon*
+Some useful barometers:
+
+/Difficult vs Easy/ - there should be areas that are easy to reach, and some that
+are difficult to reach. This assessment is to try and determine of the choice of
+path through the dungeon is irrelevant or not. The dungeon should _benefit_ from
+being interconnected -- but if it's trivially easy to get from one spot to
+another then navigation is meaningless.
+
+/Far vs Near/ - There should be places that _feel_ far away from the
+entrance(s). Note: "near" and/or "easy to reach" aren't problems to be
+eliminated, the goal is an effective balance of difficult, easy, far, near.
+
+*Landmarks*
+Players need distinct, memorable landmarks in order to orient themselves. If the
+dungeon has lots of unique, interesting features then this problem will take
+care of itself.
+
+Players may provide their own ("hey, it's that thing we killed last week").
+
+Landmarks /can/ be used to mess with players: corpses disappear, runes missing,
+something that seemed unique turns out to not be.
+
+If feeling particularly crafty, try to hide reliable navigation information in
+seemingly unreliable landmarks.
+*** Part 4 - Example
+Keep on Shadowfell remix, not something to take notes on
+([[https://thealexandrian.net/wordpress/13123/roleplaying-games/jaquaying-the-dungeon-part-4-jaquaying-the-keep-on-the-shadowfell][but here's the article if I want to read it again later]])
+** Revelations
+"/Normal weapons can’t kill the zombies. MicroMan doesn’t trust Captain Fury. The
+lake monster is really Old Man Wiggins in a rubber mask./
+
+These are Revelations. They are things you want the players to find out so that
+they can make good choices or just understand what is going on in the
+game. Revelations advance the plot and make the game dramatically
+interesting. If the players don’t find them out (or don’t find them out at the
+right time) they can mess up your game."
+
+- understanding revelations requires me to see things through the eyes of my
+  players; what are they going to think, is it a surprise, is it consistent,
+  etc.
+
+*Write Your Revelations*
+- shows how the game "should" flow -- things get hectic once we actually start
+  playing
+- doesn't have to be detailed, probably better for each revelation to be a
+  single, simple sentence
+- ie, "the Duke is now left-handed" -- all the other details of
+  who|what|where|why are either part of the adventure, not important, or the
+  details will be keyed from memory via the sentence
+- revelations aren't canned moments, doesn't matter precisely how the fact will
+  be revealed
+- it's fine to have ideas, plans, or expectations -- but don't count on those
+  plans working out
+- a bare-bones list of revelations lets me go with the flow but remember
+  critical details
+
+*Notes*
+- players may figure out more than i expect, sooner than i expect; revelations
+  are really the minimum the players should know at any point so the game still works
+- revelations can be optional -- doesn't matter if the PCs notice the Duke is
+  left-handed if they already figured out he's an imposter
+- revelations are also moments /in play/ -- players may already know the Duke has
+  been replaced, but until they talk about it in-character i still need the
+  revelation so they can roleplay their reactions and whatnot
+** 
