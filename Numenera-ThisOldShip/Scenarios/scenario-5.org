@@ -44,6 +44,9 @@ Drifting through the air in the center of the chamber is a yellowish, hazy cloud
 The cloud is a [[file:~/Documents/CampaignNotes/Numenera-ThisOldShip/creature-stats.org::*Yellow Swarm 5 (15)][Yellow Swarm]], which will attack after a character gets close
 enough to tell that they're insects ( read description, then call the attack ).
 
+TODO: rethink this enemy -- not sure they should face something this tough after
+the bandits
+
 **** corridor B
 A passage that runs for about 50 feet, slowly bending to the right until you've
 made a 90 degree turn.
@@ -51,14 +54,11 @@ made a 90 degree turn.
 ***** chamber 7
 A rectangular chamber that's 30 feet across and 40 feet long.
 
-Mostly filled with shelves and storage alcoves, this room appears to be a
-warehouse of some kind. All the barrels and boxes you find are empty, except for
-one. It contains a small colourful device about three feet across and two feet
-high. The buttons have large and easy to read icons, almost like it was built
-for a child. There is a hatch on one side that opens easily, with a 2x1.5 foot
-chamber within.
+At first glance you think you're
 
-Anything placed within the device has metallic googly eyes attached.
+TODO: put "statue" of vex minotaur, some vex "milk", and some busted vex mobs,
+along with a shard of the traveller. minotaur should come to life, then crumble
+into pieces, the vex milk within leaking out and drying up
 
 There are no other exits from this room.
 *** shaft                                                        :explored:
