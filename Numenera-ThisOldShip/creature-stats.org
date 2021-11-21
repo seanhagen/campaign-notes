@@ -82,3 +82,39 @@ Combat:
 
 Interaction:
   It's not possible to communicate with the swarm.
+
+* Vex Goblin 4 (12)
+Motive: Build & protect Vex structures
+Health: 12 Damage: 3 Armor: 1
+Movement: Short, or teleport
+Modifications: Temporal manipulation at level 6
+
+A humanoid automaton that moves in smooth yet still somehow jerky movements. Its
+head dominated by the semi-circular "crown" or frill, tapering down to a point
+before its single red sensor eye.
+
+Set into its abdomen is a glass canister full of a glowing milky-white liquid.
+
+All come equipped with a strange rifle that fires not bolts of energy, but what
+seems to be a circuit pattern made from red light that moves with great speed.
+
+Combat:
+  Will advance towards enemies until it is a just under a long distance away, at
+  which point it will open fire.
+
+  If damaged enough it may literally lose its head, at which point it will
+  teleport into immediate distance and begin attacking with melee attacks.
+
+  Attacks targeted at the glass canister bypass armor but are hindered by one
+  step.
+
+Interaction:
+  If inactive, Goblins will do nothing unless disturbed (either directly, or by
+  messing with something they were set to protect).
+
+  If active but engaged with a task will ignore creatures (again, unless they
+  disturb the Goblin directly or they get too close or mess with what they're
+  guarding/building/etc)
+
+  If a single Goblin decides that combat is necessary, it will send a command
+  signal causing all nearby Goblins to enter combat mode.
