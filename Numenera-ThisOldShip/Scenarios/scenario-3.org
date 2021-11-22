@@ -396,8 +396,6 @@ It may be opened from elsewhere in the ship, or require some kind of device to
 open.
 
 ******** hidden exit
-
-
 **** hidden door
 ***** accessway 1
 connects to interstitial cavity 1

@@ -1,10 +1,9 @@
 * entrance                                                         :explored:
 A cleft in the rocks opens up into a round chamber about 20 feet across. There
 are three doors in this chamber, but two are filled with rubble from collapsed ceilings.
-** corridor A                                                     :explored:
+** corridor A                                           :scavenged:explored:
 The only exit from the entrance chamber leads to a corridor that comes to
 an X intersection after about 10 feet or so.
-
 *** relic chamber
 After passing through a corridor about 100 meters long, you find yourselves in a
 massive chamber. From what you can tell, it appears to be hexagonal.
@@ -123,7 +122,7 @@ It seems to have been in a similar state of prayer or contemplation, although
 its pose looks much more uncomfortable (describe Vex Minotaur statue pose).
 
 There are no other exits from this room.
-*** shaft                                                        :explored:
+*** shaft                                              :scavenged:explored:
 After travelling down a corridor that descends for about 10 feet, you find
 yourself entering another chamber.
 
@@ -215,7 +214,7 @@ Round of combat: 4
 |      | explorer 2 |   0 |   25 | 18 |      0 |        |
 | >>>> | fox 1      |  +0 |   11 | 50 |      0 |        |
 
-- the thief, a level 4 (12) nano
+- barnabus, the thief, a level 4 (12) nano
   health: 15  damage: 3  movement: short
   resists mental effects as level 4
 
@@ -237,11 +236,11 @@ Round of combat: 4
   aware he stole from Pamki or Mex
 
   - explorers:
-     sharlon vortez (sword)
+     sharlon vortez (pistol)
       - a squat, unkempt man, full of energy.
         deception & intimidation tasks at +1, running & climbing at -1
         
-     georgio carlucci (pistol)
+     georgio carlucci (sword)
       - a huge, awkward, deliberate man
         eletronic tasks at +2, perception-related tasks at -1
 
@@ -605,7 +604,7 @@ If they've been to chamber 13, mention that the
 These Thrall are deep in slumber, they will not wake.
 
 There are no other exits from this room.
-**** chamber at bottom of shaft (chamber 2)                     :explored:
+**** chamber at bottom of shaft (chamber 2)           :scavenged:explored:
 A circular chamber with a 90 foot radius.
 
 The floor is steelglass, beneath your feet you can see an incredibly complex
@@ -622,7 +621,7 @@ to a PC who touches the surface ).
 
 There is a single exit, an accessway previously hidden by a panel of synth.
 
-***** accessway                                                :explored:
+***** accessway                                      :scavenged:explored:
 The only exit from the shaft, the accessway is cramped, and normal height humans
 have to duck to get in.
 
@@ -684,7 +683,7 @@ On a failure the area around the door is filled with a shocking energy that does
 effected. Touching or attempting to pass through the field of energy causes 2
 points of Speed damage.
 
-******** chamber 6                                          :explored:
+******** chamber 6                                :scavenged:explored:
 A hexagonal chamber 30 feet across. The ceiling of the chamber is a mess of
 pipes and cables.
 
@@ -699,7 +698,7 @@ One of the statues is wearing your shoes.
 
 A single exit is found opposite the door you entered from.
 
-********* chamber 7                                        :explored:
+********* chamber 7                              :scavenged:explored:
 You've found the hideout of Ghoka's gang. 
 
 You're in a rectangular room, 30 feet across and 60 feet long. The door you
@@ -759,12 +758,6 @@ Ghoka is currently not in the ruin, currently home are the following:
     attack two different foes as single action, doing 8 points of damage with each
     attack. All their attacks ignore armor.
 
-  Carries:
-  - 52 shins
-  - Stasis detonation grenade, level 10
-  - Vocal translator, level 3
-  - An oblong metal plate covered with strange inscriptions and diagrams
-
 - Fifteen bandits, split into three groups of five:
 
   Bandit grouping:
@@ -776,26 +769,29 @@ Ghoka is currently not in the ruin, currently home are the following:
           and more than half the bandits are dead, the rest will give up.
   
   Loot:
-  - 55 shins
+  - 107 shins
+  - Stasis detonation grenade, level 10
+  - Vocal translator, level 3
+  - Invisibility Cypher, level 6
+  - Teleporter (bounder), level 3
   - Banishing Nodule, level 5
+  - An oblong metal plate covered with strange inscriptions and diagrams
 
 bandit group:
 hp: 6/bandit
 
-Round of combat: 2
-| Turn | Creature  | Mod | Init | HP | Damage | Status              |
-|------+-----------+-----+------+----+--------+---------------------|
-|      | zeno      |  +0 |   20 | 50 |      0 |                     |
-|      | ukrurg 1  |  +0 |   18 | 28 |     19 | bloodied; disarmed, fox has longsword |
-|      | djall 1   |  +0 |   18 | 10 |      0 |                     |
-|      | fox       |  +0 |   17 | 50 |      0 |                     |
-|      | belel     |  +0 |   14 | 50 |      0 |                     |
-| >>>> | bandit 1  |  +0 |   12 | 30 |     16 | 2 bandits; bloodied |
-|      | bandit 2  |  +0 |   12 | 30 |     16 | 1 bandits; bloodied |
-|      | bandit 3  |  +0 |   12 | 30 |     10 | 3 bandits          |
-|      | ureos     |  +0 |   10 | 50 |      0 |                     |
-|      | sharlon 1 |  +0 |    1 | 10 |      0 |                     |
-|      | klep      |  +0 |    3 | 50 |      0 |                     |
+Round of combat: 3
+| Turn | Creature  | Mod | Init | HP | Damage | Status                                          |
+|------+-----------+-----+------+----+--------+-------------------------------------------------|
+|      | zeno      |  +0 |   20 | 50 |      0 |                                                 |
+|      | ukrurg 1  |  +0 |   18 | 28 |     20 | bloodied; disarmed, fox has longsword; bloodied |
+|      | djall 1   |  +0 |   18 | 10 |      0 | close combat                                    |
+| >>>> | fox       |  +0 |   17 | 50 |      0 | mirror image, defense eased by one              |
+|      | belel     |  +0 |   14 | 50 |      0 |                                                 |
+|      | bandit 1  |  +0 |   12 | 30 |     16 | 6 bandits; bloodied                             |
+|      | ureos     |  +0 |   10 | 50 |      0 |                                                 |
+|      | sharlon 1 |  +0 |    1 | 10 |      0 | ranged                                          |
+|      | klep      |  +0 |    3 | 50 |      0 |                                                 |
 
 ******* chamber 5
 A circular chamber with a radius of 15 feet.

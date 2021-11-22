@@ -713,7 +713,7 @@ Old Ship Campaign:
 
 - ancient conqueror ( trophy room full of artefacts from countless worlds ) stuck in his ship under the earth for reasons, will try to trick or strong-arm the party into freeing him
 
-- minor lord (or whatever the Vox Empire's name for them is) comes to town to demand fealty, comes to town on a huge wagon pulled by avatrol (PG 22 in bestiary)(or something else, but then have the avatrol used to pull chariots or something)
+- minor lord (or whatever the Voz Empire's name for them is) comes to town to demand fealty, comes to town on a huge wagon pulled by avatrol (PG 22 in bestiary)(or something else, but then have the avatrol used to pull chariots or something)
 - 
 
 Foes:
@@ -724,3 +724,7 @@ Don't forget the swarm rules for groups of creatures
 Use a herd of calyptor as a peaceful encounter when they're out exploring the wilderness
 
 Savathun character is aware that she's an npc in a ttrpg
+** ideas for numenera game                         :@personal:reminder:game:
+Added: [2021-09-22 Wed 11:01]
+
+- race of intelligent beavers named "timberborn"

@@ -1,4 +1,4 @@
-* First Session [39%]
+* First Session [40%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -20,7 +20,7 @@ from in front or above
 - need to tell me /how/ they're travelling -- quickly, normal pace, carefully,
   etc.
 - 
-** STARTED Need several potential scenarios & encounters [29/43]
+** STARTED Need several potential scenarios & encounters [29/42]
 sheriff:
  - scenario 1
  - scenario 5
@@ -155,8 +155,7 @@ the ruin, preferably a pack
   pamki needs someone to go into the ship and fix the water supply. either fix
   whatever broke and is fouling the water, or stop the water completely -- the
   poison is getting into the ground water table and causing issues for nearby
-  farms.
-  
+  farms.  
 **** STARTED build the ship "entrance hall"
 the parts of the ship that are well known and fully explored
 [[file:Scenarios/scenario-3.org::*entrance][scenario 3 map outline]]
@@ -558,6 +557,55 @@ there should be a few things hidden in maka-tho that are dangerous if set loose,
 and there should be some powerful numenera hiding out there too
 ** TODO fill out the tavern with stuff
 - crib from here: https://thealexandrian.net/wordpress/37558/roleplaying-games/numenera-tavern
+* Stuff To Get Done [0%]
+** TODO properly stat up sword for Fox/Zeno
+DEADLINE: <2021-12-04 Sat>
+they've got the sword, mex is making arm blade, stat up what that will be
+** TODO sort out NPC templates
+DEADLINE: <2021-12-05 Sun>
+** TODO better combat tracking in Org mode
+DEADLINE: <2021-12-05 Sun>
+have to code this up myself
+** TODO other tools for running the game in emacs
+DEADLINE: <2021-12-05 Sun>
+** TODO add gm intrusions into the ruin/scenario setup
+DEADLINE: <2021-12-05 Sun>
+** TODO battle map for tracking ranges/etc in combat
+DEADLINE: <2021-12-05 Sun>
+** TODO figure out the list of plans mex has right now
+DEADLINE: <2021-12-05 Sun>
+** TODO figure out way to track the iotum that mex has
+DEADLINE: <2021-12-05 Sun>
+** TODO design ship marking symbol
+DEADLINE: <2021-12-05 Sun>
+also need to decide who's responsible for it ( is it Ager's? the ship? something
+else? )
+** TODO what was in the journal that was stolen?
+DEADLINE: <2021-12-05 Sun>
+** TODO figure out what "ecledda" clothing is
+DEADLINE: <2021-12-05 Sun>
+is it like mithril? silk?
+
+it's got to be better than plain armor, cause it's rare
+** TODO fill in the ship ruins
+DEADLINE: <2021-12-05 Sun>
+also make some changes, use some of the jaqyaying the dungeon stuff
+** TODO stat up the equipment mex is building [/]
+DEADLINE: <2021-12-05 Sun>
+- how long it'll take
+- changes made to parts
+- cost
+- other things
+*** TODO arm sword for Zeno
+- based on artefact
+*** TODO bracers for Ureos
+- don't have to be "special"
+*** TODO buckler shield for Klep
+- needs a thing
+*** TODO bracer/shield for Belel
+- uses her powers to create a buckler shield
+*** TODO pair of bracer/gloves for Fox
+- maybe should have a bonus for disarming opponents
 * Tools to look into
 - https://infinite-woodland-34884.herokuapp.com/
 - https://encounters.heromuster.com/
@@ -565,3 +613,8 @@ and there should be some powerful numenera hiding out there too
 - https://www.gnu.org/software/emacs/manual/html_mono/forms.html
 - https://gitlab.com/maltelau/org-lookup-dnd
 - https://www.youtube.com/watch?v=KctY8FCXgi8
+
+** Numenera Session Zero                                   :@ttrpg:numenera:
+Added: [2021-09-25 Sat 12:01]
+- Use the 'Atlas' game to build the map? ( bought it on DriveThruRPG at some
+  point )
