@@ -27,32 +27,61 @@ and you estimate that it's at least 200 feet long -- although the back half is
 shrouded by darkness, making it hard to accurately determine the dimensions of
 the vessel.
 
+A plinth stands before the wall of energy. There seem to be a number of controls
+on the top of the plinth.
+
+**** gm notes
+
+**** plinth
+
 *** chamber 1
-After travelling down a long corridor that makes strange 90 degree turns (
-you're pretty sure you should have doubled back at least once or twice ), you
-emerge into the next chamber.
+After travelling down a long corridor that makes strange 90 degree turns (you're
+pretty sure you should have passed back through the same corridor at some point,
+at least once), you emerge into the next chamber.
 
 A triangular chamber, with each side being 50 feet across... you think. It's
 hard to get a good grasp of just how big this chamber is. There's a strange
 echoing buzz, but you can't tell where it's coming from.
 
-The walls are made of a strange bronze material, layered and fashioned in a way
-that almost looks grown rather than built or forged. Where the walls meet the
-floor there is a gradual slope. On each of the two walls that face the entrance
-there are several holes, from each pours a constant stream of a glowing white
-milky liquid. The liquid pools along the edges of the wall, and travels through
-channels in the floor covered by mesh grates towards the feature in the center
-of the room.
+From openings set into bronze walls flow a white milky substance. When it
+reaches the ground, it flows through mesh covered channels to a triangular pool
+in the center of the room. Hovering above the pool is a circular platform, upon
+which is a tree, growing in a strange red drit-like substance.
 
-In the center of the room, set into the floor, is a triangular pool; it's
-oriented so that the "point" of the triangle points towards the entrance. The
-liquid level never rises, despite more liquid pouring in from the walls at a
-constant rate.
+On each side of the triangle set into the ground are a number of what seem to be
+statues, each facing the center of the room. They're down on one knee, arms raised.
+
+**** dm notes
+If the players don't touch the Goblins or try to get to the circular island, the
+Goblins leave them alone (they're deep in "prayer" routines, and don't notice
+the PCs otherwise).
+
+Touching the Vex Milk immediately causes 2 points of damage that bypasses armor,
+and requires a Might 3 task to avoid becoming infected.
+
+**** walls
+Upon closer inspection, the walls (and the floor) are actually made from layer
+upon layer of the bronze-like material. The way that it's been layered and
+fashioned makes it seem more like the growth of crystals than forged metal. The
+material seems to be etched, the detail almost too small to make out; it looks
+like circuits.
+
+Set into the walls are a number of openings, each no larger than a foot. From
+these openings pours a constant stream of white milky liquid. The liquid falls
+into a hole in the ground, before flowing underneath a mesh grill to the
+triangular pool. The flow is not very strong, but it never stops.
+
+**** triangular pool
+a triangle set into the floor about a foot, with the tip of the triangle
+pointing towards the door is a pool of the milky white liquid. the liquid level
+never rises, despite the liquid from the walls pouring into the pool at a
+constant rate. each of the sides of the pool is about 10 feet long.
+
+hovering above the pool about two feet is a circular platform, with a diameter
+of about 8 feet.
 
 In the center of the triangular pool is a small circular platform. The platform
-surface is covered in a reddish drit-like substance (hint: it's actually dirt,
-and it's from Mercury, the characters should find the substance BIZZARE, almost
-like someone today coming face to face with Cthulu). From the center of the
+surface is covered in a reddish drit-like substance. From the center of the
 platform grows what you could best describe as a tree: long smooth panels of a
 white metalic substance that grow into the structure of a trunk, and then begin
 branching and forming an empty sphere. The branches form almost hypnotic
@@ -61,25 +90,27 @@ circular pathways as they curl around to form the sphere.
 The tree seems to be dead or dying, however: the top half of the sphere is a
 rotted, almost oily-looking black substance.
 
-On each side of the triangle set into the ground are a number of what seem to be
-statues, but then you realize they are some kind of automaton. Each has a
-semi-circular "frill" on its head, and from what you can see each has a single
-eye set into its head.
+**** statues
+upon closer inspection, the statues appear to be machines. old machines. *VERY*
+old machines. they have moss growing on them, and dust that's accumulated on
+them seems to have turned to stone.
+
+Each has a semi-circular "frill" on its head, and from what you can see each has
+a single eye set into its head. The lens of the eye is made of a red glass.
 
 Each automaton is kneeling, with it's arms raised in supplication towards the
-tree.
+tree. It's like they're... praying?
 
-It's like they're... praying?
+**** centerpiece
+the reddish drit-like substance is dirt
 
-If the players don't touch the Goblins or try to get to the circular island, the
-Goblins leave them alone (they're deep in "prayer" routines, and don't notice
-the PCs otherwise).
+it's from mercury (which the characters don't know about)
 
-Touching the Vex Milk immediately causes 2 points of damage that bypasses armor,
-and requires a Might 3 task to avoid becoming infected.
+upon examining the dirt, they should get a datasphere infodump that lays out the
+properties of "dirt"
 
-
-**** corridor B
+**** exits
+***** corridor B
 A passage that runs for about 50 feet, slowly bending to the right until you've
 made a 90 degree turn.
 
@@ -347,13 +378,28 @@ attacking whoever set off the trap.
 If captured, the target is taken to Chamber 7
 
 ******* chamber 13
-A hexagonal chamber 30 feet across.
+A hexagonal chamber, where each wall is 10 feet long, creating a chamber 20 feet
+wide at the widest point. The walls are all a soft white, and glow a soft cold
+white light.
 
 The ground seems to be covered in a fine layer of sand.
 
 The room contains 4 metallic green boxes, each sitting on top of a black plinth
 of synth. Each one has a number of slots on top, which look like they're meant
-to receive and hold an object of some kind.
+to receive and hold an object of some kind. The plinths are arranged in a square.
+
+A humanoid corpse lay in the center of the space outlined by the plinths.
+
+The two walls to the left when you enter are covered in shelves, filled with
+boxes. One of the boxes has a faint light shining from it, another seems to be
+humming.
+
+Opposite the shelves is a mural that is slowly shifting.
+
+There is an accessway that leads to another part of the ruin set into the wall
+just beside the door you entered.
+
+******** plinths & boxes
 
 The plinths are arranged in a square, like so:
 
@@ -361,24 +407,124 @@ A  B
 
 C  D
 
-On two of the walls are shelves filled with boxes. One of the boxes has a faint
-light shining from it, another seems to be humming.
+There are two boxes with crystals ( hum & glow ). Slotting them into the surface
+of the boxes doesn't seem to do much. Putting the shining crystal into A reveals
+the hidden exit, putting into box B reveals the accessway.
 
-In the center of the space, between the four plinths, lay a humanoid
-skeleton. Upon closer inspection, it reveals itself to definitely not be human,
+Putting the humming crystal into box D causes the wall opposite the door to dim
+to black before a number of symbols appear, all along the wall at about chest
+height. Most of the symbols are grey, but a number of them are lit up in red.
+
+(touching a lit symbol will show the following on the wall, although the
+characters feel more like the images are projected into their heads and not onto
+the wall. the characters also feel like what they're seeing is something that
+has either escaped, is trying to escape, or will escape)
+
+********* box d
+********** a rough v, holding a diamond with three spires, with four holes also in the shape of diamons
+[[https://www.destinypedia.com/images/thumb/b/b3/TTK_logo.png/200px-TTK_logo.png][hive logo]]
+
+a scuttling humanoid creature with no eyes and a maw filled with sharp fangs,
+simultaneously morphing into one of two forms, a hulking brute or a floating
+willowy creature -- both of which have three eyes shining in their
+skulls. behind the creature is a mass of writhing, rotted, flesh; your vision
+pulls back to reveal the mass is in fact the bodies of seven great worm-like
+creatures, each of which exudes a dark energy.
+
+attached to this image are the words "hive", "darkness", "lying worm", "worm of
+truth"
+
+********** a triangle, with another triangle within but flipped, repeating infintitely
+
+a milky white liquid infiltrating the body of a humanoid automaton with a single
+glowing eye and a circular fringe on its head. the liquid seems to be alive, the
+automaton a suit of armor.
+
+attached to this image are the words "vex", "timelost", "black garden", "simulation"  
+
+********** a chevron with a diamon beneath and a word you can't decypher
+a horde of scuttling robots. a triangular head, perched upon four legs that end
+in wicked looking spikes. at the rear of the head is a prehensile tail-like
+appendage that ends in a three-fingered claw.
+
+behind that horde is another: a wide head bristling with machinery set upon a
+set of six legs that piston into the ground as the robot lumbers forward; slow
+and steady where the vanguard was fast and nimble.
+
+lastly, behind them all floats a machine the size of a mountain, with tentacles
+reaching down to pluck destroyed robots and enemies alike from the field of
+battle, rendering everything down into raw materials. metals and scrap are
+turned into more robots, biological materials are processed into biofuel for
+those same robots.
+
+you hear the words "faro", "metal devil", "corrupter", "deathbringer", and
+"last dawn"
+
+********* box c
+********** a circle, held in two pincers
+[[https://static.wikia.nocookie.net/halo/images/f/f6/Marathon_Logo.svg/revision/latest?cb=20210130084114][reclaimer symbol]]
+
+the image of hallways built on a massive scale, the walls
+covered in canisters containing a fine yellowish powder, a technology that
+harnesses a solid form of light, and a humanoid figure trapped in a giant orb.
+
+the only word that accompanies this set of images is "silentium"
+********** an alchemical circle, broken in half
+[[https://www.artstation.com/midnight-98][these things]]
+
+from across a great chamber, you see a finely crafted white box. it sits upon
+what you can only describe as an alter, hewn from the finest white marble you've
+ever seen. from this distance you catch a shinning glimmer, as if the box has
+jewels or precious metals built into the exterior.
+
+your view is suddenly closer. you can see that it's made from ivory, with what
+appear to be rubies, saphieres, and black pearls set into the lid. the edges are
+trimmed in a white metal.
+
+the view shifts one last time. you are standing right before the box. up close
+you can see the ivory is actually carefully worked /human bone/, cut and fit to form the
+illusion of solid panels. something tells you the gems aren't really gems.
+
+rather than words, you feel a rush of emotions and concepts. the emotions are
+more hightened than you've ever felt, and the concepts slither into your mind
+like serpents: deceit, doubt, hate, vanity, despair, scorn, anxiety, and
+absurdity.
+
+the box lid is gone.
+
+the box is empty.
+********** a half skull, half cog
+  
+a figure in a red cloak. the cloak doesn't cover the parasite-like backpack worn
+by the figure, which has a number of rusted and oily mechanical arms built from
+brass and cast iron. from beneath its hood you can barely make out the face --
+the barest details of a human face. its mouth is a grill that transforms the
+face into that of a leering skull. the eyes are mechanical compound eyes, like
+those of a fly.
+
+you see a dingy operating theatre, where a live and concious human is strapped
+into an operating table. the vision judders, jumping forwards in time. the human
+is now part machine, and the spark of a soul has left their eyes.
+
+attached to these images are the words "tech priest", "servitor", "omnissiah"
+
+******** corpse
+
+Upon closer inspection, it reveals itself to definitely not be human,
 but a creature about two feet taller than yourselves. What you first took to be
 armor is actually a bony exoskeleton, making it hard to tell where the flesh of
 the creature begins and ends. The legs of the creature seem almost withered, and
-is surrounded by the tattered remains of a clock; you realize that the cloak is
+is surrounded by the tattered remains of a cloak; you realize that the cloak is
 actually fashioned from skin of some kind, although it is so tattered and
 decayed you can barely tell its skin; let alone what creature it came from.
 
 Set into its head -- just above the maw of jagged teeth in an unnervingly human
-mouth -- are three eyes set in a triangular pattern.
+mouth -- are three eye holes set in a triangular pattern.
 
 It seems to have been trying to destroy the plinths, each is covered in
 scratches that match the claws on its hands.
-
+  
+******** mural
 The wall to the right-hand side of the wall opposite the door you came in on is
 covered by a gigantic three dimensional mural about a foot deep. The mural seems
 to be made from grains of coloured sand that showly shift as the mural slowly
@@ -400,41 +546,12 @@ did in the last repetition.
 Touching the sand creates ripples, and seems to change the outcome of that
 repetition.
 
-There are two boxes with crystals ( hum & glow ). Slotting them into the surface
-of the boxes doesn't seem to do much. Putting the shining crystal into A reveals
-the hidden exit, putting into box B reveals the accessway.
-
-Putting the humming crystal into box D causes a rush of images and scenes to
-play in the mind of whoever put the crystal into the box, too quickly to make
-anything out. The only thing left after the images receed are:
-
-- the outline of a robotic creature with a single glowing eye and a circular
-  fringe on its head, attached to this image is the word "vex"
-- a scuttling creature that morphs into three different forms, with host of
-  seven worm-like creatures that exude a dark power behind them, you hear the
-  words "hive", "darkness", "lying worm", "worm of truth"
-- a figure of a human, but huge and with squished features, wearing some kind of
-  powered armor covered in spikes and symbols that hurt you to perceive. you get
-  flashes of great battles with twisted creatures from another dimension, and
-  scores of these armored warriors joining them. you hear the words "chaos" and
-  "abbadon"  
-- an army of robots that eat all biological manner, and a massive robot that
-  produces more, and the screams of an otherworldly digital entity, you hear the
-  words "metal devil", "corrupter", and "deathbringer"
-- finally, the image of hallways built on a massive scale, the walls covered in
-  canisters containing a fine yellowish powder, a technology that harnesses a
-  solid form of light, and a humanoid figure trapped in a giant orb. the only
-  word that accompanies this set of images is "silentium"
-
-Putting the humming crystal into box C has a similar effect to box D, however
-the images and words are too jumbled to make out and they fade quickly from your head.
-  
-
-******** hidden exit
+******** exits
+********* hidden exit
 A section of the mural shows a door set into a mountainside. Placing the glowing
 crystal into box A causes the door to grow and open up into an actual door.
 
-********* chamber 14
+********** chamber 14
 A circular chamber with a radius of about 15 feet.
 
 A device is built into a section of the wall opposite the door you come in. 
@@ -458,11 +575,11 @@ Any creature hit by a weapon with the nodule attached must make a Level 4 Might
 defense roll or be stunned for its next turn.
 
 There are no other exits from this chamber.
-******** accessway
+********* accessway
 Built for slightly shorter creatures -- humans have to duck their heads to avoid
 hitting their heads on pipes and protuberances that extrude from the ceiling.
 
-********* chamber 15
+********** chamber 15
 A rectangular chamber 30 feet across and 60 feet long.
 
 The walls are covered in iconography and what looks like written instructions,
@@ -563,18 +680,32 @@ behind which is an exit from the chamber.
 You pass down a corridor that is dark and gothic; spikes jut out from the walls,
 and pillars seem to form ribs that support the roof.
 
-You exit the corridor into a hexagonal chamber barely 10 feet across
+You exit the corridor into a hexagonal chamber barely 15 feet across
 
-Set into each of the walls is a recessed alcove, each of which contains what
-appears to be a humanoid skeleton covered in more of the silk-like webbing. Upon
-looking closer, you realize that the creatures within are not skeletons, they
-simply have an exoskeleton made of a material unnervingly similar to human
-bone. Their spindly arms and legs end in sharp talloned feet and hands. Their
-abdomen is sunken in, as if the creature had wasted away. They have no eyes,
-the dome of their skull coming down to just above their fang-filled maws, with a
-pair of snake-like nostrils in the small strip of bony flesh between maw and
-dome.
+Set into four of the walls, two on each side, are four alcoves. Each of which
+contains what appears to be a humanoid corpse covered in more of the silk-like
+webbing.
 
+The wall opposite the door is made of a jagged amber crystal. Something behind
+the crystal glows a lambent green, turning the figure inside into a silhouette.
+
+Hanging from the ceiling on rusted and spiked chains are lanterns that don't
+give much illumination; rather than give light they highlight the jagged edges
+of the shadows within the room. Fluttering around the lanterns are more of the
+four-winged moths.
+
+From somewhere in the room, you hear a low murmur. You can't pinpoint the
+source. It seems to be speaking in a harsh language that just sounds... wrong.
+
+There are no other exits from this room.
+
+********** gm notes
+These Thrall are deep in slumber, they will not wake.
+
+If they've been to chamber 13, mention that the skeleton they saw there is
+somewhat similar.
+
+********** alcoves
 For a while you think the creatures long dead, but when one stirs you realize
 they are simply sleeping; stuck in some deep form of hibernation.
 
@@ -585,25 +716,23 @@ the head of the creature the parasite resides within. It burrows back into the
 flesh of its host, which appears to be both pleasant and painful for the
 creature.
 
-The ceiling of the chamber seems to be a single glowing crystal that is amber in
-colour. Once your attention drifts from the creatures in the alcoves, you
-inspect the crystal. The crystal glows weakly, barely enough to illuminate the
-chamber you stand in. Deep within the crystal, you can just make out a form;
-similar to the creatures within the alcoves, but several feet taller. It is also
-a much more powerful form; instead of scrawny bony arms it has large arms corded
-with strong muscles, the weak dome is protected by a crown of spiky exoskeleton,
-the cavernous chest protected by more of the same. In front of the body,
-clutched by both hands, is a sword that you think must be nearly as tall as you.
+Upon looking closer, you realize that the creatures within are not skeletons,
+they simply have an exoskeleton made of a material unnervingly similar to human
+bone. Their spindly arms and legs end in sharp talloned feet and hands. Their
+abdomen is sunken in, as if the creature had wasted away. They have no eyes, the
+dome of their skull coming down to just above their fang-filled maws, with a
+pair of snake-like nostrils in the small strip of bony flesh between maw and
+dome.
 
-You hear a low murmur in a harsh language that just sounds... wrong.
+********** crystals
+The crystal glows weakly, barely enough to illuminate the chamber you stand
+in. Deep within the crystal, you can just make out a form; similar to the
+creatures within the alcoves, but several feet taller. It is also a much more
+powerful form; instead of scrawny bony arms it has large arms corded with strong
+muscles, the weak dome is protected by a crown of spiky exoskeleton, the
+cavernous chest protected by more of the same. In front of the body, clutched by
+both hands, is a sword that you think must be nearly as tall as you.
 
-==========
-
-If they've been to chamber 13, mention that the
-
-These Thrall are deep in slumber, they will not wake.
-
-There are no other exits from this room.
 **** chamber at bottom of shaft (chamber 2)           :scavenged:explored:
 A circular chamber with a 90 foot radius.
 
