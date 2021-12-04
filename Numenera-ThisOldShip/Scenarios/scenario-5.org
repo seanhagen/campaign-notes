@@ -5,7 +5,7 @@ are three doors in this chamber, but two are filled with rubble from collapsed c
 The only exit from the entrance chamber leads to a corridor that comes to
 an X intersection after about 10 feet or so.
 *** relic chamber
-After passing through a corridor about 100 meters long, you find yourselves in a
+After passing through a corridor about 300 feet long, you find yourselves in a
 massive chamber. From what you can tell, it appears to be hexagonal.
 
 At least 100 feet across, you are unable to determine the length or true shape
@@ -17,13 +17,12 @@ of the chamber for several reasons:
 2) A shimmering veil of energy prevents you from going more than 50 feet into
    the chamber, and the nature of the veil makes it harder to ascertain what's
    in the chamber.
-3) The one thing you are able to make out quite clearly though, is the massive
-   airship that takes up much of the chamber. It blocks out much of what lay
-   behind it, further lending to your issues determining the size and shape of
-   the chamber.
+3) The one thing you are able to make out quite clearly though, is the airship
+   that takes up much of the chamber. It blocks out much of what lay behind it,
+   further lending to your issues determining the size and shape of the chamber.
 
 From what you can tell, the ship is in perfect condition. Roughly 80 feet wide
-and you estimate that it's at least 200 feet long -- although the back half is
+and you estimate that it's at least 180 feet long -- although the back half is
 shrouded by darkness, making it hard to accurately determine the dimensions of
 the vessel.
 
@@ -31,6 +30,17 @@ A plinth stands before the wall of energy. There seem to be a number of controls
 on the top of the plinth.
 
 **** gm notes
+the ship AI has to let them in, but can't until the players have repaired a few
+things and found some more of the control crystals.
+
+need:
+- 1x glowing with gentle purple light (chamber 6, scenario 3)
+- 1x humming crystal (chamber 13, scenario 5)
+- 1x gentle warmth (chamber 3, scenario 2)
+- 1x plasma ball (scenario 7)
+- 1x from ager's belongings
+- 1x from desert ruin
+- 1x from dead forest ruin
 
 **** plinth
 

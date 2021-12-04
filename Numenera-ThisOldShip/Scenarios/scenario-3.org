@@ -117,7 +117,9 @@ nothing. The small tubes contain nothing but sand.
 (if the boxes are searched): You search through the boxes, finding nothing but
 the tubes of sand. [if Neta is with the party, she will be visibly agitated]
 You're about to give up, when you find one box that was better sealed than the
-rest. Within you find [1d8+2] crystals [Neta will be visibly relieved to see this].
+rest. Within you find 6 crystals [Neta will be visibly relieved to see
+this]. Two of the crystals glow with a gentle purple light, one causes your
+hands to tingle, and the other three seem to be dead or defunct.
 
 The boxes are arranged like so:
 

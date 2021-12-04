@@ -1,0 +1,74 @@
+* Entry 123 - The Ship & Crystals
+Found someone new in the Ship today. An ancient intelligence that used to help
+run the ship. A much bigger find than I expected, given our recent luck. She
+says her name is Neta, although apparently some of her memories are missing so
+she's not one hundred percent sure about that.
+
+So odd to meet a disembodied intelligence. So unlike the machine intelligences
+I'm used to running into in ruins and strange places. With them, it's a toss-up
+whether you've met a friend or potential trade partner, or one that's been
+mistreated or has gone insane and just wants to kill you. Although I have to
+admit, "meatbag" is a pretty good epithet for us humans.
+
+Neta showed me to a "nexus room", identified by this symbol:
+
+#+CAPTION: "brain" in Fallen
+[[../Images/brain.png]]
+
+She shows me the crystals, and told me that these contained her memories and
+specialized functions. Apparently many have been lost to time or scavengers, but
+there are enough still remaining that if they're returned to her she'll have
+much better control over the ship, including the launch bay for an airship.
+
+I went to check out this airship, because such a vehicle could make our lives
+much easier. It's protected by a field of energy, some kind of stasis field or
+time lock. There's a plinth in front of the energy field that takes the
+crystals. I fiddled with the plinth a bit, trying to bypass the need for the
+crystals, but all I managed to do was reconnect the emitter that allowed Neta to
+show up in this chamber.
+
+She said that the plinth needs a specific set of crystals in order for her to be
+able to turn off the field. Apparently trying to bypass the crystals could have
+caused me to have a real bad day. Based on what Neta's told me, four of the
+six crystals are in crashed parts of the ship that should all be fairly close
+to Ararholm.
+
+Based on what she told me, the other two are a bit further away. One is probably
+in either the dead forest to the south, or in the impassible forest to the
+south-east. I really hope it's in the dead forest, because the impassible forest
+got its name for a reason. (scribbled note in margin: maybe not so impenetrable,
+seems like there may be some time-dependent paths that open up)
+
+The other is to the west. Preferably it's in the desert mesas to the south-west,
+not much is out there beyond creatures that are too focused on finding water to
+really be of much concern. Otherwise it's in the red forest (margin note: Pamki,
+don't go in the red forest without hearing protection) or the fungal forest. It
+had better not be in the fungal forest, still haven't figured out a way to
+protect folks from the spores. Thankfully they're not deadly, they just make
+keeping people together and safe much harder.
+
+Neta said that a few parts of the ship crashed down to the north of the river;
+somewhere in the forests to the north-west, in the mountains to the north, and
+the swamps to the north-east. The pieces better not be across the river, because
+if they are they might as well be on the moon. The river itself is dangerous --
+haven't found a safe crossing point in the two years I've been looking. There
+are some potential spots to cross to the east, or potentially a way through the
+swamps. But the swamps are far too dangerous to try and pathfind through, and
+we've got better uses for wood right now than trying to build a bridge.
+
+Although.
+
+There may be a spot I can use the line caster to get across the river to the
+north-west, just north of the fungal forest. I'll save that option for later,
+if I can't find the other crystals in this area of Maka-Tho. I can't end up
+stuck on the other side of the river, not when Tashi is pregnant.
+
+This whole line of inquiry may have to be put on hold for a while. I can't go
+too far, not until the baby is born. Maybe not even after that. It takes a while
+for word to get to Calda from here, but word will reach the rest of the world
+that Tashi and I are having a child. I don't know how long before word reaches
+him, but I need to make sure they're both ready and safe. I stole his greatest
+treasure, and while I don't put much stock in grand threats I can't risk
+anything happening to either of them.
+
+I have to make sure they and Ararholm are ready.

@@ -374,7 +374,15 @@ explorers
 ******* chamber 3
 a rectangle 15 feet across and 30 long
 
-a water leak in the ceiling is creating bizzare ice sculptures
+sandy ship crystal chamber
+
+only one plinth is still intact
+
+three crystals can be found here:
+
+- 1x high-pitched hum
+- 1x swirling darkness
+- 1x gentle warmth
 
 no exits
 ****** sealed exit 2
