@@ -1,5 +1,9 @@
-* Mex's List of Stuff She Can Build
-** Resources
+#+EXCLUDE_TAGS: noexport
+* Mex's Shop
+** Resources, Build Times, Etc
+*** Resources
+This is the list of what Mex has on hand to build things with.
+
 Iotum
 | Name             | Level | Salvage amount | Amount |
 | Io               |     1 |            1d6 |      0 |
@@ -27,27 +31,151 @@ Iotum
 | Scalar boson rod |     9 |              1 |      0 |
 | Cosmic foam      |    10 |              1 |      0 |
 
-
 † Protomatter can’t be salvaged from cyphers, artifacts, automatons or other
 objects, scrap, or ruins of the numenera that are smaller than 40 feet (12 m) on
 a side because 1 unit of protomatter is almost that massive (unless some sort of
 extradimensional space to house the protomatter unit is involved). If this
 result occurs in relation to a source that’s too small, thaum dust is salvaged
 instead.
+*** Build Times
+**** Commonplace object build time
+| Object Level                  | General Time To Build |
+|-------------------------------+-----------------------|
+| Routine (tying a simple knot) | 1 minute              |
+| 1 (torch)                     | 5 minutes             |
+| 2 (bench)                     | 1 hour                |
+| 3 (cabinte)                   | 1 day                 |
+| 4 (light weapon or armor)     | 2 days                |
+| 5 (medium weapon or armor)    | 1 week                |
+| 6 (heavy weapon or armor)     | 1 month               |
 
+**** Commonplace structure build time
+| Structure Level              | Time to Build |
+| Routine (one-person lean-to) | ~30 minutes   |
+| 1 (hut)                      | ~3 hours      |
+| 2 (cottage)                  | ~3 days       |
+| 3 (wooden palisade)          | ~3 weeks      |
+| 4 (watchtower)               | ~3 months     |
+| 5 (mansion)                  | ~1 year       |
+| 6 (keep)                     | ~10 years     |
+| 7 (castle)                   | ~30 years     |
 
+**** Installation build time
+| Assessed Difficulty | Time to Build |
+|                   1 | ~1 day        |
+|                   2 | ~2 days       |
+|                   3 | ~4 days       |
+|                   4 | ~6 days       |
+|                   5 | ~2 weeks      |
+|                   6 | ~1 month      |
+|                   7 | ~3 months     |
+|                   8 | ~6 months     |
+|                   9 | ~1 year       |
+|                  10 | ~10 years     |
+**** Cypher build time
+| Assessed Difficulty | Time to Build |
+|                   1 | ~10 minutes   |
+|                   2 | ~1 hour       |
+|                   3 | ~4 hours      |
+|                   4 | ~9 hours      |
+|                   5 | ~28 hours     |
+|                   6 | ~2 days       |
+|                   7 | ~1 week       |
+|                   8 | ~3 weeks      |
+|                   9 | ~2 months     |
+|                  10 | ~6 months     |
+
+**** Artifact build time
+| Assessed Difficulty | Time to Build |
+|                   1 | ~2 days       |
+|                   2 | ~4 days       |
+|                   3 | ~8 days       |
+|                   4 | ~2 weeks      |
+|                   5 | ~1 month      |
+|                   6 | ~2 months     |
+|                   7 | ~6 months     |
+|                   8 | ~1 year       |
+|                   9 | ~10 years     |
+|                  10 | ~20 years     |
+
+**** Automaton build time
+| Assessed Difficulty | Time to Build |
+|                   1 | ~2 days       |
+|                   2 | ~4 days       |
+|                   3 | ~8 days       |
+|                   4 | ~2 weeks      |
+|                   5 | ~1 month      |
+|                   6 | ~2 months     |
+|                   7 | ~6 months     |
+|                   8 | ~1 year       |
+|                   9 | ~10 years     |
+|                  10 | ~20 years     |
+
+**** Vehicle build time
+| Assessed Difficulty | Time to Build |
+|                   1 | ~3 days       |
+|                   2 | ~5 days       |
+|                   3 | ~10 days      |
+|                   4 | ~3 weeks      |
+|                   5 | ~2 months     |
+|                   6 | ~4 months     |
+|                   7 | ~1 year       |
+|                   8 | ~10 years     |
+|                   9 | ~20 years     |
+|                  10 | ~50 years     |
+*** Required Resources
+Here's the info on what is required for building artifacts and
+cyphers. Installations & automatons list the required iotum & units of parts in
+each plan, so they're not listed here.
+**** Artifacts
+Specifications*: When a crafter has a plan for a specific artifact, they can try
+to craft it at that artifact’s minimum crafting level or higher. Use this
+template to determine the iotum requirements based on the level of the completed
+artifact. The GM may decide that additional iotum is required, depending on the
+effect produced.
+
+*Depletion*: 1 in 1d20 or varies
+
+*Parts*: 10 × the level of the completed artifact
+
+| Level | Iotum Required                                                                                                                                                                                        |
+|     1 | Io (1d6 units); responsive synth (8 units); synthsteel (2 units)                                                                                                                                      |
+|     2 | Io (1d6 units); responsive synth (12 units); synthsteel (2 units)                                                                                                                                     |
+|     3 | Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units)                                                                                                            |
+|     4 | Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units); amber crystal (1 unit)                                                                                    |
+|     5 | Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units); amber crystal (4 units)                                                                                   |
+|     6 | Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units)                                                             |
+|     7 | Io (1d6 units); responsive synth (12 units);  (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit)                                                    |
+|     8 | Io (1d6 units); responsive synth (23 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit); tamed iron (1 unit)                     |
+|     9 | Io (1d6 units); responsive synth (32 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit); tamed iron (2 units)                    |
+|    10 | Io (1d6 units); responsive synth (32 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit); tamed iron (2 units); data orb (1 unit) |
+**** Cyphers
+*Specifications*: This plan is a template. When a crafter has a plan for a
+specific cypher, they can try to craft it at that cypher’s minimum crafting
+level or higher. Use this template to determine the iotum requirements based on
+the level of the completed cypher. The GM may decide that additional iotum is
+required, depending on the effect produced.
+
+*Depletion*: Cypher
+
+*Parts*: 3 × the level of the completed cypher
+
+| Level | Iotum Required                                                                                                                                                                                                         |
+|     1 | Io (1d6 units); responsive synth (3 units); quantium (1 unit)                                                                                                                                                          |
+|     2 | Io (1d6 units); responsive synth (5 units); quantium (1 unit)                                                                                                                                                          |
+|     3 | Io (1d6 units); responsive synth (5 units); apt clay (1 unit); quantium (1 unit)                                                                                                                                       |
+|     4 | Io (1d6 units); responsive synth (5 units); apt clay (3 units); quantium (2 units)                                                                                                                                     |
+|     5 | Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (2 units); quantium (1 unit); thaum dust (1 unit)                                                                                        |
+|     6 | Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (4 units); quantium (1 unit); thaum dust (2 units)                                                                                       |
+|     7 | Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (4 units); quantium (1 unit); thaum dust (2 units); psiranium (1 unit)                                                                   |
+|     8 | Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (4 units); quantium (2 units); thaum dust (2 units); psiranium (1 unit); oraculum (1 unit)                                               |
+|     9 | Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (4 units); quantium (2 units); thaum dust (2 units); psiranium (1 unit); oraculum (2 units); philosophine (1 unit)                       |
+|    10 | Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (4 units); quantium (2 units); thaum dust (2 units); psiranium (1 unit); oraculum (2 units); philosophine (1 unit); cosmic foam (1 unit) |
 ** Full Plans
 These are the things Mex has a complete set of plans for, all she needs is
 parts. Artifacts & cyphers list the level that Mex can build that item at
 without any issues. She can build them at a higher level, but risks failing in
 the task and using up the materials without producing anything.
-
-*** Artifacts
-| Name           | Level | Build Time |
-|----------------+-------+------------|
-| [[*Automated Bath][Automated Bath]] |     2 | 4 days     |
-| [[*Salvage Pack][Salvage Pack]]   |     2 | 4 days     |
-| [[*Box of Embers][Box of Embers]]  |     1 | 2 days     |
 
 *** Cyphers
 | Name                  | Level | Build Time |
@@ -56,6 +184,13 @@ the task and using up the materials without producing anything.
 | [[*Defoliant][Defoliant]]             |     6 | 2 days     |
 | [[*Rejuvinator][Rejuvinator]]           |     5 | 1 day      |
 | [[*Poison (Pacification)][Poison (Pacification)]] |     4 | 9 hours    |
+
+*** Artifacts
+| Name           | Level | Build Time |
+|----------------+-------+------------|
+| [[*Automated Bath][Automated Bath]] |     2 | 4 days     |
+| [[*Salvage Pack][Salvage Pack]]   |     2 | 4 days     |
+| [[*Box of Embers][Box of Embers]]  |     1 | 2 days     |
 
 *** Installations
 | Name            | Level | Build Time |
@@ -74,6 +209,10 @@ the task and using up the materials without producing anything.
 | [[*Assistant][Assistant]]   |     5 | 1 month    |
 | [[*Extractor][Extractor]]   |     4 | 2 weeks    |
 | [[*Garden Mech][Garden Mech]] |     2 | 4 days     |
+
+*** Vehicles
+| Name        | Level | Build Time |
+| Hover Frame |     2 | 5 days     |
 
 *** Defensive Structures
 | Structure              | Level | Materials                   | Specifications                                                                                                                  |
@@ -194,39 +333,20 @@ Mex has partial plans for these numenera & structures. More plans seeds must be
 found for Mex to create a full plan she can use to build from. She doesn't know
 what level or how long it'll take, she needs the full plan to figure that out.
 
-*** Artifacts
-- Cellular Annealer
-- Cloak of Finery
-- Empty Field Generator
-- Instant Refuge
+| Artifacts             | Cyphers                | Installations              | Vehicles    | Automatons          |
+|-----------------------+------------------------+----------------------------+-------------+---------------------|
+| Cellular Annealer     | Force Shield Projector | Everflowing Fountain       | Battle Cart | Buildnought         |
+| Cloak of Finery       | Gravity Nullifier      | Express Tube               | Chainpod    | Lifting Aventron    |
+| Empty Field Generator | Magnetic Shield        | Fabricator                 |             | Mech Soldier, Basic |
+| Instant Refuge        |                        | Farspeaking Pylon          |             | Storyteller         |
+|                       |                        | Force Dome                 |             |                     |
+|                       |                        | Rain Caller                |             |                     |
+|                       |                        | Temporal Chime             |             |                     |
+|                       |                        | Turret,Basic               |             |                     |
+|                       |                        | Water Purification Station |             |                     |
+  
+** Known Numenera
 
-*** Automatons
-- Buildnought
-- Lifting Aventron
-- Mech Soldier, Basic
-- Storyteller
-
-*** Cyphers
-- Force Sheidl Projector
-- Gravity Nullifier
-- Magnetic Shield
-  
-*** Installations
-- Everflowing Fountain
-- Express Tube
-- Fabricator
-- Farspeaking Pylong
-- Force Dome
-- Rain Caller
-- Temporal Chime
-- Turret, Basic
-- Water Purification Station
-  
-*** Vehicles
-- Battle Cart
-- Chainpod
-  
-** Numenera
 *** Artifacts
 **** Automated Bath
 *Level*: 1d6

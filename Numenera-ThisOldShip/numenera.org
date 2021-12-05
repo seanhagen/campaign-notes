@@ -1,3 +1,4 @@
+#+EXCLUDE_TAGS: noexport
 Reference list for cyphers, artifacts, and anything that Mex can build.
 
 * Cyphers
@@ -12,15 +13,15 @@ One Pool of the user's choice is restored by a number of points equal to the
 cypher's level.
 ** Poison (Pacification)
 The victim lays down for one minute with eyes closed when told to do so (once).
-** Force Shield Projector
+** Force Shield Projector                                         :noexport:
 Creates a shimmering energy shield around the user for one hour, during which
 time they gain +3 Armor (+4 Armor if the cypher is level 5 or higher)
-** Gravity Nullifier
+** Gravity Nullifier                                              :noexport:
 For one hour, the user can float into the air, moving vertically (but not
 horizontally without some other action, such as pushing along the ceiling) up to
 a short distance per round. The user must weigh less than 50 pounds (22kg) per
 level of the cypher.
-** Magnetic Shield
+** Magnetic Shield                                                :noexport:
 For 10 minutes, metal objects cannot come within immediate range of the
 activated device. Metal items already in the area when the device is activated
 are slowly pushed out.
@@ -37,7 +38,7 @@ cleaned of all dirt and grime, their teeth are cleaned, their hair is washed and
 brushed, and their nails are trimmed. This also cleans the target’s clothing.
 
 *Depletion*: 1 in 1d100
-** Cellular Annealer
+** Cellular Annealer                                              :noexport:
 *Level*: 1d6 + 4
 
 *Form*: A small handheld device with a few simple controls
@@ -49,7 +50,7 @@ make a free recovery roll (or, for NPCs, regain a number of points of health
 equal to their level × 3).
 
 *Depletion*: 1 in 1d10
-** Cloak of Finery
+** Cloak of Finery                                                :noexport:
 *Level*: 1d6 + 1
 
 *Form*: A multilayered cloak of glittering material
@@ -63,7 +64,7 @@ cloak provides an asset to all interaction tasks the wearer attempts for the
 next minute.
 
 Depletion: 1 in 1d20
-** Empty Field Generator
+** Empty Field Generator                                          :noexport:
 *Level*: 1d6
 
 *Form*: : A 12-foot (4 m) tall collapsible metal tripod with a complex antenna
@@ -79,7 +80,7 @@ drops by one category. This holographic illusion’s level is equal to the
 artifact’s level.
 
 *Depletion*: 1 in 1d20
-** Instant Refuge
+** Instant Refuge                                                 :noexport:
 *Level*: 1d6 + 4
 
 *Form*: A 2-foot (60 cm) cube with a control surface
@@ -96,7 +97,7 @@ being opened manually, it opens automatically and expels its occupants. For
 those inside the portal, no time seems to have passed.
 
 *Depletion*: 1–2 in 1d6
-** Salvage Pack
+** Salvage Pack                                                   :noexport:
 *Level*: 1d6 + 1
 
 *Form*: Synth pack with attached devices
@@ -176,7 +177,7 @@ distance in diameter at a temperature that is comfortably cool for humans, even
 amidst desert-like conditions.
 
 *Depletion*: 1 in d20 (check per month of use)
-** Everflowing Fountain
+** Everflowing Fountain                                           :noexport:
 *Minimum Crafting Level*: 6  *Kind*: Installation
 
 *Iotum*: Io (1d6 units); responsive synth (13 units); amber crystal (5 units);
@@ -192,7 +193,7 @@ water per day, enough to satisfy the water requirements of twenty normal humans
 per day. This device adds +5 to a community’s infrastructure stat.
 
 *Depletion*: 1 in 1d20 (check each year of use)
-** Express Tube
+** Express Tube                                                   :noexport:
 *Minimum Crafting Level*: 2   *Kind*: Installation
 
 *Iotum*: Io (1d6 units); responsive synth (10 units); synthsteel (1 unit); mimetic
@@ -213,7 +214,7 @@ Connecting multiple express tubes together creates a transportation network with
 controls on the cubes directing each canister to the correct end point.
 
 *Depletion*: 1 in d20 (check per month of use)
-** Fabricator
+** Fabricator                                                     :noexport:
 *Minimum Crafting Level*: 6   *Kind*: Installation
 
 *Iotum*: Io (1d6 units); responsive synth (25 units); apt clay (2 units); mimetic
@@ -230,7 +231,7 @@ taking only half the time that crafting the object would normally require.
 
 *Depletion*: 1 in 1d20 (check after every time an object or structure higher than
 level 3 is produced)
-** Farspeaking Pylon
+** Farspeaking Pylon                                              :noexport:
 *Minimum Crafting Level*: 4    *Kind*: Installation
 
 *Iotum*: Io (1d6 units); responsive synth (12 units); pliable metal (3 units);
@@ -249,7 +250,7 @@ knew the same form could receive that message. This device adds +3 to a
 community’s infrastructure stat.
 
 *Depletion*: 1 in 1d100 (check each day the pylon is used)
-** Force Dome
+** Force Dome                                                     :noexport:
 *Minimum Crafting Level*: 8  *Kind*: Installation
 
 *Iotum*: Io (1d6 units); responsive synth (20 units); synthsteel (5 units);
@@ -311,7 +312,7 @@ immediate range (and dim light within short range) for up to ten hours or until
 they are touched again to turn the light off.
 
 *Depletion*: 1 in 1d100 (check per week of use)
-** Rain Caller
+** Rain Caller                                                    :noexport:
 *Minimum Crafting Level*: 5    *Kind*: Installation
 
 *Iotum*: Io (1d6 units); responsive synth (12 units); synthsteel (2 units);
@@ -326,7 +327,7 @@ in an open area). After about an hour, the clouds release a rainstorm that lasts
 for another hour, covering an area up to 1 mile (1.5 km) in diameter.
 
 *Depletion*: 1 in 1d100 (check each use) 
-** Temporal Chime
+** Temporal Chime                                                 :noexport:
 *Minimum Crafting Level*: 4  *Kind*: Installation
 
 *Iotum*: Io (1d6 units); responsive synth (13 units); pliable metal (3 units);
@@ -345,7 +346,7 @@ one week earlier than struck, increase the level by 3 and add midnight stone (2
 units), thaum dust (10 units), and tamed iron (5 units) to the required iotum.
 
 *Depletion*: 1 in 1d20 (check each use)
-** Turret, Basic
+** Turret, Basic                                                  :noexport:
 *Minimum Crafting Level*: 2   *Kind*: Installation
 
 *Iotum*: Io (1d6 units); responsive synth (10 units); synthsteel (5 units);
@@ -376,7 +377,7 @@ operates continually once activated, warding an area at least a short distance
 across from mundane insects and vermin via a psychic exclusion field.
 
 *Depletion*: 1 in 1d20 (check each month of use)
-** Water Purification Station
+** Water Purification Station                                     :noexport:
 *Minimum Crafting Level*: 8
 
 *Kind*: Installation
@@ -394,7 +395,7 @@ purify). This installation adds +15 to a community’s infrastructure stat.
 
 *Depletion*: 1 in 1d100 (check each year of use)
 * Vehicles
-** Battle Cart
+** Battle Cart                                                    :noexport:
 *Minimum Crafting Level*: 7  *Kind*: Vehicle
 
 *Iotum*: Io (2d6 units); responsive synth (25 units); pliable metal (6 units);
@@ -454,6 +455,25 @@ in the chain (a chainpod unlinked from the lead pod becomes immediately active
 and drivable).
 
 *Depletion*: 1–2 in 1d100 (check per day of use)
+** Hover Frame
+*Minimum Crafting Level*: 2   *Kind*: Vehicle
+
+*Iotum*: Io (1d6 units); responsive synth (23 units); pliable metal (3 units);
+quantium (3 units)
+
+*Parts*: 19 units
+
+*Specifications*: This plan produces an open frame supported by silvery,
+ground-effect discs that negate and push against gravity, allowing it to pass
+over any terrain, including water, without slowing. However, the groundeffect
+force isn’t as efficient as direct contact, and a hover frame’s maximum speed is
+only an immediate distance each round.  On extended trips, it can move up to 3
+miles per hour (5 kph).The frame features a place for a driver to lash
+themselves plus an additional space where a passenger or cargo could be lashed
+underneath.  After each ten hours of use, the hover frame must rest in the sun
+for at least one hour before it becomes operational again.
+
+*Depletion*: 1 in 1d20 (check per week of use)
 
 * Automatons
 ** Assistant
