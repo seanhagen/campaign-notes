@@ -23,3 +23,5 @@ Ideas on how to run the game, the style, the tone, etc.
 # Encounters 
 
 # INTRUSIONS
+** Salvaging
+[take notes on page 107 on for salvaging]

@@ -1,4 +1,41 @@
 * Mex's List of Stuff She Can Build
+** Resources
+Iotum
+| Name             | Level | Salvage amount | Amount |
+| Io               |     1 |            1d6 |      0 |
+| Responsive synth |     2 |            1d6 |      0 |
+| Apt clay         |     3 |            1d6 |      0 |
+| Bio-circuitry    |     4 |            1d6 |      0 |
+| Synthsteel       |     4 |            1d6 |      0 |
+| Pliable metal    |     4 |            1d6 |      0 |
+| Azure steel      |     5 |            1d6 |      0 |
+| Mimetic gel      |     5 |            1d6 |      0 |
+| Quantium         |     5 |            1d6 |      0 |
+| Amber crystal    |     6 |            1d6 |      0 |
+| Protomatter†     |     6 |              1 |      0 |
+| Thaum dust       |     6 |            1d6 |      0 |
+| Smart tissue     |     7 |            1d6 |      0 |
+| Psiranium        |     7 |              2 |      0 |
+| Kaon dot         |     7 |              2 |      0 |
+| Monopole         |     7 |              2 |      0 |
+| Midnight stone   |     8 |              2 |      0 |
+| Oraculum         |     8 |              1 |      0 |
+| Virtuon particle |     8 |              1 |      0 |
+| Tamed iron       |     9 |              1 |      0 |
+| Philosophine     |     9 |              1 |      0 |
+| Data Orb         |     9 |              1 |      0 |
+| Scalar boson rod |     9 |              1 |      0 |
+| Cosmic foam      |    10 |              1 |      0 |
+
+
+† Protomatter can’t be salvaged from cyphers, artifacts, automatons or other
+objects, scrap, or ruins of the numenera that are smaller than 40 feet (12 m) on
+a side because 1 unit of protomatter is almost that massive (unless some sort of
+extradimensional space to house the protomatter unit is involved). If this
+result occurs in relation to a source that’s too small, thaum dust is salvaged
+instead.
+
+
 ** Full Plans
 These are the things Mex has a complete set of plans for, all she needs is
 parts. Artifacts & cyphers list the level that Mex can build that item at

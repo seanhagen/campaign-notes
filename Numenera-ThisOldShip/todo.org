@@ -580,6 +580,8 @@ CLOSED: [2021-12-04 Sat 13:28] DEADLINE: <2021-12-05 Sun>
 link: [[file:mex.org::*Mex's Shop][Mex's Shop]]
 ** TODO figure out way to track the iotum that mex has
 DEADLINE: <2021-12-05 Sun>
+
+
 ** DONE design ship marking symbol
 CLOSED: [2021-12-04 Sat 11:51] DEADLINE: <2021-12-05 Sun>
 also need to decide who's responsible for it ( is it Ager's? the ship? something
