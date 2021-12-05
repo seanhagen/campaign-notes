@@ -1,0 +1,9 @@
+This site is for all the resources I'm too lazy to put into World Anvil just
+
+#+INCLUDE: "rules.org" :heading "Rulings"
+
+#+INCLUDE: "handouts.org" :heading "Handouts"
+
+#+INCLUDE: "numenera.org" :heading "Numenera"
+
+#+INCLUDE: "mex-shop.org" :heading "Mex's Shop"

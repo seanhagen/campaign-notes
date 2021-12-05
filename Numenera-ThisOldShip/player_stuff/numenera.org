@@ -1,0 +1,626 @@
+#+EXCLUDE_TAGS: noexport
+Reference list for cyphers, artifacts, and anything that Mex can build.
+* Numenera
+** Cyphers
+*** Explosive Implant
+ Once this substance enters the bloodstream, it travels to the brain and
+ reorganizes into an explosive that detonates when activated via a detonator
+ (must be within long range), inflicting 10 points of damage (ignoring Armor)
+*** Defoliant
+ One chlorophyl-based plant of a level lower than the cypher is instantly killed
+*** Rejuvinator
+ One Pool of the user's choice is restored by a number of points equal to the
+ cypher's level.
+*** Poison (Pacification)
+ The victim lays down for one minute with eyes closed when told to do so (once).
+*** Force Shield Projector                                         :noexport:
+ Creates a shimmering energy shield around the user for one hour, during which
+ time they gain +3 Armor (+4 Armor if the cypher is level 5 or higher)
+*** Gravity Nullifier                                              :noexport:
+ For one hour, the user can float into the air, moving vertically (but not
+ horizontally without some other action, such as pushing along the ceiling) up to
+ a short distance per round. The user must weigh less than 50 pounds (22kg) per
+ level of the cypher.
+*** Magnetic Shield                                                :noexport:
+ For 10 minutes, metal objects cannot come within immediate range of the
+ activated device. Metal items already in the area when the device is activated
+ are slowly pushed out.
+** Artifacts
+*** Automated Bath
+ *Level*: 1d6
+
+ *Form*: A small metal-and-synth hovering sphere that has metallic arms, tubes, and
+ cleaning tools
+
+ *Effect*: This automaton cleans a nearby target on command if the target doesn’t
+ resist. If allowed to finish, over the course of about a minute, the target is
+ cleaned of all dirt and grime, their teeth are cleaned, their hair is washed and
+ brushed, and their nails are trimmed. This also cleans the target’s clothing.
+
+ *Depletion*: 1 in 1d100
+*** Cellular Annealer                                              :noexport:
+ *Level*: 1d6 + 4
+
+ *Form*: A small handheld device with a few simple controls
+
+ *Effect*: This device emits a faint, short-range beam that affects only organic
+ creatures and materials. A living target hit by the beam moves up one step on
+ the damage track.  A target that is not down on the damage track can immediately
+ make a free recovery roll (or, for NPCs, regain a number of points of health
+ equal to their level × 3).
+
+ *Depletion*: 1 in 1d10
+*** Cloak of Finery                                                :noexport:
+ *Level*: 1d6 + 1
+
+ *Form*: A multilayered cloak of glittering material
+
+ *Effect*: This cloak is woven of smart fibers and studded with small devices
+ designed to not only automatically tailor the cloak’s fit to its wearer but also
+ highlight the wearer in the most attractive light possible, providing variable
+ illumination, sound amplification, tone control, and even a limited ability to
+ edit grammatical mistakes and pauses made by the wearer. When activated, the
+ cloak provides an asset to all interaction tasks the wearer attempts for the
+ next minute.
+
+ Depletion: 1 in 1d20
+*** Empty Field Generator                                          :noexport:
+ *Level*: 1d6
+
+ *Form*: : A 12-foot (4 m) tall collapsible metal tripod with a complex antenna
+ array on top and a device with a control surface at the base
+
+ *Effect*: It takes two rounds to assemble and set up this device. It then requires
+ an action to activate. When activated, all creatures, structures, and other
+ artificial alterations in the landscape are visually smeared out in a radius
+ equal to a very long distance for one hour.  From the outside of the area,
+ nothing is visible except bare ground and innocuous brush.  From within the
+ field, creatures can see what’s around them normally, though all illumination
+ drops by one category. This holographic illusion’s level is equal to the
+ artifact’s level.
+
+ *Depletion*: 1 in 1d20
+*** Instant Refuge                                                 :noexport:
+ *Level*: 1d6 + 4
+
+ *Form*: A 2-foot (60 cm) cube with a control surface
+
+ *Effect*: It takes about a minute to activate this device. When activated, it
+ projects a 30- foot (9 m) diameter circular portal on a hard surface within
+ immediate range that leads to an extradimensional space large enough to hold
+ several thousand people in timeless stasis. The portal persists for up to an
+ hour, during which time a small community could be evacuated through the
+ aperture. Once the portal is closed, it can be opened from the outside at any
+ time in the next three months, at which time all those who entered are expelled
+ in the same order that they entered. If three months pass without the portal
+ being opened manually, it opens automatically and expels its occupants. For
+ those inside the portal, no time seems to have passed.
+
+ *Depletion*: 1–2 in 1d6
+*** Salvage Pack                                                   :noexport:
+ *Level*: 1d6 + 1
+
+ *Form*: Synth pack with attached devices
+
+ *Effect*: This pack’s mouth can be loosened to open as wide as 6 feet (2 m) in
+ diameter. It is larger on the inside than on the outside thanks to
+ transdimensional outpocketing, and it can contain up to 5 tons (4.5 t) worth of
+ material.
+
+ *Depletion*: 1 in 1d100 (check each time something is added to the pack; on
+ depletion, all objects are expelled from the pack)
+*** Box of Embers
+ *Level*: 1d6
+
+ *Form*: Very small synth panel or patch affixed to a melee weapon or other tool
+
+ *Effect*: Once attached, this nodule causes the hilt of the weapon or tool to glow
+ with a pulsing reddish-black light. The patch has no effect on the item during
+ combat, but three small buttons on the side allow the user to control the other
+ effects: light (a red glow that allows the user to see at night as if it were
+ daylight), heat (enough to melt ice or keep one person warm even in freezing
+ temperatures), and firestarting (while in this mode, blowing on the hilt will
+ release enough embers from the weapon to start a fire).
+
+ *Depletion*: —
+** Installations
+*** Alarm Tower
+ *Minimum Crafting Level*: 5   *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (10 units); synthsteel (8 units); apt
+ clay (3 units); mimetic gel (2 units); amber crystal (5 units); quantium (2
+ units); midnight stone (2 units)
+
+ *Parts*: 48 units
+
+ *Specifications*: This plan produces a 3-foot (1 m) diameter crystal sphere fixed
+ atop a metallic mast that reaches 50 feet (15 m) into the air.  It also produces
+ a linked, handheld device with a control surface. The alarm tower monitors along
+ a circumference up to a very long distance away from the tower in all
+ directions. The tower notifies the holder of the handheld device if it detects
+ unusual motion, behavior associated with attempts at stealth, or attempts at
+ crossing the circumference that haven’t been previously cleared by the builder
+ (for example, normal traffic on a road or through a gate would probably be
+ cleared by the builder). The alarm tower could be set to scan for different
+ criteria, such as the appearance of a certain kind of creature or even a
+ specific individual.  Such a device modifies a community’s rank by +1 for tasks
+ related to perception.
+
+ *Depletion*: 1 in 1d20 (check per year of use)
+*** Automender
+ *Minimum Crafting Level*: 3    *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (5 units); synthsteel (2 units); apt
+ clay (3 units); mimetic gel (2 units); quantium (2 units)
+
+ *Parts*: 29 units
+
+ *Specifications*: This plan produces a fixed solid no less than 3 feet (1 m) on a
+ side with a cavity large enough for a human to stick their arm or leg
+ into. Someone who does so regains 3 points to a Pool of their choice but no more
+ than once in any ten-hour period.
+
+ *Depletion*: 1 in 1d20 (check after each day the automender is used)
+*** Cooling Obelisk
+ *Minimum Crafting Level*: 1   *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (10 units); synthsteel (1 unit)
+
+ *Parts*: 11 units
+
+ *Specifications*: This plan produces a 3-foot (1 m) long synth-and-metal obelisk
+ that cools the air around it. If placed within an area protected from the wind,
+ the elements, direct vacuum, or other environmental effects (such as in a small
+ hut, in a tent, under the eaves of a lean-to, and so on), the cooling obelisk
+ can cool a single area (or several contiguous, bounded areas) up to a short
+ distance in diameter at a temperature that is comfortably cool for humans, even
+ amidst desert-like conditions.
+
+ *Depletion*: 1 in d20 (check per month of use)
+*** Everflowing Fountain                                           :noexport:
+ *Minimum Crafting Level*: 6  *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (13 units); amber crystal (5 units);
+ thaum dust (1 unit)
+
+ *Parts*: 61 units
+
+ *Specifications*: This plan produces a fixed crystal bowl about 5 feet (1.5 m)
+ across on a short pedestal. Pure water constantly jets up from the center of the
+ bowl before falling back and filling the bowl to overflowing. No source of water
+ is required. The fountain produces about 10 gallons (40 l) of pure, potable
+ water per day, enough to satisfy the water requirements of twenty normal humans
+ per day. This device adds +5 to a community’s infrastructure stat.
+
+ *Depletion*: 1 in 1d20 (check each year of use)
+*** Express Tube                                                   :noexport:
+ *Minimum Crafting Level*: 2   *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (10 units); synthsteel (1 unit); mimetic
+ gel (4 units)
+
+ *Parts*: 20 units
+
+ *Specifications*: This plan produces two 3-foot (1 m) cubes of synth and metal
+ connected by a synth tube up to 1 mile (1.5 km) long, as well as five synth
+ canisters about 20 inches (50 cm) long and 10 inches (25 cm) in diameter. A
+ canister placed in one of the cubes is transported along the synth tube at about
+ 30 miles per hour (50 kph) and arrives at the other cube. There are switching
+ stations along the length of the cube that allow canisters to pass each other in
+ either direction. The tubes are usually buried or elevated to keep them out of
+ the way of human activity.
+
+ Connecting multiple express tubes together creates a transportation network with
+ controls on the cubes directing each canister to the correct end point.
+
+ *Depletion*: 1 in d20 (check per month of use)
+*** Fabricator                                                     :noexport:
+ *Minimum Crafting Level*: 6   *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (25 units); apt clay (2 units); mimetic
+ gel (10 units); amber crystal (5 units); psiranium (1 unit); kaon dot (1 unit);
+ monopole (2 units); virtuon particle (1 unit)
+
+ *Parts*: 64 units
+
+ *Specifications*: This plan produces a structure about 30 feet (9 m) on a side
+ with a control chamber, an input cavity, and an output surface. If provided with
+ a plan for an object of up to level 5 and all the requisite iotum noted in the
+ plan, it will create the desired object, installation, vehicle, or automaton,
+ taking only half the time that crafting the object would normally require.
+
+ *Depletion*: 1 in 1d20 (check after every time an object or structure higher than
+ level 3 is produced)
+*** Farspeaking Pylon                                              :noexport:
+ *Minimum Crafting Level*: 4    *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (12 units); pliable metal (3 units);
+ quantium (5 units)
+
+ *Parts*: 40 units
+
+ *Specifications*: This plan produces a metallic pylon rising from the ground to
+ the height of 9 feet (3 m). A control surface on the pylon’s side allows a user
+ to compose and transmit a message. All other similar pylons across the world (as
+ well as other installations and mech that have the capacity to send and receive
+ messages) receive that message.  Characters at two different towers could talk
+ to each other in real time, if they desired. A sophisticated user could layer
+ their message in a secret form so only someone else at a receiving pylon who
+ knew the same form could receive that message. This device adds +3 to a
+ community’s infrastructure stat.
+
+ *Depletion*: 1 in 1d100 (check each day the pylon is used)
+*** Force Dome                                                     :noexport:
+ *Minimum Crafting Level*: 8  *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (20 units); synthsteel (5 units);
+ mimetic gel (4 units); pliable metal (10 units); quantium (10 units); kaon dot
+ (5 units); virtuon particle (4 units)
+
+ *Parts*: 81 units
+
+ *Specifications*: This plan produces a fixed solid no less than 10 feet (3 m) on a
+ side. When activated, the device creates an immobile dome of force up to a very
+ long range across. The dome conforms to the space available. The dome can be
+ toggled on and off directly or through a remote; handheld device. Up to three
+ apertures of arbitrary diameter can be opened or closed in the dome by whomever
+ holds the remote device. This device adds +3 Armor to a community’s stats (this
+ doesn’t add to the benefit provided by a force sphere).
+
+ *Depletion*: 1 in 1d20 (check each century of use)
+*** Force Wall
+ *Minimum Crafting Level*: 6   *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (17 units); synthsteel (5 units);
+ mimetic gel (4 units); pliable metal (10 units); quantium (4 units); kaon dot (5
+ units)
+
+ *Parts*: 64 units
+
+ *Specifications*: This plan produces a fixed solid no less than 5 feet (1.5 m) on
+ a side. When activated, it creates an immobile plane of solid force up to 25
+ feet (8 m) tall, 50 feet (15 m) long, and 3 feet (1 m) thick within very long
+ range. The wall conforms to the space available. The wall can be toggled on and
+ off directly or through a remote handheld device. The force wall adds +2 Armor
+ to a community’s stats if the wall controls a checkpoint.
+
+ *Depletion*: 1 in 1d20 (check each year of use)
+*** Keepsafe Bin
+ *Minimum Crafting Level*: 2  *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (13 units); synthsteel (3 units); thaum dust (1 unit)
+
+ *Parts*: 15 units
+
+ *Specifications*: This plan produces a fixed solid no less than 4 feet (1 m) on a
+ side with an interior cavity almost as large that can be closed. When closed, no
+ time passes within the cavity for a period of up to a week outside. At the end
+ of the week, the cavity hatch opens and must be reset.
+
+ *Depletion*: 1 in 1d20 (check after each week of use)
+*** Luminous Dynamo
+ *Minimum Crafting Level*: 1   *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (9 units); quantium (1 unit)
+
+ *Parts*: 12 units
+
+ *Specifications*: This plan produces a cube-like device about 3 feet (1 m) on a
+ side and up to four somewhat fragile crystalline spheres. As long as the spheres
+ are within long range of the cube, touching them triggers bright light in an
+ immediate range (and dim light within short range) for up to ten hours or until
+ they are touched again to turn the light off.
+
+ *Depletion*: 1 in 1d100 (check per week of use)
+*** Rain Caller                                                    :noexport:
+ *Minimum Crafting Level*: 5    *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (12 units); synthsteel (2 units);
+ mimetic gel (3 units); quantium (1 unit); kaon dot (1 unit)
+
+ *Parts*: 53 units
+
+ *Specifications*: This plan produces a fixed pedestal about 5 feet (1.5 m) on a
+ side that sprouts an array of slender, metallic arms that reach up to 20 feet (6
+ m) into the sky.  Upon activation, clouds begin to gather overhead (if located
+ in an open area). After about an hour, the clouds release a rainstorm that lasts
+ for another hour, covering an area up to 1 mile (1.5 km) in diameter.
+
+ *Depletion*: 1 in 1d100 (check each use) 
+*** Temporal Chime                                                 :noexport:
+ *Minimum Crafting Level*: 4  *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (13 units); pliable metal (3 units);
+ mimetic gel (10 units); thaum dust (2 units); kaon dot (1 unit); monopole (2
+ units); quantium (5 units)
+
+ *Parts*: 40 units
+
+ *Specifications*: This plan produces a hollow structure 20 feet (6 m) on a
+ side. Inside, a crystal chime hangs in thin air at the very center. If the chime
+ is struck, it rings weeks earlier, usually between five and ten weeks before it
+ was struck.
+
+ *Modification*: To modify the structure to reliably cause the chime to ring about
+ one week earlier than struck, increase the level by 3 and add midnight stone (2
+ units), thaum dust (10 units), and tamed iron (5 units) to the required iotum.
+
+ *Depletion*: 1 in 1d20 (check each use)
+*** Turret, Basic                                                  :noexport:
+ *Minimum Crafting Level*: 2   *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (10 units); synthsteel (5 units);
+ pliable metal (3 units); quantium (2 units)
+
+ *Parts*: 22 units
+
+ *Specifications*: This plan produces a fixed solid no less than 3 feet (1 m) on a
+ side. A slender tube, open at one end, rotates slowly on the surface. When
+ activated as a character’s action, the turret tube discharges a metallic slug
+ with a loud bang at a target up to very long range that the character can see.
+ Treat this as a level 4 attack that inflicts 5 points of damage. If a battery of
+ ten or more of these turrets is installed, modify the community’s damage
+ inflicted by +1.
+
+ *Depletion*: 1 in 1d20 (check once after any hour the turret was used)
+*** Vermin Ward
+ *Minimum Crafting Level*: 2  *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (14 units); synthsteel (5 units); apt
+ clay (2 units)
+
+ *Parts*: 22 units
+
+ *Specifications*: This plan produces a fixed solid no less than 3 feet (1 m) on a
+ side with several metallic antennas protruding at odd angles. The device
+ operates continually once activated, warding an area at least a short distance
+ across from mundane insects and vermin via a psychic exclusion field.
+
+ *Depletion*: 1 in 1d20 (check each month of use)
+*** Water Purification Station                                     :noexport:
+ *Minimum Crafting Level*: 8
+
+ *Kind*: Installation
+
+ *Iotum*: Io (1d6 units); responsive synth (50 units); synthsteel (5 units);
+ mimetic gel (10 units); quantium (1 unit); amber crystal (6 units); virtuon
+ particle (2 units); smart tissue (3 units)
+
+ *Parts*: 82 units
+
+ *Specifications*: As the basic water purifier, but this unit is twenty times
+ larger and can produce enough water to satisfy the water needs of up to 500
+ normal humans per day (provided there is a large-enough water source to
+ purify). This installation adds +15 to a community’s infrastructure stat.
+
+ *Depletion*: 1 in 1d100 (check each year of use)
+** Vehicles
+*** Battle Cart                                                    :noexport:
+ *Minimum Crafting Level*: 7  *Kind*: Vehicle
+
+ *Iotum*: Io (2d6 units); responsive synth (25 units); pliable metal (6 units);
+ synthsteel (10 units); mimetic gel (10 units); quantium (3 units); smart tissue
+ (2 units); monopole (1 unit)
+
+ *Parts*: 70 units
+
+ *Specifications*: This plan produces a multiwheeled, enclosed vehicle of shining
+ synthsteel with wide windows for passengers to look out. The vehicle can carry
+ one driver and up to four other passengers. In battle, the driver can use one
+ control surface to cause the vehicle to move up to a long distance each round on
+ relatively smooth terrain but not through impassible terrain or barriers. On
+ extended trips on smooth terrain, it can move up to 80 miles per hour (130 kph).
+
+ Passengers can use their own control surfaces to fire weapons from the vehicle’s
+ exterior at targets within long range, inflicting 6 points of damage each. The
+ weapons include two energy ray emitters and two missile launch silos.
+
+ If deployed against a large group of enemies or against an enemy community,
+ treat a fully crewed battle cart as a rank 2 rampaging beast with +1 Armor.
+
+ After each five hours of use, the vehicle must rest in the sun for at least one
+ hour before it becomes operational again.
+
+ *Depletion*: 1 in 1d20 (check per day of use)
+*** Chainpod
+ *Minimum Crafting Level*: 4   *Kind*: Vehicle
+
+ *Iotum*: Io (1d6 units); responsive synth (8 units); pliable metal (1 unit);
+ synthsteel (2 units); mimetic gel (1 unit); amber crystal (1 unit)
+
+ *Parts*: 43 units
+
+ *Specifications*: This plan produces a 6-foot (2 m) diameter spherical vehicle
+ that holds one person. The chainpod’s entire outer surface is a kind of wheel,
+ but the driver doesn’t spin along with the wheel. The driver can use the control
+ surface to cause the vehicle to roll up to a long distance each round over
+ smooth terrain or a well-maintained road, or up to a short distance per round
+ over rough roads or wild terrain. On extended trips over smooth terrain, it can
+ move up to 80 miles per hour (130 kph).
+
+ A chainpod can roll underwater at half speed or swim in any direction up to an
+ immediate distance each round. Chainpods are watertight but do not provide
+ breathable air, so a typical human using a chainpod underwater should surface
+ every four hours to refresh the air supply.
+
+ After each five hours of use, a chainpod must rest in the sun for at least one
+ hour before it becomes operational again.
+
+ Multiple chainpods can magnetically link to each other if they make physical
+ contact (even when moving at full speed). Linked chainpods operate as one
+ vehicle controlled by the lead driver, moving in a line like beads on a
+ string. Only the lead chainpod consumes power, allowing the others to recharge
+ while being towed. Any occupant can instantly unlink their chainpod from others
+ in the chain (a chainpod unlinked from the lead pod becomes immediately active
+ and drivable).
+
+ *Depletion*: 1–2 in 1d100 (check per day of use)
+*** Hover Frame
+ *Minimum Crafting Level*: 2   *Kind*: Vehicle
+
+ *Iotum*: Io (1d6 units); responsive synth (23 units); pliable metal (3 units);
+ quantium (3 units)
+
+ *Parts*: 19 units
+
+ *Specifications*: This plan produces an open frame supported by silvery,
+ ground-effect discs that negate and push against gravity, allowing it to pass
+ over any terrain, including water, without slowing. However, the groundeffect
+ force isn’t as efficient as direct contact, and a hover frame’s maximum speed is
+ only an immediate distance each round.  On extended trips, it can move up to 3
+ miles per hour (5 kph).The frame features a place for a driver to lash
+ themselves plus an additional space where a passenger or cargo could be lashed
+ underneath.  After each ten hours of use, the hover frame must rest in the sun
+ for at least one hour before it becomes operational again.
+
+ *Depletion*: 1 in 1d20 (check per week of use)
+
+** Automatons
+*** Assistant
+ *Minimum Crafting Level*: 5
+ *Kind*: Automaton
+ *Iotum*: io (1d6 units); responsive synth (14 units); apt clay (8 units); pliable
+ metal (7 units); smart tissue (3 units); monopole (1 unit); psiranium (2 units)
+
+ *Parts*: 52 units
+
+ *Specifications*:
+ This plan produces an automaton that stands about 5 feet (1.5 m) tall with a
+ body plan that only approximately resembles a human. The automaton moves on a
+ single rolling sphere but has two mechanical arms. It is a level 5 creature with
+ a limited repertoire of capabilities. Those capabilities are hard-coded into the
+ assistant when it is first constructed, allowing it to provide an asset on up to
+ five non-combat tasks for a PC or other creature that makes use of the assistant
+ automaton. The assistant is suited to staying in one location, but it can travel
+ if asked to do so. However, each full day of travel requires an additional
+ depletion roll.
+
+ *Modification*: To modify the assistant to have additional capabilities, add 2
+ units of responsive synth for each additional capability desired.
+
+ *Depletion*: 1 in 1d20 (check per month of use)
+*** Extractor
+ *Minimum Crafting Level*: 4   *Kind*: Automaton
+
+ *Iotum*: Io (1d6 units); responsive synth (16 units); apt clay (4 units); pliable
+ metal (4 units); quantium (3 units) Parts: 44 units
+
+ *Specifications*: This plan produces a discshaped automaton about 4 feet (1 m) in
+ diameter that moves up to a short distance each round on a bed of forced
+ air. When released in an area where iotum salvage can be potentially found, the
+ automaton harvests what it can find and extract on its own, providing one
+ additional iotum (up to level 6) per hour that the extractor works in an area
+ that still has salvage. Once it has acquired 5 units of iotum, it returns to a
+ predetermined location and waits to be unpacked. It can return earlier if set to
+ do so.
+
+ *Modifications*: To double the iotum the extractor can gather and increase the
+ level of iotum it can gather by 1, a crafter can treat the plan as 1 level
+ higher and add 3 units of smart tissue and 1 unit of psiranium.
+
+ *Depletion*: 1 in 1d20 (check per week of use)
+*** Garden Mech
+ *Minimum Crafting Level*: 2  *Kind*: Automaton
+
+ *Iotum*: Io (1d6 units); responsive synth (9 units); apt clay (2 units); pliable
+ metal (4 units)
+
+ *Parts*: 20 units
+
+ *Specifications*: This plan produces a discshaped limited automaton about 1 foot
+ (30 cm) in diameter. The mech moves on a dozen metallic legs. When released in
+ an area where tended plants are already growing, whether decorative or food
+ crops, the automaton sets to work tending to their needs within an area up to a
+ short range across. It removes pests by hand, aerates the soil, and performs
+ other related tasks, providing an asset to any task attempted by characters to
+ successfully grow plants within that area.
+
+ *Depletion*: 1 in 1d20 (check per growing season)
+*** Buildnought
+ *Minimum Crafting Level*: 9
+
+ *Kind*: Automaton
+
+ *Iotum*: Io (1d6 units); responsive synth (50 units); apt clay (10 units); azure
+ steel (100 units); mimetic gel (20 units); amber crystal (10 units); protomatter
+ (4 units); psiranium (4 units); kaon dot (2 units); monopole (4 units); virtuon
+ particle (10 units); data orb (2 units)
+
+ *Parts*: 95 units
+
+ *Specifications*: This plan produces a gargantuan automaton about 1,000 feet (300
+ m) in diameter that moves on hundreds of legs. The automaton’s function is to
+ build cities. Over the course of one year, a buildnought can construct the
+ infrastructure—including walls, homes, structures, and some basic
+ installations—to house a community of 5,000 people. If citizens were to
+ immigrate into the new community, fill it, and take up appropriate roles, the
+ infrastructure and installations already in place would make it a rank 5
+ community.
+
+ A buildnought can be tasked with building specific things, even if plans are not
+ provided to it, because it can take a few months or years to figure out a plan
+ for itself. It takes a buildnought about as long to build any given item or
+ structure as a wright. A buildnought sees to its own iotum needs by building
+ small armies of extractors, which it sends out to salvage from nearby ruins.
+
+ *Depletion*: 1 in 1d100 (check per century of building)
+*** Lifting Aventron
+ *Minimum Crafting Level*: 3  *Kind*: Automaton
+
+ *Iotum*: Io (1d6 units); responsive synth (12 units); apt clay (3 units); pliable
+ metal (4 units) Parts: 31 units
+
+ *Specifications*: This plan produces a blocky, limited automaton about 3 feet (1
+ m) on a side with a pair of extendable lift arms.  The automaton moves on a
+ dozen metallic legs up to a short distance each round. If commanded, the
+ automaton can move and lift heavy objects, either stacking them in precise piles
+ or unstacking them, as required. Lifting aventrons move too slowly to lift
+ creatures that have the ability to move away from its lifter arms. A lifting
+ aventron can be commanded to stack only certain kinds of objects, to stack
+ different kinds of objects using alternate methods and in different locations,
+ and so on.
+
+ *Depletion*: 1 in 1d20 (check per year of use)
+*** Mech Soldier, Basic
+ *Minimum Crafting Level*: 4  *Kind*: Automaton
+
+ *Iotum*: Io (1d6 units); responsive synth (19 units); apt clay (4 units); pliable
+ metal (4 units); mimetic gel (2 units)
+
+ *Parts*: 42 units
+
+ *Specifications*: This plan produces a limited automaton with a humanoid frame
+ whose arms end in metallic blades. The level 4 creature has 1 Armor. The mech
+ soldier has two modes: attack and patrol.
+
+ If activated as a character’s action (usually via voice command), the soldier
+ attacks a selected target with its blades until the target flees or is
+ eliminated.
+
+ Alternatively, the soldier can be set to patrol an area. It will activate
+ automatically if it comes across creatures not designated as friendly, attacking
+ them until the targets flee or are eliminated.
+
+ *Depletion*: 1 in 1d20 (check once after any hour that the mech attacks)
+*** Storyteller
+ *Minimum Crafting Level*: 4 *Kind*: Automaton
+
+ *Iotum*: Io (1d6 units); responsive synth (23 units); apt clay (4 units); pliable
+ metal (4 units); mimetic gel (2 units); psiranium (2 units)
+
+ *Parts*: 41 units
+
+ *Specifications*: This plan produces a limited automaton with a humanoid frame
+ about the size of a very small child, but covered with soft fur and with some
+ seskii-like features. The storyteller has two modes: story mode and companion
+ mode.
+
+ If activated as a character’s action (usually via voice command), the
+ storyteller spins an entertaining yarn—usually a story that is designed to
+ delight a child, though the storyteller can adapt to its audience.
+
+ Alternatively, the storyteller can be set to companion mode where it interacts
+ in an apparently smart but programmatic fashion to a particular person (usually
+ its owner), providing simple feedback, encouragement, and company.
+
+ *Depletion*: 1 in 1d20 (check per month of use)
