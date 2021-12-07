@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sean&#39;s Campaign Notes</title>
+    <link>//localhost:1313/</link>
+    <description>Sean&#39;s Campaign Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/handouts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/handouts/</guid>
+      <description>&lt;p&gt;Handouts for the players, stuff like notes, images, etc.&lt;/p&gt;
+&lt;p&gt;#+BEGIN&lt;sub&gt;heading&lt;/sub&gt;&lt;/p&gt;
+&lt;h1 id=&#34;handouts&#34;&gt;Handouts&lt;/h1&gt;
+&lt;p&gt;#+END&lt;sub&gt;heading&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/mex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/mex/</guid>
+      <description>&lt;p&gt;#+BEGIN&lt;sub&gt;heading&lt;/sub&gt;&lt;/p&gt;
+&lt;h1 id=&#34;mexs-shop&#34;&gt;Mex&amp;rsquo;s Shop&lt;/h1&gt;
+&lt;p&gt;All about Mex&amp;rsquo;s shop!&lt;/p&gt;
+&lt;h2 id=&#34;build-order&#34;&gt;Build Order&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Thing&lt;/th&gt;
+&lt;th&gt;For&lt;/th&gt;
+&lt;th&gt;Time Left&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Buckler&lt;/td&gt;
+&lt;td&gt;Klep&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bracers&lt;/td&gt;
+&lt;td&gt;Ureos&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bracer/Gloves&lt;/td&gt;
+&lt;td&gt;Fox&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bracer/Shield&lt;/td&gt;
+&lt;td&gt;Belel&lt;/td&gt;
+&lt;td&gt;8 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Arm Sword&lt;/td&gt;
+&lt;td&gt;Zeno&lt;/td&gt;
+&lt;td&gt;2 weeks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Automated Bath&lt;/td&gt;
+&lt;td&gt;Fox&lt;/td&gt;
+&lt;td&gt;4 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;p&gt;This is the list of what Mex has on hand to build things with.&lt;/p&gt;
+&lt;p&gt;Iotum&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Salvage amount&lt;/th&gt;
+&lt;th&gt;Amount&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Io&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Responsive synth&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Apt clay&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bio-circuitry&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Synthsteel&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pliable metal&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Azure steel&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mimetic gel&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Quantium&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Amber crystal&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Protomatter†&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Thaum dust&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Smart tissue&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;1d6&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Psiranium&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Kaon dot&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Monopole&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Midnight stone&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Oraculum&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Virtuon particle&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tamed iron&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Philosophine&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Data Orb&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Scalar boson rod&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cosmic foam&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;† Protomatter can’t be salvaged from cyphers, artifacts, automatons or other
+objects, scrap, or ruins of the numenera that are smaller than 40 feet (12 m) on
+a side because 1 unit of protomatter is almost that massive (unless some sort of
+extradimensional space to house the protomatter unit is involved). If this
+result occurs in relation to a source that’s too small, thaum dust is salvaged
+instead.&lt;/p&gt;
+&lt;h2 id=&#34;build-times&#34;&gt;Build Times&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Object Level&lt;/th&gt;
+&lt;th&gt;Cypher&lt;/th&gt;
+&lt;th&gt;Artifact&lt;/th&gt;
+&lt;th&gt;Commonplace Object&lt;/th&gt;
+&lt;th&gt;Commonplace Structure&lt;/th&gt;
+&lt;th&gt;Installation&lt;/th&gt;
+&lt;th&gt;Automaton&lt;/th&gt;
+&lt;th&gt;Vehicle&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Routine&lt;/td&gt;
+&lt;td&gt;NA&lt;/td&gt;
+&lt;td&gt;NA&lt;/td&gt;
+&lt;td&gt;1 min&lt;/td&gt;
+&lt;td&gt;~30 min&lt;/td&gt;
+&lt;td&gt;NA&lt;/td&gt;
+&lt;td&gt;NA&lt;/td&gt;
+&lt;td&gt;NA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;10 min&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;5 min&lt;/td&gt;
+&lt;td&gt;3 hr&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1 hr&lt;/td&gt;
+&lt;td&gt;4 days&lt;/td&gt;
+&lt;td&gt;1 hr&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;4 days&lt;/td&gt;
+&lt;td&gt;5 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;4 hr&lt;/td&gt;
+&lt;td&gt;8 days&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;4 days&lt;/td&gt;
+&lt;td&gt;8 days&lt;/td&gt;
+&lt;td&gt;10 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;9 hr&lt;/td&gt;
+&lt;td&gt;2 weeks&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;6 days&lt;/td&gt;
+&lt;td&gt;2 weeks&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;28 hr&lt;/td&gt;
+&lt;td&gt;1 month&lt;/td&gt;
+&lt;td&gt;1 week&lt;/td&gt;
+&lt;td&gt;1 year&lt;/td&gt;
+&lt;td&gt;2 weeks&lt;/td&gt;
+&lt;td&gt;1 month&lt;/td&gt;
+&lt;td&gt;2 months&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;2 months&lt;/td&gt;
+&lt;td&gt;1 month&lt;/td&gt;
+&lt;td&gt;10 years&lt;/td&gt;
+&lt;td&gt;1 month&lt;/td&gt;
+&lt;td&gt;2 months&lt;/td&gt;
+&lt;td&gt;4 months&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;1 week&lt;/td&gt;
+&lt;td&gt;6 months&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;30 years&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;6 months&lt;/td&gt;
+&lt;td&gt;1 year&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;1 year&lt;/td&gt;
+&lt;td&gt;6 months&lt;/td&gt;
+&lt;td&gt;90 years&lt;/td&gt;
+&lt;td&gt;6 months&lt;/td&gt;
+&lt;td&gt;1 year&lt;/td&gt;
+&lt;td&gt;10 years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;2 months&lt;/td&gt;
+&lt;td&gt;10 years&lt;/td&gt;
+&lt;td&gt;1 year&lt;/td&gt;
+&lt;td&gt;200 years&lt;/td&gt;
+&lt;td&gt;1 year&lt;/td&gt;
+&lt;td&gt;10 years&lt;/td&gt;
+&lt;td&gt;20 years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;6 months&lt;/td&gt;
+&lt;td&gt;20 years&lt;/td&gt;
+&lt;td&gt;2 year&lt;/td&gt;
+&lt;td&gt;????&lt;/td&gt;
+&lt;td&gt;10 years&lt;/td&gt;
+&lt;td&gt;20 years&lt;/td&gt;
+&lt;td&gt;50 years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;required-resources&#34;&gt;Required Resources&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s the info on what is required for building artifacts and
+cyphers. Installations &amp;amp; automatons list the required iotum &amp;amp; units of parts in
+each plan, so they&amp;rsquo;re not listed here.&lt;/p&gt;
+&lt;h3 id=&#34;artifacts&#34;&gt;Artifacts&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: When a crafter has a plan for a specific artifact, they can try
+to craft it at that artifact’s minimum crafting level or higher. Use this
+template to determine the iotum requirements based on the level of the completed
+artifact. The GM may decide that additional iotum is required, depending on the
+effect produced.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d20 or varies&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 10 × the level of the completed artifact&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Iotum Required&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (8 units); synthsteel (2 units)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (12 units); synthsteel (2 units)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units); amber crystal (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units); amber crystal (4 units)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (12 units);  (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (23 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit); tamed iron (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (32 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit); tamed iron (2 units)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (32 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit); tamed iron (2 units); data orb (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;cyphers&#34;&gt;Cyphers&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: This plan is a template. When a crafter has a plan for a
+specific cypher, they can try to craft it at that cypher’s minimum crafting
+level or higher. Use this template to determine the iotum requirements based on
+the level of the completed cypher. The GM may decide that additional iotum is
+required, depending on the effect produced.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: Cypher&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 3 × the level of the completed cypher&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Iotum Required&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (3 units); quantium (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (5 units); quantium (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (5 units); apt clay (1 unit); quantium (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (5 units); apt clay (3 units); quantium (2 units)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (2 units); quantium (1 unit); thaum dust (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (4 units); quantium (1 unit); thaum dust (2 units)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (4 units); quantium (1 unit); thaum dust (2 units); psiranium (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (4 units); quantium (2 units); thaum dust (2 units); psiranium (1 unit); oraculum (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (4 units); quantium (2 units); thaum dust (2 units); psiranium (1 unit); oraculum (2 units); philosophine (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;Io (1d6 units); responsive synth (5 units); apt clay (3 units); pliable metal (4 units); quantium (2 units); thaum dust (2 units); psiranium (1 unit); oraculum (2 units); philosophine (1 unit); cosmic foam (1 unit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;full-plans&#34;&gt;Full Plans&lt;/h2&gt;
+&lt;p&gt;These are the things Mex has a complete set of plans for, all she needs is
+parts. Artifacts &amp;amp; cyphers list the level that Mex can build that item at
+without any issues. She can build them at a higher level, but risks failing in
+the task and using up the materials without producing anything.&lt;/p&gt;
+&lt;h3 id=&#34;numenera&#34;&gt;Numenera&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Build Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Explosive Implant&lt;/td&gt;
+&lt;td&gt;Cypher&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;9 hours&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Defoliant&lt;/td&gt;
+&lt;td&gt;Cypher&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rejuvinator&lt;/td&gt;
+&lt;td&gt;Cypher&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Poison (Pacification)&lt;/td&gt;
+&lt;td&gt;Cypher&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;9 hours&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Automated Bath&lt;/td&gt;
+&lt;td&gt;Artifact&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;4 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Salvage Pack&lt;/td&gt;
+&lt;td&gt;Artifact&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;4 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Box of Embers&lt;/td&gt;
+&lt;td&gt;Artifact&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alarm Tower&lt;/td&gt;
+&lt;td&gt;Installation&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;2 weeks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Automender&lt;/td&gt;
+&lt;td&gt;Installation&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;6 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cooling Obelisk&lt;/td&gt;
+&lt;td&gt;Installation&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Force Wall&lt;/td&gt;
+&lt;td&gt;Installation&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;1 month&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Keepsafe Bin&lt;/td&gt;
+&lt;td&gt;Installation&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Luminous Dynamo&lt;/td&gt;
+&lt;td&gt;Installation&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Vermin Ward&lt;/td&gt;
+&lt;td&gt;Installation&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;4 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Assistant&lt;/td&gt;
+&lt;td&gt;Automaton&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 month&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Extractor&lt;/td&gt;
+&lt;td&gt;Automaton&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 weeks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Garden Mech&lt;/td&gt;
+&lt;td&gt;Automaton&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;4 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hover Frame&lt;/td&gt;
+&lt;td&gt;Vehicle&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;5 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;structures--objects&#34;&gt;Structures &amp;amp; Objects&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Structure&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Build Time&lt;/th&gt;
+&lt;th&gt;Materials&lt;/th&gt;
+&lt;th&gt;Specifications&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Wood gate&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;td&gt;8 units&lt;/td&gt;
+&lt;td&gt;Defensive gate up to 20 feet by 20 feet (6 m by 6 m) that can be closed to control access&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Gravel road&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;td&gt;100 units&lt;/td&gt;
+&lt;td&gt;10-foot (3 m) wide course extending a long distance; allows movement at normal speed through wild or uneven terrain&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wooden bridge&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;20 units&lt;/td&gt;
+&lt;td&gt;30 feet (9 m) long; 10 feet (3 m) wide; wooden supports&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Defensive ditch (moat)&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;20 units&lt;/td&gt;
+&lt;td&gt;6 feet (2 m) deep; 10 feet (3 m) wide; 30 feet (9 m) long&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wooden keep&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;40 units&lt;/td&gt;
+&lt;td&gt;Fortified tower 30 feet (9 m) to a side with wooden gate&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wooden wall (palisade)&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;20 units&lt;/td&gt;
+&lt;td&gt;10 feet (3 m) tall; 2 feet (60 cm) thick; 30 feet (9 m) long&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wooden watchtower&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;15 units&lt;/td&gt;
+&lt;td&gt;30 feet (9 m) tall; enclosed-and-roofed chamber with openings for watching or making ranged attacks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Stone arch bridge&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;20 units&lt;/td&gt;
+&lt;td&gt;30 feet (9 m) long; 10 feet (3 m) wide; stone arch support&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Drawbridge&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;15 units (parts: 5 units)&lt;/td&gt;
+&lt;td&gt;30 feet (9 m) long; 10 feet (3 m) wide; can be raised&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cobbled road&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;200 units&lt;/td&gt;
+&lt;td&gt;15 feet (5 m) wide; 200 feet (60 m) long; allows movement at normal speed through wild or uneven terrain&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Stone watchtower&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;60 units&lt;/td&gt;
+&lt;td&gt;30 feet (9 m) tall; enclosed-and-roofed chamber with openings for watching or making ranged attacks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Gatehouse&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 year&lt;/td&gt;
+&lt;td&gt;40 units (parts: 10 units)&lt;/td&gt;
+&lt;td&gt;Defensive gate up to 20 feet by 20 feet (6 m by 6 m); can be lowered to control access; includes two flanking stone watchtowers&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Stone wall (rampart)&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 year&lt;/td&gt;
+&lt;td&gt;55 units&lt;/td&gt;
+&lt;td&gt;25 feet (8 m) tall; 3 feet (1 m) thick; 50 feet (15 m) long with a walkway along the top protected by a parapet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Stone keep&lt;/td&gt;
+&lt;td&gt;Defensive Structure&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;1 year&lt;/td&gt;
+&lt;td&gt;100 units (parts: 20 units)&lt;/td&gt;
+&lt;td&gt;Fortified tower 50 feet (15 m) to a side with gatehouse&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Short ladder&lt;/td&gt;
+&lt;td&gt;Utility&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;~30 min&lt;/td&gt;
+&lt;td&gt;3 units&lt;/td&gt;
+&lt;td&gt;6 feet (2 m) tall&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wheelbarrow&lt;/td&gt;
+&lt;td&gt;Utility&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;~30 min&lt;/td&gt;
+&lt;td&gt;4 units (parts: 2 units)&lt;/td&gt;
+&lt;td&gt;Eases task for transporting heavy objects&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tall ladder&lt;/td&gt;
+&lt;td&gt;Utility&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;td&gt;6 units&lt;/td&gt;
+&lt;td&gt;15 feet (5 m) tall&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Crafting tools&lt;/td&gt;
+&lt;td&gt;Utility&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;15 units&lt;/td&gt;
+&lt;td&gt;Enable tasks to craft commonplace objects and structures&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Extension ladder&lt;/td&gt;
+&lt;td&gt;Utility&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;12 units (parts: 2 units)&lt;/td&gt;
+&lt;td&gt;30 feet (9 m)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hut&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;~30 min&lt;/td&gt;
+&lt;td&gt;5 units&lt;/td&gt;
+&lt;td&gt;Single small room an immediate distance across&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pier&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;td&gt;12 units&lt;/td&gt;
+&lt;td&gt;Basic wood platform extending from shore into a body of water; eases tasks related to mooring; loading; and unloading water craft by two steps&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Residence; cottage&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;td&gt;15 units&lt;/td&gt;
+&lt;td&gt;Two main rooms each about 15 feet (5 m) on a side with only one or two small window openings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Shrine&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;td&gt;12 units&lt;/td&gt;
+&lt;td&gt;Sacred area; idol; or holy site for believers to gather; meditate; and hold services&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Stables&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;td&gt;12 units&lt;/td&gt;
+&lt;td&gt;Simple covered structure to stable up to ten mounts&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Amphitheatre; wood&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;25 units&lt;/td&gt;
+&lt;td&gt;Open-air area with raised seating for performances&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Barracks or orphanage&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;45 units&lt;/td&gt;
+&lt;td&gt;House up to twenty people in close quarters; including basic bunks and bedding&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Granary; wood&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;25 units&lt;/td&gt;
+&lt;td&gt;Raised structure about 30 feet (9 m) on a side; ideal for storing grain and other food&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Healer’s hall&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;50 units&lt;/td&gt;
+&lt;td&gt;One 30-foot (9 m) wide public sickroom and several smaller ancillary chambers for the sick and dying; plus a chamber for one dedicated healer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Residence; small&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;30 units&lt;/td&gt;
+&lt;td&gt;Three main rooms each about 15 feet (5 m) on a side; or more smaller rooms fitting the same area; with two or three glass windows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mill&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;40 units (parts: 10 units)&lt;/td&gt;
+&lt;td&gt;Wooden structure with equipment for cutting lumber or grinding grain; 40 feet (12 m) on a side&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mortuary&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;25 units&lt;/td&gt;
+&lt;td&gt;Stone structure where dead can be prepared for burial; cremation; or respectful disposal&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Shop&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;40 units&lt;/td&gt;
+&lt;td&gt;Wooden structure with a counter; a 30-foot (9 m) square area for displaying goods; three tiny back rooms for stock (reinforced to hinder entry attempts by two steps); an office; and residence for shopkeeper&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Storehouse&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;50 units&lt;/td&gt;
+&lt;td&gt;Wooden structure 50 feet (15 m) on a side for storing goods in a concentrated or stacked fashion; reinforced to hinder entry attempts by two steps&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tavern&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;45 units&lt;/td&gt;
+&lt;td&gt;One 50-foot (15 m) wide public room with a bar; a kitchen; a pantry; and one room for the proprietor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Winery&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;45 units&lt;/td&gt;
+&lt;td&gt;Wooden structure with up to four rooms about 15 feet (5 m) on a side; plus basic equipment for making wine; distilling spirits; or brewing ale&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Workshop; simple&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3 weeks&lt;/td&gt;
+&lt;td&gt;45 units (parts: 1 unit)&lt;/td&gt;
+&lt;td&gt;Structure 20 feet (6 m) to a side that includes tools; work surfaces; and other aids ideal for crafting; eases commonplace crafting tasks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Arena; stone&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;10 units&lt;/td&gt;
+&lt;td&gt;Open-air area with raised seating for competitions; includes up to five rooms underneath for various uses; including barred cells&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;City hall&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;50 units&lt;/td&gt;
+&lt;td&gt;One 50-foot (15 m) wide public room and several smaller ancillary chambers for offices and meeting rooms&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;City watch&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;55 units&lt;/td&gt;
+&lt;td&gt;A large structure for community patrol; watch; or other deputized source to meet; receive instructions from leaders; plan strategies to deal with issues; and so on; often situated near a jail&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Inn&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;60 units&lt;/td&gt;
+&lt;td&gt;One 20-foot (6 m) wide public room; a kitchen; several small ancillary chambers for guests; and one room for the proprietor on the upper floor(s)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jail&lt;/td&gt;
+&lt;td&gt;Civic Structure&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3 months&lt;/td&gt;
+&lt;td&gt;55 units&lt;/td&gt;
+&lt;td&gt;Entry lobby; office; and dozens of 10-foot (3 m) wide barred cells that hinder attempts to break or unlock&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hides and furs&lt;/td&gt;
+&lt;td&gt;Light Armor&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1 hour&lt;/td&gt;
+&lt;td&gt;3 units&lt;/td&gt;
+&lt;td&gt;As light armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Leather jerkin&lt;/td&gt;
+&lt;td&gt;Light Armor&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;4 units&lt;/td&gt;
+&lt;td&gt;As light armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Armoring cloth&lt;/td&gt;
+&lt;td&gt;Light Armor&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;2 units (responsive synth: 2 units)&lt;/td&gt;
+&lt;td&gt;As light armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Micromesh&lt;/td&gt;
+&lt;td&gt;Light Armor&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 week&lt;/td&gt;
+&lt;td&gt;2 units (pliable metal: 2 units)&lt;/td&gt;
+&lt;td&gt;As light armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Beastskin&lt;/td&gt;
+&lt;td&gt;Medium Armor&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;4 units&lt;/td&gt;
+&lt;td&gt;As medium armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Brigandine&lt;/td&gt;
+&lt;td&gt;Medium Armor&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;5 units&lt;/td&gt;
+&lt;td&gt;As medium armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Chainmail hauberk&lt;/td&gt;
+&lt;td&gt;Medium Armor&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;6 units&lt;/td&gt;
+&lt;td&gt;As medium armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Metalweave vest&lt;/td&gt;
+&lt;td&gt;Medium Armor&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 week&lt;/td&gt;
+&lt;td&gt;4 units (pliable metal: 1 unit)&lt;/td&gt;
+&lt;td&gt;As medium armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Synth breastplate&lt;/td&gt;
+&lt;td&gt;Medium Armor&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 week&lt;/td&gt;
+&lt;td&gt;2 units (synth steel: 3 units)&lt;/td&gt;
+&lt;td&gt;As medium armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Plate armor&lt;/td&gt;
+&lt;td&gt;Heavy Armor&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;8 units&lt;/td&gt;
+&lt;td&gt;As heavy armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Scale armor&lt;/td&gt;
+&lt;td&gt;Heavy Armor&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;7 units&lt;/td&gt;
+&lt;td&gt;As heavy armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Self-fitting plate armor&lt;/td&gt;
+&lt;td&gt;Heavy Armor&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 week&lt;/td&gt;
+&lt;td&gt;6 units (responsive synth: 4 units)&lt;/td&gt;
+&lt;td&gt;As heavy armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Blowgun&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1 hour&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;Short range&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Blowgun darts (12)&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1 hour&lt;/td&gt;
+&lt;td&gt;3 units&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Buzzer&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;4 units (parts: 1 unit)&lt;/td&gt;
+&lt;td&gt;See Weapon Notes in Numenera Discovery&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5-disk buzzer magazine&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;2 units (parts: 2 units)&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Club&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1 hour&lt;/td&gt;
+&lt;td&gt;1 unit&lt;/td&gt;
+&lt;td&gt;Hand-to-hand light weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dagger&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;3 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand light weapon; can be thrown up to short range&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dart thrower&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;Long range&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Darts (12)&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;4 units&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Forearm blade&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;3 units (parts: 1 unit)&lt;/td&gt;
+&lt;td&gt;See Weapon Notes in Numenera Discovery&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Knife&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1 hour&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand light weapon; can be thrown up to short range&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Punching dagger&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;3 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand light weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rapier&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;3 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand light weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Razor ring&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;1 unit&lt;/td&gt;
+&lt;td&gt;See Weapon Notes in Numenera Discovery&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sisk&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;2 units (parts: 1 unit)&lt;/td&gt;
+&lt;td&gt;See Weapon Notes in Numenera Discovery&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Whip&lt;/td&gt;
+&lt;td&gt;Light Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand light weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Flail&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;3 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand medium weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hammer&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand medium weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Javelin&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;1 unit&lt;/td&gt;
+&lt;td&gt;Long range&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mace&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand medium weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Quarterstaff&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;1 unit&lt;/td&gt;
+&lt;td&gt;Often used two-handed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Spear&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand medium weapon; can be thrown up to short range&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Polearm&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;Often used two-handed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Battleaxe&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;3 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand medium weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bow&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;Long range&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Arrows (12)&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;2 units —&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Broadsword&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;3 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand medium weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Crossbow&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;3 units&lt;/td&gt;
+&lt;td&gt;Long range&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Medium crossbow bolts (12)&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Crank crossbow&lt;/td&gt;
+&lt;td&gt;Medium Weapons&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 week&lt;/td&gt;
+&lt;td&gt;3 units (parts: 2 units)&lt;/td&gt;
+&lt;td&gt;See Weapon Notes in Numenera Discovery&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Maul&lt;/td&gt;
+&lt;td&gt;Heavy Weapons&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1 day&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand heavy weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Greataxe&lt;/td&gt;
+&lt;td&gt;Heavy Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;4 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand heavy weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Greatsword&lt;/td&gt;
+&lt;td&gt;Heavy Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;4 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand heavy weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Heavy crossbow&lt;/td&gt;
+&lt;td&gt;Heavy Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;4 units (parts: 1 unit)&lt;/td&gt;
+&lt;td&gt;Long range; action to reload&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Heavy crossbow bolts&lt;/td&gt;
+&lt;td&gt;Heavy Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;2 units&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sword-staff&lt;/td&gt;
+&lt;td&gt;Heavy Weapons&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;4 units&lt;/td&gt;
+&lt;td&gt;Hand-to-hand heavy weapon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;partial-plans&#34;&gt;Partial Plans&lt;/h2&gt;
+&lt;p&gt;Mex has partial plans for these numenera &amp;amp; structures. More plans seeds must be
+found for Mex to create a full plan she can use to build from. She doesn&amp;rsquo;t know
+what level or how long it&amp;rsquo;ll take, she needs the full plan to figure that out.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Artifacts&lt;/th&gt;
+&lt;th&gt;Cyphers&lt;/th&gt;
+&lt;th&gt;Installations&lt;/th&gt;
+&lt;th&gt;Vehicles&lt;/th&gt;
+&lt;th&gt;Automatons&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Cellular Annealer&lt;/td&gt;
+&lt;td&gt;Force Shield Projector&lt;/td&gt;
+&lt;td&gt;Everflowing Fountain&lt;/td&gt;
+&lt;td&gt;Battle Cart&lt;/td&gt;
+&lt;td&gt;Buildnought&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cloak of Finery&lt;/td&gt;
+&lt;td&gt;Gravity Nullifier&lt;/td&gt;
+&lt;td&gt;Express Tube&lt;/td&gt;
+&lt;td&gt;Chainpod&lt;/td&gt;
+&lt;td&gt;Lifting Aventron&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Empty Field Generator&lt;/td&gt;
+&lt;td&gt;Magnetic Shield&lt;/td&gt;
+&lt;td&gt;Fabricator&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Mech Soldier, Basic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Instant Refuge&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Farspeaking Pylon&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Storyteller&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Force Dome&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Rain Caller&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Temporal Chime&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Turret,Basic&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Water Purification Station&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;#+END&lt;sub&gt;heading&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/numenera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/numenera/</guid>
+      <description>&lt;p&gt;NUUUUUUMENERA!&lt;/p&gt;
+&lt;p&gt;#+BEGIN&lt;sub&gt;heading&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;Reference list for cyphers, artifacts, and anything that Mex can build.&lt;/p&gt;
+&lt;h1 id=&#34;numenera&#34;&gt;Numenera&lt;/h1&gt;
+&lt;h2 id=&#34;cyphers&#34;&gt;Cyphers&lt;/h2&gt;
+&lt;h3 id=&#34;explosive-implant&#34;&gt;Explosive Implant&lt;/h3&gt;
+&lt;p&gt;Once this substance enters the bloodstream, it travels to the brain and
+reorganizes into an explosive that detonates when activated via a detonator
+(must be within long range), inflicting 10 points of damage (ignoring Armor)&lt;/p&gt;
+&lt;h3 id=&#34;defoliant&#34;&gt;Defoliant&lt;/h3&gt;
+&lt;p&gt;One chlorophyl-based plant of a level lower than the cypher is instantly killed&lt;/p&gt;
+&lt;h3 id=&#34;rejuvinator&#34;&gt;Rejuvinator&lt;/h3&gt;
+&lt;p&gt;One Pool of the user&amp;rsquo;s choice is restored by a number of points equal to the
+cypher&amp;rsquo;s level.&lt;/p&gt;
+&lt;h3 id=&#34;poison-pacification&#34;&gt;Poison (Pacification)&lt;/h3&gt;
+&lt;p&gt;The victim lays down for one minute with eyes closed when told to do so (once).&lt;/p&gt;
+&lt;h3 id=&#34;cable-projector&#34;&gt;Cable Projector&lt;/h3&gt;
+&lt;h2 id=&#34;artifacts&#34;&gt;Artifacts&lt;/h2&gt;
+&lt;h3 id=&#34;automated-bath&#34;&gt;Automated Bath&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: 1d6&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Form&lt;/strong&gt;: A small metal-and-synth hovering sphere that has metallic arms, tubes, and
+cleaning tools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Effect&lt;/strong&gt;: This automaton cleans a nearby target on command if the target doesn’t
+resist. If allowed to finish, over the course of about a minute, the target is
+cleaned of all dirt and grime, their teeth are cleaned, their hair is washed and
+brushed, and their nails are trimmed. This also cleans the target’s clothing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d100&lt;/p&gt;
+&lt;h3 id=&#34;box-of-embers&#34;&gt;Box of Embers&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: 1d6&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Form&lt;/strong&gt;: Very small synth panel or patch affixed to a melee weapon or other tool&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Effect&lt;/strong&gt;: Once attached, this nodule causes the hilt of the weapon or tool to glow
+with a pulsing reddish-black light. The patch has no effect on the item during
+combat, but three small buttons on the side allow the user to control the other
+effects: light (a red glow that allows the user to see at night as if it were
+daylight), heat (enough to melt ice or keep one person warm even in freezing
+temperatures), and firestarting (while in this mode, blowing on the hilt will
+release enough embers from the weapon to start a fire).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: —&lt;/p&gt;
+&lt;h2 id=&#34;installations&#34;&gt;Installations&lt;/h2&gt;
+&lt;h3 id=&#34;alarm-tower&#34;&gt;Alarm Tower&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Crafting Level&lt;/strong&gt;: 5   &lt;strong&gt;Kind&lt;/strong&gt;: Installation&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iotum&lt;/strong&gt;: Io (1d6 units); responsive synth (10 units); synthsteel (8 units); apt
+clay (3 units); mimetic gel (2 units); amber crystal (5 units); quantium (2
+units); midnight stone (2 units)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 48 units&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: This plan produces a 3-foot (1 m) diameter crystal sphere fixed
+atop a metallic mast that reaches 50 feet (15 m) into the air.  It also produces
+a linked, handheld device with a control surface. The alarm tower monitors along
+a circumference up to a very long distance away from the tower in all
+directions. The tower notifies the holder of the handheld device if it detects
+unusual motion, behavior associated with attempts at stealth, or attempts at
+crossing the circumference that haven’t been previously cleared by the builder
+(for example, normal traffic on a road or through a gate would probably be
+cleared by the builder). The alarm tower could be set to scan for different
+criteria, such as the appearance of a certain kind of creature or even a
+specific individual.  Such a device modifies a community’s rank by +1 for tasks
+related to perception.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d20 (check per year of use)&lt;/p&gt;
+&lt;h3 id=&#34;automender&#34;&gt;Automender&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Crafting Level&lt;/strong&gt;: 3    &lt;strong&gt;Kind&lt;/strong&gt;: Installation&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iotum&lt;/strong&gt;: Io (1d6 units); responsive synth (5 units); synthsteel (2 units); apt
+clay (3 units); mimetic gel (2 units); quantium (2 units)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 29 units&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: This plan produces a fixed solid no less than 3 feet (1 m) on a
+side with a cavity large enough for a human to stick their arm or leg
+into. Someone who does so regains 3 points to a Pool of their choice but no more
+than once in any ten-hour period.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d20 (check after each day the automender is used)&lt;/p&gt;
+&lt;h3 id=&#34;cooling-obelisk&#34;&gt;Cooling Obelisk&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Crafting Level&lt;/strong&gt;: 1   &lt;strong&gt;Kind&lt;/strong&gt;: Installation&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iotum&lt;/strong&gt;: Io (1d6 units); responsive synth (10 units); synthsteel (1 unit)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 11 units&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: This plan produces a 3-foot (1 m) long synth-and-metal obelisk
+that cools the air around it. If placed within an area protected from the wind,
+the elements, direct vacuum, or other environmental effects (such as in a small
+hut, in a tent, under the eaves of a lean-to, and so on), the cooling obelisk
+can cool a single area (or several contiguous, bounded areas) up to a short
+distance in diameter at a temperature that is comfortably cool for humans, even
+amidst desert-like conditions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in d20 (check per month of use)&lt;/p&gt;
+&lt;h3 id=&#34;force-wall&#34;&gt;Force Wall&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Crafting Level&lt;/strong&gt;: 6   &lt;strong&gt;Kind&lt;/strong&gt;: Installation&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iotum&lt;/strong&gt;: Io (1d6 units); responsive synth (17 units); synthsteel (5 units);
+mimetic gel (4 units); pliable metal (10 units); quantium (4 units); kaon dot (5
+units)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 64 units&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: This plan produces a fixed solid no less than 5 feet (1.5 m) on
+a side. When activated, it creates an immobile plane of solid force up to 25
+feet (8 m) tall, 50 feet (15 m) long, and 3 feet (1 m) thick within very long
+range. The wall conforms to the space available. The wall can be toggled on and
+off directly or through a remote handheld device. The force wall adds +2 Armor
+to a community’s stats if the wall controls a checkpoint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d20 (check each year of use)&lt;/p&gt;
+&lt;h3 id=&#34;keepsafe-bin&#34;&gt;Keepsafe Bin&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Crafting Level&lt;/strong&gt;: 2  &lt;strong&gt;Kind&lt;/strong&gt;: Installation&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iotum&lt;/strong&gt;: Io (1d6 units); responsive synth (13 units); synthsteel (3 units); thaum dust (1 unit)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 15 units&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: This plan produces a fixed solid no less than 4 feet (1 m) on a
+side with an interior cavity almost as large that can be closed. When closed, no
+time passes within the cavity for a period of up to a week outside. At the end
+of the week, the cavity hatch opens and must be reset.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d20 (check after each week of use)&lt;/p&gt;
+&lt;h3 id=&#34;luminous-dynamo&#34;&gt;Luminous Dynamo&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Crafting Level&lt;/strong&gt;: 1   &lt;strong&gt;Kind&lt;/strong&gt;: Installation&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iotum&lt;/strong&gt;: Io (1d6 units); responsive synth (9 units); quantium (1 unit)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 12 units&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: This plan produces a cube-like device about 3 feet (1 m) on a
+side and up to four somewhat fragile crystalline spheres. As long as the spheres
+are within long range of the cube, touching them triggers bright light in an
+immediate range (and dim light within short range) for up to ten hours or until
+they are touched again to turn the light off.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d100 (check per week of use)&lt;/p&gt;
+&lt;h3 id=&#34;vermin-ward&#34;&gt;Vermin Ward&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Crafting Level&lt;/strong&gt;: 2  &lt;strong&gt;Kind&lt;/strong&gt;: Installation&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iotum&lt;/strong&gt;: Io (1d6 units); responsive synth (14 units); synthsteel (5 units); apt
+clay (2 units)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 22 units&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: This plan produces a fixed solid no less than 3 feet (1 m) on a
+side with several metallic antennas protruding at odd angles. The device
+operates continually once activated, warding an area at least a short distance
+across from mundane insects and vermin via a psychic exclusion field.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d20 (check each month of use)&lt;/p&gt;
+&lt;h2 id=&#34;vehicles&#34;&gt;Vehicles&lt;/h2&gt;
+&lt;h3 id=&#34;hover-frame&#34;&gt;Hover Frame&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Crafting Level&lt;/strong&gt;: 2   &lt;strong&gt;Kind&lt;/strong&gt;: Vehicle&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iotum&lt;/strong&gt;: Io (1d6 units); responsive synth (23 units); pliable metal (3 units);
+quantium (3 units)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 19 units&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: This plan produces an open frame supported by silvery,
+ground-effect discs that negate and push against gravity, allowing it to pass
+over any terrain, including water, without slowing. However, the groundeffect
+force isn’t as efficient as direct contact, and a hover frame’s maximum speed is
+only an immediate distance each round.  On extended trips, it can move up to 3
+miles per hour (5 kph).The frame features a place for a driver to lash
+themselves plus an additional space where a passenger or cargo could be lashed
+underneath.  After each ten hours of use, the hover frame must rest in the sun
+for at least one hour before it becomes operational again.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d20 (check per week of use)&lt;/p&gt;
+&lt;h2 id=&#34;automatons&#34;&gt;Automatons&lt;/h2&gt;
+&lt;h3 id=&#34;assistant&#34;&gt;Assistant&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Crafting Level&lt;/strong&gt;: 5
+&lt;strong&gt;Kind&lt;/strong&gt;: Automaton
+&lt;strong&gt;Iotum&lt;/strong&gt;: io (1d6 units); responsive synth (14 units); apt clay (8 units); pliable
+metal (7 units); smart tissue (3 units); monopole (1 unit); psiranium (2 units)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 52 units&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;:
+This plan produces an automaton that stands about 5 feet (1.5 m) tall with a
+body plan that only approximately resembles a human. The automaton moves on a
+single rolling sphere but has two mechanical arms. It is a level 5 creature with
+a limited repertoire of capabilities. Those capabilities are hard-coded into the
+assistant when it is first constructed, allowing it to provide an asset on up to
+five non-combat tasks for a PC or other creature that makes use of the assistant
+automaton. The assistant is suited to staying in one location, but it can travel
+if asked to do so. However, each full day of travel requires an additional
+depletion roll.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Modification&lt;/strong&gt;: To modify the assistant to have additional capabilities, add 2
+units of responsive synth for each additional capability desired.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d20 (check per month of use)&lt;/p&gt;
+&lt;h3 id=&#34;extractor&#34;&gt;Extractor&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Crafting Level&lt;/strong&gt;: 4   &lt;strong&gt;Kind&lt;/strong&gt;: Automaton&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iotum&lt;/strong&gt;: Io (1d6 units); responsive synth (16 units); apt clay (4 units); pliable
+metal (4 units); quantium (3 units) Parts: 44 units&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: This plan produces a discshaped automaton about 4 feet (1 m) in
+diameter that moves up to a short distance each round on a bed of forced
+air. When released in an area where iotum salvage can be potentially found, the
+automaton harvests what it can find and extract on its own, providing one
+additional iotum (up to level 6) per hour that the extractor works in an area
+that still has salvage. Once it has acquired 5 units of iotum, it returns to a
+predetermined location and waits to be unpacked. It can return earlier if set to
+do so.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Modifications&lt;/strong&gt;: To double the iotum the extractor can gather and increase the
+level of iotum it can gather by 1, a crafter can treat the plan as 1 level
+higher and add 3 units of smart tissue and 1 unit of psiranium.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d20 (check per week of use)&lt;/p&gt;
+&lt;h3 id=&#34;garden-mech&#34;&gt;Garden Mech&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Crafting Level&lt;/strong&gt;: 2  &lt;strong&gt;Kind&lt;/strong&gt;: Automaton&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iotum&lt;/strong&gt;: Io (1d6 units); responsive synth (9 units); apt clay (2 units); pliable
+metal (4 units)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts&lt;/strong&gt;: 20 units&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: This plan produces a discshaped limited automaton about 1 foot
+(30 cm) in diameter. The mech moves on a dozen metallic legs. When released in
+an area where tended plants are already growing, whether decorative or food
+crops, the automaton sets to work tending to their needs within an area up to a
+short range across. It removes pests by hand, aerates the soil, and performs
+other related tasks, providing an asset to any task attempted by characters to
+successfully grow plants within that area.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Depletion&lt;/strong&gt;: 1 in 1d20 (check per growing season)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/rules/</guid>
+      <description>&lt;p&gt;RUUUULES!&lt;/p&gt;
+&lt;p&gt;#+BEGIN&lt;sub&gt;heading&lt;/sub&gt;&lt;/p&gt;
+&lt;h1 id=&#34;rulings&#34;&gt;Rulings&lt;/h1&gt;
+&lt;h2 id=&#34;helping&#34;&gt;Helping&lt;/h2&gt;
+&lt;p&gt;if you want to help someone when they&amp;rsquo;re trying to accomplish a task, you have
+to be untrained or better ( remember, skills can be inability -&amp;gt; untrained -&amp;gt;
+trained -&amp;gt; specialized, from worst to best ). if you&amp;rsquo;re untrained, you ease the
+task by one step. if you&amp;rsquo;re trained or specialized, you ease the task by two
+steps.&lt;/p&gt;
+&lt;p&gt;however: when performing a task you can only ease the difficulty by two steps
+using an asset, and help from other characters is considered an asset. so two
+untrained people can help, or one person who is trained or specialized can help.&lt;/p&gt;
+&lt;p&gt;keep in mind though, that the really difficult tasks you encounter in the world
+have many solutions, or potentially many steps. for example, say you find a
+weapon emplacement that you need to fire at the enemy to break through the walls
+of their fort. say Zeno decides he&amp;rsquo;s going to take control of the machine to
+take the shot. the rest of the party can try to help, but the most they can do
+is reduce the difficulty by two. but that&amp;rsquo;s not the only thing you could
+do. maybe if you&amp;rsquo;ve got time, one of the nanos can try and change the settings
+of the weapons interface so it&amp;rsquo;s in a language Zeno understands. maybe there&amp;rsquo;s a
+device nearby that would give you precise distance &amp;amp; environment measurements
+that would make the weapon more accurate, but you&amp;rsquo;ve got to figure out the
+password or bypass the security to enable it. or something else that i can&amp;rsquo;t
+think of right now.&lt;/p&gt;
+&lt;p&gt;hint you could even use 1 XP for a player intrusion to come up with those
+suggestions i made above, or think up your own – it&amp;rsquo;s something we can discuss
+and hammer out the details during game.&lt;/p&gt;
+&lt;h2 id=&#34;healing&#34;&gt;Healing&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;If you go down the damage track due to losing all the points in a pool,
+healing 1 or more points to an empty pool moves you back up the damage track&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you go down the damage track due to an attack that damages your PC in that
+fashion, only a recovery roll will move you back up the damage track&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cyphers and abilities that restore points to a pool will not move you back up
+the damage track ( unless covered by point 1 )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;However, if a cypher or ability specifically refers to a recovery roll (
+providing the same benefits as a recovery roll without using up one from your
+sheet ), then it will move you up the damage track&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;going up a level on the damage track is a level 4 or 6 difficulty task
+depending on if the character is impaired or debilitated&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;healing points in a pool is an intellect task with the difficulty equal to
+how many points they&amp;rsquo;re trying to heal&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;to-decide&#34;&gt;To Decide&lt;/h1&gt;
+&lt;p&gt;#+END&lt;sub&gt;heading&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/session_log/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/session_log/</guid>
+      <description>&lt;p&gt;Notes from each session.&lt;/p&gt;
+&lt;h1 id=&#34;session-1---2021-10-17&#34;&gt;Session 1 - 2021-10-17&lt;/h1&gt;
+&lt;h2 id=&#34;session-notes&#34;&gt;Session Notes&lt;/h2&gt;
+&lt;p&gt;Characters have all been in town for a few weeks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;they go talk to pamki first&lt;/li&gt;
+&lt;li&gt;party (minus fox) go to talk to sheriff next&lt;/li&gt;
+&lt;li&gt;zeno talked to mex ( got asked on a date! )&lt;/li&gt;
+&lt;li&gt;ureos, klep, and belel talked to the sheriff&lt;/li&gt;
+&lt;li&gt;found the wrapper and the tavern mug&lt;/li&gt;
+&lt;li&gt;tracked ghoka&amp;rsquo;s men down to their hideout&lt;/li&gt;
+&lt;li&gt;some bandits on guard rushed them to attack&lt;/li&gt;
+&lt;li&gt;ureos made some illusory cover&lt;/li&gt;
+&lt;li&gt;klep put up a resnonant barrier&lt;/li&gt;
+&lt;li&gt;belel uses a cypher, but the beam misses all the bandits&lt;/li&gt;
+&lt;li&gt;group of bandits rushes forward&lt;/li&gt;
+&lt;li&gt;sniper bandit tries to shoot&lt;/li&gt;
+&lt;li&gt;ureos uses a cypher to switch places&lt;/li&gt;
+&lt;li&gt;gets them to drop their weapons, but gets hit by a sniper&lt;/li&gt;
+&lt;li&gt;zeno kills the sniper bandit&lt;/li&gt;
+&lt;li&gt;they interrogate the surviving bandits&lt;/li&gt;
+&lt;li&gt;they hide the dead sniper&lt;/li&gt;
+&lt;li&gt;head back to town with the six remaining bandits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;rulings&#34;&gt;Rulings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;going up a level on the damage track is a level 4/6 difficulty task depending
+on if the character is impaired or debilitated&lt;/li&gt;
+&lt;li&gt;healing points in a pool is an intellect task with the difficulty equal to
+how many points they&amp;rsquo;re trying to heal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;other-notes&#34;&gt;Other Notes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;maps will be symbolic on world anvil instead of using hex paper, players won&amp;rsquo;t
+be doing cartography of the area&lt;/li&gt;
+&lt;li&gt;determine what the bandits had on them that the party takes&lt;/li&gt;
+&lt;li&gt;map out some more ruins on the overworld – maybe find something to do the
+mapping digitally, so it&amp;rsquo;s easier to run off the laptop&lt;/li&gt;
+&lt;li&gt;trade and stuff: stores that sell common goods will take shins, merchants that
+sell rarer stuff will barter ( or take a LOT of shins, like more than the
+item is really worth )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;session-2---2021-11-07&#34;&gt;Session 2 - 2021-11-07&lt;/h1&gt;
+&lt;h2 id=&#34;session-notes-1&#34;&gt;Session Notes&lt;/h2&gt;
+&lt;p&gt;Party is on their way back to Ararholm with their captives.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;takes them about 35 minutes to get back to town&lt;/li&gt;
+&lt;li&gt;arrive back in town in late afternoon&lt;/li&gt;
+&lt;li&gt;the sheriff embarasses zeno ( mentions their dinner date with mex )&lt;/li&gt;
+&lt;li&gt;the group decides to wait until they&amp;rsquo;ve got information from the captives&lt;/li&gt;
+&lt;li&gt;decide to go back to the ruin either at night, or pre-dawn&lt;/li&gt;
+&lt;li&gt;find the green cloaks, leave the thief (barnabus) in the chamber where they
+were staying, bring the other two along&lt;/li&gt;
+&lt;li&gt;didn&amp;rsquo;t antagonize the colchin in the interstitiatl chamber, are allowed to
+pass without issue&lt;/li&gt;
+&lt;li&gt;using a mind spike, klep is able to effortlessly disable a trap set to
+prevent folks from getting closer to where the bandits were hiding out&lt;/li&gt;
+&lt;li&gt;the party is creeped out by the ice sculpture room&lt;/li&gt;
+&lt;li&gt;make a plan of attack for ghoka&amp;rsquo;s men&lt;/li&gt;
+&lt;li&gt;ureos creates an illusion that the hallway to the chamber where the gang is
+in, so that it looks empty&lt;/li&gt;
+&lt;li&gt;fox throws a needleburst cypher, that ureos sets off with his voice. this
+kills several bandits&lt;/li&gt;
+&lt;li&gt;zeno shoots a frangible shell at the other bandits, killing three&lt;/li&gt;
+&lt;li&gt;belel and klep are unable to damage the big bandit&lt;/li&gt;
+&lt;li&gt;the big bandit rushes the hallway, and after passing through the doorway
+recovers quickly enough to attack klep, doing 10 points of damage and
+knocking him down one step on the damage track&lt;/li&gt;
+&lt;li&gt;belel creates a zone of dark tentacles, hindering the bandit leader and his subordinates&lt;/li&gt;
+&lt;li&gt;in the swirling melee, klep takes a few more hits, knocking him further down
+the damage track&lt;/li&gt;
+&lt;li&gt;fox disarms the bandit leader, stealing his sword right out of his hand&lt;/li&gt;
+&lt;li&gt;zeno pushes klep out of the way, and stands between the bandit leader and klep&lt;/li&gt;
+&lt;li&gt;session ends…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;for-next-session&#34;&gt;For Next Session&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;figure out the properties of Ukrurg&amp;rsquo;s sword for Fox&lt;/li&gt;
+&lt;li&gt;stat up the two green cloaks a bit more&lt;/li&gt;
+&lt;li&gt;get list of personality traits, quirks, and other things for each of the PCs
+to use as inspiration for GM Intrusions while playing ( ie, oh, Fox is doing
+&lt;this kind of thing&gt;, use a GM intrusion that &lt;does something like this&gt; )&lt;/li&gt;
+&lt;li&gt;build gm intrusions into the rest of the ruins&lt;/li&gt;
+&lt;li&gt;add another cypher or two to the gear that Ukrurg is carrying&lt;/li&gt;
+&lt;li&gt;set up emacs so that I can mark chambers/etc in ruins as UNEXPLORED or EXPLORED&lt;/li&gt;
+&lt;li&gt;see about making my own table thing (copy from org-d20) for handling combat&lt;/li&gt;
+&lt;li&gt;see what else i can do to better run games from within emacs&lt;/li&gt;
+&lt;li&gt;figure out best way to remind myself that players are supposed to roll to
+determine what a cypher or artefact is&lt;/li&gt;
+&lt;li&gt;how many times can they try to identify a numenera per hour/day/etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;session-3---2021-11-21&#34;&gt;Session 3 - 2021-11-21&lt;/h1&gt;
+&lt;h2 id=&#34;session-notes-2&#34;&gt;Session Notes&lt;/h2&gt;
+&lt;p&gt;Party is still in combat with Ukrurg&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;some of the bandits attempt to leave&lt;/li&gt;
+&lt;li&gt;zeno realizes that the bandit armor is bad (survior&amp;rsquo;s intuition)&lt;/li&gt;
+&lt;li&gt;ukrurg batters zeno&amp;rsquo;s arm, sending his hand cannon flying&lt;/li&gt;
+&lt;li&gt;zeno uses player instruction to introduce old friend, a ravage bear given
+intelligence and conciousness via cybernetic implants&lt;/li&gt;
+&lt;li&gt;klep looks into pit, sees xacorocax and pile of organs&lt;/li&gt;
+&lt;li&gt;klep searches the room, finds a tracer cypher and some shins and some iotum&lt;/li&gt;
+&lt;li&gt;team decides to head back, pick up the green cloak, and head back to town&lt;/li&gt;
+&lt;li&gt;zeno goes to get barnabus when they get back to the shaft chamber&lt;/li&gt;
+&lt;li&gt;bring the bandits back to town&lt;/li&gt;
+&lt;li&gt;between the previous prisoners and this new group they now have a large group
+to deal with&lt;/li&gt;
+&lt;li&gt;some of them decide to leave, others decide to stay and become part of the community&lt;/li&gt;
+&lt;li&gt;8 stay, 4 leave&lt;/li&gt;
+&lt;li&gt;sheriff asks to be debriefed on the ruin and what happened&lt;/li&gt;
+&lt;li&gt;fox takes pamki&amp;rsquo;s stuff to her, talks to brigette about the ruin and the voz dynasty&lt;/li&gt;
+&lt;li&gt;fox tells pamki &lt;em&gt;someone&lt;/em&gt; needs to read the journal&lt;/li&gt;
+&lt;li&gt;a day passes as the party rests and recuperates&lt;/li&gt;
+&lt;li&gt;team spends the next day doing some shopping, gives the iotum to mex&lt;/li&gt;
+&lt;li&gt;asks mex for shields and braceres, fox tells mex that she should make klep&amp;rsquo;s
+shield first&lt;/li&gt;
+&lt;li&gt;zeno and fox keep an eye on the adventurer&amp;rsquo;s camp, fox asks if zeno wants to
+talk about what&amp;rsquo;s going on with mex, zeno says no, fox says okay&lt;/li&gt;
+&lt;li&gt;zeno and belel go star gazing, have a conversation about zeno finding out
+their arms come off&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;for-next-session-1&#34;&gt;For Next Session&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;battle map for tracking ranges, positioning, etc&lt;/li&gt;
+&lt;li&gt;figure out what plans mex has access to&lt;/li&gt;
+&lt;li&gt;ager&amp;rsquo;s ship mark that sheriff&lt;/li&gt;
+&lt;li&gt;what was in the journal&lt;/li&gt;
+&lt;li&gt;determine what &amp;ldquo;ecledda&amp;rdquo; clothing is (like mithril?)&lt;/li&gt;
+&lt;li&gt;sort out the ship ruin&lt;/li&gt;
+&lt;li&gt;arm sword for zeno – how long to make, changes to the sword, etc&lt;/li&gt;
+&lt;li&gt;bracers for ureal, how long to make, how do they work, etc&lt;/li&gt;
+&lt;li&gt;buckler shield for klep, nothing particularly special, how long to make,
+special abilities&lt;/li&gt;
+&lt;li&gt;bracer/buckler for belel, work in tandem with her powers, how long to make, etc&lt;/li&gt;
+&lt;li&gt;pair of bracer gloves for fox&lt;/li&gt;
+&lt;li&gt;fill out details of ship map&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Character notes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ager is a practical joker, used codes mostly to bother fox &amp;amp; pamki&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;session-4---2021-12-05&#34;&gt;Session 4 - 2021-12-05&lt;/h1&gt;
+&lt;p&gt;In-game: 2 Reaping 834&lt;/p&gt;
+&lt;h2 id=&#34;session-notes-3&#34;&gt;Session Notes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;mex told the party how long it&amp;rsquo;ll take for each of their things&lt;/li&gt;
+&lt;li&gt;heading back to the ruins, travelling at a easy pace, arrive mid-morning&lt;/li&gt;
+&lt;li&gt;while travelling ureos sees the haunted bridge, klep sees the choosing lord&lt;/li&gt;
+&lt;li&gt;discovered the vex chambers in sc5 ruin&lt;/li&gt;
+&lt;li&gt;found cable projector (level 3)&lt;/li&gt;
+&lt;li&gt;fox lost stomach, ureos tried to push fox back through the arch but tripped
+and the stomach ended up in him&lt;/li&gt;
+&lt;li&gt;[1d20+10] -&amp;gt; (15) +10 = 25 days until fox dies of starvation&lt;/li&gt;
+&lt;li&gt;[1d2] -&amp;gt; = 2 – fox gets ureoe&amp;rsquo;s stomach&lt;/li&gt;
+&lt;li&gt;note: ureos can&amp;rsquo;t eat street meat anymore without getting sick&lt;/li&gt;
+&lt;li&gt;klep adds electric nodule to his knife, for the next 9 days the knife will
+cause anything hit by it to need to make a L4 might roll or be stunned for its
+next turn&lt;/li&gt;
+&lt;li&gt;zeno puts both wrist blades in (2 days for one, 10 for the other)&lt;/li&gt;
+&lt;li&gt;belel puts rapier in, 9 day charge&lt;/li&gt;
+&lt;li&gt;the concepts &amp;amp; emotions ( the box ) is the one they want to face&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;for-next-session-2&#34;&gt;For Next Session&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;symbol sherrif told them to look out for?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

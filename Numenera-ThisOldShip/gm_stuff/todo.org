@@ -581,7 +581,6 @@ link: [[file:mex.org::*Mex's Shop][Mex's Shop]]
 ** TODO figure out way to track the iotum that mex has
 DEADLINE: <2021-12-05 Sun>
 
-
 ** DONE design ship marking symbol
 CLOSED: [2021-12-04 Sat 11:51] DEADLINE: <2021-12-05 Sun>
 also need to decide who's responsible for it ( is it Ager's? the ship? something
@@ -632,16 +631,16 @@ DEADLINE: <2021-12-05 Sun>
 - other things
 *** TODO arm sword for Zeno
 *Time*: 2 weeks
-*Cost*: 
+*Cost*: paid
 *Parts*: 
 *Output*:
 
 Will take 2 weeks ( because she's using an artefact to build the thing )
 *** TODO bracers for Ureos
 *Time*: 2 days (light armor)
-*Cost:* 10 shins
+*Cost:* paid
 *Parts:* 
-*Output*:
+*Output*: 
 
 *** TODO buckler shield for Klep
 *Time*: 2 days (light armor)
@@ -649,20 +648,32 @@ Will take 2 weeks ( because she's using an artefact to build the thing )
 *Parts:* 5 iotum
 *Output*: Buckler shield, eases Speed defense one level
 
+klep needs his stuff first
+
 *** TODO bracer/shield for Belel
-*Time*: 
-*Cost:*
+*Time*: 8 days (artifact) 
+*Cost:* paid
 *Parts:*
-*Output*:
+*Output*: 
 
 - uses her powers to create a buckler shield
 *** TODO pair of bracer/gloves for Fox
 *Time*: 3 days
-*Cost:*
+*Cost:* paid
 *Parts:*
-*Output*: pair of bracers that provide 
+*Output*: pair of bracers ease disarming by one step
 
 - maybe should have a bonus for disarming opponents
+** MONSTERS
+players have chosen that they're gonna be fighting [[file:scenarios/scenario-5.org::*an alchemical circle, broken in half][these]]
+*** deceit
+*** doubt
+*** hate
+*** vanity
+*** despair
+*** scorn
+*** anxiety
+*** absurdity
 * Tools to look into
 - https://infinite-woodland-34884.herokuapp.com/
 - https://encounters.heromuster.com/
