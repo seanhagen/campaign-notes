@@ -6,27 +6,27 @@ This is the list of what Mex has on hand to build things with.
 
 Iotum
 | Name             | Level | Salvage amount | Amount |
-| Io               |     1 |            1d6 |      0 |
-| Responsive synth |     2 |            1d6 |      0 |
-| Apt clay         |     3 |            1d6 |      0 |
-| Bio-circuitry    |     4 |            1d6 |      0 |
-| Synthsteel       |     4 |            1d6 |      0 |
-| Pliable metal    |     4 |            1d6 |      0 |
-| Azure steel      |     5 |            1d6 |      0 |
-| Mimetic gel      |     5 |            1d6 |      0 |
-| Quantium         |     5 |            1d6 |      0 |
-| Amber crystal    |     6 |            1d6 |      0 |
+| Io               |     1 |            1d6 |    358 |
+| Responsive synth |     2 |            1d6 |    101 |
+| Apt clay         |     3 |            1d6 |     50 |
+| Bio-circuitry    |     4 |            1d6 |     28 |
+| Synthsteel       |     4 |            1d6 |    123 |
+| Pliable metal    |     4 |            1d6 |     11 |
+| Azure steel      |     5 |            1d6 |     83 |
+| Mimetic gel      |     5 |            1d6 |      5 |
+| Quantium         |     5 |            1d6 |      8 |
+| Amber crystal    |     6 |            1d6 |     73 |
 | Protomatter†     |     6 |              1 |      0 |
 | Thaum dust       |     6 |            1d6 |      0 |
 | Smart tissue     |     7 |            1d6 |      0 |
 | Psiranium        |     7 |              2 |      0 |
-| Kaon dot         |     7 |              2 |      0 |
-| Monopole         |     7 |              2 |      0 |
+| Kaon dot         |     7 |              2 |      1 |
+| Monopole         |     7 |              2 |     32 |
 | Midnight stone   |     8 |              2 |      0 |
 | Oraculum         |     8 |              1 |      0 |
 | Virtuon particle |     8 |              1 |      0 |
-| Tamed iron       |     9 |              1 |      0 |
-| Philosophine     |     9 |              1 |      0 |
+| Tamed iron       |     9 |              1 |      2 |
+| Philosophine     |     9 |              1 |      1 |
 | Data Orb         |     9 |              1 |      0 |
 | Scalar boson rod |     9 |              1 |      0 |
 | Cosmic foam      |    10 |              1 |      0 |
@@ -37,92 +37,20 @@ a side because 1 unit of protomatter is almost that massive (unless some sort of
 extradimensional space to house the protomatter unit is involved). If this
 result occurs in relation to a source that’s too small, thaum dust is salvaged
 instead.
+
 *** Build Times
-**** Commonplace object build time
-| Object Level                  | General Time To Build |
-|-------------------------------+-----------------------|
-| Routine (tying a simple knot) | 1 minute              |
-| 1 (torch)                     | 5 minutes             |
-| 2 (bench)                     | 1 hour                |
-| 3 (cabinte)                   | 1 day                 |
-| 4 (light weapon or armor)     | 2 days                |
-| 5 (medium weapon or armor)    | 1 week                |
-| 6 (heavy weapon or armor)     | 1 month               |
+**** Build Times
+| Type/Difficulty       | 0                  | 1          | 2       | 3               | 4                  | 5                   | 6                  | 7         | 8         | 9         | 10        |
+| Installation          |                    | ~1 day     | ~2 days | ~4 days         | ~6 days            | ~2 weeks            | ~1 month           | ~3 months | ~6 months | ~1 year   | ~10 years |
+| Cypher                |                    | ~10 min    | ~1 hour | ~4 hours        | ~9 hours           | ~28 hours           | ~2 days            | ~1 week   | ~3 weeks  | ~2 months | ~6 months |
+| Artifact              |                    | ~2 days    | ~4 days | ~8 days         | ~2 weeks           | ~1 month            | ~2 months          | ~6 months | ~1 year   | ~10 years | ~20 years |
+| Automaton             |                    | ~2 days    | ~4 days | ~8 days         | ~2 weeks           | ~1 month            | ~2 months          | ~6 months | ~1 year   | ~10 years | ~20 years |
+| Vehicle               |                    | ~3 days    | ~5 days | ~10 days        | ~3 weeks           | ~2 months           | ~4 months          | ~1 year   | ~10 years | ~20 years | ~50 years |
+| Commonplace Structure | ~30 minutes        | ~3 hours   | ~3 days | ~3 weeks        | ~3 months          | ~1 year             | ~10 years          | ~30 years | NA        | NA        | NA        |
+|                       | one-person lean-to | hut        | cottage | wooden palisade | watchtower         | mansion             | keep               | castle    |           |           |           |
+| Commonplace Object    | ~1 minute          | ~5 minutes | ~1 hour | ~1 day          | ~2 days            | ~1 week             | ~1 month           | NA        | NA        | NA        | NA        |
+|                       | simple knot        | torch      | bench   | cabinet         | light weapon/armor | medium weapon/armor | heavy weapon/armor |           |           |           |           |
 
-**** Commonplace structure build time
-| Structure Level              | Time to Build |
-| Routine (one-person lean-to) | ~30 minutes   |
-| 1 (hut)                      | ~3 hours      |
-| 2 (cottage)                  | ~3 days       |
-| 3 (wooden palisade)          | ~3 weeks      |
-| 4 (watchtower)               | ~3 months     |
-| 5 (mansion)                  | ~1 year       |
-| 6 (keep)                     | ~10 years     |
-| 7 (castle)                   | ~30 years     |
-
-**** Installation build time
-| Assessed Difficulty | Time to Build |
-|                   1 | ~1 day        |
-|                   2 | ~2 days       |
-|                   3 | ~4 days       |
-|                   4 | ~6 days       |
-|                   5 | ~2 weeks      |
-|                   6 | ~1 month      |
-|                   7 | ~3 months     |
-|                   8 | ~6 months     |
-|                   9 | ~1 year       |
-|                  10 | ~10 years     |
-**** Cypher build time
-| Assessed Difficulty | Time to Build |
-|                   1 | ~10 minutes   |
-|                   2 | ~1 hour       |
-|                   3 | ~4 hours      |
-|                   4 | ~9 hours      |
-|                   5 | ~28 hours     |
-|                   6 | ~2 days       |
-|                   7 | ~1 week       |
-|                   8 | ~3 weeks      |
-|                   9 | ~2 months     |
-|                  10 | ~6 months     |
-
-**** Artifact build time
-| Assessed Difficulty | Time to Build |
-|                   1 | ~2 days       |
-|                   2 | ~4 days       |
-|                   3 | ~8 days       |
-|                   4 | ~2 weeks      |
-|                   5 | ~1 month      |
-|                   6 | ~2 months     |
-|                   7 | ~6 months     |
-|                   8 | ~1 year       |
-|                   9 | ~10 years     |
-|                  10 | ~20 years     |
-
-**** Automaton build time
-| Assessed Difficulty | Time to Build |
-|                   1 | ~2 days       |
-|                   2 | ~4 days       |
-|                   3 | ~8 days       |
-|                   4 | ~2 weeks      |
-|                   5 | ~1 month      |
-|                   6 | ~2 months     |
-|                   7 | ~6 months     |
-|                   8 | ~1 year       |
-|                   9 | ~10 years     |
-|                  10 | ~20 years     |
-
-**** Vehicle build time
-| Assessed Difficulty | Time to Build |
-|                   1 | ~3 days       |
-|                   2 | ~5 days       |
-|                   3 | ~10 days      |
-|                   4 | ~3 weeks      |
-|                   5 | ~2 months     |
-|                   6 | ~4 months     |
-|                   7 | ~1 year       |
-|                   8 | ~10 years     |
-|                   9 | ~20 years     |
-|                  10 | ~50 years     |
 *** Required Resources
 Here's the info on what is required for building artifacts and
 cyphers. Installations & automatons list the required iotum & units of parts in
@@ -263,7 +191,7 @@ the task and using up the materials without producing anything.
 | Jail                  |     4 | 55 units                   | Entry lobby; office; and dozens of 10-foot (3 m) wide barred cells that hinder attempts to break or unlock                                                                                                     |
 
 *** Commonplace Armor
-Light Armor 
+Light Armor
 | (1 point of Armor) | Level | Materials                           | Specifications | Build Time |
 | Hides and furs     |     2 | 3 units                             | As light armor | 1 hour     |
 | Leather jerkin     |     3 | 4 units                             | As light armor | 1 day      |
@@ -344,9 +272,8 @@ what level or how long it'll take, she needs the full plan to figure that out.
 |                       |                        | Temporal Chime             |             |                     |
 |                       |                        | Turret,Basic               |             |                     |
 |                       |                        | Water Purification Station |             |                     |
-  
-** Known Numenera
 
+** Known Numenera
 *** Artifacts
 **** Automated Bath
 *Level*: 1d6
@@ -573,4 +500,3 @@ other related tasks, providing an asset to any task attempted by characters to
 successfully grow plants within that area.
 
 *Depletion*: 1 in 1d20 (check per growing season)
-

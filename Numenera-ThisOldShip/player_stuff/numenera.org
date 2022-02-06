@@ -123,6 +123,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  release enough embers from the weapon to start a fire).
 
  *Depletion*: —
+***
 ** Installations
 *** Alarm Tower
  *Minimum Crafting Level*: 5   *Kind*: Installation
@@ -326,7 +327,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  in an open area). After about an hour, the clouds release a rainstorm that lasts
  for another hour, covering an area up to 1 mile (1.5 km) in diameter.
 
- *Depletion*: 1 in 1d100 (check each use) 
+ *Depletion*: 1 in 1d100 (check each use)
 *** Temporal Chime                                                 :noexport:
  *Minimum Crafting Level*: 4  *Kind*: Installation
 

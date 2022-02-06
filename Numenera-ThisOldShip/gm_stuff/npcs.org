@@ -1,0 +1,317 @@
+#+TAGS: friend ally neutral indifferent hostile
+* NPCs
+** Ibakha Togh (Level: 6)                                          :neutral:
+#+BEGIN_QUOTE
+I'm willing to hear them out, but keep your sword sharp.
+#+END_QUOTE
+
+*Roleplaying*
+| Thing              | Physical Action                                                                              |
+|--------------------+----------------------------------------------------------------------------------------------|
+| physical mannerism | moves like a dancer, always on the balls of her feet                                         |
+| mode of speech     | brusque, short and to the point                                                              |
+| personality        | an extremely well-hidden core of kindness and warmth hidden beneath layers of steel and iron |
+*** Image
+[[file:./assets/ibakha.jpg]]
+*** Key Info
+**** Voz Dynasty
+ - is a member of the royal family (technically)
+ - the dynasty seeks to take control of Maka Tho
+**** Maka Tho
+ - there is a route through Maka Tho to Sudboia
+ - she needs to find it again
+**** Personal
+ - has never seen battle against other humans before
+ - believes in what she was taught in a way that makes her believes incompatible
+   with what the Dynasty wants to do
+
+*** Appearance
+ A woman of average height with raven hair and striking eyes. Her martial garb
+ is offset by the bright and varied colours. Moves like a dancer, stands still
+ like a stone.
+
+*** Background
+A lesser cousin of the Voz royal family, who has gotten incredibly lost trying
+to find a route through Maka Tho from her homeland. Wasn't put in charge of the
+expidition, but is the highest ranking officer left.
+
+Has never before left her homeland; she didn't fight in the wars because she was
+too young at the time. The trained harder than any in her class though, and has
+a need to prove that she's not just another royal brat.
+
+*** TODO Stat Block
+
+** Savu Athuin (Level: 6)                                         :friendly:
+#+BEGIN_QUOTE
+Well now dearie, you don't get to know everything.
+#+END_QUOTE
+
+*Roleplaying*
+| Thing | Physical Action |
+|-------+-----------------|
+| physical mannerism | greets people by patting them on the cheek, grandma style |
+| mode of speech | slow and a bit reedy |
+| personality | chipper but spaced out |
+
+  a few brief bullet points. should have one simple, physical action to perform
+  while playing the npc. *avoid repetition* by having each point describe a
+  completely distinct classification of thing: values, physical mannerism, way
+  of speaking, personality, etc.
+
+**** Key Info
+ - knows about the dark creatures
+
+**** Appearance
+ An old lady wearing simple travellers robes. Her silvered hair is bound up in a
+ complex ponytail that reaches to her mid-back. She tends to hunch over her
+ cane.
+
+**** Background
+  This is what's left of Savathun after ~1 billion years. As far as she knows
+  she's the *only Hive left*, the only one still alive anywhere in the
+  universe. The pyramid ships and the Traveller are long since dust.
+
+  Now she's just a *lonely old woman* who refuses to die, partially still driven
+  by the urge to *collect secrets* and tell lies and weave complex webs -- but
+  honestly mostly just looking for company at this point. Everything she knew
+  turned out to be false, including what the Light would do for her.
+
+**** Stat Block
+** Mex (Level: 6)                                                     :ally:
+#+BEGIN_QUOTE
+Aww shucks, well I'm sure I can whip something up for ya!
+#+END_QUOTE
+
+*Roleplaying*
+  - slightly embarrsed by her hands and forearms <keeps her hands behind her back unless working on something>
+  - southern drawl <big laugh>
+  - friendly, caring, open <headbuts and elbow pokes>
+
+  a few brief bullet points. should have one simple, physical action to perform
+  while playing the npc. *avoid repetition* by having each point describe a
+  completely distinct classification of thing: values, physical mannerism, way
+  of speaking, personality, etc.
+
+*Key Info*
+  essential interaction or info pcs should get from this npc. can have multiple
+  key info sections, one for each 'type' of info (ie, an npc in a mystery game
+  at a party might have 'clues' and 'topics of conversation' as key info
+  sections ).
+
+**** Appearance
+ A stocky blonde woman of average height. Tends to have arms uncovered, which
+ are covered in blue/black geometric tattoos. There's always an aroma of the
+ forge around her.
+
+**** TODO Background
+  a short narrative that covers essential context and interesting
+  anecdotes. something that will influence how they make decisions, or something
+  they'll use as context to explain stuff. use *bold* text to call out important
+  features.
+
+**** TODO Stat Block
+** <name> :ally:enemy:neutral:hostile:
+#+BEGIN_QUOTE
+<quote>
+#+END_QUOTE
+
+*Roleplaying*
+  - physical mannerism <action>
+  - mode of speech <action>
+  - personality  <action>
+
+*** Key Info
+  essential interaction or info pcs should get from this npc. can have multiple
+  key info sections, one for each "type" of info (ie, an npc in a mystery game
+  at a party might have "clues" and "topics of conversation" as key info
+  sections ).
+
+*** Appearance
+ short and sweet, 1-2 sentences, 3 at max. most interesting and unique features
+
+*** Background
+  a short narrative that covers essential context and interesting
+  anecdotes. something that will influence how they make decisions, or something
+  they'll use as context to explain stuff. use *bold* text to call out important
+  features.
+
+*** Stat Block
+* Bad Guys
+deceit, doubt, hate, vanity, despair, scorn, anxiety, and absurdity
+** Deceit
+*** Image
+#+ATTR_ORG: :width 400px
+[[file:./assets/deceit.jpg]
+*** Description
+"Deceit" is one of the few nightmares with the ability to communicate with
+people. But don't get me wrong. This cunning monster doesn't come to make
+friends with you. Maybe you think you won't easily listen to a monster's
+rhetoric, but the problem is that The hints it gives are often not necessarily
+wrong . In this barren world, if you want to move forward, you must get some
+information The information provided by "words" is sometimes crucial. Gradually,
+people will rely on its rhetoric. But remember, a lie is a true predator. No
+matter what help you get from it, one day it will take away the most important
+thing from you and never come back ...
+
+so what did the cunning monster "Deceit" take from us? That's the most important
+thing we need to move forward in the whole world, that is, some kind of
+"sight". One day, when the "Deceit" disappears, you will find that you can't see
+anyone again. In the future journey, even if you are devastated, your regret,
+your howling, Your anger can not be conveyed to anyone, you become lonely in the
+real sense, no one will find you, you can not find anyone, your voice will only
+reverberate empty in the wilderness, at that time, you will know what you have
+lost, that is - "trust".
+** Doubt
+*** Image
+#+ATTR_ORG: :width 400px
+[[file:./assets/doubt.jpg]
+*** Description
+"Doubt" is a strange hunter. Its "hunting" is not so much a hunting as a funny
+farce. It all stems from the slightest psychological fluctuation. Maybe you will
+feel unnatural uneasiness one day, and the existence of "Doubt" will magnify
+this uneasiness, which is quiet Looking at the poor traveler's mind getting
+confused day by day from a high place, you can feel its existence, you know it
+is somewhere, like you show that disgusting smile, you can feel, can imagine,
+but can't see where it is, "Doubt" can start at any time, you are panicked and
+full of holes, but "Doubt" enjoys playing with prey, it is also As you think,
+all the time to show you that disgusting smile.
+** Hate
+*** Image
+#+ATTR_ORG: :width 400px
+[[file:./assets/hate.jpg]
+*** Description
+If “Prejudice” is the kindling of war, then hatred is the reason for the
+continuation of war... Under the shadow of the poor traveler's corpse, which has
+lost its life, there are some things that have witnessed what happened. "Hate"
+is like a butterfly, emerging from the shadow of the corpse, and the face is
+twisted by its own pathetic host Face, it has been waiting for this moment for a
+long time, the newborn is hungry, it urgently needs food, and food for "Hate" is
+a new killing, so who is it? Maybe it's a nightmare, maybe another unfortunate
+traveler, but it doesn't care, and even these crazy demons don't know. Whether
+it's a nightmare or a traveler who dies through the "Hate" hand, there will be a
+new "Hate" in the nightmare or in the traveler, waiting quietly for the moment
+to break out of the cocoon...
+** Vanity
+*** Image
+#+ATTR_ORG: :width 400px
+[[file:./assets/vanity.jpg]
+*** Description
+in the dark night, please don't stay in the forest for a long time. Don't
+misunderstand it. The terrible thing is not just the depressed darkness. In such
+an environment, people are easily attracted by the light. Yes, the light of
+"Vanity" is a curse. It always makes you stop in the cold night and feel a
+little warm and peaceful Heart, but don't be deceived by these luminous
+butterflies. They are hounds and baits. Run quickly. This proves that "Lost" is
+nearby. It will drag the poor travelers into the deep forest. Your howling will
+be drowned by silence. The next day, there will be a beautiful and luminous
+butterfly in the forest...
+** Despair
+*** Image
+#+ATTR_ORG: :width 400px
+[[file:./assets/despair.jpg]
+*** Description
+There is no doubt that the power of "Despair" is absolutely fatal. It acts
+elegantly and calmly. Every action seems to show its own strength and power to
+everything around it. However, it seldom does it by itself. It just sits on the
+empty throne all day long, constantly rummaging through the books engraved with
+any words We all know that it can't be avoided. Sooner or later, "Despair" will
+come to visit. Maybe, at that time, you were cheated by "Deceit" and lost
+everything... Maybe you were trampled by "Scorn", and sank into the cold soil
+with tears and dignity... Maybe you were surrounded by "Lonely", bruised and
+bruised by wild animals and fell into a dead end... In that final vague
+consciousness You can see that they are running away for some reason, but an
+unknown figure comes to you with a calm pace. It holds a huge black sword of
+exaggerated size with only one hand. The heavy pressure warns you that it is
+some kind of vicious and vicious monster. It walks slowly to you crawling on the
+ground. Its face clearly has no organs, but you feel it Feel that it is
+overlooking you, it does not hurry, easy to hold up the hands of the dark sword,
+record your last gasp, and then give you a real sense of unconsciousness, but
+the most painful "death" ...
+
+1. The terrible sword held by the deadly "despair" is not pure violence. People
+   killed by despair will magnify their pain because of fear. The most terrible
+   thing is that although most people will rejuvenate and usher in rebirth,
+   "despair" is not the same. This huge sword will become heavier and heavier
+   because of the fear of the victims, and being killed by "despair" will
+   prolong the "death" time It is the fear of it. The more we recall the pain,
+   the longer the "death" time will be. For people with limited time, it is
+   undoubtedly an unreasonable and compulsory plunder of "life".
+2. The book held by "despair" is said to be used to record people's tragic
+   ending before death. We know that nightmares have no vision, but this book is
+   actually used to record some kind of ending, but it is a kind of sound, which
+   comes from the cry or gasp of people tearing their hearts and lungs when they
+   are hurt and collapsed. Those voices turn into black unknown words and
+   infiltrate into "Despair" ”In the book of , whenever the page is touched
+   gently, the hoarse cry will linger in the ear like a whisper. It is very
+   happy to enjoy this "tranquility" on the empty throne.
+3. The most fatal point of "Despair" is not only the special death mechanism,
+   but also the possibility that it can cause the real death which is no
+   different from the reality and can not be reborn. The interest of "Despair"
+   in recording the breath and roar of dying people in books is actually because
+   it does not understand, it does not understand why people will resist death
+   and fight against the established fate The attitude makes desperation feel
+   very interesting. It is trying to understand something that the "Nightmare"
+   does not have, but the weak creatures in front of them have. It is eager to
+   get it, so it records it and constantly reviews it. However, there are also
+   exceptions. "Despair" has encountered the situation that prey quietly accepts
+   death. Those people often do not have any resistance to the coming death, and
+   naturally they do not There will be any screams and gasps for "Despair" to
+   appreciate. "Despair" thinks that this is boring. Although it will kill these
+   walking corpses, they will not be reborn again. In a real sense, they end the
+   journey, and take "Despair" as an excuse to end "life".
+** Scorn
+*** Image
+#+ATTR_ORG: :width 400px
+[[file:./assets/scorn.jpg]
+
+*** Description
+"Scorn" is a pure combative. It likes to fight and is almost paranoid in this
+regard. Maybe it has no malice to you, but just for enjoying violence, "Scorn"
+is willing to fight with you and pursue you to the ends of the world. The more
+obvious your intention of resistance is, the higher the momentum of "Scorn" is,
+and don't misunderstand it, This monster doesn't have the demeanor of a
+soldier. It doesn't give a fatal blow to the loser. Instead, it continues to
+trample and torture. With the simple imitation of human words and a slightly
+unfamiliar "abuse", this monster looks down on the loser in front of him with a
+proud posture until you are dying. Even the final dignity is deprived. It shows
+the symbolic ugly Smile, but you've never felt before that any nightmare is so
+suitable for this twisted smile.
+** Anxiety
+*** Image
+#+ATTR_ORG: :width 400px
+[[file:./assets/anxiety.jpg]]
+
+*** Description
+It's a pity that when we find out "Anxiety", it's too late. There are few rumors
+about them. Their news usually comes from some weird and irreparable tragedy. So
+it's hard to know what they look like, what their purpose is and where they
+live. But there are all kinds of tragedies that evaporate in the world One
+common feature - broken mirrors, but... Anyway, I think you can more or less
+feel that they are growing in size, whether they belong to a nightmare world or
+a reality, they have always been ...
+** Absurdity
+*** Image
+#+ATTR_ORG: :width 400px
+[[file:./assets/absurdness.jpg]]
+*** Description
+The existence of "Absurdness" is very old, and the legend about him is very
+strange. It often tells a bizarre tragedy, a ridiculous sacrifice, or a war with
+a ridiculous cause, but no matter what According to the legend, the description
+of it is very vague. People only know where the "Absurdness" appears, where
+there will be strange disasters. People accuse it of its existence, claim that
+it is tempted by demons, and think it will cause disasters, and enjoy it. , But
+there are different opinions on how it does it and how it tempts people. No one
+knows how the truth is. Maybe people are right. It is indeed a despicable
+demon. It escapes from hell to the world in order to play with the human heart,
+but more terrible things are often people. A guilty conscience, maybe it is just
+an "audience", it did nothing, did not interfere, just a "audience" enjoying the
+funny performance...
+
+From a certain day, the "audience" suddenly turned into beasts, rushing to the
+stage and starting to fight each other, while the "clowns" were forced to come
+to the audience and watch the funny performance quietly, until people regained
+their sanity and they stood In the pool of blood, at a loss, suddenly people
+turned to accuse him, saying that he was tempted by the devil, and prayed for
+forgiveness from the gods, he laughed, and for the first time in his life he
+felt such a strong pleasure, crazy The laughter was submerged by accusations,
+echoing in the empty hall, no one knew...——a diary diary

@@ -2,7 +2,7 @@
 2021-10-17
 
 Characters have all been in town for a few weeks.
- 
+
  - they go talk to pamki first
  - party (minus fox) go to talk to sheriff next
  - zeno talked to mex ( got asked on a date! )
@@ -33,7 +33,7 @@ ruling:
  - healing points in a pool is an intellect task with the difficulty equal to
    how many points they're trying to heal
 
-other bits:    
+other bits:
  - maps will be symbolic on world anvil instead of using hex paper, players won't
    be doing cartography of the area
  - determine what the bandits had on them that the party takes
@@ -41,7 +41,7 @@ other bits:
    mapping digitally, so it's easier to run off the laptop
  - trade and stuff: stores that sell common goods will take shins, merchants that
    sell rarer stuff will barter ( or take a LOT of shins, like more than the
-   item is really worth ) 
+   item is really worth )
 
 * Session 2
 2021-11-07
@@ -128,7 +128,7 @@ Party is still in combat with Ukrurg
 For next session:
  - battle map for tracking ranges, positioning, etc
  - figure out what plans mex has access to
- - ager's ship mark that sheriff
+ - ager's ship mark that sheriff knows
  - what was in the journal
  - determine what "ecledda" clothing is (like mithril?)
  - sort out the ship ruin
@@ -142,3 +142,6 @@ For next session:
 
 Character notes:
  - ager is a practical joker, used codes mostly to bother fox & pamki
+
+* Session 4
+2022-02-06

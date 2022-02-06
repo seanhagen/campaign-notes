@@ -2,12 +2,12 @@
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** travel roles 
+** travel roles
 *** Klep - navigator
 person in charge of path-finding through the wilds
 *** Zeno - scout
 can travel ahead to check for hazards and whatnot
-*** Belel - cartographer 
+*** Belel - cartographer
 required if needing to come back easily, or to tell other people exactly where a
 ruin is
 *** Ureos - rear guard
@@ -19,7 +19,7 @@ from in front or above
 ** travel notes
 - need to tell me /how/ they're travelling -- quickly, normal pace, carefully,
   etc.
-- 
+-
 ** STARTED Need several potential scenarios & encounters [29/42]
 sheriff:
  - scenario 1
@@ -38,7 +38,7 @@ pamki:
 
 jacka (woodworker):
  - scenario 6
-   
+
 *** DONE scenario 1: in town (ghoka)
 CLOSED: [2021-10-29 Fri 15:45]
 handed out by: mex, sherrif, or pamki
@@ -146,7 +146,7 @@ CLOSED: [2021-10-17 Sun 11:44]
 CLOSED: [2021-10-17 Sun 11:44]
 **** DONE place ruin on map
 CLOSED: [2021-10-16 Sat 22:59]
-province level, township E8 
+province level, township E8
 **** DONE creature encounter
 CLOSED: [2021-10-17 Sun 11:44]
 pick a creature that would make sense to have made its lair in the entrance to
@@ -155,7 +155,7 @@ the ruin, preferably a pack
   pamki needs someone to go into the ship and fix the water supply. either fix
   whatever broke and is fouling the water, or stop the water completely -- the
   poison is getting into the ground water table and causing issues for nearby
-  farms.  
+  farms.
 **** STARTED build the ship "entrance hall"
 the parts of the ship that are well known and fully explored
 [[file:Scenarios/scenario-3.org::*entrance][scenario 3 map outline]]
@@ -210,7 +210,7 @@ CLOSED: [2021-11-06 Sat 17:11]
   - rumor: that ruin ghoka is using has a secret entrance
   - rumor: ghoka keeps something in the ruin that he uses to punish gang members
     that step out of line
-     
+
   ghoka is smart, the ruin is actually to the west.
 
   ghoka keeps a xacorocax inside the ruin, in a pit. he throws gang members that
@@ -253,7 +253,7 @@ CLOSED: [2021-10-17 Sun 13:02]
 it's not dangerous, last person died falling down the shaft into chamber 3
 
 a "consortium" of Kalyptein crabs (bestiary, pg 70) have gained sentence and
-want the aid of the players, they want 
+want the aid of the players, they want
 *** STARTED scenario 7: far from town (pamki)
   word has reached pamki that a caravan bringing food & building materials
 has gotten lost somewhere between the city of the dead and ararholm.
@@ -342,7 +342,7 @@ a bit of a hippy kind of person, really doesn't like fighting
 **** TODO personality, basic details
 - wants to be a rumor monger, but is really not very good at it
 **** TODO other details
-- 
+-
 ** TODO Create some goons & flesh out Ghoka's gang [%]
 *** TODO more on ghoka
 **** TODO stat him up
@@ -394,10 +394,10 @@ CLOSED: [2021-10-14 Thu 16:51]
   - [ ] can the players determine how safe a shelter might be?
   - [ ] what kinds of shelter might they find?
 *** TODO how big is a hex, for each "zoom level"
-- in town: 
+- in town:
 - hills region:
 - maka-tho:
-- continent: 
+- continent:
 ** physical prep [3/5]
 *** STARTED create maps for me on hex paper
 *** CANCELLED on hex side of big battle mat, create map of all maka-tho :CANCELLED:
@@ -509,7 +509,7 @@ https://static.tvtropes.org/pmwiki/pub/images/EmpressOfMijak_6998.jpg
   - is the AI actually part of the ship, or trapped there ( or prisioner? )
   - how much does the AI know about what happens outside the ship?
   - how much does the AI know about humans?
-  - was the AI ever a friend to humanity in the past? 
+  - was the AI ever a friend to humanity in the past?
 *** TODO some more info on the ship
   - is it even a ship?
   - if it is a ship, what was it meant for? war? colonization? exploration?
@@ -557,30 +557,22 @@ there should be a few things hidden in maka-tho that are dangerous if set loose,
 and there should be some powerful numenera hiding out there too
 ** TODO fill out the tavern with stuff
 - crib from here: https://thealexandrian.net/wordpress/37558/roleplaying-games/numenera-tavern
-* Stuff To Get Done [22%]
-** TODO properly stat up sword for Fox/Zeno
-DEADLINE: <2021-12-04 Sat>
+* Stuff To Get Done [46%]
+** DONE properly stat up gear
+CLOSED: [2022-02-05 Sat 15:12] DEADLINE: <2022-02-05 Sat>
 they've got the sword, mex is making arm blade, stat up what that will be
 
-based on splinter sword artifact (level 4)
-
 ** TODO sort out NPC templates
-DEADLINE: <2021-12-05 Sun>
 ** TODO better combat tracking in Org mode
-DEADLINE: <2021-12-05 Sun>
 have to code this up myself
 ** TODO other tools for running the game in emacs
-DEADLINE: <2021-12-05 Sun>
 ** TODO add gm intrusions into the ruin/scenario setup
-DEADLINE: <2021-12-05 Sun>
 ** TODO battle map for tracking ranges/etc in combat
-DEADLINE: <2021-12-05 Sun>
 ** DONE figure out the list of plans mex has right now
 CLOSED: [2021-12-04 Sat 13:28] DEADLINE: <2021-12-05 Sun>
 link: [[file:mex.org::*Mex's Shop][Mex's Shop]]
 ** TODO figure out way to track the iotum that mex has
-DEADLINE: <2021-12-05 Sun>
-
+DEADLINE: <2022-02-05 Sat>
 
 ** DONE design ship marking symbol
 CLOSED: [2021-12-04 Sat 11:51] DEADLINE: <2021-12-05 Sun>
@@ -622,48 +614,170 @@ benefits. usually something like easing speed/might/intellect defense by one
 step, or protecting better against ranged/melee/esoteries/elements/etc
 
 ** TODO fill in the ship ruins
-DEADLINE: <2021-12-05 Sun>
 also make some changes, use some of the jaqyaying the dungeon stuff
-** TODO stat up the equipment mex is building [0/5]
-DEADLINE: <2021-12-05 Sun>
-- how long it'll take
-- changes made to parts
-- cost
-- other things
-*** TODO arm sword for Zeno
-*Time*: 2 weeks
-*Cost*: 
-*Parts*: 
-*Output*:
+** DONE stat up the equipment mex is building [5/5]
+CLOSED: [2022-02-05 Sat 15:55] DEADLINE: <2022-02-05 Sat>
+*** DONE arm sword for Zeno
+CLOSED: [2022-02-05 Sat 15:06]
+**** Sword Arm Mods, Level 4
+Two mods, one for each arm.
 
-Will take 2 weeks ( because she's using an artefact to build the thing )
-*** TODO bracers for Ureos
-*Time*: 2 days (light armor)
-*Cost:* 10 shins
-*Parts:* 
-*Output*:
+Can be implanted within mechanical arms to provide the following benefits:
 
-*** TODO buckler shield for Klep
-*Time*: 2 days (light armor)
-*Cost:* 10 shins
-*Parts:* 5 iotum
-*Output*: Buckler shield, eases Speed defense one level
+Upon activation ( requires an action ) , can form the splinters into one of the
+following:
+ - A forearm blade that functions as a normal sword that does 4 points of
+   damage; any tasks requiring the use of the users hands is hindered by one step
+ - A single long whip-like strand with the Reach & Entangle property, 6 points
+   of damage
+ - A cloud of 30 small metallic splinters that float in a cloud around your
+   arms. Adds 1 point of damage to any unarmed melee attacks, but damages any
+   items held within your hands every round.
 
-*** TODO bracer/shield for Belel
-*Time*: 
-*Cost:*
-*Parts:*
-*Output*:
+   As an action, can fire 5 splinters at any creature within short range to
+   inflict 5 points of damage that bypasses armor.
 
-- uses her powers to create a buckler shield
-*** TODO pair of bracer/gloves for Fox
-*Time*: 3 days
-*Cost:*
-*Parts:*
-*Output*: pair of bracers that provide 
+   By spending Might effort another 5 splinters can be fired for an additional 5
+   points of damage ( also bypassing armor ). You can expend effort to increase
+   the number of splinters up to a maximum of 30 splinters doing 30 points of
+   damage. All splinters are fired as a single action, so only one ranged attack
+   roll is required.
 
-- maybe should have a bonus for disarming opponents
+   Once fired, splinters must be retrieved by touching the body or central mass
+   of where the splinters hit. Unrecoverable splinters regenerate at a rate of 5/day.
+***** Notes
+Mex will have mentioned to Zeno that she thinks there may be alternate weapon
+forms that can be unlocked, the sword was apparently one of a larger "set" of
+weapons. Each weapon had a control crystal of some kind, Mex simply unlocked a
+little bit more of what the sword could do.
+
+*** DONE bracers for Ureos
+CLOSED: [2022-02-05 Sat 15:53]
+**** Jeweled Dancer's Bracers, Level 4
+A set of bracers, artfully carved with scenes of dancers & musicians. Set into
+the bracers are a number precious metals, with bits of wire, shiny metal
+baubles, & fragments of glass or crystals. As the user moves their arms, the
+bracers catch and reflect light in strange ways. The hanging bits can produce a
+rhythmic, almost drum-like sound if the user is skilled enough.
+
+These shiny bits can be used to great effect by someone dexterous & skilled
+enough. Meant to be worn by skilled dancers or storytellers as an aid to their
+craft. The various bits
+
+Can be activated ( requires an action ) to produce one of the following actions:
+ - attempt to stun all other creatures within immediate range with lights & sounds
+ - attempt to inspire one allied creature for the next turn, easing all tasks by
+   one step
+
+By spending a level of effort, you can choose one of the following additional
+effects:
+ - the range of the effect can be increased to short range
+ - the difficulty of the check to stun or inspire is decreased by one step
+
+By spending two levels of effort, you can get both additional effects.
+***** Notes
+Mex lets Ureos know that she thinks that some of the original pieces were lost
+over the years and replaced with inferior components. There may be pieces of
+lost technology she can use to improve the bracers; anything that deals with
+resonance or acoustics may have bits she can use to improve the bracers.
+
+*** DONE buckler shield for Klep
+CLOSED: [2022-02-05 Sat 15:53]
+
+**** Probabilistic Crystal Shield, Level 4
+A buckler shield seemingly made from a mostly clear crystal with milky strands
+of a strange mineral running through the crystal. When worn, looking through the
+crystal provides glimpses into possible futures.
+
+Provides 1 points of armor while worn, and eases Speed defense tasks by one step.
+
+Can be activated to produce one of the following effects, once per day:
+
+ - Create a flash of light that gifts a confusing sense of foresight to a
+   creature you choose within short range. All of that creatures attacks are
+   hindered, while all attacks against them are eased for two rounds as they try
+   to figure out which hazy image is their real attacker.
+ - Create a flash of light that gifts a gentle sense of foresight to a creature
+   you choose within short range. All of that creatures attacks are eased, while
+   all attacks against them are hindered for two rounds as the shield grants
+   them the ability to see a moment into the most likely future.
+ - Cause the shield to shine brightly on an object or creature, allowing you to
+   divine one thing about its future. You may ask a single yes-or-no question of
+   the GM who must answer truthfully; but it must be about something that
+   happens to that you could feasibly see from where you current stand. For
+   example, you can ask if a candle will get lit -- but you'll only know the
+   answer if the candle is lit before it's moved.
+***** Notes
+Mex tells Klep that she thinks there may be other crystals ( or whatever they
+actually are ) out there she could incorporate into the armor. She does mention
+that the crystals have something to do with the Vex, which she doesn't know much about.
+
+*** DONE bracer/shield for Belel
+CLOSED: [2022-02-05 Sat 15:53]
+**** Black Leather Bracers, Level 4
+A single bracer meant to be worn on the dominant arm.
+
+Can be activated ( requires an action ) to produce a buckler shield of smoke and
+darkness. This shield harnesses Belel's innate gifts, and so won't work for
+anyone else.
+
+The shadow buckler shield provides 1 points of armor, and eases Speed defense
+tasks by one.
+
+By expending a point of effort, you can increase the size of the shield from the
+size of a buckler shield to that of a kite shield, providing an additional point
+of armor.
+
+If you expend a further level of effort the shield becomes a wall of darkness
+with a surface area no greater than 50 square feet -- so a wall 10 feet wide and
+5 feet high ( or 5 feet wide and 10 feet high ) or anything you can imagine so
+long as it's no bigger than 50 sq ft.
+
+The fully expanded shield hinders any attempts to perceive what is on the other
+side ( regardless of what side you're on ). Attempting to pass through the
+shield wall produces a cold and empty feeling. The user of the bracer can choose
+to require an Intellect check for those attempting to pass through, on a failure
+they take 2 points of Intellect damage and fail to pass through the wall.
+
+The shield is attached to the bracer and can only be powered by
+Belel. Basically, if Belel moves the shield moves.
+
+***** Notes
+Mex tells Belel that she thinks that with the right pieces of tech she should be
+able to make it so the bracer can keep the shield "real" while being detached
+from the bracer, potentially allowing Belel to place the shield as a barricade,
+or use the buckler form as a ranged weapon.
+
+*** DONE pair of bracer/gloves for Fox
+CLOSED: [2022-02-05 Sat 15:55]
+**** Stone Bracers, Level 4
+A pair of bracers that ease all melee defense tasks by 1 step.
+
+Can be activated ( requires an action ) to provide the following benefits:
+
+ - Your arms from finger tips to mid-biceps turns into a stone-like
+   substance. It doesn't hinder your movement or dexterity at all, however it
+   does give you an additional 1 armor against melee attacks.
+ - While you have stone arms, your grip strength is increased dramatically,
+   easing any tasks requiring grip strength ( climbing, disarming opponents, etc
+   ) is eased by one
+ - You can spend a level of effort to increase the density of your arms, which
+   gives you 2 points of armor piercing for unarmed attacks
+
+However, for each hour that your arms are in stone form you lose a point of
+Might as the gauntlets work to try and prevent the stone form of your arms from
+becoming actual stone.
+***** Notes
+Mex tells Fox that with the right data & samples she might be able to tune the
+gauntlets to provide one of the following benefits:
+
+ - change the type of stone ( may add a damage bonus, or other features )
+ - reduce or eliminate the health drain
+
 * Tools to look into
+:PROPERTIES:
+:ID:       2e9752a8-1caa-4e63-b800-1de33b198e2e
+:END:
 - https://infinite-woodland-34884.herokuapp.com/
 - https://encounters.heromuster.com/
 - https://docs.google.com/spreadsheets/d/1CMIvdqooE-snXUROMPXSoW2gmRPxGrU1yDtcrrwQoM0/edit#gid=0

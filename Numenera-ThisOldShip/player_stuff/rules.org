@@ -29,10 +29,10 @@ and hammer out the details during game.
 ** Healing
 1. If you go down the damage track due to losing all the points in a pool,
    healing 1 or more points to an empty pool moves you back up the damage track
-   
+
 2. If you go down the damage track due to an attack that damages your PC in that
    fashion, only a recovery roll will move you back up the damage track
-   
+
 3. Cyphers and abilities that restore points to a pool will not move you back up
    the damage track ( unless covered by point 1 )
 
@@ -42,8 +42,18 @@ and hammer out the details during game.
 
 5. going up a level on the damage track is a level 4 or 6 difficulty task
    depending on if the character is impaired or debilitated
-   
+
 6. healing points in a pool is an intellect task with the difficulty equal to
    how many points they're trying to heal
-   
+** Weapon Modifiers
+*** Reach
+ - eases attacks vs opponents without reach
+ - hinders attacks vs opponents within immediate range
+*** Entangle
+May be used to inflict damage, or it may be used to stun a creature with a level
+of the weapon's damage or less (attack roll required every round to maintain
+effect, miss means the target gets free and may act normally). Higher level
+creatures may be entangled by using effort to increase 'damage', however to
+maintain the effect Effort must be spent every turn.
+
 * To Decide
