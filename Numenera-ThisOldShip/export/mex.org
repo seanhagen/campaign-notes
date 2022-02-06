@@ -1,0 +1,3 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+INCLUDE: "../player_stuff/mex-shop.org" :heading "Mex's Shop"

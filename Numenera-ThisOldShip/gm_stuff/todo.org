@@ -557,7 +557,7 @@ there should be a few things hidden in maka-tho that are dangerous if set loose,
 and there should be some powerful numenera hiding out there too
 ** TODO fill out the tavern with stuff
 - crib from here: https://thealexandrian.net/wordpress/37558/roleplaying-games/numenera-tavern
-* Stuff To Get Done [46%]
+* Stuff To Get Done [61%]
 ** DONE properly stat up gear
 CLOSED: [2022-02-05 Sat 15:12] DEADLINE: <2022-02-05 Sat>
 they've got the sword, mex is making arm blade, stat up what that will be
@@ -615,6 +615,7 @@ step, or protecting better against ranged/melee/esoteries/elements/etc
 
 ** TODO fill in the ship ruins
 also make some changes, use some of the jaqyaying the dungeon stuff
+
 ** DONE stat up the equipment mex is building [5/5]
 CLOSED: [2022-02-05 Sat 15:55] DEADLINE: <2022-02-05 Sat>
 *** DONE arm sword for Zeno
@@ -623,16 +624,6 @@ CLOSED: [2022-02-05 Sat 15:06]
 Two mods, one for each arm.
 
 Can be implanted within mechanical arms to provide the following benefits:
-
-Upon activation ( requires an action ) , can form the splinters into one of the
-following:
- - A forearm blade that functions as a normal sword that does 4 points of
-   damage; any tasks requiring the use of the users hands is hindered by one step
- - A single long whip-like strand with the Reach & Entangle property, 6 points
-   of damage
- - A cloud of 30 small metallic splinters that float in a cloud around your
-   arms. Adds 1 point of damage to any unarmed melee attacks, but damages any
-   items held within your hands every round.
 
    As an action, can fire 5 splinters at any creature within short range to
    inflict 5 points of damage that bypasses armor.
@@ -773,6 +764,17 @@ gauntlets to provide one of the following benefits:
 
  - change the type of stone ( may add a damage bonus, or other features )
  - reduce or eliminate the health drain
+
+** MONSTERS
+players have chosen that they're gonna be fighting [[file:scenarios/scenario-5.org::*an alchemical circle, broken in half][these]]
+*** deceit
+*** doubt
+*** hate
+*** vanity
+*** despair
+*** scorn
+*** anxiety
+*** absurdity
 
 * Tools to look into
 :PROPERTIES:

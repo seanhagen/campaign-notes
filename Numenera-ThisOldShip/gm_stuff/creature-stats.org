@@ -118,3 +118,5 @@ Interaction:
 
   If a single Goblin decides that combat is necessary, it will send a command
   signal causing all nearby Goblins to enter combat mode.
+
+* Vex Minotaur 5 (15)
