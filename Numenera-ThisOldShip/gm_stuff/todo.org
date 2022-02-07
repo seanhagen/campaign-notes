@@ -557,6 +557,7 @@ there should be a few things hidden in maka-tho that are dangerous if set loose,
 and there should be some powerful numenera hiding out there too
 ** TODO fill out the tavern with stuff
 - crib from here: https://thealexandrian.net/wordpress/37558/roleplaying-games/numenera-tavern
+
 * Stuff To Get Done [42%]
 ** DONE properly stat up gear
 CLOSED: [2022-02-05 Sat 15:12] DEADLINE: <2022-02-05 Sat>
@@ -615,46 +616,27 @@ step, or protecting better against ranged/melee/esoteries/elements/etc
 
 ** TODO fill in the ship ruins
 also make some changes, use some of the jaqyaying the dungeon stuff
-** TODO stat up the equipment mex is building [4/6]
-DEADLINE: <2021-12-05 Sun>
-- how long it'll take
-- changes made to parts
-- cost
-- other things
-*** TODO arm sword for Zeno
-*Time*: 2 weeks
-*Cost*: paid
-*Parts*:
-*Output*:
 
-Will take 2 weeks ( because she's using an artefact to build the thing )
-*** TODO bracers for Ureos
-*Time*: 2 days (light armor)
-*Cost:* paid
-*Parts:*
-*Output*:
+** DONE stat up the equipment mex is building [5/5]
+CLOSED: [2022-02-05 Sat 15:55] DEADLINE: <2022-02-05 Sat>
+*** DONE arm sword for Zeno
+CLOSED: [2022-02-05 Sat 15:06]
+**** Sword Arm Mods, Level 4
+Two mods, one for each arm.
 
-Upon activation ( requires an action ) , can form the splinters into one of the
-following:
- - A forearm blade that functions as a normal sword that does 4 points of
-   damage; any tasks requiring the use of the users hands is hindered by one step
- - A single long whip-like strand with the Reach & Entangle property, 6 points
-   of damage
- - A cloud of 30 small metallic splinters that float in a cloud around your
-   arms. Adds 1 point of damage to any unarmed melee attacks, but damages any
-   items held within your hands every round.
+Can be implanted within mechanical arms to provide the following benefits:
 
-   As an action, can fire 5 splinters at any creature within short range to
-   inflict 5 points of damage that bypasses armor.
+As an action, can fire 5 splinters at any creature within short range to
+inflict 5 points of damage that bypasses armor.
 
-   By spending Might effort another 5 splinters can be fired for an additional 5
-   points of damage ( also bypassing armor ). You can expend effort to increase
-   the number of splinters up to a maximum of 30 splinters doing 30 points of
-   damage. All splinters are fired as a single action, so only one ranged attack
-   roll is required.
+By spending Might effort another 5 splinters can be fired for an additional 5
+points of damage ( also bypassing armor ). You can expend effort to increase
+the number of splinters up to a maximum of 30 splinters doing 30 points of
+damage. All splinters are fired as a single action, so only one ranged attack
+roll is required.
 
-   Once fired, splinters must be retrieved by touching the body or central mass
-   of where the splinters hit. Unrecoverable splinters regenerate at a rate of 5/day.
+Once fired, splinters must be retrieved by touching the body or central mass
+of where the splinters hit. Unrecoverable splinters regenerate at a rate of 5/day.
 ***** Notes
 Mex will have mentioned to Zeno that she thinks there may be alternate weapon
 forms that can be unlocked, the sword was apparently one of a larger "set" of
