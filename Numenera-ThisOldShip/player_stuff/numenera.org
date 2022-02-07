@@ -1,5 +1,6 @@
 #+EXCLUDE_TAGS: noexport
 Reference list for cyphers, artifacts, and anything that Mex can build.
+
 * Numenera
 ** Cyphers
 *** Explosive Implant
@@ -25,6 +26,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  For 10 minutes, metal objects cannot come within immediate range of the
  activated device. Metal items already in the area when the device is activated
  are slowly pushed out.
+*** Cable Projector
 ** Artifacts
 *** Automated Bath
  *Level*: 1d6
@@ -423,7 +425,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  hour before it becomes operational again.
 
  *Depletion*: 1 in 1d20 (check per day of use)
-*** Chainpod
+*** Chainpod                                                       :noexport:
  *Minimum Crafting Level*: 4   *Kind*: Vehicle
 
  *Iotum*: Io (1d6 units); responsive synth (8 units); pliable metal (1 unit);
@@ -537,7 +539,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  successfully grow plants within that area.
 
  *Depletion*: 1 in 1d20 (check per growing season)
-*** Buildnought
+*** Buildnought                                                    :noexport:
  *Minimum Crafting Level*: 9
 
  *Kind*: Automaton
@@ -565,7 +567,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  small armies of extractors, which it sends out to salvage from nearby ruins.
 
  *Depletion*: 1 in 1d100 (check per century of building)
-*** Lifting Aventron
+*** Lifting Aventron                                               :noexport:
  *Minimum Crafting Level*: 3  *Kind*: Automaton
 
  *Iotum*: Io (1d6 units); responsive synth (12 units); apt clay (3 units); pliable
@@ -582,7 +584,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  and so on.
 
  *Depletion*: 1 in 1d20 (check per year of use)
-*** Mech Soldier, Basic
+*** Mech Soldier, Basic                                            :noexport:
  *Minimum Crafting Level*: 4  *Kind*: Automaton
 
  *Iotum*: Io (1d6 units); responsive synth (19 units); apt clay (4 units); pliable
@@ -603,7 +605,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  them until the targets flee or are eliminated.
 
  *Depletion*: 1 in 1d20 (check once after any hour that the mech attacks)
-*** Storyteller
+*** Storyteller                                                    :noexport:
  *Minimum Crafting Level*: 4 *Kind*: Automaton
 
  *Iotum*: Io (1d6 units); responsive synth (23 units); apt clay (4 units); pliable

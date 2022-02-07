@@ -1,4 +1,4 @@
-* Articles To Read [8/82]
+* Articles To Read [8/95]
 - [X] https://thealexandrian.net/wordpress/43899/roleplaying-games/thinking-about-wilderness-travel
 - [X] https://thealexandrian.net/wordpress/36473/roleplaying-games/thinking-about-urbancrawls
 - [X] https://thealexandrian.net/wordpress/45878/roleplaying-games/game-structure-sector-crawl
@@ -81,6 +81,19 @@
 - [ ] https://d20.rs/information-clues-secrets
 - [ ] https://thealexandrian.net/wordpress/7897/roleplaying-games/breathing-life-into-the-wandering-monster
 - [ ] https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing
+- [ ] https://www.reddit.com/r/numenera/comments/poo4dq/cheat_sheet_for_discovery_destiny/
+- [ ] https://www.reddit.com/r/numenera/comments/qnt4t3/are_there_any_video_games_that_use_the_pool_edge/
+- [ ] https://www.reddit.com/r/numenera/comments/qlqao5/character_with_bombs_and_explosives/
+- [ ] https://www.reddit.com/r/numenera/comments/qj86gh/28_numenera_items_15/
+- [ ] https://www.reddit.com/r/numenera/comments/qjd137/how_feasible_is_it_to_run_a_game_just_using_pdfs/
+- [ ] https://www.reddit.com/r/numenera/comments/qixmpd/character_advancement_jacks_and_esoteries/
+- [ ] https://www.reddit.com/r/numenera/comments/qid1z3/starting_with_the_1st_edition_book_and_taking/
+- [ ] https://www.reddit.com/r/numenera/comments/qc7irp/alternatives_to_xp_with_gm_intrusions/
+- [ ] https://www.reddit.com/r/numenera/comments/qbkkfy/npc_movement/
+- [ ] https://www.reddit.com/r/numenera/comments/qah28t/infinite_construct/
+- [ ] https://www.reddit.com/r/numenera/comments/qa6n7o/im_having_trouble_suspending_disbelief_in_my/
+- [ ] https://www.reddit.com/r/numenera/comments/q691jm/looking_for_appropriately_weird_puzzles_or/
+- [ ] https://www.reddit.com/r/HexCrawl/comments/aapix1/great_post_from_urealjessemartin/
 * Notes
 ** Thinking About Wilderness Travel
 [[https://thealexandrian.net/wordpress/43899/roleplaying-games/thinking-about-wilderness-travel][page]]

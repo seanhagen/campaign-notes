@@ -5,7 +5,7 @@ are three doors in this chamber, but two are filled with rubble from collapsed c
 The only exit from the entrance chamber leads to a corridor that comes to
 an X intersection after about 10 feet or so.
 *** relic chamber
-After passing through a corridor about 300 feet long, you find yourselves in a
+After passing through a corridor about 200 feet long, you find yourselves in a
 massive chamber. From what you can tell, it appears to be hexagonal.
 
 At least 100 feet across, you are unable to determine the length or true shape
@@ -14,7 +14,7 @@ of the chamber for several reasons:
 1) Most of the chamber is shrouded in darkness. You don't feel or sense any
    threat or danger from the darkness, it seems to be simply a case of "let's
    find the light switch".
-2) A shimmering veil of energy prevents you from going more than 50 feet into
+2) A shimmering veil of energy prevents you from going more than 20 feet into
    the chamber, and the nature of the veil makes it harder to ascertain what's
    in the chamber.
 3) The one thing you are able to make out quite clearly though, is the airship
@@ -26,8 +26,7 @@ and you estimate that it's at least 180 feet long -- although the back half is
 shrouded by darkness, making it hard to accurately determine the dimensions of
 the vessel.
 
-A plinth stands before the wall of energy. There seem to be a number of controls
-on the top of the plinth.
+A plinth stands before the wall of energy. 
 
 **** gm notes
 the ship AI has to let them in, but can't until the players have repaired a few
@@ -43,8 +42,11 @@ need:
 - 1x from dead forest ruin
 
 **** plinth
+Has 7 slots that look like objects can fit into.
 
-*** chamber 1
+No buttons, but has a panel on the back that looks like it was forced open.
+
+*** chamber 1                                          :scavenged:explored:
 After travelling down a long corridor that makes strange 90 degree turns (you're
 pretty sure you should have passed back through the same corridor at some point,
 at least once), you emerge into the next chamber.
@@ -120,13 +122,16 @@ upon examining the dirt, they should get a datasphere infodump that lays out the
 properties of "dirt"
 
 **** exits
-***** corridor B
+***** corridor B                                     :scavenged:explored:
 A passage that runs for about 50 feet, slowly bending to the right until you've
 made a 90 degree turn.
 
 The walls are made from the same bronze material.
 
-***** chamber 7
+The room is mostly empty, there are some large blocks that seem to processing
+nodes of some kind.
+
+***** chamber 7                                      :scavenged:explored:
 A rectangular chamber that's 30 feet across and 40 feet long. You enter along
 one of the short sides. There appears to be no ceiling here, the walls stretch
 up for quite a distance. A strange hazing or lensing effect makes determining
@@ -218,7 +223,12 @@ It's a level 3 might task to go to the bottom without slipping, while a level 5
 intellect task allows the PC to figure out how to "steer".
 
 **** exits along the side of the shaft
-***** chamber 8                                                :explored:
+top to bottom:
+- fuzzy
+- green cloak sleeping
+- force field
+  
+***** chamber 8  (green cloaks)                                :explored:
 A rectangular chamber 30 feet across and 60 feet long.
 
 The longer walls are covered in racks and shelves that contain thousands of
@@ -295,7 +305,7 @@ Round of combat: 4
     of amber)
   - a remote sensorium, level 3 (tech compendium, pg 85)
 
-***** chamber 11
+***** chamber 11 (fuzzy)                                       :explored:
 A circular chamber with a 30 foot diameter.
 
 The walls and ceiling of the chamber is covered by a thick mat of some kind of
@@ -387,7 +397,7 @@ attacking whoever set off the trap.
 
 If captured, the target is taken to Chamber 7
 
-******* chamber 13
+******* chamber 13                                           :explored:
 A hexagonal chamber, where each wall is 10 feet long, creating a chamber 20 feet
 wide at the widest point. The walls are all a soft white, and glow a soft cold
 white light.
@@ -431,7 +441,7 @@ the wall. the characters also feel like what they're seeing is something that
 has either escaped, is trying to escape, or will escape)
 
 ********* box d
-********** a rough v, holding a diamond with three spires, with four holes also in the shape of diamons
+********** a rough v, holding a diamond with three spires, with four holes also in the shape of diamonds :seen:
 [[https://www.destinypedia.com/images/thumb/b/b3/TTK_logo.png/200px-TTK_logo.png][hive logo]]
 
 a scuttling humanoid creature with no eyes and a maw filled with sharp fangs,
@@ -441,18 +451,17 @@ skulls. behind the creature is a mass of writhing, rotted, flesh; your vision
 pulls back to reveal the mass is in fact the bodies of seven great worm-like
 creatures, each of which exudes a dark energy.
 
-attached to this image are the words "hive", "darkness", "lying worm", "worm of
-truth"
+attached to this image are the words "hive", "darkness", "xol", "worm of
+lies"
 
-********** a triangle, with another triangle within but flipped, repeating infintitely
-
+********** a triangle, with another triangle within but flipped, repeating infinitely :seen:
 a milky white liquid infiltrating the body of a humanoid automaton with a single
 glowing eye and a circular fringe on its head. the liquid seems to be alive, the
 automaton a suit of armor.
 
 attached to this image are the words "vex", "timelost", "black garden", "simulation"  
 
-********** a chevron with a diamon beneath and a word you can't decypher
+********** a chevron with a diamond beneath and a word you can't decypher :seen:
 a horde of scuttling robots. a triangular head, perched upon four legs that end
 in wicked looking spikes. at the rear of the head is a prehensile tail-like
 appendage that ends in a three-fingered claw.
@@ -471,7 +480,7 @@ you hear the words "faro", "metal devil", "corrupter", "deathbringer", and
 "last dawn"
 
 ********* box c
-********** a circle, held in two pincers
+********** a circle, held in two pincers                      :seen:
 [[https://static.wikia.nocookie.net/halo/images/f/f6/Marathon_Logo.svg/revision/latest?cb=20210130084114][reclaimer symbol]]
 
 the image of hallways built on a massive scale, the walls
@@ -479,7 +488,7 @@ covered in canisters containing a fine yellowish powder, a technology that
 harnesses a solid form of light, and a humanoid figure trapped in a giant orb.
 
 the only word that accompanies this set of images is "silentium"
-********** an alchemical circle, broken in half
+********** an alchemical circle, broken in half               :seen:
 [[https://www.artstation.com/midnight-98][these things]]
 
 from across a great chamber, you see a finely crafted white box. it sits upon
@@ -503,25 +512,10 @@ absurdity.
 the box lid is gone.
 
 the box is empty.
-********** a half skull, half cog
-  
-a figure in a red cloak. the cloak doesn't cover the parasite-like backpack worn
-by the figure, which has a number of rusted and oily mechanical arms built from
-brass and cast iron. from beneath its hood you can barely make out the face --
-the barest details of a human face. its mouth is a grill that transforms the
-face into that of a leering skull. the eyes are mechanical compound eyes, like
-those of a fly.
-
-you see a dingy operating theatre, where a live and concious human is strapped
-into an operating table. the vision judders, jumping forwards in time. the human
-is now part machine, and the spark of a soul has left their eyes.
-
-attached to these images are the words "tech priest", "servitor", "omnissiah"
 
 ******** corpse
-
 Upon closer inspection, it reveals itself to definitely not be human,
-but a creature about two feet taller than yourselves. What you first took to be
+but a creature about three feet taller than yourselves. What you first took to be
 armor is actually a bony exoskeleton, making it hard to tell where the flesh of
 the creature begins and ends. The legs of the creature seem almost withered, and
 is surrounded by the tattered remains of a cloak; you realize that the cloak is
@@ -561,7 +555,7 @@ repetition.
 A section of the mural shows a door set into a mountainside. Placing the glowing
 crystal into box A causes the door to grow and open up into an actual door.
 
-********** chamber 14
+********** chamber 14                                     :explored:
 A circular chamber with a radius of about 15 feet.
 
 A device is built into a section of the wall opposite the door you come in. 
@@ -668,7 +662,7 @@ The cypher they saw is defunct, but if they search they can find:
  - A small device, appears to be made of coral. Squeezing it causes it to
    extrude a key made of silver wires and hard light. This is the key for sealed
    exit A
-***** sealed exit C
+***** sealed exit C (force field)
 A force field blocks passage through this door. There is a panel next to the
 door with 9 symbols you don't recognize. A level 5 intellect task disables the
 force field, allowing you access to the chamber beyond.

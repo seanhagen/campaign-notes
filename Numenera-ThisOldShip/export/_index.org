@@ -1,0 +1,8 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+* Numenera Campaign Resources
+All the stuff I'm too lazy to try and put into World Anvil.
+
+** Mex's Store
+What resources she's got in stock, build times, what she can build, etc, all [[file:./mex.org][here]]
+

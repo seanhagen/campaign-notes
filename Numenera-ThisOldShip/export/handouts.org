@@ -1,0 +1,3 @@
+Handouts for the players, stuff like notes, images, etc.
+
+#+INCLUDE: "../player_stuff/handouts.org" :heading "Handouts"

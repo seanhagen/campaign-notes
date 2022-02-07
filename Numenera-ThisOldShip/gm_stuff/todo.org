@@ -557,7 +557,7 @@ there should be a few things hidden in maka-tho that are dangerous if set loose,
 and there should be some powerful numenera hiding out there too
 ** TODO fill out the tavern with stuff
 - crib from here: https://thealexandrian.net/wordpress/37558/roleplaying-games/numenera-tavern
-* Stuff To Get Done [46%]
+* Stuff To Get Done [42%]
 ** DONE properly stat up gear
 CLOSED: [2022-02-05 Sat 15:12] DEADLINE: <2022-02-05 Sat>
 they've got the sword, mex is making arm blade, stat up what that will be
@@ -615,14 +615,24 @@ step, or protecting better against ranged/melee/esoteries/elements/etc
 
 ** TODO fill in the ship ruins
 also make some changes, use some of the jaqyaying the dungeon stuff
-** DONE stat up the equipment mex is building [5/5]
-CLOSED: [2022-02-05 Sat 15:55] DEADLINE: <2022-02-05 Sat>
-*** DONE arm sword for Zeno
-CLOSED: [2022-02-05 Sat 15:06]
-**** Sword Arm Mods, Level 4
-Two mods, one for each arm.
+** TODO stat up the equipment mex is building [4/6]
+DEADLINE: <2021-12-05 Sun>
+- how long it'll take
+- changes made to parts
+- cost
+- other things
+*** TODO arm sword for Zeno
+*Time*: 2 weeks
+*Cost*: paid
+*Parts*:
+*Output*:
 
-Can be implanted within mechanical arms to provide the following benefits:
+Will take 2 weeks ( because she's using an artefact to build the thing )
+*** TODO bracers for Ureos
+*Time*: 2 days (light armor)
+*Cost:* paid
+*Parts:*
+*Output*:
 
 Upon activation ( requires an action ) , can form the splinters into one of the
 following:
