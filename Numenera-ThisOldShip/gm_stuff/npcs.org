@@ -1,16 +1,18 @@
 #+TAGS: friend ally neutral indifferent hostile
 * NPCs
-** Ibakha Togh (Level: 6)                                          :neutral:
+** Captain Ibakha Togh (Level: 6)                                  :neutral:
 #+BEGIN_QUOTE
 I'm willing to hear them out, but keep your sword sharp.
 #+END_QUOTE
 
+*Aligned With*: Voz Dynasty
 *Roleplaying*
 | Thing              | Physical Action                                                                              |
 |--------------------+----------------------------------------------------------------------------------------------|
 | physical mannerism | moves like a dancer, always on the balls of her feet                                         |
 | mode of speech     | brusque, short and to the point                                                              |
 | personality        | an extremely well-hidden core of kindness and warmth hidden beneath layers of steel and iron |
+
 *** Image
 [[file:./assets/ibakha.jpg]]
 *** Key Info
@@ -39,6 +41,32 @@ Has never before left her homeland; she didn't fight in the wars because she was
 too young at the time. The trained harder than any in her class though, and has
 a need to prove that she's not just another royal brat.
 
+Arrived back in Maka Tho with ~10 people.
+
+*** TODO Stat Block
+** Duke Shale Feleke Tegene (Level: 6)                            :neutral:
+#+BEGIN_QUOTE
+#+END_QUOTE
+
+*Aligned With*: Sable Hegemony
+*Roleplaying*
+ - pm: economy of movement
+ - mode of speech: flowery
+ - personality: hides behind big words
+
+*** Image
+[[file:./assets/duke shale.jpg]]
+
+*** TODO Key Info
+ - not really all that bright
+ - mostly gets good ideas from underlings
+   
+*** TODO Appearance
+
+*** Notes
+ - Fox has made it very clear he's not welcome
+ - A lot more subdued after the incident with Zeno
+
 *** TODO Stat Block
 
 ** Savu Athuin (Level: 6)                                         :friendly:
@@ -47,26 +75,27 @@ Well now dearie, you don't get to know everything.
 #+END_QUOTE
 
 *Roleplaying*
-| Thing | Physical Action |
-|-------+-----------------|
-| physical mannerism | greets people by patting them on the cheek, grandma style |
-| mode of speech | slow and a bit reedy |
-| personality | chipper but spaced out |
+| Thing              | Physical Action                                           |
+|--------------------+-----------------------------------------------------------|
+| physical mannerism | greets people by patting them on the cheek, grandma style | 
+| mode of speech     | slow and a bit reedy                                      |
+| personality        | chipper but spaced out                                    |
 
   a few brief bullet points. should have one simple, physical action to perform
   while playing the npc. *avoid repetition* by having each point describe a
   completely distinct classification of thing: values, physical mannerism, way
   of speaking, personality, etc.
-
-**** Key Info
+  
+*** Image
+*** Key Info
  - knows about the dark creatures
 
-**** Appearance
+*** Appearance
  An old lady wearing simple travellers robes. Her silvered hair is bound up in a
  complex ponytail that reaches to her mid-back. She tends to hunch over her
  cane.
 
-**** Background
+*** Background
   This is what's left of Savathun after ~1 billion years. As far as she knows
   she's the *only Hive left*, the only one still alive anywhere in the
   universe. The pyramid ships and the Traveller are long since dust.
@@ -76,7 +105,8 @@ Well now dearie, you don't get to know everything.
   honestly mostly just looking for company at this point. Everything she knew
   turned out to be false, including what the Light would do for her.
 
-**** Stat Block
+*** TODO Stat Block
+
 ** Mex (Level: 6)                                                     :ally:
 #+BEGIN_QUOTE
 Aww shucks, well I'm sure I can whip something up for ya!
@@ -92,24 +122,24 @@ Aww shucks, well I'm sure I can whip something up for ya!
   completely distinct classification of thing: values, physical mannerism, way
   of speaking, personality, etc.
 
-*Key Info*
+*** Key Info
   essential interaction or info pcs should get from this npc. can have multiple
   key info sections, one for each 'type' of info (ie, an npc in a mystery game
   at a party might have 'clues' and 'topics of conversation' as key info
   sections ).
 
-**** Appearance
+*** Appearance
  A stocky blonde woman of average height. Tends to have arms uncovered, which
  are covered in blue/black geometric tattoos. There's always an aroma of the
  forge around her.
 
-**** TODO Background
+*** TODO Background
   a short narrative that covers essential context and interesting
   anecdotes. something that will influence how they make decisions, or something
   they'll use as context to explain stuff. use *bold* text to call out important
   features.
 
-**** TODO Stat Block
+*** TODO Stat Block
 ** <name> :ally:enemy:neutral:hostile:
 #+BEGIN_QUOTE
 <quote>
@@ -137,8 +167,7 @@ Aww shucks, well I'm sure I can whip something up for ya!
 
 *** Stat Block
 * Bad Guys
-deceit, doubt, hate, vanity, despair, scorn, anxiety, and absurdity
-** Deceit
+** Deceit 
 *** Image
 #+ATTR_ORG: :width 400px
 [[file:./assets/deceit.jpg]
