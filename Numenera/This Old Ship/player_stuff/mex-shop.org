@@ -1,23 +1,13 @@
 * Mex's Shop
 All about Mex's shop!
 
-** Build Order
-| Thing          | For   | Time Left |
-|----------------+-------+-----------|
-| Buckler        | Klep  | 2 days    |
-| Bracers        | Ureos | 2 days    |
-| Bracer/Gloves  | Fox   | 3 days    |
-| Bracer/Shield  | Belel | 8 days    |
-| Arm Sword      | Zeno  | 2 weeks   |
-| Automated Bath | Fox   | 4 days    |
-
 ** Resources
 This is the list of what Mex has on hand to build things with.
 
 Iotum
-
 | Name             | Level | Salvage amount | Amount |
-| Io               |     1 |            1d6 |    358 |
+|------------------+-------+----------------+--------|
+| Io               |     1 |            1d6 |    358 | 
 | Responsive synth |     2 |            1d6 |    101 |
 | Apt clay         |     3 |            1d6 |     50 |
 | Bio-circuitry    |     4 |            1d6 |     28 |
@@ -27,7 +17,7 @@ Iotum
 | Mimetic gel      |     5 |            1d6 |      5 |
 | Quantium         |     5 |            1d6 |      8 |
 | Amber crystal    |     6 |            1d6 |     73 |
-| Protomatter†     |     6 |              1 |      0 |
+| Protomatter †    |     6 |              1 |      0 |
 | Thaum dust       |     6 |            1d6 |      0 |
 | Smart tissue     |     7 |            1d6 |      0 |
 | Psiranium        |     7 |              2 |      0 |
@@ -35,7 +25,7 @@ Iotum
 | Monopole         |     7 |              2 |     32 |
 | Midnight stone   |     8 |              2 |      0 |
 | Oraculum         |     8 |              1 |      0 |
-| Virtuon particle |     8 |              1 |      0 |
+| Virtuon particle |     8 |              1 |      0 | 
 | Tamed iron       |     9 |              1 |      2 |
 | Philosophine     |     9 |              1 |      1 |
 | Data Orb         |     9 |              1 |      0 |
@@ -70,7 +60,6 @@ cyphers. Installations & automatons list the required iotum & units of parts in
 each plan, so they're not listed here.
 
 *** Artifacts
-
 *Specifications*: When a crafter has a plan for a specific artifact, they can try
 to craft it at that artifact’s minimum crafting level or higher. Use this
 template to determine the iotum requirements based on the level of the completed
@@ -87,15 +76,14 @@ effect produced.
 |     2 | Io (1d6 units); responsive synth (12 units); synthsteel (2 units)                                                                                                                                     |
 |     3 | Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units)                                                                                                            |
 |     4 | Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units); amber crystal (1 unit)                                                                                    |
-|     5 | Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units); amber crystal (4 units)                                                                                   |
+|     5 | Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units); amber crystal (4 units)                                                                                   | 
 |     6 | Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units)                                                             |
-|     7 | Io (1d6 units); responsive synth (12 units);  (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit)                                                    |
-|     8 | Io (1d6 units); responsive synth (23 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit); tamed iron (1 unit)                     |
+|     7 | Io (1d6 units); responsive synth (12 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit)                                          |
+|     8 | Io (1d6 units); responsive synth (23 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit); tamed iron (1 unit)                     | 
 |     9 | Io (1d6 units); responsive synth (32 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit); tamed iron (2 units)                    |
 |    10 | Io (1d6 units); responsive synth (32 units); synthsteel (4 units); pliable metal (2 units); amber crystal (2 units); thaum dust (2 units); kaon dot (1 unit); tamed iron (2 units); data orb (1 unit) |
 
 *** Cyphers
-
 *Specifications*: This plan is a template. When a crafter has a plan for a
 specific cypher, they can try to craft it at that cypher’s minimum crafting
 level or higher. Use this template to determine the iotum requirements based on
@@ -147,11 +135,7 @@ the task and using up the materials without producing anything.
 | Garden Mech           | Automaton    |     2 | 4 days     |
 | Hover Frame           | Vehicle      |     2 | 5 days     |
 
-<<<<<<< HEAD
 *** Artifacts
-=======
-*** Artifacts
->>>>>>> 467aee70c3a66ababc7afda8a83fe188d68f20a8
 | Name           | Level | Build Time |
 |----------------+-------+------------|
 | [[*Automated Bath][Automated Bath]] |     2 | 4 days     |
@@ -199,12 +183,13 @@ the task and using up the materials without producing anything.
 *** Utility Objects
 | Object           | Level | Materials                 | Specifications                                           |
 | Short ladder     |     1 | 3 units                   | 6 feet (2 m) tall                                        |
-| Wheelbarrow      |     1 | 4 units (parts: 2 units)  | Eases task for transporting heavy objects                |
+| Wheelbarrow      |     1 | 4 units (parts: 2 units)  | Eases task for transporting heavy objects                | 
 | Tall ladder      |     2 | 6 units                   | 15 feet (5 m) tall                                       |
 | Crafting tools   |     3 | 15 units                  | Enable tasks to craft commonplace objects and structures |
 | Extension ladder |     3 | 12 units (parts: 2 units) | 30 feet (9 m)                                            |
 *** Civic Structures
 | Structure             | Level | Materials                  | Specifications                                                                                                                                                                                                 |
+|-----------------------+-------+----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hut                   |     1 | 5 units                    | Single small room an immediate distance across                                                                                                                                                                 |
 | Pier                  |     2 | 12 units                   | Basic wood platform extending from shore into a body of water; eases tasks related to mooring; loading; and unloading water craft by two steps                                                                 |
 | Residence; cottage    |     2 | 15 units                   | Two main rooms each about 15 feet (5 m) on a side with only one or two small window openings                                                                                                                   |
@@ -231,6 +216,7 @@ the task and using up the materials without producing anything.
 *** Commonplace Armor
 Light Armor
 | (1 point of Armor) | Level | Materials                           | Specifications | Build Time |
+|--------------------+-------+-------------------------------------+----------------+------------|
 | Hides and furs     |     2 | 3 units                             | As light armor | 1 hour     |
 | Leather jerkin     |     3 | 4 units                             | As light armor | 1 day      |
 | Armoring cloth     |     4 | 2 units (responsive synth: 2 units) | As light armor | 2 days     |
@@ -238,6 +224,7 @@ Light Armor
 
 Medium Armor
 | (2 points of Armor) | Level | Materials                       | Specifications  | Build Time |
+|---------------------+-------+---------------------------------+-----------------+------------|
 | Beastskin           |     3 | 4 units                         | As medium armor | 1 day      |
 | Brigandine          |     4 | 5 units                         | As medium armor | 2 days     |
 | Chainmail hauberk   |     4 | 6 units                         | As medium armor | 2 days     |
@@ -246,12 +233,15 @@ Medium Armor
 
 Heavy Armor
 | (3 points of Armor)      | Level | Materials                           | Specifications | Build Time |
+|--------------------------+-------+-------------------------------------+----------------+------------|
 | Plate armor              |     4 | 8 units                             | As heavy armor | 2 days     |
 | Scale armor              |     4 | 7 units                             | As heavy armor | 2 days     |
 | Self-fitting plate armor |     5 | 6 units (responsive synth: 4 units) | As heavy armor | 1 week     |
+
 *** Commonplace Weapons
 Light Weapons
 | (2 points of damage)   | Level | Materials                | Specifications                                             | Build Time |
+|------------------------+-------+--------------------------+------------------------------------------------------------+------------|
 | Blowgun                |     2 | 2 units                  | Short range                                                | 1 hour     |
 | Blowgun darts (12)     |     2 | 3 units                  | —                                                          | 1 hour     |
 | Buzzer                 |     3 | 4 units (parts: 1 unit)  | See Weapon Notes in Numenera Discovery                     | 1 day      |
@@ -270,6 +260,7 @@ Light Weapons
 
 Medium Weapons
 | (4 points of damage)       | Level | Materials                | Specifications                                              | Build Time |
+|----------------------------+-------+--------------------------+-------------------------------------------------------------+------------|
 | Flail                      |     3 | 3 units                  | Hand-to-hand medium weapon                                  | 1 day      |
 | Hammer                     |     3 | 2 units                  | Hand-to-hand medium weapon                                  | 1 day      |
 | Javelin                    |     3 | 1 unit                   | Long range                                                  | 1 day      |
@@ -287,15 +278,14 @@ Medium Weapons
 
 Heavy Weapons
 | (6 points of damage) | Level | Materials               | Specifications               | Build Time |
+|----------------------+-------+-------------------------+------------------------------+------------|
 | Maul                 |     3 | 2 units                 | Hand-to-hand heavy weapon    | 1 day      |
 | Greataxe             |     4 | 4 units                 | Hand-to-hand heavy weapon    | 2 days     |
 | Greatsword           |     4 | 4 units                 | Hand-to-hand heavy weapon    | 2 days     |
 | Heavy crossbow       |     4 | 4 units (parts: 1 unit) | Long range; action to reload | 2 days     |
 | Heavy crossbow bolts |     4 | 2 units                 | —                            | 2 days     |
 | Sword-staff          |     4 | 4 units                 | Hand-to-hand heavy weapon    | 2 days     |
-<<<<<<< HEAD
-=======
-=
+
 *** Structures & Objects
 | Structure                  | Type                | Level | Build Time | Materials                           | Specifications                                                                                                                                                                                                 |
 |----------------------------+---------------------+-------+------------+-------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -387,7 +377,6 @@ Heavy Weapons
 | Heavy crossbow             | Heavy Weapons       |     4 | 2 days     | 4 units (parts: 1 unit)             | Long range; action to reload                                                                                                                                                                                   |
 | Heavy crossbow bolts       | Heavy Weapons       |     4 | 2 days     | 2 units                             | —                                                                                                                                                                                                              |
 | Sword-staff                | Heavy Weapons       |     4 | 2 days     | 4 units                             | Hand-to-hand heavy weapon                                                                                                                                                                                      |
->>>>>>> 467aee70c3a66ababc7afda8a83fe188d68f20a8
 
 ** Partial Plans
 Mex has partial plans for these numenera & structures. More plans seeds must be
@@ -402,7 +391,7 @@ what level or how long it'll take, she needs the full plan to figure that out.
 | Instant Refuge        |                        | Farspeaking Pylon          |             | Storyteller         |
 |                       |                        | Force Dome                 |             |                     |
 |                       |                        | Rain Caller                |             |                     |
-|                       |                        | Temporal Chime             |             |                     |
+|                       |                        | Temporal Chime             |             |                     | 
 |                       |                        | Turret,Basic               |             |                     |
 |                       |                        | Water Purification Station |             |                     |
 

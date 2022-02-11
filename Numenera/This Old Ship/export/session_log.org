@@ -1,7 +1,8 @@
+* Session Log
 Notes from each session.
 
-* Session 1 - 2021-10-17
-** Session Notes
+** Session 1 - 2021-10-17
+*** Session Notes
 Characters have all been in town for a few weeks.
 
  - they go talk to pamki first
@@ -23,12 +24,12 @@ Characters have all been in town for a few weeks.
  - they hide the dead sniper
  - head back to town with the six remaining bandits
 
-** Rulings
+*** Rulings
  - going up a level on the damage track is a level 4/6 difficulty task depending
    on if the character is impaired or debilitated
  - healing points in a pool is an intellect task with the difficulty equal to
    how many points they're trying to heal
-** Other Notes
+*** Other Notes
  - maps will be symbolic on world anvil instead of using hex paper, players won't
    be doing cartography of the area
  - determine what the bandits had on them that the party takes
@@ -38,8 +39,8 @@ Characters have all been in town for a few weeks.
    sell rarer stuff will barter ( or take a LOT of shins, like more than the
    item is really worth )
  
-* Session 2 - 2021-11-07
-** Session Notes
+** Session 2 - 2021-11-07
+*** Session Notes
 Party is on their way back to Ararholm with their captives.
 
  - takes them about 35 minutes to get back to town
@@ -71,7 +72,7 @@ Party is on their way back to Ararholm with their captives.
  - zeno pushes klep out of the way, and stands between the bandit leader and klep
  - session ends...
 
-** For Next Session
+*** For Next Session
  - figure out the properties of Ukrurg's sword for Fox
  - stat up the two green cloaks a bit more
  - get list of personality traits, quirks, and other things for each of the PCs
@@ -86,9 +87,9 @@ Party is on their way back to Ararholm with their captives.
    determine what a cypher or artefact is
  - how many times can they try to identify a numenera per hour/day/etc
 
-* Session 3 - 2021-11-21
+** Session 3 - 2021-11-21
 
-** Session Notes
+*** Session Notes
 Party is still in combat with Ukrurg
  - some of the bandits attempt to leave
  - zeno realizes that the bandit armor is bad (survior's intuition)
@@ -116,7 +117,7 @@ Party is still in combat with Ukrurg
  - zeno and belel go star gazing, have a conversation about zeno finding out
    their arms come off
 
-** For Next Session
+*** For Next Session
  - battle map for tracking ranges, positioning, etc
  - figure out what plans mex has access to
  - ager's ship mark that sheriff knows
@@ -134,10 +135,10 @@ Party is still in combat with Ukrurg
 Character notes:
  - ager is a practical joker, used codes mostly to bother fox & pamki
 
-* Session 4 - 2021-12-05
+** Session 4 - 2021-12-05
 In-game: 2 Reaping 834
 
-** Session Notes
+*** Session Notes
 - mex told the party how long it'll take for each of their things
 - heading back to the ruins, travelling at a easy pace, arrive mid-morning
 - while travelling ureos sees the haunted bridge, klep sees the choosing lord
@@ -155,6 +156,38 @@ In-game: 2 Reaping 834
 - belel puts rapier in, 9 day charge
 - the concepts & emotions ( the box ) is the one they want to face
   
-** For Next Session
+*** For Next Session
 - symbol sherrif told them to look out for?
+  
+** Session 5 - 2022-02-06
+In-game: 3 months later
+
+*** Session Notes
+ - handed out weapons
+ - zeno found ibakha & brought her and her party back town
+ - ureos has been helping out in town, aiding savu with teaching kids, been
+   hanging out more in the adventurer camp
+ - duke really likes ureos ( because ureos performed something that was actually
+   pretty insulting but the duke wasn't smart enough to realize it )
+ - adventurers camp has grown, starting to become more part of ararholm proper
+   -- "The Circle" is the fire circle where folks gather at night
+ - klep helped build the distilery/filter machine that cleans the water
+ - klep has been learning how to be better at human interaction
+ - klep is pretty much the person the duke always goes to to get stuff done in town
+ - zeno has been helping out by building houses in the adventurers camp when not
+   out on patrol
+ - zeno had a *really* bad day; a bunch of stuff went all wrong culminating in
+   zeno transforming into their war robot form by the Duke and being rescued by
+   belel. several days later fox goes and talks to them to pull them out of
+   their existential funk
+ - Fox threatens the duke ( in the middle of the night, in his quarters ); makes
+   it very clear Ararholm is not part of Sable Hegemony
+ - Fox helped the adventurers camp out building & repairing stuff
+   
+*** TODO For Next Session
+DEADLINE: <2022-02-19 Sat>
+ - stat up general
+ - fill in npcs
+ - figure out what plans the nightmares have, what they're up to right now
+ - tell Jessy the Automated Bath is also ready
 
