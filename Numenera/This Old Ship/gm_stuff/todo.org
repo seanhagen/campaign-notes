@@ -1,4 +1,4 @@
-* First Session [40%]
+* First Session [42%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -398,8 +398,12 @@ CLOSED: [2021-10-14 Thu 16:51]
 - hills region:
 - maka-tho:
 - continent:
-** physical prep [3/5]
-*** STARTED create maps for me on hex paper
+** physical prep [5/5]
+*** CANCELLED create maps for me on hex paper                   :CANCELLED:
+CLOSED: [2022-02-07 Mon 22:57]
+:LOGBOOK:
+- State "CANCELLED"  from "STARTED"    [2022-02-07 Mon 22:57]
+:END:
 *** CANCELLED on hex side of big battle mat, create map of all maka-tho :CANCELLED:
 CLOSED: [2021-10-18 Mon 14:29]
 :LOGBOOK:
@@ -419,7 +423,9 @@ CLOSED: [2021-10-18 Mon 14:30]
   again, above
 :END:
   mat ( maybe a discussion before first session )
-*** STARTED determine what i want in front of me when running a game
+*** DONE determine what i want in front of me when running a game
+CLOSED: [2022-02-07 Mon 22:57]
+pretty much cards & laptop
 * Can wait until after first session [29%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
