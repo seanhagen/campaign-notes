@@ -44,38 +44,133 @@ Each will try to tempt a PC, potentially teaming up.
 
 | Demon     | PC    |
 |-----------+-------|
-| Deceit    | Fox   |
-| Doubt     | Belel |
-| Hate      |       |
 | Vanity    | Klep  |
-| Despair   | Belel |
-| Scorn     | Fox   |
 | Anxiety   | Zeno  |
+| Doubt     | Belel |
+| Deceit    | Fox   |
+| Scorn     | Fox   |
+| Despair   | Belel |
 | Absurdity | Ureos |
+| Hate      | ...?  |
 
 Offer each player two different versions: the 2xp version, and the 4xp version.
 
 *** 2 XP Versions
+**** Klep
+Vanity disguising itself as Mex, and tempting Klep into further modification.
+
+"The others aren't smart enough to understand the kind of vison it takes to
+change yourself like this, right Klep? Although after what happened, maybe don't
+tell Zeno about any of this. Don't want him getting the wrong ideas, hey?"
+
+**** Zeno
+Anxiety disguises itself as Pamki and just tries to make Zeno more anxious about
+what happened.
+
+"Hey, I heard what happened the other day. I hope you're not feeling too down
+about it. I knew an automaton back in the Steadfast that just couldn't handle
+any kind of sticky mess. Something in its programming just went haywire if it
+tried to clean up after a dropped bottle of jam or stuff like that. Dad
+eventually shut it off for good and used it for parts.
+
+Oh, I'm not saying /you're/ like one of those mindless automatons, just that maybe
+some code in one of your little bits just doesn't do well with tense
+situations. Who knows?
+
+Anyways, I've got to run, hope you feel better soon!"
+
+**** Belel
+Doubt & Despair disguise themselves as the Aeon Priest and the Barkeep, and
+"randomly bump into Belel".
+
+Doubt (Aeon Priest):
+
+  Oh, hello there Belel! It's been some time since you've graced my humble
+  abode. I heard about what happened the other day, and just wanted to ask if
+  you might consider dropping in some day. I've got some wonderful machines and
+  was hoping to take some readings. Your... abilities are quite fascinating, and
+  I'd like to study them in depth. I'm sure I'm not the only one!
+
+Despair (Barkeep):
+
+  I don't know about that, Jonas. Been hearing muttering the last few days in
+  the pub; folks are scared. The thing with Zeno is one thing, poor guy. Folks
+  seem to understand that was out of his control.
+
+  <looks at Belel>
+
+  But I've heard some folks asking if you're really as in control of your power
+  as you claim to be, Belel. Folks from the Steadfast know about Callard Sebane
+  and what happened to him, people here are just worried something similar will
+  happen to you. Folks got enough to think about without adding "nano becoming
+  portal to another dimension" to their worries.
+
+**** Fox
+Scorn disguised as the Sheriff, and Deceit as Pamki. They come to Fox and ask to
+speak to him alone about the rest of the party.
+
+Scorn plays up the "you're all out of control" angle, Pamki just lies about what
+folks in town think or have said.
+
+**** Ureos
+Absurdity goes for Ureos. Tries to get him really drunk at the pub late at
+night.
+
+Suggests going on a walk out to a little nice spot they know just outside the
+city. It's real close, easy enough to stumble there while drunk!
+
+Once there, offers something "harder" to Ureos, to enjoy the stars and the sky
+on this beautiful night. If accepted, gets Ureos *real* high.
+
+Then Absurdity basically just lays out the situation they're in:
+ - bunch of folks from across the world came here with what they could fit in
+   wagons because some dude wanted a new challenge
+ - one neighbour is basically waiting for you all to find a Singhan Root
+   terminal so they can anex you
+ - the other neighbour is probably going to kill you all the moment they get the chance
+ - plus, this area is so big and unexplored because of the mists, you all don't
+   have the slightest clue about what else is out there
+ - I mean, what the fuck is up with that screaming tower, right?
+ - or that weird statue thing on the mountain?
+ - this whole situation is just straight-up absurd, why are you still here?
 
 *** 4 XP Versions
-Vanity disguising itself as Mex, and tempting Klep into further modification --
-"the others aren't smart enough to understand the kind of vison it takes to
-change yourself like this, right Klep?"
+**** Klep
+Vanity disguises itself as Mex, and offers a big upgrade right now.
 
-Anxiety disguising itself as Mex or Pamki to plant ideas in Zenos head that he's
-maybe not a person, not a human, just a sad robot.
+"Another ruin diver brought back, I think it'd synergize nicely with several of
+the modifications you already have! It just needs one more thing, and I know
+exactly where you can get it. It's a ruin a day or two away, shouldn't be too
+hard to get to. Are you up for it? "
+
+The upgrade will further mechanize Klep, but should have some major downsides
+whenever he's near one of the Nightmares.
+
+**** Zeno
+Anxiety disguising itself as Pamki to plant ideas in Zenos head that he's maybe
+not a person, not a human, just a sad robot.
 
 The story of the brain in a jar that thinks its a person but has really gone
 insane. Get permission from the table before dropping this heavy bomb on
-them. Lay out that this isn't the NPC they think it is, it's one of the bad
-guys, Anxiety -- in disguise, deliberately trying to fuck with Zeno so that he
-won't be as effective an ally. Make sure they understand that this is the
-literal embodiment of the concept of Anxiety if it were crafted by the Devil
-Himself.
+them.
 
+Lay out that this isn't the NPC they think it is, it's one of the bad guys,
+Anxiety -- in disguise, deliberately trying to fuck with Zeno so that he won't
+be as effective an ally.
+
+Make sure they understand that this is the literal embodiment of the concept of
+Anxiety if it were crafted by the Devil Himself.
+
+Opening line from "Pamki":
+
+  "Hey Zeno! I read something in one of my dad's old
+  journals, I thought it was pretty neat and wanted to share it with you when
+  you have a moment. Just drop by the house later this afternoon!"
+
+**** Belel
 Doubt & Despair disguising themselves as
- - the person in the party Belel trusts the most
- - the NPC Belel trusts the most
+ - Doubt:   the person in the party Belel trusts the most
+ - Despair: the NPC Belel trusts the most
 
 They come to Belel and lie about how everyone feels about them. They think that
 having Belel around was great, but whatever this /new/ thing is with the dome is
@@ -84,29 +179,74 @@ sticks around. Etc, etc. Write out a *short* little monologue from each that's
 meant to be one of those "the literal meaning of what you said is nice but the
 intent and unspoken meaning is real, real mean" kinda things.
 
+Doubt:
+
+  "How long have you been able to do that big bubble thing? Do you think you'll
+  be able to do it again? Seems like it'd be handy, but you haven't been able to
+  do it again since then. Maybe it was like a one-time thing, the stars and
+  whatnot were just right? Or maybe you could only do it once? Hopefully you
+  don't have any other hidden esoteries in that brain of yours that could be
+  deadly! Just imagine if you had hurt someone."
+
+Despair:
+
+  "Even if you could do it again, it's not like it'll be /super/ useful -- it's
+  only big enough to protect a few people. Not all that handy if we get attacked
+  or anything. What if this is the start of your powers taking over? Oh, I hope
+  that's not the case! Don't want to lose you because of something you can't
+  control; or worse, your powers going haywire and hurting someone."
+
+**** Fox
 Scorn disguised as the Sheriff, and Deceit as Pamki. Scorn basically plays it as
 Fox finally crossing some line and threatening to tell Pamki about what really
-happened when Fox rescued Pamki. Deceit "unfortunately heard every word from
-just outside and couldn't take it any more and just had to come in and say
-something and that is that she can't believe Fox would turn out to be just like
-all the rest, nothing more than a rutheless killer".
+happened when Fox rescued Pamki. The line is being unable to control his
+"friends", and putting the whole town in danger. "I wonder if you're even fit to
+be out here, trying to lead some poor fools as sad and broken as you."
 
-Absurdity goes for Ureos. Gets him drunk, or high, or both, or something
-else. Puts him in a suggestive state of mind, more ameniable to the likes of a
-guy like him pouring him a suggestion or two, right? It's pretty wild that folks
-'round these parts have put up with him for so long, hey? Usually by now folks
-would have gotten tired of you. Either some town getting that look in their eye
-like they're about to start accusing you of stealing babies, or kisses, or both!
-Ha, that story was funny, you should tell it again some time. I don't know
-what'd be worse, that, or just having your family walk off without you one
-day. Yeah, I know you said what you said but man I thought the same thing until
-I ran into my brother once. This was before I came here, but before I joined up
-with Ager I was once in a huge family, right? I thought we were super close, but
-then they told me I had to go to school and grow up. I found out a few years
-later from my brother when we got drunk together that my parents just told me
-that to get me out of the house so they could have some time to
-themselves. Messed up, right, what a parent will say to their kid when they're
-too lazy to be a parent?
+Deceit "unfortunately heard every word from just outside and couldn't take it
+any more and just had to come in and say something and that is that she can't
+believe Fox would turn out to be just like all the rest, nothing more than a
+rutheless killer".
+
+Deceit runs out, Scorn lets slip a hint of its true nature. Basically goads Fox,
+saying something like:
+
+  "Just the tiniest bit of effort, and already one ally isn't sure if they want
+  you around. Such simple beings you humans, slaves to that hunk of meat you
+  pretend to think with. So easy to get you to fall to in-fighting and
+  mistrust. I can't believe one of you was responsible for locking us up so long
+  ago. Well, I say "you", they were an exceptional example of your
+  species. Unlike what I have to work with out here. Hopefully Hate will bring
+  me some more interesting playthings, unlike the drab and bland things like
+  yourself."
+
+If Fox attacks, Scorn shuts him down with a esotery that locks him in his own
+mind and basically puts him in a dream loop that tries to get him to react with
+scorn and harshness in any situation.  
+
+**** Ureos
+Absurdity goes for Ureos.
+
+Gets him drunk, or high, or both, or something else. Puts him in a suggestive
+state of mind, more ameniable to the likes of a guy like him pouring him a
+suggestion or two, right?
+
+It's pretty wild that folks 'round these parts have put up with him for so long,
+hey? Usually by now folks would have gotten tired of you. Either some town
+getting that look in their eye like they're about to start accusing you of
+stealing babies, or kisses, or both!  Ha, that story was funny, you should tell
+it again some time. I don't know what'd be worse, that, or just having your
+family walk off without you one day.
+
+Yeah, I know you said what you said but man I thought the same thing until I ran
+into my brother once. This was before I came here, but before I joined up with
+Ager I was once in a huge family, right? I thought we were super close, but then
+they told me I had to go to school and grow up. I found out a few years later
+from my brother when we got drunk together that my parents just told me that to
+get me out of the house so they could have a life.
+
+Absurd up, right, what a parent will say to their kid when they're too lazy to
+be a parent?
 
 *** Heal Some Broken Hearts
 IMMEDIATELY AFTER each scene, give the player as long as they need, and then

@@ -107,31 +107,30 @@ Well now dearie, you don't get to know everything.
 
 *** TODO Stat Block
 
-** Mex (Level: 6)                                                     :ally:
+** Mex Gos (Level: 6)                                                 :ally:
+:PROPERTIES:
+Nickname: The Silver Wright
+:END:
 #+BEGIN_QUOTE
 Aww shucks, well I'm sure I can whip something up for ya!
 #+END_QUOTE
 
 *Roleplaying*
   - slightly embarrsed by her hands and forearms <keeps her hands behind her back unless working on something>
-  - southern drawl <big laugh>
+  - bright & peppy with a southern drawl <big laugh>
   - friendly, caring, open <headbuts and elbow pokes>
 
-  a few brief bullet points. should have one simple, physical action to perform
-  while playing the npc. *avoid repetition* by having each point describe a
-  completely distinct classification of thing: values, physical mannerism, way
-  of speaking, personality, etc.
-
 *** Key Info
-  essential interaction or info pcs should get from this npc. can have multiple
-  key info sections, one for each 'type' of info (ie, an npc in a mystery game
-  at a party might have 'clues' and 'topics of conversation' as key info
-  sections ).
+ - left home at a young age because she killed her abuser
+ - a bit too eager to be "cool", she's often described as "a bit much".
 
 *** Appearance
- A stocky blonde woman of average height. Tends to have arms uncovered, which
- are covered in blue/black geometric tattoos. There's always an aroma of the
- forge around her.
+Often covered in sweat and grime, Mex is a stocky blonde woman of average
+height. Tends to have arms uncovered, which are covered in blue/black geometric
+tattoos. There's always an aroma of the forge around her.
+
+**** Image
+[[file:./assets/mex.jpg]]
 
 *** TODO Background
   a short narrative that covers essential context and interesting
@@ -140,39 +139,164 @@ Aww shucks, well I'm sure I can whip something up for ya!
   features.
 
 *** TODO Stat Block
-** Pamki
-** Brigette
-** <name> :ally:enemy:neutral:hostile:
+** Pamki Hammersplint (Level: 5)                                      :ally:
+:PROPERTIES:
+Nickname: The Swift
+:END:
 #+BEGIN_QUOTE
-<quote>
+People will always matter more than things!
 #+END_QUOTE
 
 *Roleplaying*
-  - physical mannerism <action>
-  - mode of speech <action>
-  - personality  <action>
+  - Keeps her hands close to her face, often touch her cheeks, nibbling on a
+    fingernail, or rubbing her forehead. Fidgets when she's in a situation where
+    she should try to keep her hands away from her face.
+  - speaks quietly
+  - will always put her wife first, no matter what
+  - very empathetic, cares deeply about the town and everyone in it
+
+*** Key Info
+ - can barely fight, knows some low-level esoteries, mostly relies on cyphers
+   
+*** Appearance
+Long dark brown hair, kept in lose braids. Some of the braids have metal or bone
+beads, most are capped by a larger bead. Her face leans more towards "handsome"
+than "pretty", although she is by no means ugly.
+
+Tends to dress in loose clothing that she can be comfortable in regardless of
+where the day takes her. Blacks, reds, and greens tend to be her preferred
+colours, although she prefer paler shades of red & green to vibrant or dark
+shades.
+
+Carries herself with a grace not often seen by those who are not bards & dancers
+by trade.
+
+**** Image
+[[file:./assets/pamki.jpeg]]
+*** Background
+Born to Ager and Tashi, Pamki has grown up into a wise young woman. Often feels
+like she's way out of her depth, but knows she can rely on her wife and the rest
+of the town to help deal with the challenges of building a town out past the
+frontier. Most people in town call her by the honorific Capu; it means something
+akin to "Honorary Mayor".
+
+*** TODO Stat Block
+
+** Brigette Ottum (Level: 7)                                          :ally:
+:PROPERTIES:
+Nickname: One-Eye
+:END:
+
+#+BEGIN_QUOTE
+There is good to be found in even the most terrible places.
+No-one is beyond redemption, but you can't force it upon them.
+Arrogance is more destructive than fire.
+#+END_QUOTE
+
+*** Key Info
+ - Firecly loyal to Pamki and a handful of other folks in Ararholm
+ - Still drinks like she isn't missing an arm and a leg.
+ - Is very careful about hygine, as the the connection points for her arm and
+   leg can get infected if she's not careful about keeping them cleaned and
+   oiled.
+   
+*** Appearance
+ - green eyes
+ - 5'8" tall
+ - pale skin
+ - bright red hair with a streak of pure white on her left side
+ - heavily scarred face ( missing left eye )
+
+Has a slight build that hides a wiry strength, her robotic limbs give her a
+slightly unbalanced apperance when she wears them.  Her robotic limbs, which
+seem to be made of a ceramic substance that is very hard to damage.
+
+**** Image
+[[file:./assets/brigette.jpeg]]
+*** Background
+A glaive who nearly died in a deadly ruin, but was transformed into something
+more and less than human.
+
+When a numenera being worked on by a friend detonated, Birgitte nearly lost her
+life. Her friend, though obliterated by the explosion, managed to shield
+Birgitte from the worst of the blast. Birgitte lost most of the left side of her
+body -- it took her left arm and leg, took a chunk from her torso, and heavily
+scarred her face and head. The team she was delving with managed to save her
+life through a combination of healing skill, some handy cyphers, and a great
+deal of luck. They placed her in a numenera they had found earlier that seemed
+to be some kind of full-body repair device.
+
+Unfortunately, they didn't know that it was configured for a non-human
+design. Thankfully, the process rebuilt her with mechanical parts rather than
+potentially incompatible biological ones. Now her left leg and arm are powerful
+mechanical limbs, although she lost the use of her left eye. These parts are not
+bonded perfectly with her body, however.
+
+When connected, the arm and leg function perfectly but put Birgitte in constant
+pain. It's not enough to be debilitating, but it is not a pleasant
+experience. Unless she really needs to, Birgitte spends most of her time these
+days with the arm and leg disconnected. She uses a crutch to get around, and
+lives a happy and fulfilling life with Pamki in Ararholm.
+
+*** Stat Block
+:PROPERTIES:
+:ID:       848cea65-3218-4488-ba61-89c540517d6d
+:END:
+** Sheriff Edgar Mannes (Level: 4)                          :ttrpg:npc:ally:
+#+BEGIN_QUOTE
+"Sometimes the quickest way forward is a very twisty path."
+#+END_QUOTE
+
+*Roleplaying*
+| Thing              | Physical Action                                                                 |
+|--------------------+---------------------------------------------------------------------------------|
+| physical mannerism | tips hat when greeting people                                                   |
+| mode of speech     | speeks slowly when talking to people he doesn't know or doesn't like            |
+| personality        | bit of a smartass                                                               |
+| physical mannerism | kind of clumsy; has bad luck with mounts, tends to fall off in embarassing ways |
 
 *** Key Info
   essential interaction or info pcs should get from this npc. can have multiple
-  key info sections, one for each "type" of info (ie, an npc in a mystery game
-  at a party might have "clues" and "topics of conversation" as key info
+  key info sections, one for each 'type' of info (ie, an npc in a mystery game
+  at a party might have 'clues' and 'topics of conversation' as key info
   sections ).
 
 *** Appearance
- short and sweet, 1-2 sentences, 3 at max. most interesting and unique features
+Mutton chops and a trio of scars on the left side of his face, a token from when
+he barely escaped death. Broad shoulders, strong frame. Not very fast, but hits
+like a train when he does get some speed going.
+
+Tends to wear a cowboy hat, leather duster, a well-kept fancy red vest.
+**** Image
+[[file:./assets/edgar.jpg]]
 
 *** Background
-  a short narrative that covers essential context and interesting
-  anecdotes. something that will influence how they make decisions, or something
-  they'll use as context to explain stuff. use *bold* text to call out important
-  features.
+Learned most of his fighting style on the back streets of Qi. Picked up some
+tricks from glaives he travelled with when he was younger.
+
+Joined Ager's trade company as a glaive to guard caravans. Worked his way up to
+become a trusted friend of Ager and head of security for the company. Came with
+Ager to settle Ararholm. The head of security for the trade company, he now
+serves as the sheriff for Ararholm.
+
+Wants Ararholm to grow so that he can hire people to do the annoying work so he
+can sit in an office and get fat from sugary treats.
+
+Failed to protect Pamki when she was younger, is a bit resentful that Fox saved
+her ( more resentful that Fox is kind of a constant reminder of one of his
+bigger failures, not really that resentful towards either of them ).
 
 *** Stat Block
-* Bad Guys
+*Equipment*
+A long gun that uses a reservoir of a silvery material as ammo. It
+fires as long as the trigger is held down. Edgar has a numenera that he can use
+to produce more ammo from any lose stones or pebbles, but it takes a day to
+finish processing the material into more ammo.
+* Nightmares From Another Place And Time
 ** Deceit 
 *** Image
 #+ATTR_ORG: :width 400px
-[[file:./assets/deceit.jpg]
+[[file:./assets/deceit.jpg]]
 *** Description
 "Deceit" is one of the few nightmares with the ability to communicate with
 people. But don't get me wrong. This cunning monster doesn't come to make
