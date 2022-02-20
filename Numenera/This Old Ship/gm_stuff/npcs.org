@@ -140,6 +140,8 @@ Aww shucks, well I'm sure I can whip something up for ya!
   features.
 
 *** TODO Stat Block
+** Pamki
+** Brigette
 ** <name> :ally:enemy:neutral:hostile:
 #+BEGIN_QUOTE
 <quote>
