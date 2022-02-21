@@ -56,14 +56,10 @@ Each will try to tempt a PC, potentially teaming up.
 Offer each player two different versions: the 2xp version, and the 4xp version.
 
 *** 2 XP Versions
-**** Klep
+**** NOPE Klep
 Vanity disguising itself as Mex, and tempting Klep into further modification.
 
-"The others aren't smart enough to understand the kind of vison it takes to
-change yourself like this, right Klep? Although after what happened, maybe don't
-tell Zeno about any of this. Don't want him getting the wrong ideas, hey?"
-
-**** Zeno
+**** NOPE Zeno
 Anxiety disguises itself as Pamki and just tries to make Zeno more anxious about
 what happened.
 
@@ -81,7 +77,7 @@ Anyways, I should -- oh! Right, I came to tell you about something: an automaton
 showed up in town the other day, said that it was here to 'prepare the way for
 its master'"
 
-**** Belel
+**** NOPE Belel
 Doubt & Despair disguise themselves as the Aeon Priest and the Barkeep, and
 "randomly bump into Belel".
 
@@ -107,14 +103,14 @@ Despair (Barkeep):
   happen to you. Folks got enough to think about without adding "nano becoming
   portal to another dimension" to their worries.
 
-**** Fox
+**** NOPE Fox
 Scorn disguised as the Sheriff, and Deceit as Pamki. They come to Fox and ask to
 speak to him alone about the rest of the party.
 
 Scorn plays up the "you're all out of control" angle, Pamki just lies about what
 folks in town think or have said.
 
-**** Ureos
+**** NOPE Ureos
 Absurdity goes for Ureos. Tries to get him really drunk at the pub late at
 night.
 
@@ -137,18 +133,25 @@ Then Absurdity basically just lays out the situation they're in:
  - this whole situation is just straight-up absurd, why are you still here?
 
 *** 4 XP Versions
-**** Klep
+**** YEAH Klep
 Vanity disguises itself as Mex, and offers a big upgrade right now.
 
 "Another ruin diver brought back, I think it'd synergize nicely with several of
 the modifications you already have! It just needs one more thing, and I know
 exactly where you can get it. It's a ruin a day or two away, shouldn't be too
-hard to get to. Are you up for it? "
+hard to get to. Are you up for it?
+
+The others aren't smart enough to understand the kind of vison it takes to
+change yourself like this, right Klep? Although after what happened, maybe don't
+tell Zeno about any of this. Don't want him getting the wrong ideas, hey?"
 
 The upgrade will further mechanize Klep, but should have some major downsides
 whenever he's near one of the Nightmares.
 
-**** Zeno
+ - Klep wants to check out the parts
+ - Takes the parts to study them
+
+**** YEAH Zeno
 Anxiety disguising itself as Pamki to plant ideas in Zenos head that he's maybe
 not a person, not a human, just a sad robot.
 
@@ -165,17 +168,22 @@ Anxiety if it were crafted by the Devil Himself.
 
 Opening line from "Pamki":
 
-  "Hey Zeno! I read something in one of my dad's old
-  journals, I thought it was pretty neat and wanted to share it with you when
-  you have a moment. Just drop by the house later this afternoon!"
+  "Hey Zeno! I read something in one of my dad's old journals, I thought it was
+  pretty neat and wanted to share it with you when you have a moment. Just drop
+  by the house later this afternoon!"
 
 Wrap up with the "some automaton showed up in town yesterday saying it's here to
 'prepare the way for its master' or something, something about it felt familiar"  
 
-**** Belel
+ - smashes the robot
+ - hides the parts, these are the parts that "Mex" brings to Klep
+ - runs out of town
+ - Ureos catches up with Zeno outside of town
+
+**** YEAH Belel
 Doubt & Despair disguising themselves as
- - Doubt:   the person in the party Belel trusts the most
- - Despair: the NPC Belel trusts the most
+ - Doubt:   the person in the party Belel trusts the most  => Zeno
+ - Despair: the NPC Belel trusts the most                  => Farmer Joe
 
 They come to Belel and lie about how everyone feels about them. They think that
 having Belel around was great, but whatever this /new/ thing is with the dome is
@@ -184,7 +192,7 @@ sticks around. Etc, etc. Write out a *short* little monologue from each that's
 meant to be one of those "the literal meaning of what you said is nice but the
 intent and unspoken meaning is real, real mean" kinda things.
 
-Doubt:
+Zeno (Doubt):
 
   "How long have you been able to do that big bubble thing? Do you think you'll
   be able to do it again? Seems like it'd be handy, but you haven't been able to
@@ -193,7 +201,7 @@ Doubt:
   don't have any other hidden esoteries in that brain of yours that could be
   deadly! Just imagine if you had hurt someone."
 
-Despair:
+Farmer Joe (Despair):
 
   "Even if you could do it again, it's not like it'll be /super/ useful -- it's
   only big enough to protect a few people. Not all that handy if we get attacked
@@ -201,7 +209,7 @@ Despair:
   that's not the case! Don't want to lose you because of something you can't
   control; or worse, your powers going haywire and hurting someone."
 
-**** Fox
+**** YEAH Fox
 Scorn disguised as the Sheriff, and Deceit as Pamki. Scorn basically plays it as
 Fox finally crossing some line and threatening to tell Pamki about what really
 happened when Fox rescued Pamki. The line is being unable to control his
@@ -211,7 +219,7 @@ be out here, trying to lead some poor fools as sad and broken as you."
 Deceit "unfortunately heard every word from just outside and couldn't take it
 any more and just had to come in and say something and that is that she can't
 believe Fox would turn out to be just like all the rest, nothing more than a
-rutheless killer".
+ruthless killer".
 
 Deceit runs out, Scorn lets slip a hint of its true nature. Basically goads Fox,
 saying something like:
@@ -221,27 +229,24 @@ saying something like:
   pretend to think with. So easy to get you to fall to in-fighting and
   mistrust. I can't believe one of you was responsible for locking us up so long
   ago. Well, I say "you", they were an exceptional example of your
-  species. Unlike what I have to work with out here. Hopefully Hate will bring
-  me some more interesting playthings, unlike the drab and bland things like
-  yourself."
+  species. Barely even human at that point.
+
+  Unlike what I have to work with out here.
+
+  Hopefully Hate will bring me some more interesting playthings, unlike the drab
+  and bland things like yourself."
 
 If Fox attacks, Scorn shuts him down with a esotery that locks him in his own
 mind and basically puts him in a dream loop that tries to get him to react with
 scorn and harshness in any situation.  
 
-**** Ureos
+**** YEAH Ureos
 Absurdity goes for Ureos.
 
-Gets him drunk, or high, or both, or something else. Puts him in a suggestive
-state of mind, more ameniable to the likes of a guy like him pouring him a
-suggestion or two, right?
+Character: Kord
 
-It's pretty wild that folks 'round these parts have put up with him for so long,
-hey? Usually by now folks would have gotten tired of you. Either some town
-getting that look in their eye like they're about to start accusing you of
-stealing babies, or kisses, or both!  Ha, that story was funny, you should tell
-it again some time. I don't know what'd be worse, that, or just having your
-family walk off without you one day.
+Gets him drunk. Puts him in a suggestive state of mind, more ameniable to the
+likes of a guy like him pouring him a suggestion or two, right?
 
 Yeah, I know you said what you said but man I thought the same thing until I ran
 into my brother once. This was before I came here, but before I joined up with
@@ -252,6 +257,15 @@ get me out of the house so they could have a life.
 
 Absurd up, right, what a parent will say to their kid when they're too lazy to
 be a parent?
+
+It's pretty wild that folks 'round these parts have put up with him for so long,
+hey? Usually by now folks would have gotten tired of you. Either some town
+getting that look in their eye like they're about to start accusing you of
+stealing babies, or kisses, or both!  Ha, that story was funny, you should tell
+it again some time. I don't know what'd be worse, that, or just having your
+family walk off without you one day.
+
+Outcome: Absurdity loses! Ureos is fine.
 
 *** Heal Some Broken Hearts
 IMMEDIATELY AFTER each scene, give the player as long as they need, and then

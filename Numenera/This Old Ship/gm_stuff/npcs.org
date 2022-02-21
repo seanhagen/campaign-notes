@@ -417,7 +417,7 @@ the most painful "death" ...
 ** Scorn
 *** Image
 #+ATTR_ORG: :width 400px
-[[file:./assets/scorn.jpg]
+[[file:./assets/scorn.jpg]]
 
 *** Description
 "Scorn" is a pure combative. It likes to fight and is almost paranoid in this

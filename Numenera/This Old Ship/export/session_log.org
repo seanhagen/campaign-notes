@@ -183,6 +183,7 @@ In-game: 3 months later
  - Fox threatens the duke ( in the middle of the night, in his quarters ); makes
    it very clear Ararholm is not part of Sable Hegemony
  - Fox helped the adventurers camp out building & repairing stuff
+ - end of session is about 2 weeks later
    
 *** TODO For Next Session
 DEADLINE: <2022-02-19 Sat>
@@ -190,4 +191,24 @@ DEADLINE: <2022-02-19 Sat>
  - fill in npcs
  - figure out what plans the nightmares have, what they're up to right now
  - tell Jessy the Automated Bath is also ready
+** Session 6 - 2022-02-20
+In-game: 2 weeks later
 
+*Nightmares*
+ - Ureos   => 4xp
+ - Klep    => 4xp
+ - Zeno    => 4xp
+ - Belel   => 4xp
+ - Fox     => 4xp
+   
+*** Notes
+ - Ureos is real unsettled by the Nightmares and the visions
+  
+*** For Future Session
+*character plot ideas*
+ - *Ureos's family* shows up, or Ureos finds something that lets him communicate
+   with his family
+ - *The Merchant* is on his way to town
+
+*stuff to put in future games*   
+ - put a Roomba in a ruin for Ureos
