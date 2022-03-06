@@ -45,6 +45,9 @@ Arrived back in Maka Tho with ~10 people.
 
 *** TODO Stat Block
 ** Duke Shale Feleke Tegene (Level: 6)                            :neutral:
+:PROPERTIES:
+:ID:       1cb3b307-38d0-4836-9010-224a99ffce35
+:END:
 #+BEGIN_QUOTE
 #+END_QUOTE
 
@@ -95,6 +98,18 @@ Well now dearie, you don't get to know everything.
  complex ponytail that reaches to her mid-back. She tends to hunch over her
  cane.
 
+https://www.pinterest.ca/pin/96545985752141997/
+https://www.pinterest.ca/pin/339177415698928638/
+https://www.pinterest.ca/pin/130604457936371035/
+https://www.pinterest.ca/pin/428616089548005466/
+https://www.pinterest.ca/pin/136656169933575045/
+https://www.pinterest.ca/pin/40602834127995400/
+https://www.pinterest.ca/pin/27373510225916226/
+https://www.pinterest.ca/pin/292030357095342206/
+https://www.pinterest.ca/pin/153263193561272006/
+https://www.pinterest.ca/pin/21251429481890743/
+
+ 
 *** Background
   This is what's left of Savathun after ~1 billion years. As far as she knows
   she's the *only Hive left*, the only one still alive anywhere in the
@@ -292,6 +307,13 @@ A long gun that uses a reservoir of a silvery material as ammo. It
 fires as long as the trigger is held down. Edgar has a numenera that he can use
 to produce more ammo from any lose stones or pebbles, but it takes a day to
 finish processing the material into more ammo.
+** Ukor Glaive
+The Ukor are a new client race to the Sable Hegemony, who have pleged to help
+fight in the army in return for getting medical aid & other support.
+
+[[file:~/Documents/CampaignNotes/Numenera/This Old
+Ship/gm_stuff/assets/512b954133215bf5f55da6f35fe3768c.jpg]]
+
 * Nightmares From Another Place And Time
 ** Deceit 
 *** Image
@@ -470,3 +492,9 @@ turned to accuse him, saying that he was tempted by the devil, and prayed for
 forgiveness from the gods, he laughed, and for the first time in his life he
 felt such a strong pleasure, crazy The laughter was submerged by accusations,
 echoing in the empty hall, no one knew...——a diary diary
+** Memory
+The hidden one
+
+https://www.artstation.com/artwork/ZGB5Om
+
+Has been out in the world for centuries, trying to free its siblings

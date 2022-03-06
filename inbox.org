@@ -1,3 +1,42 @@
+* Nēta(Weaver) Felwinter (Level: 9)                   :ttrpg:npc:ai:friendly:
+#+BEGIN_QUOTE
+I'm sure I could help, if only I could remember.
+#+END_QUOTE
+
+*Roleplaying*
+| Thing              | Physical Action                                                                 |
+|--------------------+---------------------------------------------------------------------------------|
+| physical mannerism | always brushing her clothes for dust, even though she can't get dust on her     |
+| mode of speech     | very prim and proper                                                            |
+| personality        | straightforward but naive                                                       |
+| physical mannerism | is always talking to herself about ship systems ( flow rates, luminosity, etc ) |
+
+** Key Info
+ - can control some aspects of the ship
+ - large portions of her memory are locked away
+ - the crystals they placed in the pedestal unlocked some of her memories (like
+   how to make a hologram)
+
+** Appearance
+ A hologram of solid light, Felwinter appears as an adult human woman (age
+ unknown). Surrounded by fragments of code that float through the air. Dressed
+ in what appears to be noble garb from a past age.
+*** Image
+[[file:./assets/felweaver.png]]
+
+** Background
+Went through rampancy and was responsible for the accident that caused the ship
+to end up where it is now. Knows she should feel something about that, but
+because the memory cores containing those memories went offline ages ago she
+can't remember. Not remembering parts of her own history causes her to feel
+grief and anxiety; partially because she may have forgotten something important
+about the ship, but also because she feels she can't atone until she remembers
+what she did. She is also scared that gaining access to the memory cores on the
+ship will change who she is -- her greatest fear is becoming a monster.
+
+** Stat Block
+Doesn't have much she can do to affect the physical world beyond using
+automatons.
 * Inbox
 ** Character Songs To Listen To
 *** Zeno

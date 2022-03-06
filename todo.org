@@ -7,7 +7,7 @@ have to code this up myself
 ** BACKLOG add gm intrusions into the ruin/scenario setup
 ** BACKLOG battle map for tracking ranges/etc in combat
 ** BACKLOG figure out way to track the iotum that mex has
-DEADLINE: <2022-02-19 Sat>
+DEADLINE: <2022-04-06 Wed>
 
 ** BACKLOG fill in the ship ruins
 also make some changes, use some of the jaqyaying the dungeon stuff

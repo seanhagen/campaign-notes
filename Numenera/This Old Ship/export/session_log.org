@@ -185,14 +185,15 @@ In-game: 3 months later
  - Fox helped the adventurers camp out building & repairing stuff
  - end of session is about 2 weeks later
    
-*** TODO For Next Session
-DEADLINE: <2022-02-19 Sat>
+*** DONE For Next Session
+CLOSED: [2022-02-20 Sun 17:43] DEADLINE: <2022-02-19 Sat>
  - stat up general
  - fill in npcs
  - figure out what plans the nightmares have, what they're up to right now
  - tell Jessy the Automated Bath is also ready
+   
 ** Session 6 - 2022-02-20
-In-game: 2 weeks later
+In-game: 1 week later
 
 *Nightmares*
  - Ureos   => 4xp
@@ -202,6 +203,9 @@ In-game: 2 weeks later
  - Fox     => 4xp
    
 *** Notes
+ - the Nightmares make their "attacks" over the course of a work-week ( Mon-Fri )
+ - Fox was the last to be attacked
+
  - Ureos is real unsettled by the Nightmares and the visions
   
 *** For Future Session
@@ -212,3 +216,47 @@ In-game: 2 weeks later
 
 *stuff to put in future games*   
  - put a Roomba in a ruin for Ureos
+** Session 7 - 2022-03-27
+In-game: ?? later
+*** Sub-Session - 2022-03-06
+*** Sub-Session - 2022-03-20
+*** Session
+**COMPLICATION**
+Unexpected arrivals: a scout detachment, arriving a few weeks ahead of a
+regiment of the Royal Sable Army.
+
+New NPCs:
+ - Scout Captain
+ - Ukor Glaive  
+
+Complication: they're being chased by something big enough to wipe out Ararholm
+if it's not dealt with -- right now.
+
+Monster ideas:
+ - giant worm
+ - big t-rex thing
+ - some giant horror
+
+**FURTHER COMPLICATION**
+Felwinter's hologram appears in town and tries to lure Ureos into the ship to
+tell him some important stuff. Need to figure out what exactly she needs to tell
+him; it should be partly about the Nightmares, partially about The Ship, and
+partially about the giant creature chasing the scout party (maybe it's damaging
+important ship parts?).
+
+She will confirm that she needs more memory crystals in order to disable the
+forcefield around the airship they found.
+
+**GM Info**
+The attack on the scout party was orchestrated by The Merchant so he could see
+what defenses the town had; as well as seeing how they'd react to /more/ soldiers
+showing up. One of the 'assassin' was sent to watch how Ararholm dealt with that
+problem, sees Zeno, reports back to The Merchant ( so Merchant knows regardless
+of whether or not Shira tells them ).
+ 
+*** Notes
+*** For Future Sessions
+Major NPCs that will be arriving with the regiment:
+ - The General
+ - The Countess of the Shining Sea
+
