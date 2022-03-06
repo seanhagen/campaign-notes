@@ -737,3 +737,281 @@ Destiny, pg 266
 
 good monster that could torment Zeno AND show Klep what he might become if he's
 not careful
+*** ghoka is being driven
+both insane, and towards a cache of ancient weapons -- by the nightmares, of
+course
+
+players find out when one of his men crawls back to town, half dead. he says
+ghoka nearly killed him in his madness when he questioned what they were
+doing. need to have him talk about something that sounds like a demon to the
+folks in-game, but to the players will sound like robots.
+*** they get pulled into the "dave made a maze" maze
+:PROPERTIES:
+:ID:       413d13c8-845f-4e82-abb5-9e1321058e5c
+:END:
+they get alerted that a homestead needs help, sherrif asks them to go check it
+out. they find that the homestead is empty, except for a strange hardened
+corrugated paper building -- built inside the largest room in the log & synth
+cabin on the homestead. all signs points to the family having gone inside. as
+they approach, someone from inside speaks.
+
+"hello, is anyone out there?"
+
+the voice will ask them to stay, but not come inside the cardboard maze. they
+will be quite insistent about the party staying outside. but if they could hang
+out and chat for a while that'd be great.
+
+once the party enters, they find themselves in a tunnel that forces each of them
+to crouch a bit. some time after the tunnel is far past what should have been the
+other side of the cardboard building it opens up into a wide hallway -- of
+cardboard. it looks like a stately manor; it's just that everything is made of
+different coloured cardboard.
+
+they must beware:
+ - the deadly traps ( otherwise it's not a labrynth )
+ - the deadly minotaur ( also a thing required to be a labrynth )
+
+then the party needs to be fed [[id:3df4e78e-7ca2-4226-a8bf-f14616b5deb3][clues]] so that they figure out that they have to
+do the following:
+  - [[id:c4ba5d96-6c62-427d-826d-e2bc74b58505][delay the minotaur]] so that they have more time not being attacked to explore
+  - discover some [[id:d2a98e08-e1d4-45e8-ae12-5b93bfd3fd4c][labrynth npcs]]
+  - learn that the labrynth has no center
+  - learn that they need to make a center
+  - so they can build the power source
+  - so they can destroy the power source
+    
+**** the clues to feed the party
+:PROPERTIES:
+:ID:       3df4e78e-7ca2-4226-a8bf-f14616b5deb3
+:END:
+ - <something smart that means "the labrynth has no center">
+**** ways to delay the minotaur
+:PROPERTIES:
+:ID:       c4ba5d96-6c62-427d-826d-e2bc74b58505
+:END:
+ - using strong tape and a blanket to block a door; minotaur obeys the rules of
+   building a fort from cardboard (blanket is a temporary wall); rules are
+   enforced by the labrynth
+ - learn more rules so you can figure out other ways to slow or potentially
+   disable the minotaur ( who is clearly one of the family members being forced
+   into this role )
+**** labrynth npcs
+:PROPERTIES:
+:ID:       d2a98e08-e1d4-45e8-ae12-5b93bfd3fd4c
+:END:
+ - <link to npc>
+
+*** pulled into the datasphere
+something to do while i'm away
+
+the characters are pulled into the datasphere during a strange storm, they're
+stuck in the 90's internet somehow. do it in dm's in discord, in character is
+normal text, out-of-character talk is spoiler text. put the info about how it'll
+work in the spoiler text, describe how to do spoiler text, anything else they
+should know.
+
+description idea:
+
+#+BEGIN_QUOTE
+you find yourself standing inside a small cube, about the size of the room
+you're in right now. the cube appears to be made of steel-glass; you can't seem
+to break it, or even scratch it. on the other side of the glass all you can see
+is a hash of black and white static. in the center of the cube is a chair. what
+do you do (describe in one sentence)?
+#+END_QUOTE
+
+wait until they sit down. just say "nothing happens" to whatever they do until
+they sit down ( food, water, and amenities slide out of the wall when needed )
+
+#+BEGIN_QUOTE
+suddenly, a loud "bong" sounds from all around you, and the static is replaced by
+darkness. then, you see some glowing white text in the top-left of the face of
+the cube directly in front of the chair. it seems to be writing itself. it's in
+a language you don't understand, but it seems to be very succinct language, the
+sentences are very short. when the text eventually reaches the bottom, it begins
+to scroll up. What do you do?
+#+END_QUOTE
+
+whatever they do, eventually this happens:
+
+#+BEGIN_QUOTE
+suddenly, the face of the cube in front of you turns a bright blue, before
+dimming enough that you can make out some kind of digital display. there appears
+to be some kind of input required. what do you do?
+#+END_QUOTE
+
+**** if they inspect the chair
+#+BEGIN_QUOTE
+you notice that the armrests of the chair seem to have a set of keys built
+in. there are 15 keys on each armrest. they're not small enough that you can hit
+all the keys without having to move your hands. you also have to either lean
+forward or not sit with your back against the chair. whoever built this chair
+was larger than you.
+
+what do you do?
+#+END_QUOTE
+***** if they do nothing
+let them know via spoiler text that if they don't do anything, nothing happens, literally.
+
+**** if they don't inspect the chair
+#+BEGIN_QUOTE
+nothing seems to happen. what do you do?
+#+END_QUOTE
+***** if they do nothing
+let them know via spoiler text that if they don't do anything, nothing happens, literally.
+
+**** once they press a button
+#+BEGIN_QUOTE
+you see a character show up in the input field
+#+END_QUOTE
+
+show them a picture of the layout of the keys, with strange symbols on each
+key. in a different colour on each key put a number.
+
+#+BEGIN_QUOTE
+what do you type?
+#+END_QUOTE
+
+whatever they type, continue on
+
+#+BEGIN_QUOTE
+the input fields flash red, and then clear. it seems you didn't type in the
+right thing. what do you do?
+#+END_QUOTE
+
+do that a few more times, depending on how often the person is responding
+
+#+BEGIN_QUOTE
+the input fields flash red one last time, then they go grey. a strange being
+pops into existence to the right of the input field. its body is like a spiral
+that has been stretched tall, with two great bugged out eyes stuck on random
+parts of the spiral and eyebrows hovering strangely above them. part of the
+spiral moves, and a low droning voice speaks in a language you don't
+understand.
+
+what do you do?
+#+END_QUOTE
+
+it's clippy. show them a picture if they don't clue in.
+
+***** if they say something
+:PROPERTIES:
+:ID:       c0e57136-2f43-4432-8036-16e79779c9bb
+:END:
+clippy immediately responds
+
+#+BEGIN_QUOTE
+he immediately responds to you in english
+#+END_QUOTE
+
+****** if they've put clippy through more than two or three cycles
+append this to the top of the "if they haven't" below
+#+BEGIN_QUOTE
+"well i really do wish you had spoken up earlier! imagine how much fun you'd be
+having already! anyways."
+#+END_QUOTE
+
+****** if they haven't
+#+BEGIN_QUOTE
+"i'm sure glad we got that sorted out! i can't help you get this problem sorted
+out if we can't understand each other, now, can we? so it seems like you're
+having problems logging in. is there something i can help you with?"
+#+END_QUOTE
+******* TODO figure olut what happens from here
+:PROPERTIES:
+:ID:       a3eb3c1d-57ca-4190-9888-ae58789fe9cf
+:END:
+they start out in a low res data arena. like the first wolfenstein game low
+res. each character should get different visuals. one gets fantasy, one gets
+sci-fi, one gets point and click adventure, or pick some old dos games and
+that's how they view the world.
+
+maybe one will be in a fantasy realm, make it seem pretty much like some stock d&d
+world. have them go on a 1st level adventure ("go kill some rats") or something.
+
+they should eventually end up in a virtual world that turns on the other
+screens. creatures and terrain appears as holograms, and the floor moves to
+simulate the terrain. it should still be pretty low res, though; closer to doom
+than half-life
+
+don't let them meet up with the other characters for a little while, and don't
+bring them all together at once. they also shouldn't actually talk to each
+other; i should relay what they say to each other. that way i can mess with them
+by having the other characters occasionally be npcs -- or have an npc take over
+suddenly when they're hit with the dreaded netsplit
+
+also need to figure out how long clippy stays around, and if he's the villan or
+not.
+
+would be fun to have a wholy-digital villan to throw into the mix
+******** what UREOS sees
+******** what FOX sees
+******** what KLEP sees
+******** what BELEL sees
+******** what ZENO sees
+nothing "visual"; it's like his eyes are disconnected but he's still receiving
+targeting telemetry. he basically processes the world as if he was in like a
+prototype of a prototype of a prototype of a 3D video game. everything is basic
+geometry; blocks and spheres mostly. he doesn't see a bunch of those making up a
+person, no: until a person poses a threat they're just a sphere. the more
+dangerous someone is, the more details are filled in.
+
+however, no matter whether someone is a sphere or someone is a very realistic 3d
+model, zeno is always able to pull up a pretty simple interface that's closer to
+being something from the days of the atari than anything newer. he can get
+details about each entity, and can toggle some of that information to
+permanently display. for example, if zeno opened the menu and chose the option
+correct option, he could see information for an entity, such as it's name. by
+selecting the name and using the correct command, he could have the name show up
+above the entity ( thankfully in a small enough font that it's not taking up
+like an 8th of your view ).
+
+otherwise your viewpoint is like that of a camera that hovers at about where
+Zeno's head is, and you can see some simple geometries making up your body. you
+can get a more detailed view of your limbs but that requires more processing
+power. the more definition you see for your body & limbs, the less you get in
+other places.
+
+that viewpoint is viewed through the screen in front of the chair. the screen to
+your left is like if you were using an IRC client on the command line. what
+people say to you shows up here as chat messages.
+
+the screen to your right is kind of like a computer desktop, there are some
+programs you can open that allow you control over some states of your body, or
+give you access to custom scanners or other inputs
+
+behind you is a screen seemingly showing system status, like the health readout
+for a mech warrior in one of those video games. you can see a bunch of health
+statistics, including stuff about your mental stability. there seem to three
+windows open on this screen showing three different faces; these are where
+different advisor programs will attempt to assist your decision making abilities
+
+the strangest thing is that despite the spatial positioning of the screens as
+they appear when you focus on one of them, you are also able to perceive all of
+them simultaneously as well -- just with slightly less detail on each screen.
+
+this is what you currently see on the view screen:
+
+you are standing in a non-descript box, with what appears to be an egress portal
+set into the wall to your left. before you hovers a purple sphere.
+
+what do you do? The commmand "C-x C-b overlay-interface" opens an overlay with
+commands for what zeno can do -- think of it like a hydra in emacs, but with a
+font so big and blocky it takes up a pretty big party of the "input camera
+view". otherwise, use the chat window to say something ( use whatever notation
+you want to mean what zeno is /doing/ vs what he's *saying*. )
+
+
+
+***** if they do anything else, or they do nothing
+clippy watches them, keeps talking but they can tell it's switching languages,
+none of them human until he finally gets to english, like days later. ask them
+what they do
+****** if they talk
+[[id:c0e57136-2f43-4432-8036-16e79779c9bb][go here]]
+****** if they do nothing
+clippy just keeps talking for a few more days before leaving
+****** if they hit more keys
+clippy comes back, all that wil repeat again. if they keep the cycle up, clippy
+will get agitated, will seem to be pleading with them to just talk.
+
