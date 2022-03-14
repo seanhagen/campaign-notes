@@ -19,6 +19,8 @@ I'm willing to hear them out, but keep your sword sharp.
 **** Voz Dynasty
  - is a member of the royal family (technically)
  - the dynasty seeks to take control of Maka Tho
+ - her full name is Ibakha Togh Celi ( clan family personal, not personal family
+   like we're used to )
 **** Maka Tho
  - there is a route through Maka Tho to Sudboia
  - she needs to find it again
@@ -42,6 +44,14 @@ too young at the time. The trained harder than any in her class though, and has
 a need to prove that she's not just another royal brat.
 
 Arrived back in Maka Tho with ~10 people.
+
+Took in all the lessons about honor, only fighting as a last resort ( but
+fighting with everything you have ), and being a fair and equitable ruler --
+which, combined with her somewhat sheltered upbringing has made her somewhat
+incompatible with her father's plans. He's hoping that time in the army will
+bring her around to his point of view. He was wronged by Ager in the past; Tashi
+was meant to be next in line to rule and take on the mantle of the Stalwart
+Protector.
 
 *** TODO Stat Block
 ** Duke Shale Feleke Tegene (Level: 6)                            :neutral:
@@ -493,6 +503,9 @@ forgiveness from the gods, he laughed, and for the first time in his life he
 felt such a strong pleasure, crazy The laughter was submerged by accusations,
 echoing in the empty hall, no one knew...——a diary diary
 ** Memory
+:PROPERTIES:
+:ID:       a81d4099-1451-409d-80b2-6c9ed6457109
+:END:
 The hidden one
 
 https://www.artstation.com/artwork/ZGB5Om

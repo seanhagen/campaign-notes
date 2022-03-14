@@ -475,18 +475,11 @@ need to write better articles for each timeline entry
 
 https://static.tvtropes.org/pmwiki/pub/images/EmpressOfMijak_6998.jpg
 
-
 **** BACKLOG army
 - leader
 - fighting style
 - structure
 - anything else special about the army
-**** BACKLOG cities
-- [ ] capital city
-- [ ] mining outpost
-- [ ] trade stop
-- [ ] city near no-mans land
-- [ ] one more city
 **** BACKLOG nobles and important npcs
 - [ ] queen's consort ( crown prince )
 - [ ] how the nobility works, what's their duties, etc

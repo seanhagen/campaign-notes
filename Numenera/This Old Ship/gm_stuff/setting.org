@@ -1,0 +1,1284 @@
+* Maka Tho
+* Sable Hegemony
+* Sudboia
+** Culture
+*** Names
+General custom among Sudboians is that they have three names:
+  - clan
+  - family
+  - personal
+  - private
+
+Clan & family names are shared freely. Personal names are often given freely,
+although it's common for personal names to be withheld when dealing with people
+whose motives or actions are unknown, unscrupulous, or antagonistic. Basically,
+when you want to be able to hide behind your clan or family, you withhold your
+personal name.
+
+Private names are chosen by the individual, and only shared with those most
+important to them. An important moment in every Sudboian's life is when they
+finally figure out their private name. It's usually comes around the time they
+figure out what they want to do in life.
+
+Lastly, nicknames are fairly common among Sudboians. Due to a reluctance to give
+out someone's personal name without them knowing or approving, Sudboians often
+use a nickname of some kind when referring to a third party not currently
+present.
+
+For example, an Army Captain might go by "Cap" or "Captain" and would be
+introduced as "Captain <clan> <family>" to members not in the unit.
+
+The one exception to how names work is when someone becomes Sacred
+Defender. They give up their clan & family names and take on the name
+Sudkhan. This signifies that they have left their clan and family behind them
+and they are now only a member of the clan of clans, responsible for all clans
+while belonging to none. This new name is the only name used to refer to them
+for as long as they are Sacred Defender. So while someone is Sacred Defender,
+you'd refer to them as "Sudkhan <personal>" even when talking about their life
+before becoming Sacred Defender. 
+
+*** Nomadic vs Stationary
+While the majority of clans in Sudboia are nomadic, there are some that live
+partially stationary lives. Additionally, a small handful of clans live entirely
+stationary lives in cities comparable to many throughout Calda or the Steadfast.
+
+However, nomadic doesn't mean that a clan doesn't pursue things like agriculture
+and the like. Rather, they have different halting spots that they move to for
+specific seasons, festivals, or a number of other reasons. A clan might spend
+all spring and summer out hunting, trapping, and gathering before heading to
+their holdfast in the mountains where they've got some secret hot springs -- and
+just repeat that cycle.
+
+Other clans have a multi-year ( or multi-generational ) migration pattern that
+sees them cross all of Sudboia. Some clans even have migration plans that take
+them entirely out of Sudboia for months or years at a time. There are even a
+handful of clans that live in cities, but the entire city packs up and moves to
+another city every few years -- swapping with another clan.
+
+Also, even the most nomadic of clans has a holdfast of some kind; a place they
+can go as a last resort or when the whole clan goes to war. In such times the
+eldery, sick, infirm, those who don't wish to fight, and those too young to
+fight make their way to the holdfast and await the return of their friends and
+family.
+
+These holdfasts and nearly continously occupied cities are usually spots of
+particular importance, either to that specific clan, or to all the clans of
+Sudboia.
+
+For example, there are a number of forts and walled cities along the northern
+mountains that always have a clan living there. Some of those clans stay there
+permanently, others use the walled city as one stop of many on their migration
+path. Some clans have lived in the same city or fortress for as far back as
+whatever historical records they have. As clans tend to accumulate lots of
+the written word whenever they're stationary, some cities have documented
+histories going back over a thousand years. 
+
+It's also not unheard of for a clan to switch from being wholy or partially
+nomadic to stationary, or the other way around. For clans that normally occupy
+an important site such as a military outpost ( or more recently, trading post )
+they will find another clan willing to temporarily or permanently take over the
+care and running of that location. 
+
+*** Religion
+Religion in Sudboia is as varied as the clans that make up the people that live
+within the hazy boundaries of this land.
+
+These things can usually be counted on to believed, to some degree, by any clan:
+ - there is a pantheon of great heroes who have earned a spot in Valhom, a
+   paradise full of adventure and wonder
+ - there is an okay but somewhat dull place named Erdu where those who don't
+   achieve greatness go, to await rebirth so they can get another shot at
+   getting into Valhom. it's not bad, it's jut not good, either. pretty much the
+   only thing to do is watch the living.
+ - the spirits of a persons ancestors who are still in Erdu try to guide them
+   via signs and signals, but most often through dreams
+ - truly evil people's souls are twisted upon death into evil spirits that haunt
+   the living and try to tempt others into evil
+
+Not all the clans agree on all that, but there is a few things they all believe:
+ - there are gods who watch over the clans
+ - there are evil demons who reside in a truly terrible place, that can escape
+   onto earth every 1000 years, and every person they kill before being
+   vanquished makes them more powerful the next time they're reborn
+ - that earning a place in Valhom is less about being perceived as great, but
+   becoming the best version of yourself you can be; several of the "heroes" who
+   legends say live in Valhom are folks who did stuff like "discovered a way to
+   build healing cyphers" or "wrote the saddest play ever" -- some even just
+   meditated on existence. plenty got in through fighting, sure, but the point
+   is that you don't have to go kill a bunch of folks to get in -- being the
+   person who ends a several century feud between clans has the same chance at
+   getting in as the person who killed an entire clan singlehandedly
+
+There isn't really any organization to how religion works in Sudboia beyond
+that. Each clan has their own jumble of traditions, prayers, holy spots, feast
+days, etc. Otherwise, most folks only really think about gods, spirits, and
+their ancestors when seeking guidance. Meditation is common among every layer of
+society, whether as a means of seeking guidance from spirits or ancestors; or as
+a way of looking inward to determine if you're on the path that feels best.
+
+Outside of whatever totems or other important artifacts a clan includes as part
+of their religious practices, there are two things all clans share.
+
+The first are small carvings of your ancestors. It's commonly thought that when
+the carving has been worn down to splinters then that ancestor gets to be
+reborn. A carving being destroyed in any other fashion ( accidental or otherwise
+) means they're stuck in the afterlife until a new carving is made. It's a
+common practice for a Sudboian to roll the totem between their hands while
+saying some prayers when first waking up or before going to bed.
+
+The second is the Kohk Chi, a specially carved piece of wood that's used as the
+central support for tents, yurts, or homes. This piece of wood is meant to have
+any major events that happen to the family carved into it. Newlywed couples are
+given a new piece of wood for their own dwelling -- one that has been
+painstakingly worked until it is perfectly square and smooth. It's expected that
+the newlywed couple will spend their first week together relaxing and carving
+the story of how they met into the post. In clans that spend either some or all
+of their time as nomads, it's common for multiple families to share a tent or
+yurt. In these cases the oldest Kohk Chi is used as the central support, with
+the others used to support the roof.
+
+The carvings on a Kohk Chi aren't expected to be works of art, while at the same
+time being easily recognizable in some way so that even folks not familiar with
+the history can guess at the deeds & stories carved into the Kohk Chi. It's
+considered the height of arrogance to try to use confusing or vague imagery to
+try and hide shameful deeds or to exaggerate tiny ones. Also, one of the few
+crimes that carries the punishment of immediate banishment ( from Sudboia, not
+from your clan ) is the intentional disfiguring or destruction of a Kohk Chi --
+even your own.
+
+Lastly, when a Kohk Chi is full and there is no more space for carvings, the
+family will take the Kohk Chi and lay it to rest. For some families this means
+taking it to their ancestral burial grounds to be buried. Other families bury
+them in unmarked graves. Families that have a permanent or part-time dwelling
+sometimes opt to move the Kohk Chi so that it is still visible, either hanging
+horizontally from the ceiling or vertically near a wall.
+
+The Kohk Chi has a close cousin, the Kohk Cha -- the clan story. This is a much
+larger piece of wood, often the trunk of a mala tree. The mala tree is famed for
+its elusiveness and incredibly hard wood. Once a mala trunk has been prepared,
+it is used in a similar fashion; but major events that effected the whole clan
+are what are carved into it. The only person allowed to carve the Kohk Cha is
+the clan chief, but there are no rules saying the Women's Council or the entire
+clan can't pester them until they add something.
+
+*** Laws
+There aren't a lot of laws that all the clans have in common. However, there is
+a core set of laws that all clans follow. One clan may interpret a law in a
+different way than another, but such differences are often minor. When a clan's
+interpretation of a law begins to diverge too much from the other clans, the
+Kiot will dispatch a member ( or sometimes a team ) to investigate the
+divergence. In most cases it's simply the result of the more nomadic or
+far-flung clans slowl diverging over time. Some times it's the result of a clan
+chief or women's council deciding on a different interpretation due to details
+or circumstances not covered by the original law. Such cases usually resolve
+themselves, as the unique circumstances don't often re-occur. In either of these
+cases, the Kiot guide the clan back to the common interpretation.
+
+However, in cases where the clan is facing a situation where the new
+interpretation is necessary the Kiot have a few options. Usually this is the
+case when something new or unexpected occurs that everyone can see will continue
+to occur. The best example of this are the ways in which the law has had to
+change to accommodate the fact that it's becoming more common in Sudboia to
+encounter outsiders -- people with no understanding of the laws of Sudboia or
+ties to some of the concepts the laws are based on. This has proven difficult,
+as those core concepts are things like how everyone is a member of a clan; of
+the responsibilities and authority granted to chiefs and Women's Councils; or of
+the interaction between clans, the Kiot, and the Sacred Protector.This has
+created something of a political mess that ambassadors from both the Voz Dynasty
+and the Sable Hegemony are still trying to sort out to this day.
+
+**** Rights and Punishments
+Despite all that, most of the law can be boiled down to some core concepts that
+all clans agree on. The Kiot is responsible for maintaining these core concepts
+and ensuring that all clans interpret what they mean in the same way.
+
+For most of the law, the smallest unit is that of the family. Families have
+duties and responsibilities within their clan, and clans have duties and
+responsibilities within the "clan of clans" ( the translation of the closest
+word Sudbioans have for "country" ).
+
+Individuals still have a set of basic rights; bodily autonomy, personal
+property, freedom from harm, and freedom of self are some of the key
+concepts. However, these rights are conditional on the individual upholding
+their duties to their family, their clan, and the clan of clans. In other words,
+if you don't pull your weight you will be forced to. If someone wants to spend
+all day drunk, or high, or staring at the sky and writing poems then they can,
+they just have to be okay with their family or clan saying they have to dig
+latrines at the next camp, or to clean and feed the pack animals, or any of the
+many jobs nobody really wants to do but are required for a functioning society
+-- even a nomadic one.
+
+Each of those rights might mean something different to a Sudboian than what it
+means to you. So let's start with personal rights before moving on to family
+rights, clan rights, and clan of clan rights.
+***** Personal Rights
+****** Bodily Autonomy
+This means you are in control of what happens to your body
+pretty much from the age you're able to take care of your self -- outside
+of situations where someone with more knowledge has no choice but to
+inflict a small harm or ignore your bodily autonomy in order to save your
+life; think doctors and tackling someone trying to do something bad.
+****** Personal Property
+Personal property means that what's yours is yours, but that means it's
+_yours_. You are responsible for your stuff, which includes ensuring it's not
+causing a burden to others. If you no longer need something because it's
+now useless or you just don't want it any more, you are responsible for
+ensuring it is put somewhere it won't affect other people and their
+rights. IE, don't leave your trash in the street, clean up after yourself,
+etc.
+****** Freedom From Harm
+Freedom from harm means that you should expect to be free from getting
+harmed intentionally -- including emotional or mental harm. Also covered by this
+is talking someone into a situation where they will hurt themselves,
+particularly if you leave out information required for someone to know if
+they're putting themselves into a potentially harmful situation. 
+
+Also, _you_ are the arbiter of what constitutes harm ( within what the Women's
+Council and Kiot determine to be reasonable ). So someone can't spend all day
+making fun of you and then claim it was a joke; you feel hurt, so you are hurt,
+which means they caused you harm.
+
+The caveat is putting yourself in a situation where you should expect to get
+hurt. You can't blame someone for breaking your leg cliff jumping when you
+should have been able to plainly see that was a potential outcome.
+
+One of the harder lessons from this right is that you are still responsible when
+in an altered mental state you put yourself into. If you get drunk and then
+punch someone cause you got angry, you're still at fault -- you chose to get
+drunk, everything that happens after is still on you. 
+****** Freedom Of Self
+Basically, this is a general catchall for rights that don't fit
+the other three basic rights. The idea is that you are the arbiter of your
+life, nobody else. While this means you're mostly free to do what you want,
+you do have to keep in mind your responsibilities to your family, clan, and
+clan of clans.
+
+***** Family Rights
+Above the individual is the family. Families have rights that apply to
+everyone in that family. Just like personal rights, while some clans might have
+an extra right or two, these are the core ones every clan has.
+
+****** Right to Food & Shelter
+As a family in a clan, the clan has a responsibility to keep your family fed and
+sheltered. This is more about communal strength than altruism -- it makes more
+sense to try and make sure everybody is fed and has a place to rest so that if
+you're suddenly attacked everyone can help defend the clan.
+
+While how this is upheld varies from clan to clan, but it usually boils down to
+each family being provided with a tent or yurt, along with daily rations. For
+some clans this means pooling resources and distributing them equitably, for
+others it means chipping in to help out.
+
+For example, some clans simply ensure everyone has access to the materials
+required to build shelter and a basic food staple or three. On the other hand,
+some clans go the whole 9 miles -- coming together to craft a new tent, yurt, or
+house when a family needs a new one ( or for a new family just starting out ),
+and sharing good food among everybody.
+
+****** Freedom from Unjust Persecution
+The basic idea here is that a family shouldn't be shunned because of actions
+outside their control. Many clans include families of wrongdoers in this; a
+family can do everything right and still have a child grow up and accidentally (
+or intentionally! ) kill someone.
+
+The basic idea is that while a family is responsible for raising and caring for
+every member of the family, an individual is still responsible for their own
+actions.
+
+There is some play here, though. A family who is known to be abusive has much
+less leway if one of their members kills someone (although the clan chief,
+Women's Council, or the Kiot try to step in before things get that bad).
+
+****** Right to Participate
+Families have a say in decisions that affect the whole clan. When to move on to
+a new site, how to deal with a wrongdoer or a tax levy -- every family gets a
+vote.
+
+An important thing to note is that how this right is exercised can vary from
+clan to clan. While Women's Councils and the Kiot try to ensure some kind of
+fair method is used within families to arrive at a decision, how a family votes
+is entirely up to whoever shows up at a meeting to vote.
+
+If one member is the only one that shows up to vote, in that moment it doesn't
+matter if they used threats and intimidation to force the rest to stay home, if
+they poisoned them so they'd be throwing up, or if the rest of the family
+genuinely doesn't care. In that moment, whoever shows up gets to say how the
+family votes. However, in most families they vote privately, and the current
+heads of the household bring the result of that vote to the meeting to be
+entered as the family vote.
+
+If a family starts to have a pattern of only one member showing up, usually the
+Women's Council or the Kiot will quietly investigate to ensure everything is on
+the level.
+
+***** Clan Rights
+****** Right To Territory
+Each clan has their territory. Territory can overlap with other clans, such as
+when multiple clans share a halting site. However, most of the territory that
+belongs to a clan belongs to them and them alone.
+
+A clan can do whatever they want on their territory so long as it does not
+infringe upon another clan or another territory without some sort of agreement
+in place.
+
+For example, if a clan wished to start mining a particularly rich vein of
+minerals from a seam near a river they have two choices. Mine in a way that
+ensures they don't pollute the water at all, or get permission from every clan
+that has territory the river passes through to allow them to pollute ( usually
+done when a clan only needs to mine for a short period of time before moving on ).
+
+This also extends to shared halting sites; however these are usually covered by
+extensive agreements that say what each clan sharing the halting site is allowed
+to do while they control the halting site. Usually this boils down to "don't
+change things too much, try to improve the place instead of making it worse".
+
+****** Right To Join
+If two clans wish to join together, no other clan can prevent that. However, the
+new clan is bound by any existing tax levies, or inter-clan agreements either of
+the parent clans were bound by. A clan can't escape a tax levy by joining
+another clan.
+
+The new clan territory is determined with the following rules:
+ - Territory held by only one of the parent clans now belongs to the child clan
+ - Territory held by both of the parent clans and no other clans belongs to the
+   child clan
+ - Territory held by one of the parent clans and a third clan is now contested,
+   any agreements in place about the use of that territory must be renegotiated.
+ - Territory held by one or both of the parent clans and multiple other clans is
+   relinquished and now belongs to the other clans.
+
+The idea is that any territory only shared by the one or both of the two clans
+before they merged still belongs to the new "child" clan. But any territory
+claimed by other clans either must be renegotiated or given up, based on how
+many other clans have a claim to that territory.
+
+For example, imagine four clans, A, B, C, and D.
+
+A & B wish to merge. Each has a halting site they call their own, and one
+halting site they shared. These three halting sites now belong to the AB child
+clan.
+
+B & C were sharing a halting site; AB must negotiate a new agreement with C on
+how the site will be shared.
+
+A & C & D were sharing a site; C & D now control that territory, AB has no claim
+to it.
+
+If all four shared a single halting site it would fall under control of just C &
+D.
+
+This is mostly to try and curtail one clan from strong-arming other clans into
+joining in an attempt to gobble up territory.
+
+***** Clan of Clan Rights
+The "Clan of Clans" ( or CoC ) is the closest Sudboians come to considering
+themselves part of a country.
+
+When it comes down to it though, the Clan of Clans really only has one right,
+and a bunch of responsibilities.
+
+Part of why this works is that the Clan of Clans can be though of as a clan with
+the Sacred Defender as clan chief. Regular clans are to the CoC as families are
+to a clan.
+
+The rights and duties of the Clan of Clans can really be thought of as the
+special rights & duties of the Sacred Defender, as they're really the only
+individual that has these special rights & duties. This is due to them basically
+giving up clan and family to become Sacred Defender.
+
+****** Right To Require
+As all responsibilities and duties flow uphil, this is where they are
+heading. The Clan of Clans has the right to require clans perform certain
+actions. This is the basis of how the Sacred Defender is able to levy
+taxes. While some of the taxes already existed in some form or another before
+the Clan of Clans, this right enshrined as law the ability of the Sacred
+Defender to levy a tax in order to do things to benefit all the clans.
+
+Additionally, this is why the Sacred Defender is technically the head of the
+Kiot as well as the Great Army. However, in both of these groups ( they're not
+really institutions ) things function much like they do at a clan level. The
+Sacred Defender can set the general course that the Kiot or the Army will take,
+but it's up to individual leaders to chart the exact path the course takes.
+
+What keeps this whole messy ball from falling apart are cultural and external
+factors that Sudbioans are smart enough to realize they can't face as individual
+clans or families and so occasionally have to set aside some or all of their
+personal, family, or even clan freedoms to ensure that their clan, their family,
+and themselves continues to be able to enjoy those rights later on. The same way
+families band together into clans to better protect what's theirs, clans come
+together to protect all the clans.
+
+****** Duty of Protection
+The first duty of the Clan of Clans 
+****** Duty of Guidance
+****** Duty of Care
+*** Dress, Food, Entertainment
+*** Important Locations
+**** Plains of Ikara
+:PROPERTIES:
+:ID:       78f8c587-51ff-4df9-92ea-78e3159056f3
+:END:
+Legend says the Plains of Ikara is where the people of Sudboia first came
+together as one to defend their lands. It's where they became Sudboia, which is
+an ancient term that means "protectors of glory".
+
+The clans were forced to band together to push back a massive invasion of
+abhumans from the lands far to the north. Once the crisis had passed, the
+Women's Councils came together to try and figure out a way to make this alliance
+a bit less temporary and a bit more permanent.
+
+What they came up with is the role of Sacred Protector, which was the title
+given to the hero who sacrificed themselves at a key moment to turn back the
+abhuman tide.
+
+*** Myths, Legends
+**** The First Protector
+Back before Sudboia was Sudboia, there were the clans. There had always been the
+clans, and the clans would always be.
+
+The clans did as clans do: they traveled, protected their territory, and traded,
+fought, and partied with other clans.
+
+One day, a single member of the Khan Clan presented himself before two hunters
+of the Oda Clan. The Khan Clan and the Oda Clan had been antagonistic towards
+each other for the last few generations. Things hadn't erupted into outright
+fighting, but small skirmishes over resources were somewhat common. 
+
+The Oda Clan hunters almost killed the Khan Clan member immediately, but two
+things caused the hunters to lower their spears and put away their bows.
+
+The first was the position of absolute humility that the Khan Clan member had
+used to present himself: on his knees, hands on his thighs, palms out. This
+position had many names, but one purpose: to present oneself as lesser or
+subservient. No weapon to hand, and in a terrible position to be in should the
+person they are talking to decide to attack. Such a position of deference was
+reserved for one of two occasions: when surrendering to another clan after a
+battle in order to save what lives remained -- or when a messenger wanted to
+ensure that their message was heard, by presenting themselves in a way that says
+"you can kill me, just let me speak, first"
+
+The other reason the Oda Clan didn't attack was, well, everything else about the
+Khan Clan member.
+
+For so long, the Khan Clan had been mocked as wanting to rule. The joke was that
+their name should have been the Khon Clan -- the "King" or "Ruler" Clan. They
+dressed in fancy silks, wore gaudy jewlery, and their weapons were often so
+gilded and covered in ornamentation it was a wonder they still worked as
+weapons. But despite how they looked, the Khan Clan had the skills to back up
+their ambitions. They had only been stopped when several other clans banded
+together to force the Khan Clan to stop their expansion and atone to the clans
+they had attacked.
+
+This member of the Khan Clan none of those things. Barely alive, they collapsed
+in front of the Oda Clan members, passing out from exhaustion. The two Oda Clan
+members quickly decided getting this person help was more important, feud or
+no. That decision saved the lives of every Sudboian who survived the war up
+until the present day.
+
+The two Oda Clan members managed to get the Khan Clan member back to their
+halting site quickly enough to get him some medical attention. However, his
+wounds were too severe; a combination of weapon blows and spending weeks
+traveling by foot had done some serious damage.
+
+Before he died, the Khan Clan member passed along a message. He spoke to the two
+hunters who had found him, a handful of the Women's Circle, and the clan chief.
+
+"I am Khan Gi Ko Runk. I am the last of the Khan Clan. They are coming for every
+clan, and none of you have the might of sword or strength of bow to turn them
+back. Please, take this and warn the other clans. Make them believe you -- or
+our ancestors will never reach Valhom, and all our names will be naught but dust
+and ash."
+
+In his hands, held so tightly it had dug and cut into his flesh, Khan Gi Ko Runk
+held the Sword of Jade -- the artifact said to be the source of the Khan Clan's
+might and wealth. The location had been a closely guarded secret for hundreds of
+years; for a member of the Khan Clan to not only willingly hand it over, but to
+hand it over as proof the Khan Clan was dead and gone was all the clan chief of
+the Oda Clan needed. The Women's Circle agreed that no member of the Khan Clan
+would willingly surrender the Sword of Jade unless nobody else was left alive.
+
+By the time they finished discussing the sword and what to do about the message,
+Khan Gi Ko Runk had died.
+
+Every member present swore an oath that very moment.
+
+The Oda Clan chief declared that he would not rest until whoever was responsible
+was dead. The Women's Circle said they would send messengers to all the clans:
+meet on the Ikara Plains. The two hunters vowed to not rest until every clan
+heard the message and agreed to meet on the Ikara Plains.
+
+A stretch of grassland nearly completely empty but for the gently billowing
+stalks of ikagrass, the Ikara Plains had been used as a neutral meeting ground
+for centuries.
+
+The only thing that stood there at the time was the pillar and the gate.
+
+To be considered "at" Ikara Plains, one had to travel through the gate from
+south to north. This was considered to be the same as making a pledge of
+non-violence, similar to what a visiting family or clan might do when meeting
+another clan. Breaking such a pledge was considered to be the same as
+purposefully defacing and then burning a families Kohk Chi. 
+
+The only other structure at the meeting grounds was the pillar. The pillar was
+column of smooth rock that stood ten feet tall. Anyone who wished to speak to
+the those gathered at the Ikara Plains would get up on top of the pillar. When
+they spoke, everyone who could see the speaker would hear them as if they were
+standing next to them.
+
+As each clan arrived, they all saw the same thing. The leader of the Oda Women's
+Council, a gruff old woman harder than stone known as "Grandma Oda". She stood
+upon the pillar, the Sword of Jade held in her hands, tip touching the
+pillar. All of the rest of the Oda knelt around the pillar, facing
+outwards. They had assumed the position of deference, hoping that would be the
+first arrow in their quiver as they attempted to convince the other clans.
+
+As more and more clans arrived, they began to clamor for information. They
+shouted and jeered, some even going so far as to imply the Oda Clan wished to
+brag about defeating the Khan Clan with as little grace or honor as possible. 
+
+Despite this and worse, the Oda Clan stayed put. Grandma Oda stood on top of the
+pillar for a week. Somehow, without food or water, Grandma Oda stood on the
+pillar and stared down any who dared to challenge her or her clan's honor. That
+icy stare quieted most hecklers after a while.
+
+Eventually, all the clans had arrived. When the last member of the last clan
+passed through the gate, Grandma Oda spoke.
+
+"Be. Quiet."
+
+Those two words silenced every mouth on the plains. Even those not looking fell
+quiet as they turned to look at Grandma Oda. In some cases, people were so far
+away that Grandma Oda was barely a speck on the horizon. But thanks to the
+pillar, everyone heard her.
+
+"We did not bring you here to gloat. We are not here as conquerors. We are here
+as witness, and as avengers.
+
+Two weeks ago, a member of the Khan Clan showed up on our lands, before two of
+our hunters. He prostrated himself in the manner we all do before you now,
+hoping the hunters would choose to hear his message. He was brought back to our
+halting site, where I, Oda Ken Chief, several members of the Women's Council,
+and the two hunters heard the messengers words. I committed them to memory, and
+have been repeating those words to myself since.
+
+I did so because I wanted to understand his message fully before passing it on
+to you. I needed to know what might lay behind his message. If it was a trick or
+some kind of subterfuge. It was neither of those things. It was, and still is,
+the most powerful thing any of us have: the truth.
+
+So listen to his message, as I have heard and remembered, so that you can
+remember and pass it on yourselves."
+
+Grandma Oda paused for a moment, taking a moment to look at all those gathered
+around her. What she was looking for nobody is sure, but apparently she found
+it, and was satisfied.
+
+When next she spoke, she used the truth voice; a way of tone and timber taught
+to high ranking members of the Women's Council. The truth voice is special, and
+only used in very specific occasions: when the speaker knows, without a doubt,
+that what they are saying is true.
+
+"I am Khan Gi Ko Runk. I am the last of the Khan Clan. They are coming for every
+clan, and none of you have the might of sword or strength of bow to turn them
+back. Please, take this and warn the other clans. Make them believe you -- or
+our ancestors will never reach Valhom, and all our names will be naught but dust
+and ash."
+
+After she finished, she looked out at the gathered crowds. At the faces showing
+so many different emotions. A few voices started to cry out, questions lost to
+the wind.
+
+Grandma Oda spoke again.
+
+"Be. Quiet."
+
+She lifted the sword, and tapped it once against the stone column. A tiny sound
+that echoed across the plain like thunder.
+
+"We did not abandon our lands to bring you lies. We did not send our quickest
+and best hunters racing across the plains to gather you up to deceive you. We
+did not wait here, fasting, committing the words of Khan Gi Ko Runk to heart,
+etching them into our souls.
+
+He did not brave the plains alone, for ancestors know how many weeks, to hand
+over the greatest treasure of the Khan Clan to one of their most hated
+rivals. He did not save his last breath for this message, only for it to wither
+in your ears!
+
+We did not send our bravest and best warriors into the lands of the Khan because
+we thought the gods had struck our enemies down. We did not send them out after
+performing the ancient Oda rights of passage because we thought there was no
+danger to be found from the Khan.
+
+We sent them out under a flag of war, to bring vengance for the Khan.
+
+We sent them out as dead women and men, walking ghola, because we were certain
+they were heading into doom.
+
+We sent them out, hoping they would bring word back that the Khan had been
+felled by disease, or famine, or some accident or play of the Gods.
+
+We sent them out dead, and hoped they'd return.
+
+We sent them out over a week ago, before any of you arrived.
+
+We sent them north, from here, on what should be a two day ride to reach the
+heart of the Khan homelands."
+
+She stopped, and slowly turned once more to look at all those gathered.
+
+Before speaking, she tapped the sword on the pillar once more, sending out
+another ringing peal of thunder.
+
+"We are here, now, to tell you our warriors are dead.
+
+We are here, now, to tell you that something terrible lay over that horizon.
+
+We are here, now, to ask -- no, to beg.
+
+We, the Oda, killers of the Silvered Flags, wielders of the Steelglass Bow, sons
+and daughters of the dire wolves of the plains, walkers of the 6-fold path -- we
+are here to beg you, all of you: it is time to march. Whatever is waiting to the
+north, whatever killed the Oda, and our warriors, we need to face it now, with
+the full weight of all our swords and mounts and spears and warriors. Together,
+as a single blow, we will tell whoever this invader is that while we are all
+clans apart, separate and divided, we are also a clan of clans, a family that
+has walked every inch of this plain and knows it as our own.
+
+We beg you, humbly.
+
+I, Oda Kina Uma Shire, beg you.
+
+No, wait. You all need to understand what we have come to understand.
+
+As we have waited for you all to arrive, we have discussed how to convince you
+of why this is necessary. How to convince you this isn't retribution against the
+Khan, or a trick of some kind or another.
+
+For you all to understand what we are willing to sacrifice to have even just one
+more sword, one more spear, one more arrow, one more dagger..."
+
+One thing must now be made clear to you.
+
+Each clan has their customs and traditions. Ways of marking time and the
+seasons. Ways of showing the world their family ties. In some clans this is done
+through tattoos, or piercings, or specific hair styles. In the Oda Clan, your
+hair was your connection to your clan. Elaborate braids, each with secret
+meaning, bound up each Oda Clan members hair, starting when they reached the age
+of majority.
+
+Oda Kina Uma Shire's braid was 6 feet long, and she looped it around her neck
+almost like a scarf to keep it off the ground.
+
+Her braid was a story of a long life, well lived.
+
+She took hold of the Sword of Jade in one hand, and gripped her braid near the
+base -- and cut off the entire braid with the sword.
+
+She held it out, and slowly turned. This time, every member in the crowd felt as
+if she stared directly into their soul.
+
+After she had completed her rotation, she dropped the braid before her. At this
+point, those close enough to see the rest of the Oda clan realized they were all
+holding their braids. In their other hands they held daggers. Even the youngest
+of the clan stood ready.
+
+Oda Kina Uma Shire tapped the sword on the pillar one last time. When she did,
+every member of the Oda Clan cut off their braid.
+
+"I am now Uma Shire. Without family. Without clan. My family marches to war, my
+clan is dead. The Oda are no more. They died as the Khan did: delivering a message.
+
+This is the truth we beg you to understand. This is how important we feel this
+is. It is bigger than family. Bigger than clan.
+
+Please. Come with us.
+
+Face this invader. Tell them that to take this land, they need to take it from
+all of us. That so long as one of us stands, this land will never be theirs!
+That so long as one of draws breath, they will have to fight for every step they
+take!
+
+We will etch a story of blood and destruction into their souls so final that
+their name will be lost to history.
+
+The gods will turn from them in horror, for we will mark them with every rune of
+aversion we know.
+
+The winds will never stir their fields, the rain will never quench their thirst,
+their crops will never grow in the lands we deny to them with every drop of
+blood we have.
+
+Come with us, as we go to commit total war.
+
+Come with us, and avenge the Khan and the Oda."
+
+Besides the wind, there was no sound.
+
+For a full minute, nobody spoke. Nobody knew what to say.
+
+At last, a woman near the now clanless warriors stood.
+
+"I am Ibahka Togh Kira Sun. I grieve for the Khan. I grieve for the Oda. I will
+fight. I will avenge. I will ensure no more clans die."
+
+After that, the dam had been broken. They believed.
+
+All of the clans marched to war, and met the abhumans on the field. Some say it
+was one of the Oda who sacrificed themselves to become the First
+Defender. Others say it was Ibahka Togh Kira Sun. Nearly every clan believes it
+was one of them who sacrificed themselves to complete the revenge of the Khan
+and the Oda.
+
+Whatever the case may be, that is how the clans came together to become the
+people of Sudboia, how the Clan of Clans came to be.
+
+To this day, we pay respect to the clans that died.
+
+The Khans live on, remembered in the title we give our ruler: Sudkhan -- an
+ancient way of saying "Avenger of the Khan".
+
+We remember the Oda too: their sacrifice to bring the clans together is the laws
+and bonds that hold us together as Sudboia; the laws we follow are laid down in
+the Odakioda. Another ancient way of saying something, meaning "Words of the
+Oda".
+
+It is through their sacrifice and guidance that the clans are still around
+today, their ancestors guiding us all.
+
+**** The Lost Daughter
+*** Major Historical Events
+**** The First War
+**** The Writing of "The Book"
+Aka "The Book of the Glory of the Sudboian People and Their Land Full of Shining
+Wonder".
+
+into the army, has also been used to gather builders and architects for
+grand projects -- or in one particular case, a number of historians and
+artists to create a grand history of all the clans by actually trying to
+write down a bunch of their oral history, or at least create some common
+myths and legends to bind the clans closer together
+
+*** Major Factions
+**** Clan Chiefs
+**** Women's Council
+**** The Kiot
+
+**** The Grand Army
+** Who Rules Now
+The current ruler is Sudkhan Kell, who has held the reins of power in Sudboia
+longer than any other -- literally. They have held the title of Sacred Protector
+for nearly 90 years, ever since he took the reins when his father died during
+the the Undying War. He's done this through two main methods:
+
+The first is pretty straight-forward: the normal rules about how long someone
+stays Sacred Protector are set aside when all of Sudboia is under a threat large
+enough to threaten all the clans. This was the case for the Undying War, where a
+new leader was only chosen when the old one died without a chosen successor. 
+
+However, during the course of the war before becoming Sacred Protector, Sudkhan
+Kell found a Numenera that greatly extended his life span and increased his
+resiliency to damage beyond the human norm. This, along with some truly
+astounding mastery with his chosen weapon meant that despite often being found
+wherever fighting was thickest Sudkhan Kell developed a reputation for being
+unkillable. This reputation, along with some deft political maneuvering during
+treaty negotiations, gave Sudkhan Kell enough clout to easily carry the next two
+elections for Sacred Defender. 
+
+However, Sudkhan Kell did not sit idle for those twenty years. They have spent
+that time consolidating power, and building a network of obligations and
+debts. By taking advantage of every opportunity, Sudkhan Kell created a web of
+leashes so complicated it's taken some time to realize what he's
+accomplished. Through these machinations Sudkhan Kell has nearly ensured that so
+long as they still live, they will always win the vote to be Sacred
+Defender. Some of the clans have gotten wise to this and are searching for a way
+to unseat Sudkhan Kell. However, the debts and obligations are not the only
+things Sudkhan Kell holds. He also has a vast repository of secrets, gathered
+through his network of "chim-chims" -- the name of a common plains bird that is
+an excellent mimic. Almost every clan or family has a story about the time a
+mischevous chim-chim repeated something (that without context sounds terrible)
+at the exact worst moment (ie, right before the two clan chiefs agree to stop
+fighting).
+
+The name has fallen out of favor lately as rumours about what the real purpose
+of the chim-chims has spread across the plains: they're what we would consider
+secret police. these rumours started when two of the most outspoken clan leaders
+who opposed Sudkhan Kell died together in a strange hunting accident with no
+witnesses. some claim it was the work of the chim-chim, others claim it was just
+one of the many dangerous creatures or numenera that can be found on the plains
+that did the deed. In either case, the rumours gave the organization a new name:
+Druka Kon -- "Blades in the Shadows".
+
+** Sacred Protector
+:PROPERTIES:
+:ID:       443d76d7-dc53-45e6-82bf-f5f04ec9a078
+:END:
+
+The role of Sacred Protector is part elected leader, part spiritual
+guide. They're given the metaphorical keys to the kingdom, which come with some
+very heavy responsibilities. 
+
+While it is an elected position, there are no rules or limits for things like
+how many terms someone can have, who can run for the position, etc. As long as
+everyone keeps voting for the same person, they get to keep being Sacred
+Protector.
+
+The only thing required to become Sacred Protector is this:
+
+  - Win the election
+  - Survive communing with the First Protector
+  - Give up any claim to the expected rights of your family & clan
+
+The last one is a practical consideration. It's generally understood that you
+can't be a member of one clan while also leading all the clans. So the last step
+a candidate takes after their pilgramage to the First Protector is to give up
+their clan name for as long as they are Sacred Protector. This is the origin of
+the giant party thrown by the Sacred Defender after their pilgramage: it's a
+wake. The clan is saying goodbye to one of their best for so long as they are
+Sacred Defender. For as long as that person is Sacred Defender their clan name
+is Sudkhan.
+
+However, for the last several hundred years, Sudboia has been ruled by the Voz
+Dynasty. Sudkhan Kell, once Ibakha Togh Kell, has won the last few elections
+through what some suspect is less than honorable means.
+
+*** Election Process
+There are three ways a new election can be called:
+
+ - in the 8th year of the current Sacred Provider's term
+ - when the Sacred Provider dies outside of combat
+ - a vote of no confidence from a majority of the Women's Councils
+
+The Kiot are in charge of this process, sending out messengers to all the clans
+to inform them a new vote is taking place. The reason that a new election starts
+2 years before the end of the incumbents term is simply that despite their
+speed, some Sudboian clans still have vast distances to cross. This has subtly
+shaped the migration patterns of all the nomadic clans. The more further flung
+clans tend to start moving towards the Plains of Ikara so they'll be near when
+the next election happens. 
+ 
+The exception to the above is in when the clans are in a state of war. While in
+a state of war, the Sacred Provider's term is automatically extended until
+either they die or the war is over ( regardless of whether they win or lose
+). Inter-clan wars don't count, only wars declared by the Sacred Provider --
+which are either wars of aggression and expansion, or wars of defense and
+survival. 
+
+**** Winning The Vote
+Voting is done in three blocks: clan chiefs, Women's Councils, and popular
+vote. A clan who is putting forward a candidate cannot vote for their own
+candidate.
+
+The clan chiefs group is pretty straight-forward: each clan selects their own
+chief through whatever method they wish. One of the duties of clan chief is go
+to the kan-moot, the first voting ceremony. Here, the clan chiefs vote on the
+candidates put forward by all the clans. Voting rounds can continue for many
+days until one candidate wins.
+
+Next up, the Women's Councils. These are a sort of shadow government, meant to
+be a check on the aggression of the chiefs. They vote in a closed council where
+only members of the Women's Council are allowed into the chamber ( or within
+several kilometers of the tent, if it's being held on the plains ).
+
+The last voting block is everyone. Clan chiefs and members of the women's
+council get to vote again during this stage. The way this works is that the two
+candidates chosen by the chiefs and the Women's Council -- along with any other
+candidates who still think they have a shot -- go and visit each clan.
+
+The chiefs, Women's Council, and members of the Kiot ( a sort of cross between a
+priest/shaman class and judges ) form a caravan, then visit each clan in
+turn. 
+
+However, it's not just the candidates ( or candidate ) chosen by the chiefs and
+Women's Council that can go on this journey. Any candidate can join the caravan,
+but they do so knowing they're at a disadvantage as the chiefs and women's
+council will be doing what they can to turn each clan towards /their/
+candidate. The Women's Council and the clan chiefs end up choosing the same
+candidate about half the time; when this happens it's rare to see many extra
+candidates join the caravan.
+
+In any case, the real work for the candidates starts once the caravan reaches a
+clan. Now they have to prove themselves worthy of the position of Sacred Protector.
+
+This starts with each candidate reciting the greatest actions of anybody in the
+last 10 generations of their family. Then they tell their own story; what have
+they done and accomplished that shows they're worth putting in a position of
+power? Lastly, the candidates are given a week to get to know the clan
+better. Many often attempt feats of strength or daring, or try to do something
+useful. However, most clans (guided by members of the Kiot & the women's
+council) try to guide candidates away from big showy things and towards stuff
+that helps longer-term. Killing the big rok beast is great and all, but what
+about the next big beast?
+
+The important thing is the vote, though. In the popular vote, people can vote
+for any of the candidates who have made the journey. The interesting thing about
+the popular vote is that it wins in cases of three or two-way ties. If the
+chiefs and Women's Council pick the same person but that person loses the
+popular vote then they don't win. However, as the chiefs and Women's Council
+spend a lot longer vetting the candidates most clans end up voting for one of
+their two candidates.
+
+That isn't to say the extra candidates don't win. One of the most loved Sacred
+Protectors of the last hundred years was Ki Sho -- an orphan who won by popular
+vote despite the Women's Council and clan chiefs choosing the same candidate. 
+
+This process happens with each clan, although in times of need rather than going
+to visit each one individually, the clans can all be called to the Plains of
+Ikara. This is usually reserved for when there is something pressing that
+requires the Sacred Protector to make a decision about. 
+
+Once the final candidate has been chosen, word is sent to all the clans, so
+that they can start heading to the Plains of Ikara. 
+
+After that, there are two things that happen.
+
+The first is that the clan that put forward the winning candidate gets ready to
+host a huge festival on the Plains of Ikara. This week-long festival often sets
+the tone of how the new Sacred Protector will guide the people of Sudbioa for
+the rest of their term. This tone partially comes from the Sacred Protector and
+how they behave during this week, and partially from the divinations made by the
+Kiot as to whether or not the next 10 years will be bountiful or harsh.
+
+The other thing that happens is that the Sacred Protector chooses their "battle
+successor" and then sets off on their pilgrimage to the Tower of the First
+Protector.
+
+***** State of War
+This all changes if a new leader is needed during a state of war.
+
+If the Sacred Protector dies during battle, their "battle successor" is
+automatically raised to the position of Sacred Protector. This is to ensure the
+chain of command is disrupted as little as possible at a critical moment. The
+successor finishes out the rest of what would have been their predecessor's
+term, or the end of the state of war -- whichever comes first.
+
+If the Sacred Protector dies outside of battle ( including being assassinated )
+steps down, or the battle successor has reached the end of their predecessor's
+term, a special process is used to select a new Sacred Protector.
+
+In these situations, the clan chiefs choose two of their own, and the women's
+council chooses one of them to become a sort of "temporary Sacred
+Protector". This is a special role that only lasts until the state of war is
+over ( or they die, in which case a new one is chosen ). This temporary position
+has a very constrained amount of power, meant only as a military leadership
+position and not as leader of all Sudboia. This temporary position can make the
+same decisions as a full Sacred Protector with regards to the war and how to
+fight it, although clan chiefs can veto decisions by majority vote. All other
+responsibilities fall to the Women's Councils, the Kiot, and the Clan Chiefs who
+are part of the reserve. 
+
+**** Survive The Pilgrimage
+The first major test of a new Sacred Protector is a pilgramage.
+
+They make a pilgrimage, alone, to the site of the final battle of The First
+War. It's found in a valley in the northern mountains, about two days ride from
+the Plains of Ikara.
+
+Once they find the valley, they are expected to do two things:
+ - find a Numenera artifact
+ - commune with the first Sacred Protector
+
+The first is not quite as straight-forward as it sounds. The valley still bears
+the scars of the First War. It's not as bad as the No-Mans Land created by the
+Undying War, but the area is still inhabited by dangerous creatures and
+abhumans. The ruins in the area aren't much safer, either.
+
+The second thing, commune with the first Sacred Protector, isn't
+metaphorical.
+
+Within the valley, there is a tower of shining silver. Upon reaching the tower,
+the candidate must make their way inside, and then to the highest tower. No
+candidate has spoken of their journey through the tower, but it is known that
+the journey is unlike any other. Once they reach the top of the tower, they find
+themselves looking at a very different valley.
+
+Instead of the tundra-like grasslands they left when they entered the tower,
+they find themselves looking out over a labyrinth. Stranger still, they find the
+first Sacred Protector waiting for them. The First Protector will ask the
+candidate for something. Sometimes it's as simple as the answer to a question,
+sometimes the candidate must venture out into the labyrinth or back out into the
+grasslands to fetch something for the First Protector. Whatever they are asked
+to do, somehow it will help the First Protector continue their mission: keeping
+the abhuman chief locked within the center of the labyrinth for all time.
+
+In any case, after helping the First Protector the candidate is given a name
+that will become the name of their Dynasty. Somehow the First Protector is able
+to tell when someone is descended from someone who led previously as Sacred
+Protector. It's seen as a sign of good fortune for a family that has not led for
+a long time to lead again.
+
+Additionally, the First Protector will often give the candidate a piece of
+advice. Through some means they keep hidden, the First Protector is able to give
+a piece of advice that will definitely help -- so long as the candidate is able
+to decypher the advice and apply it properly. Sometimes the advice is as simple
+as how to win the heart of a lover or where to find something useful. In one
+case the advice of the First Protector completely changed the outcome of a
+war. However, in most cases the advice is simply recorded in the Book of
+Proverbs, where it sits until some future Sacred Protector is able to decypher
+the advice -- far too late for it to be useful.
+
+Some Sacred Protectors have hinted there is more said by the First Protector,
+but that those words are only for those who are given the mantle of Sacred
+Protector.
+
+This pilgramage is meant to take no more than a week or so. As the candidate is
+heading off, their clan is sending word to all the other clans to meet on the
+Plains of Ikara for a festival. Once the final clan arrives ( or their
+representative has arrived ), the candidate has a week to make it back to the
+Plains of Ikara. At the end of that week, it's assumed the candidate has died,
+or failed the trial given to them by the First Protector. In either case, while
+the Clan Chiefs and Women's Council go through the first two parts of the
+election process again, the clans all have a giant wake for the candidate.
+
+It starts with the clan the candidate was from doing some kind of performance
+that honors their dead comrade. After that, the other clans share any stories
+they have about the candidate.
+
+If the candidate makes it back in time, it's time for them to start their life
+as Sacred Protector by officially kicking off a giant party.
+
+**** Throw A Party
+This is exactly what it sounds like. All the clans, together on the Plains of
+Ikara, throw a week-long rager. This is often the most productive time of a
+Sacred Protectors time as leader; much easier to get folks to agree to stuff if
+agreeing means they get to go back for more spiced konto before it's all gone
+and some of that really good liquor from the Kala Clan.
+
+Additionally, it's a good chance for the new Sacred Protector to try and heal
+any rifts between clans using the ancient art of seating arrangements. Although
+in this case it's less seats and more "plots of land for each clan to use while
+we party". By placing two clans next to each other and a third clan they both
+get along with, the two feuding clans can often get past whatever feuds they had
+over various kinds of debauchery. Sometimes the feuds are bad enough that the
+third clan is the Sacred Protectors clan, with the Sacred Protector themselves
+leading the charge to get everyone past this feud.
+
+This is seen as one of the most important duties of the Sacred Protector during
+this time. This is partially because how well they're able to help two ( or
+more! ) clans overcome a feud s a good indicator of how well they'll govern once
+the party is over. The other reason is that clans that can get past their feuds
+often become staunch supporters of the Sacred Protector.
+
+It's not uncommon for smaller clans that are able to put feuds behind themselves
+to end up merging, either. As many feuds are initially driven by two clans
+having an almost sibling-like fight over one thing or another, realizing they
+have more in common than they do different is usually a catalyst for smaller
+clans to join together.
+
+However, as larger clans often have smaller groups splintering off to make their
+own way in the world, the total number of clans tends to stay constant.
+
+*** Role
+**** Duties As Leader
+***** Interpreting The Law
+
+***** Imposing Taxes
+The other ability the Sacred Protector has is the ability to impose or remove
+various kinds of taxes. These taxes fall into one of two types: restorative
+justice, and social good. Taxes also aren't indefinite; and can be paid in a
+number of ways.
+
+This is because the amount is usually assigned in terms of people-hours or
+created value. So rather than saying "we're taxing you until you've paid $2000",
+the tax will be something like "the time it takes to build a house", "one
+harvest season", or "1 year of time". In some cases there is a material cost
+assigned instead, but it's usually pretty vague; "enough food for a person for a
+week" or "enough wood to build a new chariot".
+
+This is mostly because hard currency isn't used very much by Sudboians. They use
+iotum much the same way as the Steadfast: as a stand-in for effort. Rather than
+paying someone $5 for some apples, you could trade a small block of cheese you
+made and some random iotum. The size of the block of cheese may depend on who
+you're trading with and how much they want cheese -- within reasonable limits.
+
+However, this doesn't preclude using material goods or iotum to pay a tax. It's
+rather than Sudboians tend to prefer working off their debts directly. Getting
+caught stealing doesn't mean you're a bad person, but paying the tax levied
+against you entirely in iotum probably means you're going to lose some social
+standing. 
+
+As such, clans paying a tax often send someone ( or multiple people ) to live
+with the clan the tax is being paid to rather than sending materials. This is
+the most common way clans pay taxes; in addition to being a really good way for
+folks who commit crimes to really learn about the harm they caused, it's also a
+great way to ensure clans don't become too insular. It's a somewhat common move
+for the Sacred Protector to use taxes to force clans with a feud to open some
+lines of communication.
+
+The value of the tax is set by the Sacred Protector, with guidance from one of
+the three major factions in Sudboia: the clan chiefs, the Women's Council, or
+the Kiot. Often the amount levied is based on historical precedent, but cases
+from more than 10 years ago can't be used as precedent. This helps prevent
+unjust decisions from sticking around for too long.
+   
+The exchange rates are something the clans can haggle over, with the Sacred
+Protector having final say; food or perishable goods is usually on a 1:1
+basis, other materials at 1:2. The second is more common when the thing lost is
+something that took a lot of time or effort to create such as a house lost to
+arson or accidental fire. Person-hours usually get a 1:2 exchange rate, although
+more serious crimes sometimes see ratios as high as 1:6. However, the maximum
+amount of time that can be set as price for any tax is the equivalent of two
+years. While there are no hard limits on how high the ratio can go, most clans
+would agree that anything higher than 1:6 is ludicrous. If a murderer hasn't
+repented and made amends after 10 years of living with those they wronged,
+they're not going to and you can't force them to. 
+
+In such rare cases, the Sacred Protector can impose exile if both clans agree
+upon that course of action.
+
+One thing to note is that while the Sacred Protector has final say in details of
+any tax, many of these taxes are often worked out by the clan chiefs and women's
+councils of the affected clans. In these cases a member of the Kiot usually
+stands in as the neutral third party. However, the Kiot often refer larger cases
+to higher ranked members or even the Sacred Protector themselves. This is
+because while two small clans arguing over a theft can usually be resolved
+without involving other clans or members of the Kiot -- something more serious
+like murder often requires cooler heads with no stake in the outcome.
+
+Hence it's fairly common for restitution taxes to be drawn up and agreed upon by
+two clans without ever involving someone from outside those two clans or the Kiot.
+
+As for the types of taxes themselves, they fall into one of two categories:
+
+****** Restitution
+When anywhere from a single member to an entire clan wrongs another clan, from
+theft up to murder. For a tax of this kind to be levied, both the clan chief and
+Women's Council of the wronged clan must agree on how they were wronged, and
+decide on how much is owed to the wronged party ( or parties ). At this point,
+the clan chief and Women's Council of the perpetrator ( or perpetrators ) decide
+on how the tax will be paid.
+
+Once both clans have agreed on the cost and how the tax will be paid, they
+negotiate the ratio. The ratio is initially suggested by the clan chiefs. This
+initial ratio is reviewed by the Women's Councils, who can change it however
+they see fit. In larger cases where a member of the Kiot or even the Sacred
+Protector is involved, they get to review the ratio and make any further
+changes. However, the Kiot are only allowed to change the ratio by one step up
+or down -- so they can change a 1:3 to a 1:4 or 1:2.
+
+This system allows clans to resolve smaller matters between themselves -- or
+even larger issues, so long as both clans are able to reach some kind of
+compromise. If they are unable to find a compromise they both find fair, the
+Kiot are brought in. The Kiot can still be overridden by the clans, however: if
+two of the four councils involved don't agree with the Kiot's decision they have
+the option of moving the issue to what could be considered a "higher court".
+
+If the decision of one member of the Kiot is rejected, then two more are brought
+in. If the decision of those three is rejected, four more are brought in. If the
+clans still rejects the decision of seven members of the Kiot, the case goes to
+the Special Protector. 
+
+In cases involving a member of the Kiot or the Sacred Protector, they act as
+middlemen, relaying decisions back and forth until a fair-enough compromise is
+reached. This helps prevent hotter heads and frayed tempers from making a bad
+situation worse.
+
+For smaller crimes ( theft, vandalism, etc ) the ratio is often smaller, not
+often rising above 1:2. However, more serious crimes such as murder or arson
+often come with ratios set at 1:3 or 1:4. It's rare to see a ratio of 1:5 or
+1:6. Anything higher than 1:6 is usually rejected out of hand by all parties:
+even the most blood-thirsty wrong party can usually be brought around to see
+higher ratios start to lean towards over-punishing.
+****** Social Good
+This is a much wider category than 'Restitution'.
+
+The first type of tax is a "share our overabundance" type of tax. This tax is
+meant to be used to help clans that have had a particularly bad year. There are
+a variety of reasons a clan can find themselves in hard times: bad weather, bad
+growing season, one too many attacks by wild creatures or abhumans, disease --
+the list goes on. In these situations, a clan can send out a call for aid. The
+Sacred Protector can choose to help out directly by allowing the local member of
+a Kiot to share resources from a cache.
+
+However, in some cases there either isn't a cache near enough to be useful or
+the nearest cache ( or caches ) don't have anything that could help. This is
+where the tax comes in. The Sacred Protector can levy this tax on any clan as a
+way of forcing them to help -- although outside of situations involving clans
+with bad blood, most clans don't have to be forced to provide this kind of help
+when they are levied with this kind of tax.
+
+This type of tax isn't levied often. The nomadic nature of most of the clans
+means they are often self-sufficient enough to make it through even the really
+tough years. Clans going through rough times can often rely on friendly or
+allied clans for aid, and the Kiot provide medical aid in situations that
+require it.
+
+This tax is actually more often levied by a clan against themselves as a way of
+formally declaring their aid. While rare, it's often useful when two clans that
+have historically been at odds or unfriendly find themselves in a situation of
+one clan having a really bad year and the other clan realizing their grievance
+wasn't that important. The tax provides a sort of olive branch that can be
+extended by one clan without potentially losing face by "surrendering" to their
+rival clan. In such cases, the amount of aid provided is usually more than the
+tax requires. 
+
+Another kind of social good tax is the "stronger country" tax. This is probably
+the closes thing Sudboians have to what we think of as a tax. This is a tax
+imposed on all clans, and while the amount & ratio is usually the same for all
+clans there have been times when the amount or ratio is modified for smaller
+clans or clans still recovering from a particularly bad month/year.
+
+This type of tax usually have much more well-defined terms with regards to the
+amount owed and how it can be paid. This is because this type of tax is most
+often used as a draft -- but not just for the army.
+
+There are a number of projects undertaken by the Sudboians that required
+resources from multiple clans to complete. One such case was the building of a
+great meeting place on the [[id:78f8c587-51ff-4df9-92ea-78e3159056f3][Plains of Ikara]] for the celebration festival that
+comes with a new Sacred Protector taking up the mantle of office. Another was
+the building of many of the forts and walled cities at multiple locations along
+the northern mountain chain. Basically, the Sacred Protector can compel clans to
+send people who are good at a kind of thing to take part in a large project of
+some kind. In some cases that's "stone masons so we can build a fort", in some
+it's "artists to create a vast mural on this cliff face". Then there's always
+the good old fashioned "fight in this war" draft. 
+
+The last type of "social good" tax is basically "the Sacred Protector is
+throwing a party but it's a potlatch so bring some food and booze so we can
+party".
+
+This is most commonly used as the very first tax a new Sacred Protector levies
+after being elected. In this tax though, the amount is usually something
+specific to each clan. Whatever that clan is known for when it comes to food,
+drink, artistry -- if it's not related to fighting they're told to bring it
+along with as many members of the clan as they want. This often means clans
+showing up to the Plains of Ikara with all of the beer they could brew, ready
+for a week-long party.
+
+Crucially, this tax is often used by new Sacred Protectors to try and heal any
+divides between clans that may have been caused or exacerbated by the previous
+incumbent. This is because part of the tax assigned to each clan includes the
+patch of the Plains of Ikara where they'll set up shop once they arrive. By
+placing feuding clans closer to where the Sacred Protector will be staying, or
+just closer together, the hope is that the copious amounts of food, drink, and
+mind altering substances will put everyone in a good enough mood to figure out
+how to bury the hatchet.
+
+It works amazingly well, as most feuds really boil down to two chiefs letting a
+personal disagreement tun into a clan feud and needing to get drunk enough to
+realize how silly the feud is.
+
+**** Duties As Spiritual Guide
+
+ - what is the main burden of the SP? tied to protecting the world from
+   whatever they're keeping bottled up in the north, requires the sacrifice of
+   something (figure out what) in order to keep some big force/army/thing from
+   getting free, has something to do with the long-term plans of the nightmares
+*** 
+** Voz Dynasty
+*** Meaning of Dynasty
+In Sudboia, "dynasty" has a slightly different meaning. For them, a dynasty
+isn't an unbroken line of rulers from the same family. Rather, it's a name given
+to rulers of the same family, regardless of how long goes between members of
+that family holding the reins of power.
+
+For example, if someone becomes [[id:443d76d7-dc53-45e6-82bf-f5f04ec9a078][Sacred Protector]] a hundred years after an
+ancestor, the name given to their rule will be the same as the one given to
+their ancestor. As rulers can change every ten years when a new leader is
+elected, a Dynasty may be as short as ten years ( or shorter, if tragedy befalls
+the leader ). However, if the same family rules for hundreds of years ( for
+whatever reason ), then that would all be the same Dynasty.
+
+The current dynasty is the Voz Dynasty, which has been in power for over 400
+years.
+
