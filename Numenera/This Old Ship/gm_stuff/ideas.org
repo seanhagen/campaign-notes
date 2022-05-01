@@ -36,7 +36,7 @@ points from the "Real World" section:
   made of every single version of yourself from every moment across your entire
   life. There would be your embryo at one end and your deceased self at the
   other. All of this is without getting into the idea of branching pathways.
-  
+
 * Monsters
 ** organize
 - grush (bestiary, pg 62)
@@ -772,7 +772,7 @@ do the following:
   - learn that they need to make a center
   - so they can build the power source
   - so they can destroy the power source
-    
+
 **** the clues to feed the party
 :PROPERTIES:
 :ID:       3df4e78e-7ca2-4226-a8bf-f14616b5deb3
@@ -793,4 +793,383 @@ do the following:
 :ID:       d2a98e08-e1d4-45e8-ae12-5b93bfd3fd4c
 :END:
  - <link to npc>
+=
+*** pulled into the datasphere
+something to do while i'm away
+**** what they each see
+***** what UREOS sees
+rpg
+****** first version
+#+ATTR_ORG: :width 500px
+[[file:./assets/rpg_1.png]]
+****** second version
+#+ATTR_ORG: :width 500px
+[[file:./assets/rpg_3.png]]
+****** third version
+#+ATTR_ORG: :width 500px
+[[file:./assets/morrowind.webp]]
+***** what FOX sees
+metal gear solid (first one) ( top down 2d action game )
+****** first version
+#+ATTR_ORG: :width 500px
+[[file:./assets/metal_gear.gif]]
+****** second version
+#+ATTR_ORG: :width 500px
+[[file:./assets/metal_gear_2.jpg]]
+****** third version
+#+ATTR_ORG: :width 500px
+[[file:./assets/metal_gear_5.jpg]]
+***** what KLEP sees
+return to castle wolfenstein
+****** first version
+#+ATTR_ORG: :width 500px
+[[file:./assets/castle_wolfeinstein_1.jpg]]
+****** second version
+#+ATTR_ORG: :width 500px
+[[file:./assets/castle_wolfenstein_2.png]]
+****** third version
+#+ATTR_ORG: :width 500px
+[[file:./assets/wolfenstein_3.jpg]]
+***** what BELEL sees
+point and click adventure game
+****** first version
+#+ATTR_ORG: :width 500px
+[[file:./assets/maniac_mansion.webp]]
+****** second version
+#+ATTR_ORG: :width 500px
+[[file:./assets/point_and_click_2.webp]]
+****** third version
+#+ATTR_ORG: :width 500px
+[[file:./assets/point_and_click_3.jpg]]
 
+***** what ZENO sees
+******* version 0
+nothing "visual"; it's like his eyes are disconnected but he's still receiving
+targeting telemetry. he basically processes the world as if he was in like a
+prototype of a prototype of a prototype of a 3D video game. everything is basic
+geometry; blocks and spheres mostly. he doesn't see a bunch of those making up a
+person, no: until a person poses a threat they're just a sphere. the more
+dangerous someone is, the more details are filled in.
+
+however, no matter whether someone is a sphere or someone is a very realistic 3d
+model, zeno is always able to pull up a pretty simple interface that's closer to
+being something from the days of the atari than anything newer. he can get
+details about each entity, and can toggle some of that information to
+permanently display. for example, if zeno opened the menu and chose the option
+correct option, he could see information for an entity, such as it's name. by
+selecting the name and using the correct command, he could have the name show up
+above the entity ( thankfully in a small enough font that it's not taking up
+like an 8th of your view ).
+
+otherwise your viewpoint is like that of a camera that hovers at about where
+Zeno's head is, and you can see some simple geometries making up your body. you
+can get a more detailed view of your limbs but that requires more processing
+power. the more definition you see for your body & limbs, the less you get in
+other places.
+
+that viewpoint is viewed through the screen in front of the chair. the screen to
+your left is like if you were using an IRC client on the command line. what
+people say to you shows up here as chat messages.
+
+the screen to your right is kind of like a computer desktop, there are some
+programs you can open that allow you control over some states of your body, or
+give you access to custom scanners or other inputs
+
+behind you is a screen seemingly showing system status, like the health readout
+for a mech warrior in one of those video games. you can see a bunch of health
+statistics, including stuff about your mental stability. there seem to three
+windows open on this screen showing three different faces; these are where
+different advisor programs will attempt to assist your decision making abilities
+
+the strangest thing is that despite the spatial positioning of the screens as
+they appear when you focus on one of them, you are also able to perceive all of
+them simultaneously as well -- just with slightly less detail on each screen.
+
+this is what you currently see on the view screen:
+
+you are standing in a non-descript box, with what appears to be an egress portal
+set into the wall to your left. before you hovers a purple sphere.
+
+what do you do? The commmand "C-x C-b overlay-interface" opens an overlay with
+commands for what zeno can do -- think of it like a hydra in emacs, but with a
+font so big and blocky it takes up a pretty big party of the "input camera
+view". otherwise, use the chat window to say something ( use whatever notation
+you want to mean what zeno is /doing/ vs what he's *saying*. )
+
+******* version 1
+#+ATTR_ORG: :width 500px
+[[file:./assets/submarine_1.png]]
+******* version 2
+#+ATTR_ORG: :width 500px
+[[file:./assets/sub_1.png]]
+******* version 3
+#+ATTR_ORG: :width 500px
+[[file:./assets/sub_3.webp]]
+
+**** what happens
+the characters are pulled into the datasphere during a strange storm, they're
+stuck in the 90's internet somehow. do it in dm's in discord, in character is
+normal text, out-of-character talk is spoiler text. put the info about how it'll
+work in the spoiler text, describe how to do spoiler text, anything else they
+should know.
+
+description idea:
+
+#+BEGIN_QUOTE
+you find yourself standing inside a small cube, about the size of the room you're in right now. the cube appears to be made of steel-glass; you can't seem to break it, or even scratch it. on the other side of the glass all you can see is a hash of black and white static. in the center of the cube is a chair.
+
+you recognize this as some descriptions you've heard of the neutral space some folks said is the place you go before entering the datasphere.
+
+in this place, your "body" is an avatar, highly influenced by your subconscious and state of mind. your avatar is something first-time visitors to the datasphere often find surprising.
+
+describe your avatar.
+#+END_QUOTE
+
+let them describe their character's datasphere avatar
+
+#+BEGIN_QUOTE
+what do you do (describe in one sentence)?
+#+END_QUOTE
+
+wait until they sit down. just say "nothing happens" to whatever they do until
+they sit down ( food, water, and amenities slide out of the wall when needed )
+
+#+BEGIN_QUOTE
+suddenly, a loud "bong" sounds from all around you, and the static is replaced by darkness. then, you see some glowing white text in the top-left of the face of the cube directly in front of the chair. it seems to be writing itself. it's in a language you don't understand, but it seems to be very succinct language, the sentences are very short. when the text eventually reaches the bottom, it begins to scroll up. What do you do?
+#+END_QUOTE
+
+whatever they do, eventually this happens:
+
+#+BEGIN_QUOTE
+after a few more moments, the face of the cube in front of you turns a bright blue, before dimming enough that you can make out some kind of display. there appears to be some kind of input required. what do you do?
+#+END_QUOTE
+
+***** if they inspect the chair
+#+BEGIN_QUOTE
+you notice that the armrests of the chair seem to have a set of keys built in. there are 15 keys on each armrest. they're not small enough that you can hit all the keys without having to move your hands. you also have to either lean forward or not sit with your back against the chair. whoever built this chair was larger than you.
+
+what do you do?
+#+END_QUOTE
+****** if they do nothing
+let them know via spoiler text that if they don't do anything, nothing happens, literally.
+
+***** if they don't inspect the chair
+#+BEGIN_QUOTE
+nothing seems to happen. what do you do?
+#+END_QUOTE
+****** if they do nothing
+let them know via spoiler text that if they don't do anything, nothing happens, literally.
+
+***** once they press a button
+#+BEGIN_QUOTE
+you see a character show up in the input field
+#+END_QUOTE
+
+show them a picture of the layout of the keys, with strange symbols on each
+key. in a different colour on each key put a number.
+
+#+BEGIN_QUOTE
+what do you type?
+#+END_QUOTE
+
+whatever they type, continue on
+
+#+BEGIN_QUOTE
+the input fields flash red, and then clear. it seems you didn't type in the right thing. what do you do?
+#+END_QUOTE
+
+do that a few more times, depending on how often the person is responding
+
+#+BEGIN_QUOTE
+the input fields flash red one last time, then they go grey. a strange being pops into existence to the right of the input field. its body is like a spiral that has been stretched tall, with two great bugged out eyes stuck on random parts of the spiral and eyebrows hovering strangely above them. part of the spiral moves, and a low droning voice speaks in a language you don't understand.
+
+what do you do?
+#+END_QUOTE
+
+it's clippy. show them a picture if they don't clue in.
+
+****** if they say something
+:PROPERTIES:
+:ID:       c0e57136-2f43-4432-8036-16e79779c9bb
+:END:
+clippy immediately responds
+
+#+BEGIN_QUOTE
+he immediately responds to you in english
+#+END_QUOTE
+
+******* if they've put clippy through more than two or three cycles
+append this to the top of the "if they haven't" below
+#+BEGIN_QUOTE
+"well i really do wish you had spoken up earlier! imagine how much fun you'd be
+having already! anyways."
+#+END_QUOTE
+
+******* if they haven't
+#+BEGIN_QUOTE
+The creature speaks, responding in Truth ( although from the accent you suspect they learned Truth from someone from the Steadfast ).
+
+"Oh, i know this one! I'm sure glad we got that sorted out! I can't help you get this problem sorted out if we can't understand each other, now, can we?"
+
+"My name is Clippy, and it seems like you're having problems logging in. Is there something i can help you with?"
+#+END_QUOTE
+******** TODO figure out what happens from here
+:PROPERTIES:
+:ID:       a3eb3c1d-57ca-4190-9888-ae58789fe9cf
+:END:
+they start out in a low res data arena. like the first wolfenstein game low
+res. each character should get different visuals. one gets fantasy, one gets
+sci-fi, one gets point and click adventure, or pick some old dos games and
+that's how they view the world.
+
+maybe one will be in a fantasy realm, make it seem pretty much like some stock d&d
+world. have them go on a 1st level adventure ("go kill some rats") or something.
+
+they should eventually end up in a virtual world that turns on the other
+screens. creatures and terrain appears as holograms, and the floor moves to
+simulate the terrain. it should still be pretty low res, though; closer to doom
+than half-life
+
+don't let them meet up with the other characters for a little while, and don't
+bring them all together at once. they also shouldn't actually talk to each
+other; i should relay what they say to each other. that way i can mess with them
+by having the other characters occasionally be npcs -- or have an npc take over
+suddenly when they're hit with the dreaded netsplit
+
+also need to figure out how long clippy stays around, and if he's the villan or
+not.
+
+would be fun to have a wholy-digital villan to throw into the mix
+****** if they do anything else, or they do nothing
+clippy watches them, keeps talking but they can tell it's switching languages,
+none of them human until he finally gets to english, like days later. ask them
+what they do
+******* if they talk
+[[id:c0e57136-2f43-4432-8036-16e79779c9bb][go here]]
+******* if they do nothing
+clippy just keeps talking for a few more days before leaving
+******* if they hit more keys
+clippy comes back, all that wil repeat again. if they keep the cycle up, clippy
+will get agitated, will seem to be pleading with them to just talk.
+**** what each character needs to learn
+ - *zeno*: ghoka has been "touched", and is seeking a lost weapon of great power
+ - *ureos*: someone from zeno's past is coming to town
+ - *fox*: a larger regiment of the Royal Sable Army from the Hegemony is going to
+   arrive in Ararholm soon
+ - *belel*: captain ibakha togh is technically next in line to become ruler of the
+   Voz Dynasty, so long as she can prove she's worthy
+ - *klep*: pamki's heritage is important,
+*** First Protector
+Is lying.
+
+Their name is Rhul.
+
+It wasn't the abhumans who were attacking, it was Rhul. They've been trying to
+become immortal and all-powerful for a LONG time now. They have probably gotten
+closer than any other human in this age. The attack on the at-the-time peaceful
+abhumans kicked off a massive war they nearly lost, until the people of Sudboia
+and the Abhumans came together to defeat the First Protector -- whose name at
+the time better translates into "The Disciple".
+
+The First Protector is actually the person or abhuman who sacrificed themselves
+to trap Rhul in the tower -- which was the outcome that [[id:a81d4099-1451-409d-80b2-6c9ed6457109][Memory]] had been working
+towards at the time.
+
+So now when candidates come, they do a little make-work quest for Rhul, and then
+make a pledge on the device the actual First Protectors used to trap Rhul, and
+leave. Unless Rhul or Memory decides to kill them. Or they ask too many
+questions.
+
+Rhul has spent the last few centuries trying to find a way to break whatever
+holds him inside the tower. He's also using it as an opportunity to try and
+shape the Sudboian people into a more willing army for when he does eventually
+get free. He's almost accomplished this, too -- Ibahka Tan is exactly who Rhul
+wants in charge when he gets out.
+
+Hint: it's who Memory wants in charge too.
+
+The Tower is actually a trap meant for the Nightmares. Memory manuvered Rhul
+into it so that he'd either disarm it and get free ( and disable the trap in the
+process ) or he'd at least be a handy spot to send potential threats; Rhul is
+plenty powerful enough at this point and takes cues from Memory on who to kill.
+
+Basically, the first Sacred Protectors knew their duty was to tie their
+lifeforce to the tower so that when they died their "life force" or "soul" or
+whatever the tower uses for energy would get transferred to the tower to continue
+powering the trap. Because Rhul isn't a Nightmare the Tower can't kill them, so
+it requires more sacrifices to keep itself powered up to keep Rhul trapped.
+
+However, this is where both Rhul and the Sudboian people are being played by
+Rhul.
+
+There is a way to kill Rhul, and that's by making it to the center of the
+labyrinth and freeing the abhuman there. Rhul locked them up long ago so they
+could focus on finding a way out of the tower. The abhuman is the leader of the
+abhumans who fought alongside the Sudboians to try and kill Rhul.
+
+The Tower doesn't need more sacrifices. The initial sacrifice wasn't meant to be
+-- it was actually the only choice left to the human First Protector. The intial
+plan that the First Protectors came up with had failed, and so had their
+backups. See, the Tower is actually a powerful Numenera meant to be used to
+force two parties to come to some kind of agreement. The first entity to enter
+the Tower gets to sets the terms of what's being agreed to. In this case it was
+the human First Protector who messed up ( just a tiny bit ) by saying that
+either they'd be leaving or Rhul would be.
+
+This meant they were all locked in there until either Rhul was dead or both
+First Protectors were.
+
+The sacrifice was the only option they had left: by using a dangerous Numenera
+the human First Protector empowered the abhuman enough to be on equal terms with
+Rhul. However, this created a stalemate that has been unbroken for over a
+thousand years. Rhul managed to trick the remaining First Protector into a
+different trap, where they've been for the last 800 years. In that time Rhul has
+been able to twist the history ( with the aid of Memory, of course ) of what
+happened until he was the valiant hero sacrificing themselves for the good of
+humanity.
+
+However, Rhul got lucky with his choice of trap; it's a timelock. The First
+Protector within is aware of what happens in the room he's trapped in and has a
+limited communication ability, but is otherwise completely unable to effect the
+world around himself.
+
+What neither Rhul or Memory knows is that the device that new candidates make
+their pledge on is still working. Nobody knows this except the remaining First
+Protector. What it's been doing though -- that's something Memory and Rhul would
+change if they could.
+
+Every time someone touches it, some of their life force goes to the First
+Protector. The exact same way as the sacrifice, except a smaller amount. The
+Numenera was originally built to power up champions before battle by sacrificing
+"unworthies" -- but it doesn't require death to transfer some power. Dying while
+touching the device just means all your life force / soul / whatever goes to the
+First Protector instead of... where ever it would go otherwise.
+
+What this means is that for the last 1000+ years the First Protector has been
+getting stronger. Tiny bits, but a tiny bit every ten years or so ads up over
+time.
+
+They're now more than strong enough to handle Rhul.
+
+If freed, the First Protector will thank the party, help them kill Rhul, and
+then go see if their people are okay -- and try to teach them their real
+history. That they fought with humanity against Rhul and his master, The
+Witness.
+
+He'll give the party an info crystal -- the same kind of crystal they (by now)
+will have been looking for to power the ship back up. It contains the true
+history of the conflict with the Nightmares, and what is known about the
+Nightmares.
+*** Clippy
+...is a fragement of the ship AI.
+
+Previous user was one of the Nightmares.
+
+Ager is the one that taught Clippy the language of Truth.
+
+The gang's consciousnesses were transported to the screaming tower after they all
+got struck by lightning from a strange storm. The rest of the town is fine --
+some others were also pulled in but either got spat out or found their own way
+back to their bodies.
+
+Until they exit the datasphere, they won't be able to remember the lightning strike.

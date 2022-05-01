@@ -61,6 +61,7 @@ https://static.tvtropes.org/pmwiki/pub/images/EmpressOfMijak_6998.jpg
 - fighting style
 - structure
 - anything else special about the army
+
 *** BACKLOG cities
 - [ ] capital city
 - [ ] mining outpost
