@@ -2,20 +2,7 @@
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** travel roles
-*** Klep - navigator
-person in charge of path-finding through the wilds
-*** Zeno - scout
-can travel ahead to check for hazards and whatnot
-*** Belel - cartographer
-required if needing to come back easily, or to tell other people exactly where a
-ruin is
-*** Ureos - rear guard
-the person who's responsible for making sure nothing sneaks up on the party as
-they travel
-*** Fox - general guard
-the person who's responsible for making sure that nothing ambushes the party
-from in front or above
+
 ** travel notes
 - need to tell me /how/ they're travelling -- quickly, normal pace, carefully,
   etc.
