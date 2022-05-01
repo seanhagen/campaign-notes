@@ -49,5 +49,9 @@ flee at top speed.
 
 • The device fuses with one or two other devices in the user’s possession and
 becomes an entirely new artifact.
-
+** Travel
+ - party becomes lost
+ - losing some or all of their resources
+ - storm is coming, can they get to shelter?
+ - is there something already in the shelter?
 

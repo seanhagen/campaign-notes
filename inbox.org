@@ -1,4 +1,4 @@
-* Nēta(Weaver) Felwinter (Level: 9)                   :ttrpg:npc:ai:friendly:
+* Nēta (Weaver) Felwinter (Level: 9)                  :ttrpg:npc:ai:friendly:
 #+BEGIN_QUOTE
 I'm sure I could help, if only I could remember.
 #+END_QUOTE
@@ -45,7 +45,7 @@ Confrontation with the Merchant/ Encounter with the Merchant:
 
 (I couldn't not use this song for Zeno its too perfect)
 https://open.spotify.com/track/4Oih3RDrSFg3afaOphBVuy?si=941ac618836f4187
-or 
+or
 https://open.spotify.com/track/7EPbzLbSzg9d94LZ9MnKFA?si=41fff19d535544ed
 
 
