@@ -323,6 +323,15 @@ fight in the army in return for getting medical aid & other support.
 
 [[file:~/Documents/CampaignNotes/Numenera/This Old
 Ship/gm_stuff/assets/512b954133215bf5f55da6f35fe3768c.jpg]]
+** Tashi Shaho
+*** Background
+Wife of Ager, mother of Pamki.
+
+Actually the daughter of Sudkhan Kell.
+
+Full name is Ibakha Togh Shaho Tashi. Gave up clan and family names when she
+left Sudboia.
+** Felwinter
 
 * Nightmares From Another Place And Time
 ** Deceit 
@@ -351,7 +360,7 @@ lost, that is - "trust".
 ** Doubt
 *** Image
 #+ATTR_ORG: :width 400px
-[[file:./assets/doubt.jpg]
+[[file:./assets/doubt.jpg]]
 *** Description
 "Doubt" is a strange hunter. Its "hunting" is not so much a hunting as a funny
 farce. It all stems from the slightest psychological fluctuation. Maybe you will

@@ -1,104 +1,515 @@
-* Ship Ruins
-** STARTED build the ship "entrance hall"
+* First Session [42%]
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+** travel roles
+*** Klep - navigator
+person in charge of path-finding through the wilds
+*** Zeno - scout
+can travel ahead to check for hazards and whatnot
+*** Belel - cartographer
+required if needing to come back easily, or to tell other people exactly where a
+ruin is
+*** Ureos - rear guard
+the person who's responsible for making sure nothing sneaks up on the party as
+they travel
+*** Fox - general guard
+the person who's responsible for making sure that nothing ambushes the party
+from in front or above
+** travel notes
+- need to tell me /how/ they're travelling -- quickly, normal pace, carefully,
+  etc.
+-
+** STARTED Need several potential scenarios & encounters [29/42]
+sheriff:
+ - scenario 1
+ - scenario 5
+ - will say that scenario 4 is probably linked to scenario 1
+
+mex (wright):
+ - scenario 2
+
+pamki:
+ - scenario 3
+ - scenario 4
+ - scenario 7
+ - will mention mex saying something that morning about something being stolen,
+   maybe it's related
+
+jacka (woodworker):
+ - scenario 6
+
+*** DONE scenario 1: in town (ghoka)
+CLOSED: [2021-10-29 Fri 15:45]
+handed out by: mex, sherrif, or pamki
+
+someone has stolen supplies from the warehouse. the sheriff thinks it was one
+of ghoka's men. he's got a lot of things on his plate, so if someone can
+investigate and either find the stolen goods or find evidence of who stole
+them.
+
+a box of amber crystal was taken. these are crystals that are used in
+self-repair numenera, or in numenera that float.
+
+**** DONE design mystery [100%]
+CLOSED: [2021-10-16 Sat 23:35]
+***** DONE who stole the amber crystal [8/10]
+CLOSED: [2021-10-16 Sat 23:33]
+the same thief who stole from pamki. not one of ghoka's men, but figured that if
+they followed one of ghoka's men to his hideout if the ruin was big enough he
+could lay low there and hope that anyone who followed would figure it was ghoka.
+
+clues:
+
+in warehouse
+- [X] the thief only took the box, nothing else was disturbed
+- [ ] a box in warehouse has green thread on it from a cloak
+- [X] a bit of powder near the box, a product kind of like snuff called "quick"
+  commmon to glaives who used to be part of the army, herbalist or general
+  store proprietor might know who buys that stuff
+- [ ] a discarded and dead cypher near the door to the warehouse can be found, a
+  successful check will show it would have made the door insubstantial for about
+  5 minutes (not enough time for someone to ransack the warehouse, they had to
+  know what they were looking for was in that particular warehouse and what it
+  looked like)
+- [X] one of the mugs from the tavern is sitting on a barrel near the warehouse,
+  tavern keeper will remember who took it (a man in a green cloak, who
+- [X] near the mug will be a partially eaten bit of "street meat", sold by
+  Dibbler, a strange little man who sells what he claims is meat in the town
+  square in the evenings and nights ( he doesn't wake up until noon at the
+  earliest, he's usually up until nearly dawn trying to sell his "meat" to
+  drunks leaving the tavern ( they're the only folks who will buy his
+  stuff... cause they're drunk and hungry and the canteen is closed )
+
+tavern:
+- [X] can easily find stories about the "adventuring corporation" getting in a
+  fight with some of ghoka's men about a previous run-in in a ruin -- more
+  checking into this (other people, etc) will reveal that the run-in was in or
+  near ghoka's hideout
+- [X] the inn keeper will share a rumor told to him by one of his patrons after
+  the fight, he heard one of the green cloaks suggesting they frame ghoka
+
+around town:
+- [X] one of the townsfolk will see someone wearing a green cloak sneaking out
+  of the warehouse late last night ( ghoka hates that color )
+- [X] another townsperson saw a small group of adventurers head out well after
+  midnight (after the brawl and the theft), they were all wearing green cloaks
+
+***** DONE where did they go
+CLOSED: [2021-10-16 Sat 23:33]
+went to hide out in the ruin that ghoka uses as his hideout ( his plan was to
+follow one of ghokas men, if they were in a ruin then try to find somewhere else
+in that ruin to hide and hope he's not found so they'll pin it on ghoka; if it
+wasn't a ruin was just going to keep going after sneaking through the camp and
+hoping that their trail would get lost in the camp
+
+***** DONE why did they steal
+CLOSED: [2021-10-16 Sat 23:34]
+saw the wright buying it from a merchant for a lot of shins, thought it was
+super valuable -- but mex has been waiting for this for a while, she paid extra
+as thanks to the merchant for getting it so quickly
+
+took the stuff from pamki because they saw it being handed over by a group that
+came out of the ship, figured if pamki wanted the numenera then they must be
+valuable ( not having gone into the ship, didn't realize that there's a tithe of
+numenera recovered from within the ship )
+
+***** DONE design ruin of where they're hiding
+CLOSED: [2021-10-16 Sat 23:16]
+***** DONE don't forget, lots of cluuuuuuuues
+CLOSED: [2021-10-16 Sat 23:35]
+if players get stuck:
+- another one of the green cloaks tries to bribe them
+- a few of the green cloaks attack them when they leave town
+- one of ghoka's men will offer to sell them info on the thief
+*** DONE scenario 2: in town (wright)
+CLOSED: [2021-10-17 Sun 11:46]
+the wright needs iotum to build some healing numenera to help some homesteading
+families that are sick. unfortunately, they're completely out of the ones they
+need to complete their project.
+
+they've heard rumors of a ruin in the area that may have the materials they
+require; the rumors she heard described some symbols she's seen before on
+healing numenera
+
+if someone can retrieve the iotum and bring them to the wright, there will
+probably be some leftover healing cyphers they can give out
+
+they sent Bryok Ede about a week ago, he hasn't returned.
+
+iotum is in chamber 12
+
+**** DONE build map of ruin
+CLOSED: [2021-10-17 Sun 11:44]
+[[file:Scenarios/scenario-2.org::*entrance][scenario 2 map outline]]
+***** DONE fill out scenario outline with descriptions
+CLOSED: [2021-10-17 Sun 11:44]
+**** DONE place ruin on map
+CLOSED: [2021-10-16 Sat 22:59]
+province level, township E8
+**** DONE creature encounter
+CLOSED: [2021-10-17 Sun 11:44]
+pick a creature that would make sense to have made its lair in the entrance to
+the ruin, preferably a pack
+*** STARTED scenario 3: in town (pamki)
+  pamki needs someone to go into the ship and fix the water supply. either fix
+  whatever broke and is fouling the water, or stop the water completely -- the
+  poison is getting into the ground water table and causing issues for nearby
+  farms.
+**** STARTED build the ship "entrance hall"
 the parts of the ship that are well known and fully explored
 [[file:Scenarios/scenario-3.org::*entrance][scenario 3 map outline]]
+**** BACKLOG fill out scenario outline with descriptions
+**** BACKLOG build the part of the ship that contains the broken equipment
+need:
+- [X] broken machine that's fouling the water
+- [ ] the machine that produces or pumps the water
+**** BACKLOG the twist
+- to get to the area of the ship they need to get to, there's a door they need
+  to pass through that's protected by a strong force field. a holographic
+  assistant will inform them that secure areas of the ship are off limits to
+  passengers, and that they should inform the steward if they feel there is an
+  issue
+  - alternate routes?
+  - use the ring to turn off the force field ( same ring that opens the ship,
+    pamki has it, if they get the ring then have them meet the ship AI )
+*** DONE scenario 4: in town (pamki)
+CLOSED: [2021-10-16 Sat 23:43]
+  someone has stolen some old numenera and some personal items that belonged to
+ager. pamki needs someone to find out who stole them and return the numenera.
 
-* Convert World Anvil Docs [0%]
- - [ ] Ager's Timeline
- - [ ] World Timeline
- - [ ]
+  while pamki is normally somewhat shy and quiet, she becomes angry and animated
+when talking about this. whatever was stolen was important.
 
-* NPCs
-** Innkeep (Lowen Hob)
+**** DONE what was stolen
+CLOSED: [2021-10-16 Sat 23:43]
+ - the numenera:
+  - hanging cocoon (level 5)
+  - habiliment mirage (level 5)
+  - occular helm (level 6)
+
+ - the personal items pamki actually cares about:
+  - a still image of her parents and her, taken before her mom got sick
+  - one of her father's journals
+**** DONE who stole it
+CLOSED: [2021-10-16 Sat 23:43]
+not one of ghoka's men, same person who stole from warehouse
+**** DONE where they are now
+CLOSED: [2021-10-16 Sat 23:12]
+in ghoka's hideout, they're one of the explorers in chamber 8
+*** DONE scenario 5: near town (sheriff)
+CLOSED: [2021-11-06 Sat 17:11]
+- the sheriff knows that ghoka has found somewhere else to set up camp. sheriff
+  is worried that it's a ruin where ghoka will find something that will give him
+  a deadly edge against the town.
+
+  he's heard rumours about where the ruin is.
+
+  what the sheriff knows:
+  - when ghoka leaves he's going south, but could be doubling back
+  - rumor: that ruin ghoka is using has a secret entrance
+  - rumor: ghoka keeps something in the ruin that he uses to punish gang members
+    that step out of line
+
+  ghoka is smart, the ruin is actually to the west.
+
+  ghoka keeps a xacorocax inside the ruin, in a pit. he throws gang members that
+  fail him into the pit, if they can survive for ten minutes a rope is thrown in
+  ( they still have to manage to climb out on their own, though )
+
+  when the players reach the room with the pit, they'll see Leverett Stamper
+  getting pushed into the pit and dying to the xacorocax. he'll show up in town
+  a month later
+
+**** DONE build map of ruin
+CLOSED: [2021-10-17 Sun 21:58]
+[[file:Scenarios/scenario-5.org::*entrance][scenario 5 map outline]]
+**** DONE fill in map parts
+CLOSED: [2021-11-06 Sat 17:11]
+**** DONE place map on ruins
+CLOSED: [2021-10-16 Sat 23:01]
+township level, hex d1 ( name: ghoka's hideout )
+*** DONE scenario 6: near town (wood worker)
+CLOSED: [2021-11-06 Sat 17:01]
+forest name: grey woods
+- there's a small forest near the town, only a few acres, but it'll provide
+  enough wood to keep the woodworker in enough wood for the next few projects
+  he's got planned.
+
+  however, the second to last person he sent to scout the wood came back
+  claiming there were demons. the last person he sent didn't make it back.
+
+  he needs someone to either make those woods safe, or to find him another acre
+  of woods. he'd prefer this forest, the trees there have particularly hard and
+  strong wood.
+
+**** DONE design forest ( design it like a ruin, but small )
+CLOSED: [2021-10-16 Sat 23:03]
+[[file:Scenarios/scenario-6.org::*forest exterior][scenario 6 map outline]]
+**** DONE place on map
+CLOSED: [2021-10-16 Sat 23:04]
+**** DONE pick a creature
+CLOSED: [2021-10-17 Sun 13:02]
+it's not dangerous, last person died falling down the shaft into chamber 3
+
+a "consortium" of Kalyptein crabs (bestiary, pg 70) have gained sentence and
+want the aid of the players, they want
+*** STARTED scenario 7: far from town (pamki)
+  word has reached pamki that a caravan bringing food & building materials
+has gotten lost somewhere between the city of the dead and ararholm.
+
+  pamki would like someone to go and find the caravan and guide it to
+ararholm. while they need the food and materials, she's mostly concerned about
+the caravan -- the trader is an old friend of hers, and she wants to make sure
+they're safe.
+
+**** DONE figure out where the caravan is
+CLOSED: [2021-10-16 Sat 23:06]
+kingdom level, province B3
+
+attack site is kingdom level, C4 -- looks like they quickly left, a few busted
+wagons and empty boxes, a fire, and a nearly dead man ( under wagon ) are at the
+site, with tracks of wagons and a big creature leading north-west
+
+nearly dead man will not be alive if this is not the first scenario they deal with
+**** DONE figure out how many are still alive
+CLOSED: [2021-10-16 Sat 23:07]
+out of 38, 17 are still alive
+***** DONE why did they die
+CLOSED: [2021-10-16 Sat 23:44]
+the creature that attacked, some died as they fled, others died trying to chase
+the creature away from the ruin they took shelter in
+**** DONE figure out why they got lost
+CLOSED: [2021-10-16 Sat 23:44]
+chased by a creature, took shelter in the ruins
+**** BACKLOG create map of ruin that they're sheltering in
+gonna use the cards, should be interesting
+**** DONE figure out what needs to happen for the wagons to make it back to ararholm
+CLOSED: [2021-10-16 Sat 23:45]
+the caravan can repair their floating "wagons", but it'll take a day and they
+need to do it out in the open, so they'd appreciate some protection while they
+do so
+*** BACKLOG put clues in each ruin about "big bad" or overarching mystery [0/5]
+**** BACKLOG scenario 2
+**** BACKLOG scenario 3
+**** BACKLOG scenario 5
+**** BACKLOG scenario 6
+**** BACKLOG scenario 7
+** BACKLOG Finish populating town with major NPCs [7/19]
+*** DONE the "seamstress" madam [100%]
+CLOSED: [2021-10-28 Thu 21:20]
+**** DONE name
+CLOSED: [2021-10-18 Mon 14:14]
+Jun Shitoshi
+**** DONE basic details
+CLOSED: [2021-10-28 Thu 21:20]
+**** DONE other details
+CLOSED: [2021-10-28 Thu 21:20]
+*** BACKLOG innkeeper [33%]
+**** DONE name
+CLOSED: [2021-10-18 Mon 14:14]
+Lowen Hob
+**** BACKLOG basic details
 has a very deep voice, almost makes your bones rumble
-
+**** BACKLOG other details
 can fight, but prefers to use some numenera he's picked up over the years to
 stop fights in his tavern
-
-** Mason (Sech Nokham)
+*** BACKLOG the mason [33%]
+**** DONE name
+CLOSED: [2021-10-18 Mon 14:16]
+Sech Nokham
+**** STARTED basic details
+image: https://db4sgowjqfwig.cloudfront.net/campaigns/123273/assets/577028/3d6d33d7fb089d1fdfc39b70a826e171.jpg?1460139730
+**** BACKLOG other details
 a bit arrogant about his skills, has a bit of a friendly/unfriendly rivalry with
 mex about who's the better craftsperson ( he thinks she doesn't create things
 with any "art or soul", she thinks his designs are almost so artistic they lose
 functionality )
-
-image: https://db4sgowjqfwig.cloudfront.net/campaigns/123273/assets/577028/3d6d33d7fb089d1fdfc39b70a826e171.jpg?1460139730
-
-** Woodworker (Jacka Ward)
+*** BACKLOG the woodworker [33%]
+**** DONE name
+CLOSED: [2021-10-17 Sun 13:04]
+Jacka Ward
+**** STARTED basic details
 tends to wear baggy pants and a cloak, while cutting wood or working goes
 shirtless, showing off the tattoos covering his right arm
 
 is a very talented wood worker
 
+**** STARTED other details
 a bit of a hippy kind of person, really doesn't like fighting
-** Dibbler
+
+*** BACKLOG Dibbler [0%]
+**** BACKLOG personality, basic details
 - wants to be a rumor monger, but is really not very good at it
-
-** Ghoka
-*** Gang Members
-
-** Ager
+**** BACKLOG other details
+-
+** BACKLOG Create some goons & flesh out Ghoka's gang [%]
+*** BACKLOG more on ghoka
+**** BACKLOG stat him up
+**** BACKLOG a little bit of history
+**** BACKLOG what are his plans, really
+*** BACKLOG his second-in-command
+**** BACKLOG stats
+**** BACKLOG little bio
+*** BACKLOG the "voice of reason" gang member
+**** BACKLOG stats
+**** BACKLOG little bio
+*** BACKLOG an insane/not-all-there "shaman"
+**** BACKLOG stats
+**** BACKLOG little bio** BACKLOG Sable Hegemony [0/5]
+*** BACKLOG the empress/queen
+** BACKLOG Voz Dynasty [0/6]
+*** BACKLOG the khan
+*** BACKLOG his daughter ( ager's wife )
+** BACKLOG Maka-Tho [0/6]
+*** BACKLOG make map of hills region for exploration by players
+*** BACKLOG figure out where on region map the giant hand & screaming tower are
+*** BACKLOG decide on scale
+region needs to be at least as big as bc, alberta, and saskatchewan combined
+*** BACKLOG figure out basic ecology of the hills region
+  - what are some of the animals most likely to be seen?
+  - what are the plants like?
+*** BACKLOG decide if it's only the hills region plagued by the lightning storms
+** BACKLOG Ararholm [40%]
+*** BACKLOG write up articles for things already revealed on map [2/3]
+**** DONE the pit
+CLOSED: [2021-10-14 Thu 16:51]
+**** DONE the city of the dead
+CLOSED: [2021-10-14 Thu 16:51]
+**** BACKLOG some of the 'tombs' & ruins nearby
+*** BACKLOG maybe a map of the immediate area, but in a much more sketchy style
+  need to know about the following:
+  - how many homesteads are there, and what do they produce?
+  - what resources are nearby that are easy to get to (wood, water, etc)
+  - what resources are nearby that would require organization to get to (buried
+    ruins with synth and building materials, ore deposits, etc)
+  - are there gangs or bandits hiding out nearby, and does Ghoka know about them?
+** other prep that needs doing [0/3]
+*** BACKLOG how exploring unknown hexes will work
+*** BACKLOG travel distances & times & other considerations [2/2]
+  - [X] how do they get lost -- GM intervention!
+  - [X] how do they get un-lost -- intellect task
+  - [ ] how long can they be lost before food & resources becomes an issue?
+  - [ ] how easy is it to find shelter out in the wild?
+  - [ ] can the players determine how safe a shelter might be?
+  - [ ] what kinds of shelter might they find?
+*** BACKLOG how big is a hex, for each "zoom level"
+- in town:
+- hills region:
+- maka-tho:
+- continent:
+** physical prep [5/5]
+*** CANCELLED create maps for me on hex paper                   :CANCELLED:
+CLOSED: [2022-02-07 Mon 22:57]
+:LOGBOOK:
+- State "CANCELLED"  from "STARTED"    [2022-02-07 Mon 22:57]
+:END:
+*** CANCELLED on hex side of big battle mat, create map of all maka-tho :CANCELLED:
+CLOSED: [2021-10-18 Mon 14:29]
+:LOGBOOK:
+- State "CANCELLED"  from "BACKLOG"       [2021-10-18 Mon 14:29] \\
+  not doing area maps for the players, just a "symbolic" map on world anvil
+:END:
+*** CANCELLED on hex side of small battle mat, create map of the region they're in :CANCELLED:
+CLOSED: [2021-10-18 Mon 14:30]
+:LOGBOOK:
+- State "CANCELLED"  from "BACKLOG"       [2021-10-18 Mon 14:30] \\
+  same as above
+:END:
+*** CANCELLED see if maybe just giving players hex paper will work better than battle :CANCELLED:
+CLOSED: [2021-10-18 Mon 14:30]
+:LOGBOOK:
+- State "CANCELLED"  from "BACKLOG"       [2021-10-18 Mon 14:30] \\
+  again, above
+:END:
+  mat ( maybe a discussion before first session )
+*** DONE determine what i want in front of me when running a game
+CLOSED: [2022-02-07 Mon 22:57]
+pretty much cards & laptop
+* Can wait until after first session [29%]
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+** Ager [10/12]
+*** DONE timeline, work backwards from death for the following [9/9]
+CLOSED: [2021-10-11 Mon 15:45]
+**** DONE founding ararholm
+CLOSED: [2021-10-11 Mon 15:44]
+**** DONE gathering people and preparing to leave for ararholm
+CLOSED: [2021-10-11 Mon 15:44]
+**** DONE death of his wife
+CLOSED: [2021-10-11 Mon 15:44]
+pamki should be around 2 or 3, she vaguely remembers her mom
+**** DONE when did he first explore maka-tho
+CLOSED: [2021-10-11 Mon 15:44]
+and is he lying about that or not
+**** DONE how long spent in calda before mists disappeared
+CLOSED: [2021-10-11 Mon 15:44]
+**** DONE when did he go to sudboia
+CLOSED: [2021-10-11 Mon 15:44]
+  - and for how long
+  - and was he sent by the Sable Empress?
+**** DONE how long did he spend in the Steadfast after finding the Kala Arch
+CLOSED: [2021-10-11 Mon 15:44]
+**** DONE how old was he when he discovered the Kala Arch?
+CLOSED: [2021-10-11 Mon 15:44]
+ - was it before, after, or during the building of his trade empire?
+**** DONE put in a few gaps
+CLOSED: [2021-10-11 Mon 15:44]
+ - stuff like "it is unknown what Ager was up to during this X
+    <year/month> period"
+*** BACKLOG finish entries in timeline
+the last few entries just have what was in the repo copied into the secrets,
+need to write better articles for each timeline entry
+*** BACKLOG figure out his personality a bit more
   - outwardly he's a dynamic, charismatic, fun yet ruggedly noble
   - was he the same inside?
   - what regrets haunted him?
   - what did he really want from Maka-Tho?
   - besides the ship, what else did he leave unfinished before his death?
+** the kingdoms [0/9]
+*** BACKLOG sable hegemony
+- [ ] general overview
+- [ ] culture (music, popular foods, clothing style, manerisms, traditions)
+- [ ] religion
 
-* Political
-For each faction:
- - general overview
- - culture "moodboard" (music, popular foods, clothing style, manerisms, traditions)
- - religion/myths/legends
- - what are their current long term goals for their homeland
- - what are their current long term plans for Maka-Tho & Ararholm
- - key NPCs
- - their ideals
-
-** Sable Hegemony
 https://static.tvtropes.org/pmwiki/pub/images/EmpressOfMijak_6998.jpg
 
-*** BACKLOG army
+**** BACKLOG army
 - leader
 - fighting style
 - structure
 - anything else special about the army
-
-*** BACKLOG cities
-- [ ] capital city
-- [ ] mining outpost
-- [ ] trade stop
-- [ ] city near no-mans land
-- [ ] one more city
-*** BACKLOG nobles and important npcs
+**** BACKLOG nobles and important npcs
 - [ ] queen's consort ( crown prince )
 - [ ] how the nobility works, what's their duties, etc
 - [ ] any other important or renowned figures?
-** Voz Dynasty
+*** BACKLOG voz dynasty
 - [ ] general overview
 - [ ] culture (music, popular foods, clothing style, manerisms, traditions)
 - [ ] religion
-*** BACKLOG army
+**** BACKLOG army
 - [ ] leaders ( khan's sons )
 - [ ] fighting style
 - [ ] what do they ride into battle
 - [ ] structure
 - [ ] anything else special
-*** BACKLOG cities
+**** BACKLOG cities
 - [ ] capital city
 - [ ] city near no-mans land
 - [ ] city at edge of mists
-*** BACKLOG nobles & important npcs
+**** BACKLOG nobles & important npcs
 - [ ] the "twisted" (aeon priest who wants power and sees the khan as his way to get it)
 - [ ] others?
-** Ghoka's Gang
-** The Nightmares
-** The Ship
+*** BACKLOG history of the war
+** the ship [0/6]
+*** BACKLOG more on the AI
   - is it actually an ally, or biding its time?
   - is the AI actually part of the ship, or trapped there ( or prisioner? )
   - how much does the AI know about what happens outside the ship?
   - how much does the AI know about humans?
   - was the AI ever a friend to humanity in the past?
-
-
+*** BACKLOG some more info on the ship
   - is it even a ship?
   - if it is a ship, what was it meant for? war? colonization? exploration?
   - if it's not a ship, what was it?
@@ -112,19 +523,45 @@ https://static.tvtropes.org/pmwiki/pub/images/EmpressOfMijak_6998.jpg
 *** BACKLOG is there another way into the ship?
 *** BACKLOG just... how big IS the ship
 *** BACKLOG is the ship entirely in our reality?
-** The Outsiders
-* Geography & Maps [0/2]
-  - [ ] area around Ararholm ( a few kilometers around )
-  - [ ] larger area, showing route back to Sable Hegemony
-
-  need to know about the following:
-  - what are some of the animals most likely to be seen?
-  - what are the plants like?
-  - how many homesteads are there, and what do they produce?
-  - what resources are nearby that are easy to get to (wood, water, etc)
-  - what resources are nearby that would require organization to get to (buried
-    ruins with synth and building materials, ore deposits, etc)
-  - are there gangs or bandits hiding out nearby, and does Ghoka know about them?
-* Ecologies & Ecosystems
+** maka-tho [0/4]
+*** BACKLOG is the device that created the mist destroyed, turned off, or being
+  prevented from functioning ( in stasis, broken, etc )
+*** BACKLOG was the mist to keep people out, keep something in, or... something else?
+  - is that something else "knowable", or a mystery
+*** BACKLOG what groups or civilizations survived under the mists?
+  - cherry tree area
+  - green city behind scary mountains
+  - tower to the east, just near the swamps
+  - inverted pyramid
+  - crashed ship to the north
+  - the black tower in the north-east
+*** BACKLOG was the mist created before or after the beginning of the ninth world?
+  - ie, when was the device turned on
+** BACKLOG flora & fauna
 [[file:flora-and-fauna.md::Flora & Fauna][doc with ideas]]
 - put a bunch of these into world anvil as creature species
+** BACKLOG figure out what the big problem is
+- something in the ship?
+- ghoka, or the person funding ghoka?
+- the sable empire?
+- the voz dynasty?
+- someone else? some**thing** else?
+
+
+what is the big bad that's lurking behind the scenes?
+
+is there one, or is is just a land wanted by two kingdoms?
+
+there should be a few things hidden in maka-tho that are dangerous if set loose,
+and there should be some powerful numenera hiding out there too
+** BACKLOG fill out the tavern with stuff
+- crib from here: https://thealexandrian.net/wordpress/37558/roleplaying-games/numenera-tavern
+* Next Session
+DEADLINE: <2022-04-17 Sun>
+- what happened back at town
+- description of the screaming tower now that they've fixed it
+- layout of the screaming tower, need:
+  - where the crystals are
+  - what thing calls this place home
+  - what the tower can do for ararholm ( tech they can take, etc )
+
