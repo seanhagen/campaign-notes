@@ -1,5 +1,14 @@
 * Numenera
 ** Cyphers
+*** Data Vault
+*Level*: 1d6 + 2
+*Usable*: Hourglass-shaped synth device with a ring around the center
+*Effect*: The device scans one object (chosen by the user) that can fit inside a
+10-foot (3 m) cube and is within a short distance. The object then dissolves,
+its substance drawn into the device. Activating the device again causes it to
+create an identical copy of the object using solidified light at an open spot
+within a short distance.
+
 ** Artifacts
 *** Sword Arm Mods, Level 4
 Two mods, one for each arm.
