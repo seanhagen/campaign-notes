@@ -732,8 +732,8 @@ Added: [2021-09-22 Wed 11:01]
 ** upcoming story ideas
 *** sable army regiment
 new npcs:
- - liuetenant kernel ado <lastname>
- - senior ambassador kula <lastname>
+ - liuetenant kernel ado cheem
+ - senior ambassador kula otoke
  - lady gol tilrade, daughter of midnight, holder of the sable shield
 
 ado is a well intentioned man, trying to do his best. however, he's an honest
