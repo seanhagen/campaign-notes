@@ -544,11 +544,28 @@ and there should be some powerful numenera hiding out there too
 ** BACKLOG fill out the tavern with stuff
 - crib from here: https://thealexandrian.net/wordpress/37558/roleplaying-games/numenera-tavern
 * Next Session
-DEADLINE: <2022-04-17 Sun>
-- what happened back at town
-- description of the screaming tower now that they've fixed it
-- layout of the screaming tower, need:
-  - where the crystals are
-  - what thing calls this place home
-  - what the tower can do for ararholm ( tech they can take, etc )
+** Figure Out
+ - item level vs creature, who wins on ties ( creature or item )
+ - how close other parties are to town ( sable army, merchant, others )
+ - what is ghoka up to
+ - what stuff in & around town needs to be handled sooner rather than later?
+   - water? 
+   - demon t-rex thing?
+   - families needing help?
+   - ruins that need searching?
+ - stuff in the ejected command arena they can salvage:
+   - 2 Data Orbs
+   - 100 units of synthsteel
+   - 100 units of pliable metal
+   - 50 units of responsive synth
+   - 20 units of io
+   - 2 units of philosophine
+   - 3 cyphers
+     
+*** stuff they need to learn
+ - many of the ruins used to be parts of the ship, it broke up as it crashed
+ - one of the crystals they need to unlock the airship force field is here
+ - one of the people traveling with the Royal Sable Army that's approaching is
+   one of the Nightmares
+ - one of the people traveling with the Merchant is a Nightmare
 

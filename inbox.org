@@ -1,3 +1,36 @@
+* Lieutenant Kernel Ado Cheem (Level: 7)                 :ttrpg:npc:friendly:
+#+BEGIN_QUOTE
+What I do, I do for the people of the Sable Hegemony!
+#+END_QUOTE
+
+*Roleplaying*
+| Thing | Physical Action |
+|-------+-----------------|
+| physical mannerism | slow, deliberate movements; tends to have his arms crossed |
+| mode of speech | tends to use fables and myths when explaining things |
+| personality | a bright and cheerful soul that is hidden behind a fortress wall |
+
+  a few brief bullet points. should have one simple, physical action to perform
+  while playing the npc. *avoid repetition* by having each point describe a
+  completely distinct classification of thing: values, physical mannerism, way
+  of speaking, personality, etc.
+
+** Key Info
+  essential interaction or info pcs should get from this npc. can have multiple
+  key info sections, one for each 'type' of info (ie, an npc in a mystery game
+  at a party might have 'clues' and 'topics of conversation' as key info
+  sections ).
+
+** Appearance
+ Big nose, deep voice, kind of built like Maui from Moana.
+
+** Background
+  a short narrative that covers essential context and interesting
+  anecdotes. something that will influence how they make decisions, or something
+  they'll use as context to explain stuff. use *bold* text to call out important
+  features.
+
+** Stat Block
 * Nēta (Weaver) Felwinter (Level: 9)                  :ttrpg:npc:ai:friendly:
 #+BEGIN_QUOTE
 I'm sure I could help, if only I could remember.
@@ -98,7 +131,6 @@ drastically reduce how much time it takes 😄
 [4:36 PM] Nethew: Heard this today as well and immediately thought that it would
 fit so well if we ever had to fight a big bad from the Sable Hedgemony
 https://open.spotify.com/track/3zmG5m9riAuH0igUmqLrBH?si=89dcb37217ea48c8
-
 
 *** Fox
 Okay, I think the song I’m going to go with is Party Poison by My Chemical Romance.

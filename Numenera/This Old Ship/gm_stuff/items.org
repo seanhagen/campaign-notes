@@ -12,11 +12,13 @@ Can be implanted within mechanical arms to provide the following benefits:
    By spending Might effort another 5 splinters can be fired for an additional 5
    points of damage ( also bypassing armor ). You can expend effort to increase
    the number of splinters up to a maximum of 30 splinters doing 30 points of
-   damage. All splinters are fired as a single action, so only one ranged attack
-   roll is required.
+   damage. All splinters are fired as a single action, but each target requires
+   it's own attack roll.
 
    Once fired, splinters must be retrieved by touching the body or central mass
-   of where the splinters hit. Unrecoverable splinters regenerate at a rate of 5/day.
+   of where the splinters hit. Unrecoverable splinters regenerate at a rate of
+   5/day.
+   
 **** Notes
 Mex will have mentioned to Zeno that she thinks there may be alternate weapon
 forms that can be unlocked, the sword was apparently one of a larger "set" of

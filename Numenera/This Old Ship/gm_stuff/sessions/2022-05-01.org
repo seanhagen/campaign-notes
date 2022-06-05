@@ -1,0 +1,53 @@
+* Session 8
+** Screaming Tower
+Now a "Singing Tower" thanks to the team fixing the generator, the exterior has
+changed and looks pretty nice now.
+
+Many floors, but only few are of interest:
+
+ - Generator Level ( where they are now )
+ - Lookout ( highest level )
+ - Command Arena
+
+The Screaming Tower is actually a piece of the ship; the command tower. How it
+managed to land right-side up Felwinter doesn't know -- it may have been moved
+after the crash.
+
+In the command arena are several Decanted (Bestiary, pg 34). They are trying to
+steal the crystals needed by the party.
+
+Trapped on the lookout is a Hexon (Bestiary, pg64). It was trapped by Felwinter
+when it tried to infiltrate the systems of the ship. She's captured it in a
+force bubble, but maintaining the bubble takes up a lot of processing power.
+
+Felwinter tells them about both of these issues. The problem is that now that
+power is stable and things are starting to reboot back into normal working
+condition, she's not sure that she can keep both the crystals safe and keep the
+Hexon contained. 
+
+When the system for the crystal security reboots, the Decanted may be able to
+steal the crystals and make their escape. One of those crystals is required for
+the team to unlock the barrier protecting the airship.
+
+When the force field controls reboot, the Hexon will be able to escape and the
+data stored in the crystals at risk. It may also be able to infect some control
+systems, or Felwinter herself -- or at least, the fragment of her stored in this
+part of the ships systems. She's still recovering from the whole power generator
+imbalance thing, but this fragment has some security codes.
+
+If they can talk the Decanted down, or at least negotiate for the one crystal
+they really need they can probably get both done in time.
+
+The systems for either might reboot any time in the next hour. Getting to the
+lookout will take about 45 minutes, getting to the command arena will take about
+half an hour. Lots of stairs and climbing up access shafts.
+
+*** Notes
+ - Ureos accidentally antagonizes the decanted by messing up his illusion, meant
+   to ask if friend or foe, accidentally made an illusion of Fox that attacked
+   with bow & arrows ( each arrow "missed" )
+ - spent about a day handling all this stuff in the tower once they got out of
+   the datasphere
+ - time since getting struck by lightning: 4 days
+   
+*** Combat

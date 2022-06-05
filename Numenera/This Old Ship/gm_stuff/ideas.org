@@ -727,6 +727,78 @@ Added: [2021-09-22 Wed 11:01]
 
 - race of intelligent beavers named "timberborn"
 ** upcoming story ideas
+*** sable army regiment
+new npcs:
+ - liuetenant kernel ado <lastname>
+ - senior ambassador kula <lastname>
+ - lady gol tilrade, daughter of midnight, holder of the sable shield
+
+ado is a well intentioned man, trying to do his best. however, he's an honest
+man in way over his head in the intricate games of the royal court. can easily
+be led astray by those he trusts, but has a fairly unbreakable moral code. that
+moral code is part of why he's risen so high, it's also why without the backing
+of one of the royal family he won't be rising any higher.
+
+kula is actually a minion of one of the nightmares. his goal is to try and twist
+things so that the party seems like agressors that have to be dealt with. he
+wants to prove to his master that he's worthy of power. used to be ghoka's
+handler, until ghoka went off the rails in maka tho. 
+
+lady tilrade is the fourth in line to the throne of the sable hegemony ( not
+that it truly matters, as the queen is -- as far as everyone can tell --
+immortal ). she wants to put her mark on the world, and thinks that maka tho is
+her path to glory and honour. needs to present a very rigid kind of honour, a
+good story opportunity for the party to get to help someone become a better
+person if they want -- potentially exactly the thing they need to do to fight
+the nightmares. maybe dealing with kula depends on getting lady tilrade to
+change her beliefs about honour, and the worth of glory.
+**** the lost regiment
+before they leave the screaming tower, felwinter has a gift for the party:
+communication devices. they're small nodules that adhere to the skin behind the
+ear, but can pick up subdermal speaking ( or maybe even reads what you want to
+say ) and transmits it so it sounds like you're in the same room. they have
+limitations, but they should come in handy more often than not.
+
+the party is found by some scouts as they make their way back to
+ararholm. they're brought before the lt kernel, who asks for their aid in
+helping rescue a lost squad. they were sent to investigate a strange ruin, and
+haven't been heard from since. if they aid the lt kernel, he will help the party
+back to ararholm by giving them plains striders ( beasts not unlike horses, but
+he expects them back -- he's heading to ararholm and will get them back when he
+meets up with them there. he lets them know he's doing this partially as a
+thanks if they help his men, but also as a diplomatic gesture so that the town
+is ready and not worried about the approaching army regiment ).
+
+the ruin is bizzare. a large black monolithic structure, rising at least 200
+meters into the air ( about 1 + 1/10th the size of the space needle in seattle
+), and at least 50 to a side. it stands on a patch of glassy black obsidian
+about 1km to a side.
+
+20 meters north of the monolith is the entrance: a hole in the ground. set into
+the stone is a square, 1 meter deep. the square is about 30 meters to a
+side. set into the square is a funnel, the edge of which touches each of the
+four sides of the square. it slowly curves down into a hole about 10 meters in
+diameter.
+
+it's hard to get in, because gravity is weird and makes getting in tricky
+without falling and sliding in. there is some kind of force screen protecting
+the entrance, things that touch it disappear. it's hard to tell if they're
+getting destroyed or not though, as the only view of the entrance is from drones
+sent to survey the entrance as soldiers made attempts to enter.
+
+the trick is that if you just walk down the funnel you'll be fine, gravity has
+been changed here so that it's always where the soles of your feet are
+pointing. so if you slide in, you'll always be sliding down without being able
+to stop; it'll be more like falling than sliding. this only applies to sentient
+creatures though. most animals are too dumb to care, but there are some
+crow-like birds that use the effect to play around by flying upside
+down. inanimate objects treat the slope as a flat surface.
+
+inside the tube twists and turns, and ends up leading back up above ground ( you
+think, there are no windows to check ). not only above ground, but at 90 degrees
+to the ground. they're actually inside the monolith, which will become clear
+after a little bit more walking and they find themselves inside a room with
+obsidian glass walls.
 *** the merchant that modified Zeno makes an appearance
 with a small host of similarly modified "things" he has tricked into getting
 modified
