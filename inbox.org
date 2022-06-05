@@ -55,7 +55,7 @@ By the light of the Golden Throne, you have no idea what you've gotten yourself 
   sections ).
 
 ** Appearance
- Tall, skinny, wears flowing robes
+ Big nose, deep voice, kind of built like Maui from Moana. Wears flowing robes.
 
 ** Background
 #+begin_quote
@@ -90,7 +90,7 @@ What I do, I do for the people of the Sable Hegemony!
   sections ).
 
 ** Appearance
- Big nose, deep voice, kind of built like Maui from Moana.
+ [[file:Numenera/This Old Ship/gm_stuff/assets/lt-ado-cheem.png][LT Ado Cheem]]
 
 ** Background
 :PROPERTIES:
