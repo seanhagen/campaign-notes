@@ -4,7 +4,6 @@ Now a "Singing Tower" thanks to the team fixing the generator, the exterior has
 changed and looks pretty nice now.
 
 Many floors, but only few are of interest:
-
  - Generator Level ( where they are now )
  - Lookout ( highest level )
  - Command Arena
