@@ -343,21 +343,14 @@ I'm going to put my mark on this world, no matter what.
 :ID:       01ff51ac-a249-43c5-bc9a-1fffb6cd76bd
 :END:
  - /needs/ to prove herself worthy of her family line
- - 
-   
-  essential interaction or info pcs should get from this npc. can have multiple
-  key info sections, one for each 'type' of info (ie, an npc in a mystery game
-  at a party might have 'clues' and 'topics of conversation' as key info
-  sections ).
+ - is plagued by doubts she's not good enough for her family
+ - her doubts have made her headstrong and reckless
 
 *** Appearance
- early 20s, pretty
+Muscular, strong, tattooed.
+[[file:./assets/lady-tirade.jpg]]
 
 *** Background
-  a short narrative that covers essential context and interesting
-  anecdotes. something that will influence how they make decisions, or something
-  they'll use as context to explain stuff. use *bold* text to call out important
-  features.
   
 *** Stat Block
 ** Tigor (Level: 8)                                     :ttrpg:npc:friendly:
@@ -366,22 +359,18 @@ Q'dar ohn meto'an dob quar'oh. ( The most beautiful flower can sprout in the mos
 #+END_QUOTE
 
 *Roleplaying*
-| Thing | Physical Action |
-|-------+-----------------|
-| physical mannerism | stands in ways that is intimidating, but not threatening |
-| mode of speech | when not alone with Lady Tirade, gruff and not many words. when alone with Lady Tirade and she gives the okay, he's quite eloquent. |
-| personality | serene warrior monk |
-
-  a few brief bullet points. should have one simple, physical action to perform
-  while playing the npc. *avoid repetition* by having each point describe a
-  completely distinct classification of thing: values, physical mannerism, way
-  of speaking, personality, etc.
+| Thing              | Physical Action                                                                                                                        |
+|--------------------+----------------------------------------------------------------------------------------------------------------------------------------|
+| physical mannerism | stands in ways that is intimidating, but not threatening                                                                               |
+| mode of speech     | when not alone with Lady Tirade, gruff and not many words. when alone with Lady Tirade and she gives the okay, they're quite eloquent. |
+| personality        | serene warrior monk                                                                                                                    |
 
 *** Key Info
-  essential interaction or info pcs should get from this npc. can have multiple
-  key info sections, one for each 'type' of info (ie, an npc in a mystery game
-  at a party might have 'clues' and 'topics of conversation' as key info
-  sections ).
+ - is curious to meet someone from the Voz Dynasty, wants to know what the fuss
+   was about
+ - would give their life to protect Lady Tirade
+ - doesn't really understand the titles and ranks of the Royal Army, tends to
+   call everyone by nicknames
 
 *** Appearance
 A large humanoid creature with blueish-grey skin. Wears armor that looks like
@@ -390,12 +379,39 @@ retrofitted tank parts.
 [[file:~/Documents/CampaignNotes/Numenera/This Old Ship/gm_stuff/assets/512b954133215bf5f55da6f35fe3768c.jpg]]
 
 *** Background
-#+begin_quote
-  a short narrative that covers essential context and interesting
-  anecdotes. something that will influence how they make decisions, or something
-  they'll use as context to explain stuff. use *bold* text to call out important
-  features.
-#+end_quote
+Used to be a member of an elite commando squad in the Ukor Federation. When the
+Federation was absorbed by the Sable Hegemony two decades ago, he chose to leave
+that life behind and wandered the land looking for a purpose.
+
+Met Lady Tirade when she was young and had run away from home. Protected her
+from a ravage bear, with the aid of Lady Tirade's thuman. Because the thuman was
+okay with Tigor, Lady Tirade ( only 6 at the time ) decided Tigor was okay. She
+told them that if anybody had a problem with him they'd have to deal with
+her. Tigor was so taken with her grit and determination, he accompanied her back
+home.
+
+When the pair arrived back in the city with the royal family's summer manor, the
+pair made quite a sight: a large unknown humanoid, singing and laughing while
+carrying the Daughter of Midnight, Holder of the Sable Shield,
+fourth-in-line-to-the-throne Lady Gol Tirade on his shoulder -- who was laughing
+and apparently having a grand time.
+
+A few guards approached at this point, and offered to escort the princess home,
+she said she was safer with Tigor than she was with him. Fearing that she had
+been mind controlled or something akin to that, the guards attacked with the
+intention of getting the princess away from this unknown creature.
+
+Tigor quickly and effortlessly disarmed the guards without hurting them. He
+plucked Lady Tirade from his shoulder and placed her on the ground, and told her
+that he wouldn't want to approach her home and give her family the same idea the
+guards had gotten. So he told her to go with the guards, and he would follow.
+
+Once back at the family's summer manor, Lady Tirade explained the whole story to
+her father and older sisters. They were quickly taken with Tigor's manner,
+humility, and obvious concern for the safety of someone he had only just
+met. Tigor was granted an audience to the Queen, so that she could determine
+Tigor's worth and trustworthiness. Apparently he passed, and Tigor has been Lady
+Tirade's guardian ever since.
   
 *** Stat Block
 ** Senior Ambassador Kula Otoke (Level: 5)                   :ttrpg:npc:npc:

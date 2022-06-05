@@ -762,15 +762,11 @@ ear, but can pick up subdermal speaking ( or maybe even reads what you want to
 say ) and transmits it so it sounds like you're in the same room. they have
 limitations, but they should come in handy more often than not.
 
-the party is found by some scouts as they make their way back to
-ararholm. they're brought before the lt kernel, who asks for their aid in
-helping rescue a lost squad. they were sent to investigate a strange ruin, and
-haven't been heard from since. if they aid the lt kernel, he will help the party
-back to ararholm by giving them plains striders ( beasts not unlike horses, but
-he expects them back -- he's heading to ararholm and will get them back when he
-meets up with them there. he lets them know he's doing this partially as a
-thanks if they help his men, but also as a diplomatic gesture so that the town
-is ready and not worried about the approaching army regiment ).
+the party is found by Tigor and some scouts as they make their way back to
+ararholm. Tigor asks for their help, his charge ( the person he's supposed to be
+guarding ) snuck away and he fears they've gone to do something dangerous. if
+the party joins, he sends the scouts back to the camp to inform "machine man" (
+the lieutenant ) that Tigor found the trail and that he'll have found "her" soon.
 
 the ruin is bizzare. a large black monolithic structure, rising at least 200
 meters into the air ( about 1 + 1/10th the size of the space needle in seattle
@@ -802,6 +798,31 @@ think, there are no windows to check ). not only above ground, but at 90 degrees
 to the ground. they're actually inside the monolith, which will become clear
 after a little bit more walking and they find themselves inside a room with
 obsidian glass walls.
+
+the interior of the monolith doesn't really conform to the laws of physics and
+causality as we know it. walking down a hall and then back down the same hall
+will put you in a different room. a door can disappear after you've walked
+through it -- if it was even really there?
+
+Lady Tirade is somewhere in here, trying to find something worth taking to
+prove she's not weak.
+
+Things in the ruin to fight:
+ - Clicker x3 (nwb2, pg 36)
+ - Decanted Reaper x2 (nwb2, pg 45) -- sent after they killed the other Decanted
+ - Overlord Automaton x1 (nwb2, pg 124)
+
+
+they're brought before the lt kernel, who asks for their aid in
+helping rescue a lost squad. they were sent to investigate a strange ruin, and
+haven't been heard from since. if they aid the lt kernel, he will help the party
+back to ararholm by giving them plains striders ( beasts not unlike horses, but
+he expects them back -- he's heading to ararholm and will get them back when he
+meets up with them there. he lets them know he's doing this partially as a
+thanks if they help his men, but also as a diplomatic gesture so that the town
+is ready and not worried about the approaching army regiment ).
+
+
 *** the merchant that modified Zeno makes an appearance
 with a small host of similarly modified "things" he has tricked into getting
 modified
@@ -990,3 +1011,12 @@ some others were also pulled in but either got spat out or found their own way
 back to their bodies.
 
 Until they exit the datasphere, they won't be able to remember the lightning strike.
+*** Creatures to use
+ - Mozck Automaton, nwb2, pg 103
+ - Dread Rider, nwb2, pg 48
+ - Effigy, nwb2, pg 50
+ - Latos Adjunct, nwb2, pg 92
+ - Lambrequin  (nwb2, pg 89) -- trapped and wants to be freed ( so it can eat
+   them )
+ - Nildir  (nwb2, pg 114)
+ - Psellis, nwb2, pg 130
