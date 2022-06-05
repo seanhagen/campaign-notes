@@ -1,3 +1,71 @@
+* Lady Gol Tirade (Level: 8)                                  :ttrpg:npc:npc:
+#+BEGIN_QUOTE
+I'm going to put my mark on this world, no matter what.
+#+END_QUOTE
+
+*Roleplaying*
+| Thing | Physical Action |
+|-------+-----------------|
+| physical mannerism | bit of a firebrand, aggressive, and loud |
+| mode of speech | talks fast but goes on tangents |
+| personality | bright, bubbly shine on a core of steel |
+
+  a few brief bullet points. should have one simple, physical action to perform
+  while playing the npc. *avoid repetition* by having each point describe a
+  completely distinct classification of thing: values, physical mannerism, way
+  of speaking, personality, etc.
+
+** Key Info
+  essential interaction or info pcs should get from this npc. can have multiple
+  key info sections, one for each 'type' of info (ie, an npc in a mystery game
+  at a party might have 'clues' and 'topics of conversation' as key info
+  sections ).
+
+** Appearance
+ early 20s, pretty
+
+** Background
+  a short narrative that covers essential context and interesting
+  anecdotes. something that will influence how they make decisions, or something
+  they'll use as context to explain stuff. use *bold* text to call out important
+  features.
+  
+** Stat Block
+* Senior Ambassador Kula Otoke (Level: 5)                     :ttrpg:npc:npc:
+#+BEGIN_QUOTE
+By the light of the Golden Throne, you have no idea what you've gotten yourself into - do you?
+#+END_QUOTE
+
+*Roleplaying*
+| Thing | Physical Action |
+|-------+-----------------|
+| physical mannerism | always keeps his hands hidden |
+| mode of speech | speaks to anyone not a noble or general as if they're not worth talking to |
+| values | himself and power |
+
+  a few brief bullet points. should have one simple, physical action to perform
+  while playing the npc. *avoid repetition* by having each point describe a
+  completely distinct classification of thing: values, physical mannerism, way
+  of speaking, personality, etc.
+
+** Key Info
+  essential interaction or info pcs should get from this npc. can have multiple
+  key info sections, one for each 'type' of info (ie, an npc in a mystery game
+  at a party might have 'clues' and 'topics of conversation' as key info
+  sections ).
+
+** Appearance
+ Tall, skinny, wears flowing robes
+
+** Background
+#+begin_quote
+  a short narrative that covers essential context and interesting
+  anecdotes. something that will influence how they make decisions, or something
+  they'll use as context to explain stuff. use *bold* text to call out important
+  features.
+#+end_quote
+
+** Stat Block
 * Lieutenant Kernel Ado Cheem (Level: 7)                 :ttrpg:npc:friendly:
 #+BEGIN_QUOTE
 What I do, I do for the people of the Sable Hegemony!
@@ -25,10 +93,15 @@ What I do, I do for the people of the Sable Hegemony!
  Big nose, deep voice, kind of built like Maui from Moana.
 
 ** Background
+:PROPERTIES:
+:ID:       e7d73ec1-f5e2-4901-aa8e-d6e475e6d8c4
+:END:
+#+begin_quote
   a short narrative that covers essential context and interesting
   anecdotes. something that will influence how they make decisions, or something
   they'll use as context to explain stuff. use *bold* text to call out important
   features.
+#+end_quote
 
 ** Stat Block
 * Nēta (Weaver) Felwinter (Level: 9)                  :ttrpg:npc:ai:friendly:
