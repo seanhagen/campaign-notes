@@ -115,7 +115,153 @@ generated
  - [ ] read in ruin to "validate" it
  - [ ] given a room id, add another exit and extend the ruin from that exit
 * This Old Ship
-** Ghoka Is Being Driven
+** Next Session
+*** 2022-06-12
+**** Ruin
+Take a few tries of doing a ruin using just the cards; improv this one
+
+General descriptions:
+ - Tron, but with red & orange only, no blue or white
+ - Gravity is always where your soles are pointing, making space traversal
+   tricky; moving in combat is always a difficulty 3 speed task, jumping is a
+   difficulty 5 speed task, any fancy moves or acrobatics are hindered two levels
+ - doors are glowing orange portals, some are one-way
+ - the first few rooms should be rooms, after that they emerge into a immense
+   open space, way larger than what should fit inside the monolith; after this
+   point they're on platforms in the air that are connected by cables and
+   walkways. there are no guard rails, but platforms usually have an assortment
+   of walls ( chest-high and otherwise ), or building facades -- like it's a
+   training ground for an army
+
+last fight is with the Avatar of Doubt.
+
+ruins have no connection to the nightmares or anything else, it's just an
+extra-dimensional space that Doubt found, and then used to spring a trap.
+
+**** What Does The Intevention Of The Party Do
+Lady Gol will be thankful but will put on a facade of being angry they
+interrupted her fight; think Knuckle from Hunter x Hunter. Tigor will admonish
+her for being rude, and she'll sheepishly apologize and thank the party
+properly.
+
+Then she'll freeze, as if she had heard something. Somewhere between a deer
+listening for a wolf and the fox listening for the mouse beneath the snow she
+stands with absolute stillness.
+
+Ask the party what they do ( initiative turn order if someone wants to try
+something, everybody gets one chance to do something ).
+
+If they take a closer look at Lady Gol they'll see something like a living
+shadow creeping over her skin, before covering her eyes and ears.
+
+She doesn't respond to being talked to or touched, other than to try and shake
+off anybody who tries to grab or restrain her.
+
+After everyone has had a chance, she'll bellow in anger, then take off running,
+suddenly consumed by rage, down the path towards where the swarm disappeared
+to.
+
+Before she makes it halfway, two things happen:
+ - she's hit by a powerful attack that sends her flying backwards
+ - right after she's hit ( and close enough after that only Zeno is able to tell
+   that it happened afterward ) Tigor jumps into the air to catch her, landing
+   behind the party
+
+Tigor shouts to the party and asks if they can give him two minutes so he can
+heal Lady Gol; that's roughly 6 rounds. He shoots a flare from his armor into
+the air that shines with a strange blue light, and suddenly the party can see
+what they're fighting: Doubt, or at least a powerful avatar of Doubt's.
+
+*** 2022-06-18
+**** Doubt's Longer Term Plans
+Doubt is actually using this as a chance to sow the seeds of what they think
+will be the defeat of the party; he's going to let them think the weapons of the
+Ukor are key to defeating him. He'll avoid Tigor's weapons for a few rounds,
+then allow himself to be hit ( but framed as a mistake on Doubt's part ) -- then
+immediately say something like "how can this be, how did you discover..." before
+fleeing by teleporting away.
+
+Their long-term plan is to kill Tigor after the party goes on a quest or
+whatever to get the materials to make more weapons so that right when they're
+most sure Doubt can shatter that certainty and infect them with endless doubt.
+
+Right now though, the party has to get Lady Gol past a new wound, one more
+mental than physical. The revelation that she was played by that creature has
+her doubting that she will be of any use to her family or her people. What good
+is her strength, when all it seems to do is get people hurt because she's
+constantly outmaneuvered?
+
+**** Fight With The Avatar
+[[id:49587b28-d8f1-43a6-964b-1d00d9aebe6d][Psychic Avatar Projection: Battle Form]]
+
+ - describe the [[https://external-preview.redd.it/k0g0N8RfyQdoMPbWb31yHZdoS6NeReMuvgrrWosQCgQ.jpg?auto=webp&s=1db030194c1ee389586b1a5b13e2b653603e990a][creature]] to the players, along with the initial attack
+   - klep & zeno's systems seem to have trouble telling if the creature is even
+     there ( it whispers "you were so certain your devices would help you see me
+     and figure out what i can do... how sad for you" )
+   - ureos suddenly feels like they have two... well, they're not human feet (
+     "you flit through the battlefield like a sparrow in the brambles, but how
+     will you flit when you can't feel your feet?" )
+   - fox feels an overwhelming sense that he has or absolutely will fail to
+     protect pamki ( "so confident your strength would protect these fools and
+     more besides, how will you protect them now?" )
+ - every time the avatar attacks it whispers more doubts into the mind of those
+   it attacks
+ - when Tigor re-joins the fight, Doubt will put on a show that it's suddenly
+   nervous, like it's scared of his weapons. this is an act, it's trying to set
+   up a chance to really mess with their heads later on by setting up his
+   weapons as the only thing that can hurt it, and then shattering that
+   certainty so it can plant the idea that they'll never be able to hurt it --
+   because if it can do that, it has a chance of being able to make that true.
+
+**** After The Fight
+Lady Gol is a wreck; she's curled up in a corner, crying and not looking that great.
+
+Tigor will ask the party if they have any wisdom to share, because they are more
+familiar with the needs of other humans; he fears he does not have the right
+words to assist Lady Gol in her time of need.
+
+Explain to the party that Lady Tigor has basically been broken spiritually,
+Doubt used this as an opportunity to further it's own agenda even though it left
+in apparent defeat. The party realizes that the whole battle was a cover; Doubt
+was really attacking Lady Gol. It's planted seeds ( though the characters don't
+know that yet ) that it will work to make real.
+
+They have to convince her that nothing Doubt has convinced her of is true, or
+the seeds will sprout. 
+
+Tigor will speak after the party, and will basically Ted Lasso the
+situation. Something along the lines of how she feels as if she is a jarba (
+something akin to a rodent, Tigor explains ) trapped in a nest of okin ( snakes
+); surrounded by nothing but danger and death. But it isn't the strength in her
+arms he follows, or why he trusts her. It's the strength of her heart, shown to
+him by a little girl on the day they first met.
+
+Lady Gol will confess to Tigor that she's been hearing whispers that she only
+realizes now were that creature, and not just some aspect of her personality,
+or some voice of her subconcious. She'll thank the party, and asks if she can
+accompany them back to their town; she really dislikes the kind of ceremonies
+the ambassador insists on when they travel. That, and she prefers to make an
+assessment like the one she's been sent to make with first-hand and unbiased
+information. 
+
+She'd much rather just go with them and get to know the folks there a bit before
+the rest of the army regiment catches up.
+
+Depending on where in the session we are, call the end or take them back to town.
+ 
+** High Level
+*** Monsters To Use For Sure
+ - [ ] ARGANIED WARDEN ( ninth world bestiary 3, pg 23 )
+ - [ ] DISSECTOR ( nwb3, pg 51 -- what one of Zeno's old companions has been
+   turned into )
+ - [ ] DURRESH ( nwb3, pg 56 -- stands in the way of the players getting a
+   crystal they need for the ship, but is willing to trade )
+ - [ ] EXCOGITATE ( nwb3, pg 60 -- an old friend of Klep, gone way too far down
+   the same path )
+ - [ ] GLISTENING SOLDIER ( nwb3, pg 72 -- mooks for the Merchant )
+ - [ ] KATARU BEHEMOTH ( nwb3, pg 86 -- hate's "weapon", something mex made or
+   discovered with ager )
+*** Ghoka Is Being Driven
 both insane, and towards a cache of ancient weapons -- by the nightmares, of
 course
 
@@ -123,3 +269,482 @@ players find out when one of his men crawls back to town, half dead. he says
 ghoka nearly killed him in his madness when he questioned what they were
 doing. need to have him talk about something that sounds like a demon to the
 folks in-game, but to the players will sound like robots.
+*** Mex's Past
+Mex knows Ager from way back. Like way back. No, like wayyyyyyy back.
+
+Like 4000 years back.
+
+Mex ( and some of the other Ararholm NPC's ) are actually Ager's old crew. He
+gathered them up after all this time so they could fix what they broke.
+
+As in, accidentally letting the Nightmares loose.
+
+That's not what's important though. What's important is the truth about
+Mex. She's not really human any more. She's a human mind that was transplanted
+into a fire mech from some ancient alien civilization; Ager helped her out by
+helping her find the knowledge and tech to build herself a special disguise that
+hides her true nature from everyone.
+
+She did this so she could live a normal life -- at the time she just wanted
+things to go back to normal.
+
+But she soon realized that "normal" wasn't the same thing she thought it
+was. Turns out that in the time since getting turned into a firey doom robot
+normal became "going out and looking at cool shit with Ager and the gang". Fact
+of the matter is, she realized she had actually forgotten most of her life from
+before she had been transformed.
+
+She wants to show Zeno the truth about herself to try and get him to understand
+that he's been given a golden opportunity: he gets to choose his family. Not
+many folks get that -- the freedom of a (mostly) blank slate, to accept the past
+may always be lost but that the future can be spent making happy memories with
+the family he chooses to protect. With the family that chooses him back.
+
+Knowing that sometimes there are hard things a kid shouldn't have to deal with,
+she gives Zeno the choice:
+  - wipe the memories of The Merchant; risky, could affect memories of the gang
+  - wipe everything and start fresh
+  - hardest option: learn to talk about it all, process it, come to grips with
+    it, and then leave it behind. to learn how to move on, from someone who
+    experienced something similar ( mex )
+  - "choose nothing" -- run, get in his own head, pretend everything is fine
+    until you're a gun again
+
+Mex knows who The Merchant really is: a pawn of Doubt. But for that information
+to be of any use, Zeno needs to be able to face The Merchant. Zeno is the only
+one who knows anything useful about The Merchant, but the team also can't face
+it without Zeno.
+
+She lets them know that she's got a score to settle with Doubt
+**** Who Else Knows Ager From Way Back?
+ - Empress of Sable Hegemony?
+ - Sudkhan Kell?
+ - Ghoka?
+ - Sheriff Edgar?
+ - Savu Athuin?
+   
+**** Nightmares <=> Ager's Gang
+ - Doubt <=> Mex
+ - Deceit <=> Savu Athuin
+ - Hate <=> 
+ - Vanity <=> Savu Athuin
+ - Despair <=> 
+ - Scorn <=> Empress
+ - Anxiety <=> Mex
+ - Absurdity <=> 
+ - Memory <=> Ager
+   
+**** Who Exactly Were Ager's Gang?
+And are they even human?
+*** Felwinter Sacrifices Herself To Save The Party
+Somehow, at their direst moment, Felwinter will rescue the party at the cost of
+her own life.
+*** Who Kills Which Nightmare
+Pair each Nightmare up with a PC or NPC that feels like a good match for what the
+Nightmare thought would be their weakest adversary.
+
+ - Hate => Mex
+ - Despair => Pamki
+   
+ - Doubt => Zeno
+ - Deceit => Klep
+ - Vanity => Ureos
+ - Scorn => Fox
+ - Anxiety => Belel (Zeno)
+   
+ - Memory => Party
+   
+ - Absurdity => ?
+
+*** How Zeno Kills Doubt
+Have someone give Zeno a Chuckling Shroud (torment, pg 119) in a bag or
+something, and tell him not to use it until he's about to face Doubt. Turns out
+that Doubt isn't that tough, or strong, or big -- their power operated on such a
+fundamental level that they were all seeing what Doubt /wanted/ to be.
+
+Zeno needs to learn that part of defeating the Nightmares has to do with being
+able to rid yourself of the emotions they prey on. How you do it might not
+matter, as the Chuckling Shroud is what's blocking Doubt's aura from affecting
+Zeno -- Zeno still has doubts, he's human(-ish).
+*** Ager's Message To The Party
+Felwinter explains that the message is actually a limited-knowledge memory
+phantom; basically a copy of Ager's conciousness that he edited down to only
+have pertinent information. Ager did this for two reasons: the first being he
+didn't trust a fully copy of himself not to get into trouble and mess things
+up. The other is that there are things that can never be said aloud, lest the
+Nightmares learn what exactly it is you know.
+
+Savu, Captain Togh, Princess Gol, Mex, & Brigette. He only knew Savu, Mex, and
+Brigette would be there, other than that he just asks for the "royal daughter of
+the Sable Hegemony" and the "runaway child of the Voz Dynasty".
+
+
+Felwinter asks the party to get Pamki, Brigette, Mex, Savu, "royal daughter of
+the Sable Hegemony" and the "runaway child of the Voz Dynasty", and to bring
+them to her in the ship. Once they all arrive, she'll play them the message that
+will explain a lot.
+
+She bid them follow her into a room, and she plays the "message".
+
+A black and white, grainy hologram springs into being. It's very clearly Ager,
+but to those who knew him -- it's also clearly not. It's his image, for sure; it
+pretends to breath and look around the room, clearly making eye contact. But
+some crucial spark of Ager is not present; his eyes don't have that mischievous
+glint, his mouth is missing it's default smarmy grin, and he's not walking
+forward to grasp your hands and greet you like old friends.
+
+Some of that old life returns to the hologram when it looks at Pamki, before
+quickly fading again.
+
+"Hey y'all." the hologram speaks. At first the voice is tinny and distant, but
+as the message continues the quality improves until it's like he's standing in
+the room.
+
+"I bet some of you are surprised, and some are smug. Tell whoever won the bet
+they need to buy Mex a drink, cause she bet me you'd do that."
+
+From his image and voice, this is a somewhat younger Ager than you all
+remember. He looks to be about the age he was when Pamki was around 6 years old.
+
+"By now, you've had a run-in or two with the Nightmares. Sorry about that."
+
+Ager sighs, then sits down in a chair; you all recognize it as the younger
+version of the chair in Pamki's office. She sniffles, and the message continues.
+
+"It's funny how even after all this time, I can still be surprised."
+
+He looks up, and continues. His face is sad, like he knows what he's about to
+say is going to be painful.
+
+"And you'd think after over six thousand years of walking this planet, I'd have
+seen it all. Or at least figured out a way to clean up my mess." He gives a
+small chuckle, and shakes his head. "At least a way that didn't involve me dying
+quite so soon. Thought I had at least a few more centuries before that became
+probable. Of course, that's not the only thing I was wrong about.
+
+"I guess I've got a bit of a story to tell you. Sit down, get comfy. This is
+going to be a while."
+
+The room shifts, and portions of the floor flow into comfortable looking chairs,
+couches, and bean bags. The hologram patiently waits for you all to make
+yourselves comfortable before it continues.
+
+"I'll give you a bit of background, I guess. Probably a good place to start is
+when I was born, more than where.
+
+"Yeah, I'm over 6000 years old right now. Right now Pamki is 5."
+
+"Can't forget the 'and a half', though." he says in a stage whisper with a wink.
+
+"That makes me about... oh, six thousand, one hundred and... fourteen? It's been
+a while since I gave it any thought. I've had slightly more pressing
+concerns. I've been putting off my plans for too long, but for the last five
+years it hasn't been for the usual reasons.
+
+"It wasn't because I needed to gather my strength and allies. I didn't need to
+spend time setting up a trade empire, or scouting out the old stomping grounds,
+or looking for just one more cypher that could tip the scales in my favour.
+
+He looks directly at Pamki.
+
+"No, for the last five and a half years I've been putting off my plans because I
+just wanted to be your dad for a bit longer."
+
+He drops his gaze to the floor, before raising his eyes again. His eyes have
+changed, they now have some of the old spark in them that some of you remember.
+
+"See, this is thing about living as long as I have. You start to forget some of
+the important things. Or at least, I have. Some of my friends have done a much
+better job staying... well, staying human. Even Red, though she'd fight me on
+that one. Especially you, Red.
+
+His eyes come to rest on Mex. He gives her a small smile before continuing.
+
+"I actually don't remember very much about a lot of my life. Pretty sure it was
+the boring parts though, cause who needs to remember every step taken towards
+the horizon? I do remember where I was born, though.
+
+"A small village, in a small valley; the only spot to stop if you wanted to make
+the trek through the mountains. I spent my boyhood wanting to hitch a ride with
+every cart, to tag along with every wandering delver. I stayed though, until
+home wasn't there any more.
+
+A dark memory chases across Ager's face, quickly replaced with a look of
+determination.
+
+"I went out into the world a young idiot. Depending on who you ask, the only
+thing that's really changed since then is the 'young' part. I might be an idiot,
+but I'm definitely a lucky one. Spent the next few decades falling into just the
+right kind of trouble. Made some friends, helped some folks out, made a small
+name for myself.
+
+"Then one day, we heard about it. A ruin unlike any other. Rumors of it had
+started spreading about a year earlier, but nobody had taken much stock in
+them. Mostly spread in the kind of taverns that such tales usually call home,
+by delvers short one too many fingers.
+
+"The ruin that grants wishes.
+
+"Apparently, a whole village had started dreaming of the ruin on the eve of the
+winter solstice. A vast cathedral, built of shining white marble, sparkling
+crystal, and gleaming gold. The cathedral was located at the center of vast maze
+of twisting paths and troubled time. A step could take you forward in time as
+well as space. But the treasure guarded by the maze and other numenera was worth
+it. The treasure was whatever you wanted.
+
+"The strangest thing was how nobody had to ask what it was called. Somehow, we
+all knew it was the White Cathederal.
+
+"Some claimed it was a tame version of the Iron Wind, the mythical 'Blue
+Sigh'. Others said it was a machine that could construct whatever you could
+imagine. Regardless of what the tale-teller told, the treasure at the heart of
+the White Cathederal held the power to give you whatever you wanted.
+
+"Looking back, I'm surprised we got off as lucky as we did. We were so very
+stupid back then. The folly of youth, I suppose.
+
+"Anyways. My gang were hanging out in the town square of some small town when we
+learned the rumors had some truth to them. We ran into a group of delvers that
+we had met a few years back when they had been headed to investigate a ruin they
+had heard about. Now they were making their way back home.
+
+"Well, I say it was the same group. That's only partly true. It wasn't the whole
+group. Just the survivors. Of the original party of around a dozen, only three
+had survived their trek.
+
+"We bought them drinks, and got the story from them.
+
+"None of them could remember how they found out about the ruin, but they
+remember what they felt when they heard about the treasure. They decided the
+twelve of them would gather up all they had, and go searching for those
+ruins. At the very least, it'd make a good story for the tavern, right?
+
+"It took them a year to find the ruin. It took the ruin a week to spit them back
+out. Five made it out, although two quickly succumbed to their wounds and left
+the land of the living.
+
+"We could tell they had been traumatized by what had happened to them. They had
+difficulty remembering what had happened, even when drunker than an algo on
+greenberry juice.
+
+"I could tell as my gang and I walked home we all had the same thing on our
+minds. That ruin. We remembered that group of delvers, back when we first met
+them. Remembered that they hadn't been all that impressive.
+
+"Of course, we talked ourselves into attempting to overcome the ruin too. A few
+weeks later we headed out, full of certainty that we'd do better than those
+pathetic losers.
+
+"It's only looking back that I can see how much we were being manipulated.
+
+"See, everything about this was the Nightmares. Somehow they had figured out how
+to subtly reach out and touch the minds of humans. Trapped in their prison and
+forced to work together they wove trap after trap to attempt to get someone to
+free them. This was just our turn on the fishing line.
+
+"Unfortunately, we were just what they were looking for.
+
+"The maze wasn't just a maze. I don't know what it had originally been meant to
+do, but the Nightmares had corrupted it into a twisted testing apparatus. They
+used it to separate the wheat from the chaff, to ensure they could enact their
+escape plan.
+
+"See, the Nightmares aren't from this dimension. They're from some strange
+mirror of our reality. Every concept in our world has an avatar in that
+reality. I don't know how they got to our reality, or how they got trapped, but
+I've learned a little about them. Couldn't help it, because otherwise I'd never
+learn how to kill them, right?
+
+"Nightmare isn't even what they're called; it's just what we named this group of
+invaders. I'm sure that there are avatars for nice things like Courage and
+Honor you could name the Justices or something, but I haven't met one yet.
+
+"In order to exist in our reality though, the Nightmares need something: an
+anchor. Without one, they're stuck as little more than shadows. They're still
+powerful, but they can't work their big mojo until they've been bonded to the
+vessel that will become their anchor.
+
+"That's what the maze was for. To find the right suckers to become their
+anchors.
+
+"When we made it through the maze, we didn't expect to meet anybody at the
+center. But standing there were roughly fifteen creatures, draped and robed in
+fine white linen and silk. No part of their bodies could be seen.
+
+"They bade us approach them, and then offered us each a choice of artifacts.
+
+"None of us stopped to think about the situation we were in. About how despite
+entering with twenty there were now only fifteen of us. About how uniquely
+suited each of us survivors was to overcome a particular challenge within the
+maze.
+
+"I certainly didn't stop to think about why the gun I reached out to take so
+closely resembled the toy I had carved when I was a child when I wanted to feel
+more powerful than my bullies.
+
+"We didn't realize what had happened until many years later. Some of us noticed
+sooner than others, but we eventually all got back together to figure out what
+was happening to us.
+
+"Things had been a bit weird since we left the maze. We were suddenly heroes
+known throughout the land. We got requests for aid, or invites to dinners and
+balls, and more offers of riches and earthly pleasures than we could count. But
+over time we started to notice something. Where each of us went, strange things
+occurred. At first the events happened rarely, but eventually they started
+happening more and more often until we finally realized these happenings weren't
+natural.
+
+"For one of us, wherever they went fights and arguments broke out as long
+buried hatreds were unearthed and fed new fuel. Another found that others became
+afflicted with uncertainty, their doubts having grown to overcome and crush
+their wills. The ones who found that they seemed to affect those around them
+soon learned they had it easy. One of us discovered that staying too long in one
+place caused disaster of some kind to befall the area; anxiety dogged their
+every step.
+
+"The artifacts we had taken were cursed, or we had been cursed by the
+creatures. We decided to gather up all our most powerful weapons and gear, and
+we were going to go kill those things or die trying.
+
+"That was our biggest mistake. It turns out the artifacts were cursed, after a
+fashion. They were dual purpose devices. One purpose was to aid us, tools we had
+all chosen that fit our personalities. The other purpose was to spread the
+influence of a particular Nightmare. Each time an artifact influenced someone it
+got a bit stronger, and next time was able to influence more people, for longer.
+
+"We didn't realize it, but we had basically been charging them up, filling them
+with everything the Nightmares needed to break free.
+
+"I don't remember much of what happened after that. There was a lot of fighting,
+and running, and madness. We chased and were chased through ruins and
+dimensions, trying to undo what we had done. 
+
+"We know this much though. We let them out, and we became their anchors. We
+chased them down, and managed to take out a few of them. Unfortunately, the were
+the weaker and dumber ones. We took some losses as well. I've lost some friends
+I'm going to miss for the rest of my life.
+
+"Anyways. We split up after that. Some of us figured we'd just die some day, so
+they wanted to go and live peaceful lives, or to try and atone for what we had
+done. Others immediately dived into trying to find a way to break the anchoring,
+or defeat the Nightmares.
+
+"I spent the next few thousand years wandering. I learned some things. I can't
+say too much, though. Something about the spoken word and... trans-liminal
+psycho-memes? I'm pretty sure Hank was pulling my leg about that part. But
+basically, somehow the Nightmares know everything you speak out loud.
+
+The hologram catches your eye with its hand, and you realize it's signing
+something to you.
+
+<Journals>
+
+Spelled out, one letter at a time. It repeats the word three times before
+stopping.
+
+The whole time this is happening, it continues talking.
+
+"So there's some stuff you're just going to have to discover on your own for
+now. But there are some things I can tell you. Here's the basics. Each Nightmare
+represents an emotion, or a concept. Of the ones remaining, we're pretty sure
+it's just Deceit, Doubt, Hate, Vanity, Despair, Scorn, Anxiety, and Absurdity.
+
+"Each of them has an ability, and you need to be careful they don't get a chance
+to use it. Once they have, it can be very tough to undo what they did before it
+has chance to take root. We only know a few of these abilities.
+
+"Vanity, for example, can turn almost anyone to their cause if they're able to
+figure what someone wants. They turn that want into desire, while filling their
+targets heads with thoughts that makes them believe they deserve what the object
+of their affection is. Make them believe that Vanity really is willing to share
+their power with them, because of course they're worthy of it. That power twists
+their mind until they are nothing more than a puppet, a husk of their former
+self.
+
+"Scorn is their insidious assassin. Careful and methodical, they weave phantoms
+and illusions. They twist the experiences of the target to twist and inflate their
+pride. Joking words of encouragement become sarcastic jibes. An innocent cough becomes
+twisted into the punchline of a sly joke at the targets expense. At the end of
+this road lay death. The target lashes out at the wrong person and either gets
+themselves killed; or should they succeed they are driven insane as Scorn strips
+away the falsehoods to show that every perceived slight was actually an
+expression of love and comradeship.
+
+"Doubt is the one sent to weaken defenses from within. Doubt can plant a seed in
+your mind. Just a small thought, a tiny voice that speaks before you fall
+asleep. Maybe we can't hurt them, or find them, or even survive. That doubt
+grows, fed by both the target as they spiral and Doubt as they pour energy into
+the seed of doubt. When that seed sprouts, it changes reality for the
+target. Whatever they doubted is now true, for the target. Did the target doubt
+they could hurt the Nightmares? Now they can't, no matter what they try. Doubt
+tries to target the strongest, to remove key support from their enemies before
+one of Doubt's duped allies attacks in force.
+
+"That's all we really know about the Nightmares right now. I'll figure out how
+to let you know about anything else we learn.
+
+"Now, how do we deal with them?
+
+"If you asked me six years ago I would have had a plan. Now I'm not so sure
+about that plan. But I do have an idea.
+
+"But first, some truths.
+
+The hologram looks directly at Pamki.
+
+"Pamki, you're the reason I tossed out my plan. You helped me remember some
+things.
+
+"You forget lots of things when you live as long as I have. One of the more
+important things that I forgot is how much the little things matter.
+
+"When I looked into your eyes for the first time I saw the eyes of someone I had
+forgotten. My mother. Someone I thought lost to me forever, I saw there in
+you. And then you touched me, running your tiny little hands down my finger they
+way she would rub my arms to soothe me when I was still a scared little boy.
+
+"I had spent so long focused on how to impose my will that touch had become a
+tool, a weapon. "Touch" became just a word in a sentence like "the smallest
+touch was all it took to press the button that ended the village".
+
+"When I held you for the first time, I remembered my mother. I remembered losing
+her. I remembered all the steps I had taken, down a path that turned me into
+someone I feared she wouldn't recognize. Or rather, I feared she /would/ recognize
+me. I was no longer the person that made her proud.
+
+There is a sound from somewhere behind the hologram. A little girl walks into
+the picture, and Ager picks her up and puts her on his lap. Unlike Ager, the
+girl is in color, although her image still looks like it has static.
+
+When he speaks, its to the little girl. It's very clearly a five ( and a half )
+year old Pamki.
+
+"Do you know who you remind me of, my little starling? Your grandmother. She'd
+be proud of the person you're becoming. But that's nothing next to how proud I
+am for you always being so amazing and fearless. The world is yours, Pamki. It
+took me a long time to realize you've got the kind of strength the world needs,
+especially against the Nightmares. You can lead everyone to a better place,
+you've got everything you need.
+
+"I just hope that by the time comes for you to start that I've properly cleared
+my mistakes off the board so you have a clearer path to victory.
+
+He looks down at the young Pamki for a moment, before someone else walks into
+frame. Unlike Ager or the young Pamki, this figure is as clear as day. A woman,
+in a long flowing black skirt with a red shirt with the sleeves rolled up to her
+elbows. Her face has a serene beauty, tempered by the strength of will that
+emanates from her like the rays of a warm summer sun. Even relaxed and plainly
+dressed, every fiber and particle of this woman shouts power. But when her eyes
+look at her daughter, all you can see is unending, unconditional love.
+
+She picks up Pamki, and while holding her tight gives Ager a quick kiss. For a
+moment you could mistake them for any number of families you've seen in your
+travels.
+
+Once Ager is alone agin, he begins speaking again.
+
+"So that means that I've got to go through some stuff I'm really hoping you
+already know. And if not, I'm sorry baby girl, but you're going to have to clean
+up one of my messes.
+
+

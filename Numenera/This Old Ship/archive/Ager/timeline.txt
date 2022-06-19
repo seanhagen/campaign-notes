@@ -7,13 +7,15 @@
 
 
 
-821/6/11, 14:51: dies
+821/6/11, 14:51: dies, age 6134
 
 =========
 
 now: 834
 
-pamki: 33 years old now
-  --> born: 801
+pamki: 33 years old now 
+  --> born: 801 (ager: 6114)
 
 mists lift: 63 years ago ( 771 )
+
+

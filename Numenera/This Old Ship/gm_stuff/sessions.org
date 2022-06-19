@@ -1,0 +1,123 @@
+* Session 8
+** Screaming Tower
+Now a "Singing Tower" thanks to the team fixing the generator, the exterior has
+changed and looks pretty nice now.
+
+Many floors, but only few are of interest:
+ - Generator Level ( where they are now )
+ - Lookout ( highest level )
+ - Command Arena
+
+The Screaming Tower is actually a piece of the ship; the command tower. How it
+managed to land right-side up Felwinter doesn't know -- it may have been moved
+after the crash.
+
+In the command arena are several Decanted (Bestiary, pg 34). They are trying to
+steal the crystals needed by the party.
+
+Trapped on the lookout is a Hexon (Bestiary, pg64). It was trapped by Felwinter
+when it tried to infiltrate the systems of the ship. She's captured it in a
+force bubble, but maintaining the bubble takes up a lot of processing power.
+
+Felwinter tells them about both of these issues. The problem is that now that
+power is stable and things are starting to reboot back into normal working
+condition, she's not sure that she can keep both the crystals safe and keep the
+Hexon contained. 
+
+When the system for the crystal security reboots, the Decanted may be able to
+steal the crystals and make their escape. One of those crystals is required for
+the team to unlock the barrier protecting the airship.
+
+When the force field controls reboot, the Hexon will be able to escape and the
+data stored in the crystals at risk. It may also be able to infect some control
+systems, or Felwinter herself -- or at least, the fragment of her stored in this
+part of the ships systems. She's still recovering from the whole power generator
+imbalance thing, but this fragment has some security codes.
+
+If they can talk the Decanted down, or at least negotiate for the one crystal
+they really need they can probably get both done in time.
+
+The systems for either might reboot any time in the next hour. Getting to the
+lookout will take about 45 minutes, getting to the command arena will take about
+half an hour. Lots of stairs and climbing up access shafts.
+
+*** Notes
+ - Ureos accidentally antagonizes the decanted by messing up his illusion, meant
+   to ask if friend or foe, accidentally made an illusion of Fox that attacked
+   with bow & arrows ( each arrow "missed" )
+ - spent about a day handling all this stuff in the tower once they got out of
+   the datasphere
+ - time since getting struck by lightning: 4 days
+   
+*** Combat
+* Session 9
+** Leaving The Screaming Tower
+*** Notes
+ - party takes some time to rest up, half a day
+   - takes refuge in a room shown to them by Felwinter
+   - Felwinter hands out Focuses; functions as a comms device and also a simple
+     scanner for numenera; players can ask a single, simple yes-or-no question
+     about any numenera
+ - as party leaves, they do some scavenging, get 20 shins, 5 apt clay, 9
+   responsive synth, 3 synthsteel, and 1 unit of cosmic foam
+ - party starts to head back home
+ - meets up with tigor
+ - make friends with tigor and the scouts
+ - learn a bunch of stuff from tigor
+ - decide to head to the ruin with tigor as the scouts head back to the regiment
+   - tells the scouts to pass the message on to the regiment that they should
+     make camp far from Ararholm so that they can have water that's safe to drink
+ - the team makes it to the ruin where Gol apparently ran to
+ - zeno just walks in, giving bad information as to how the funnel work
+ - ureos tries, but fails ( rolls a 3 on a 2 )
+ - ureos falls into the portal, zeno follows at the same speed
+ - the portal sends you further into the monolith the faster you're going
+ - klep & fox get separated because they weren't going as fast
+*** Combat
+**** VS the hex
+hex, armor: 2, health: 8
+special: teleport
+
+turn order:
+ - klep
+ - fox
+ - zeno
+ - hex
+ - ureos
+
+ - the hex refuses to communicate, turns to walk to the back wall
+ - zeno shoots the hex, does 17 points of damage
+ - ureos is deafened for a day by the loudness of the gun
+ - fox punches, gets stuck
+ - hex teleports to zeno, shattering one of fox's gloves ( 3 points of damage ),
+   hits zeno and sends zeno flying; zeno catches themself with their foot before
+   falling off the catwalk
+ - ureos teleports to the top of a column, gets his bearing
+ - fox moves to a column and climbs to the top, and attempts to regenerate the broken glove
+ - zeno rights themself but drops their gun
+ - klep asks felwinter to make a ramp, drops his teleporter on the ramp as it
+   extends, then climbs down the column
+ - hex teleports back down to the ground, walks to the back wall of the room
+ - ureos uses a minor illusion to make a fake zeno show up behind the hex and
+   cock it's gun
+ - fox jumps from one of the columns with a shield, and does 8 points of
+   crushing damage
+ - fox allows the hex to attack and takes some damage, but retailiates with a
+   devestating riposte to absolutely destroy the hex ( and nearly gets conveted
+   to a hex because the claws piereced his skin -- last-ditch attempt by the hex
+   to accomplish its mission )
+*** For Next Session
+ - minor/major/crit on initiative roll
+ - single level 5 creature is a good fight for four players, 2 level 5 creatures
+   might have been tough enough to kill someone
+ - npc request: sid the pilot (jack)
+ - sort out the ruins; doesn't need to be too nuts, this is mostly just about
+   rescuing Gol
+ - 
+* Session 10
+** Rescuing Lady Gol
+*** Notes
+ - 
+*** Combat
+**** 
+*** For Next Session
