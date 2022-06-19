@@ -1,6 +1,50 @@
 #+TAGS: friend ally neutral indifferent hostile
 * NPCs
+** Ager Hammersplint (Level: 9)                        :ttrpg:npc:dead:ally:
+#+BEGIN_QUOTE
+I hear the dice calling, let's see how this plays out.
+#+END_QUOTE
+
+*Roleplaying*
+| Thing | Physical Action |
+|-------+-----------------|
+| mode of speech | you're always his buddy, unless you're his enemy (kinda like Gon from Hunter X Hunter) |
+| personality | loud, brash, kind of a drunkard, perceptive, loyal, terrifying |
+| values | nobody and nothing will ever hurt those i care about |
+
+  a few brief bullet points. should have one simple, physical action to perform
+  while playing the npc. *avoid repetition* by having each point describe a
+  completely distinct classification of thing: values, physical mannerism, way
+  of speaking, personality, etc.
+
+*** Key Info
+ - base him a bit on Elijah Snow of Planetary; takes his time, gathers all the
+   facts, and then hits with the force of a spaceship the size of the moon
+ - at the time of his death, was 6134 years old
+ - him and his gang found the nightmares and accidentally released them, spent
+   the rest of their lives trying to put them back or kill them
+ - "rest of their lives" turned out to be longer than they thought, as they were
+   "cursed" by the tomb they found the nightmares in to live until the
+   nightmares were returned or killed
+ - the curse also functions as a fail safe: the curse is actually nanotechnology
+   that keeps humans alive and sane, but will react to the touch ( or proxy
+   touch via melee weapon, etc ) by attacking the nightmare and attempting to
+   subdue it -- but this kills the human
+ - that's what actually happened to ager, he wanted to shake things up and so
+   took himself and memory off the board ( memory is only off the board
+   temporarily, although it will take a while once they're back in play to get
+   back to their full strength )
+
+*** Appearance
+ picture
+
+*** Background
+
+*** Stat Block
 ** Captain Ibakha Togh (Level: 6)                                  :neutral:
+:PROPERTIES:
+:ID:       ea69f355-6dcd-4668-aca3-7e7a29658423
+:END:
 #+BEGIN_QUOTE
 I'm willing to hear them out, but keep your sword sharp.
 #+END_QUOTE
@@ -318,6 +362,10 @@ fires as long as the trigger is held down. Edgar has a numenera that he can use
 to produce more ammo from any lose stones or pebbles, but it takes a day to
 finish processing the material into more ammo.
 ** Tashi Shaho
+*** Key Info
+ - left with Ager to escape becoming a terrible person and losing her humanity
+ - left a recording for pamki in the ship that explains who Tashi really is, and
+   the options that gives Pamki -- but only if she wants them
 *** Background
 Wife of Ager, mother of Pamki.
 
@@ -345,15 +393,59 @@ I'm going to put my mark on this world, no matter what.
  - /needs/ to prove herself worthy of her family line
  - is plagued by doubts she's not good enough for her family
  - her doubts have made her headstrong and reckless
+   
+*** Personality Traits
+ - always, always, /always/ willing to help; even when she should take some time
+   for herself
+ - afraid her only worth to her family and her people is her physical strength
+   and battle prowess
+ - feels an immense pressure when around high-ranking members of the Sable
+   Hegemony, that she can't make a mistake -- or be who she really is -- without
+   failing to uphold the honor of the family
+ - a little bit of toph's anger, but it's her trying to push people away because
+   she doubt's anybody would actually want to be the friend of someone like her
+   ( she thinks she's a freak because she's so different from her other sisters )
+ - has a huge soft spot for kids and animals, always somehow has a sweet treat
+   for kids who ask nicely
+ - doesn't really care about fighting, or battle, or war, or anything else she's
+   being groomed for ( she's being groomed to become the leader of the sable
+   army )
+ - would much rather just find a nice place to live, with lots of green stuff
+   and books, and some real friends
 
 *** Appearance
 Muscular, strong, tattooed.
 [[file:./assets/lady-tirade.jpg]]
 
 *** Background
-  
 *** Stat Block
-** Tigor (Level: 8)                                     :ttrpg:npc:friendly:
+*Health:* 50
+*Damage:* 6 points
+*Movement:* Short
+*Modifications:* Defends against mental attacks as level 3, speed defense as level 8
+*Combat:*
+The tattoos Lady Gol has on her arms are more than just decoration: they help
+her focus and manipulate gravitational energy to a certain degree.
+
+On her turn, she can choose to do one of the following:
+ - slam her fists into the ground, unleashing a crescent-shaped wave of energy
+   that races out in an arc of Lady Gol's choosing; it can topple even the
+   largest of foes ( Intellect defense at level 7 to avoid falling prone )
+ - focus her power into an incredible leap, can jump incredible distances. most
+   often uses this as a charge attack, which does 8 points of damage to the
+   target and 2 to Lady Gol; additionally the target must succeed at a level 8
+   Might task or be knocked back 15 meters
+ - spend a turn focusing her energy into her fists, which lets her bypass armor
+   with her next attack. additionally, if hit, target must make a level 5 might
+   save or risk getting hit for an additional 6 points of crushing damage
+ - focus her power on the area within immediate range creating highly increased
+   gravity, creatures must make a level 4 might check to move at all, failure
+   results in falling to the ground prone and taking 2 points of damage;
+   creature must make the same might save every turn or take another 2 points of
+   damage, success allows the creature to move at half speed within immediate
+   range of Lady Gol
+
+** Tigor (Level: 6)                                     :ttrpg:npc:friendly:
 #+BEGIN_QUOTE
 Q'dar ohn meto'an dob quar'oh. ( The most beautiful flower can sprout in the most wretched of places. )
 #+END_QUOTE
@@ -414,6 +506,27 @@ Tigor's worth and trustworthiness. Apparently he passed, and Tigor has been Lady
 Tirade's guardian ever since.
   
 *** Stat Block
+*Health:* 40
+*Damage:* 3 points
+*Armor:* 5
+*Movement:* Short
+*Modifications:* Defense as level 10
+*Combat:*
+
+His armor is almost purely defensive. It uses ancient technology to redirect or
+deflect attacks.
+
+ - when attacked with a ranged attack, misses are redirected back at the
+   attacker as a level 8 speed attack
+ - when attacked with a melee attack defends as level 10, creatures who get a
+   successful hit must pass a level 5 might save or lose their weapon -- weapons
+   that are part of the creature are not affected
+ - can switch places with anyone within short distance if they fail to dodge an
+   attack
+ - his gloves create a concussive blast when used, creatures must make a level 5
+   might task or be knocked back 5 meters and stunned for one round, this occurs
+   even if all damage from his attack is soaked up by armor
+
 ** Senior Ambassador Kula Otoke (Level: 5)                   :ttrpg:npc:npc:
 #+BEGIN_QUOTE
 By the light of the Golden Throne, you have no idea what you've gotten yourself into - do you?
@@ -544,9 +657,89 @@ real sense, no one will find you, you can not find anyone, your voice will only
 reverberate empty in the wilderness, at that time, you will know what you have
 lost, that is - "trust".
 ** Doubt
-*** Image
+#+begin_quote
+You are never as strong as you need to be, and I am always one step ahead.
+#+end_quote
+
+*Motive:* Chipping away at strength from within.
+
+*Roleplaying*
+| Thing              | Physical Action                                                               |
+|--------------------+-------------------------------------------------------------------------------|
+| mode of speech     | whispers and cajoles from the shadows, almost hisses a bit, like a snake      |
+| personality        | haughty, like it's better than you, and you know it                           |
+| physical mannerism | when inhabiting a human form, show excitement when someone talks about doubts |
+
+*** Key Info
+ - can only be defeated by someone who truly doesn't doubt themselves, who is
+   fully confident in themselves and their abilities
+ - this is because Doubt is actually incredibly weak physically, they make up
+   for it with their incredibly psychic power.
+ - if it can plant a "seed" of doubt in the mind of a target, it can turn that
+   doubt into reality with enough time and concentration. it imbues that seed
+   with energy over time, and once it reaches a critical threshold that doubt
+   becomes true for the target. so if it is able to plant a doubt like "i'll
+   never be able to hurt doubt" in your mind, with enough time and power it can
+   make it so that you really *can't* hurt doubt (ager knows this)
+ - is a sycophant to memory, allied with scorn and despair, neutral with
+   absurdity, deceit and vantiy, and opposed to hate and anxiety
+ - will offer info on hate and anxiety if they think it'll get them out of a jam
+ - current targets:
+   - Lady Gol Tirade
+   - Zeno
+   - Pamki
+   - Sheriff Edgar
+*** Forms
+**** Core
+A bat-like creature, about the size of a ten year old human child. Weighs half
+as much as one, though -- they're built like a bat or a bird;
+lightweight. Unfortunately, they have relied on their psychic might for so long
+that their muscles have withered, they can't move at all at this point.
+
 #+ATTR_ORG: :width 400px
 [[file:./assets/doubt.jpg]]
+**** "Final" Form
+**** Psychic Avatar Projection: Battle Form
+:PROPERTIES:
+:ID:       49587b28-d8f1-43a6-964b-1d00d9aebe6d
+:END:
+A 9-foot tall creature, somewhere between a bat and a wolf.
+
+A mantle of dark energy sits upon its shoulders, constantly spewing a dark smoke
+into the air. It uses this smoke to confound and attack its foes.
+
+*Level:* 6
+*Health:* 50
+*Damage Inflicted:* 3 points
+*Armour:* 1
+*Movement:* Long
+*Modifications:* All attacks that target it or defense against it must
+use Speed or are hindered by two levels, Level 8 for deceiving and confusing
+
+*Combat:*
+Relies on misdirection and speed to attack from unexpected angles to hide the
+fact it's a psychic projection.
+
+As a pre-emptive move, attacks with a blast of psychic energy. Players must make
+a Level 8 Intellect save or have all attacks against the avatar be hindered by
+one level. The attack inflicts a crippling sense of doubt upon the character,
+making every task harder to accomplish.
+
+However, once make the save: all attacks against the avatar are eased by two
+levels for the next two rounds, then go back to normal ( breaking the psychic
+attack fills them with a sense of confidence that gives them an edge for a short
+period of time ) -- normal being Level 6 difficulty.
+
+Doubt will prioritize attacking those who have defeated the psychic attack.
+
+Attacks do intellect damage, and bypass armor.
+
+Will use a psychic spike on all creatures within range as its first act after
+falling below 20 hit points. This does 4 points of intellect damage to every
+creature it can see, and targets must make a level 5 intellect save or be
+knocked unconscious as the spike scrambles their brain with pain. Uses this
+distraction to escape, appearing to turn into smoke and disappear.
+
 *** Description
 "Doubt" is a strange hunter. Its "hunting" is not so much a hunting as a funny
 farce. It all stems from the slightest psychological fluctuation. Maybe you will
@@ -560,7 +753,7 @@ all the time to show you that disgusting smile.
 ** Hate
 *** Image
 #+ATTR_ORG: :width 400px
-[[file:./assets/hate.jpg]
+[[file:./assets/hate.jpg]]
 *** Description
 If “Prejudice” is the kindling of war, then hatred is the reason for the
 continuation of war... Under the shadow of the poor traveler's corpse, which has
