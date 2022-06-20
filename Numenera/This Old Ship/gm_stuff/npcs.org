@@ -1,214 +1,7 @@
 #+TAGS: friend ally neutral indifferent hostile
 * NPCs
-** Ager Hammersplint (Level: 9)                        :ttrpg:npc:dead:ally:
-#+BEGIN_QUOTE
-I hear the dice calling, let's see how this plays out.
-#+END_QUOTE
-
-*Roleplaying*
-| Thing | Physical Action |
-|-------+-----------------|
-| mode of speech | you're always his buddy, unless you're his enemy (kinda like Gon from Hunter X Hunter) |
-| personality | loud, brash, kind of a drunkard, perceptive, loyal, terrifying |
-| values | nobody and nothing will ever hurt those i care about |
-
-  a few brief bullet points. should have one simple, physical action to perform
-  while playing the npc. *avoid repetition* by having each point describe a
-  completely distinct classification of thing: values, physical mannerism, way
-  of speaking, personality, etc.
-
-*** Key Info
- - base him a bit on Elijah Snow of Planetary; takes his time, gathers all the
-   facts, and then hits with the force of a spaceship the size of the moon
- - at the time of his death, was 6134 years old
- - him and his gang found the nightmares and accidentally released them, spent
-   the rest of their lives trying to put them back or kill them
- - "rest of their lives" turned out to be longer than they thought, as they were
-   "cursed" by the tomb they found the nightmares in to live until the
-   nightmares were returned or killed
- - the curse also functions as a fail safe: the curse is actually nanotechnology
-   that keeps humans alive and sane, but will react to the touch ( or proxy
-   touch via melee weapon, etc ) by attacking the nightmare and attempting to
-   subdue it -- but this kills the human
- - that's what actually happened to ager, he wanted to shake things up and so
-   took himself and memory off the board ( memory is only off the board
-   temporarily, although it will take a while once they're back in play to get
-   back to their full strength )
-
-*** Appearance
- picture
-
-*** Background
-
-*** Stat Block
-** Captain Ibakha Togh (Level: 6)                                  :neutral:
-:PROPERTIES:
-:ID:       ea69f355-6dcd-4668-aca3-7e7a29658423
-:END:
-#+BEGIN_QUOTE
-I'm willing to hear them out, but keep your sword sharp.
-#+END_QUOTE
-
-*Aligned With*: Voz Dynasty
-*Roleplaying*
-| Thing              | Physical Action                                                                              |
-|--------------------+----------------------------------------------------------------------------------------------|
-| physical mannerism | moves like a dancer, always on the balls of her feet                                         |
-| mode of speech     | brusque, short and to the point                                                              |
-| personality        | an extremely well-hidden core of kindness and warmth hidden beneath layers of steel and iron |
-
-*** Image
-[[file:./assets/ibakha.jpg]]
-*** Key Info
-**** Voz Dynasty
- - is a member of the royal family (technically)
- - the dynasty seeks to take control of Maka Tho
- - her full name is Ibakha Togh Celi ( clan family personal, not personal family
-   like we're used to )
-**** Maka Tho
- - there is a route through Maka Tho to Sudboia
- - she needs to find it again
-**** Personal
- - has never seen battle against other humans before
- - believes in what she was taught in a way that makes her believes incompatible
-   with what the Dynasty wants to do
-
-*** Appearance
- A woman of average height with raven hair and striking eyes. Her martial garb
- is offset by the bright and varied colours. Moves like a dancer, stands still
- like a stone.
-
-*** Background
-A lesser cousin of the Voz royal family, who has gotten incredibly lost trying
-to find a route through Maka Tho from her homeland. Wasn't put in charge of the
-expidition, but is the highest ranking officer left.
-
-Has never before left her homeland; she didn't fight in the wars because she was
-too young at the time. The trained harder than any in her class though, and has
-a need to prove that she's not just another royal brat.
-
-Arrived back in Maka Tho with ~10 people.
-
-Took in all the lessons about honor, only fighting as a last resort ( but
-fighting with everything you have ), and being a fair and equitable ruler --
-which, combined with her somewhat sheltered upbringing has made her somewhat
-incompatible with her father's plans. He's hoping that time in the army will
-bring her around to his point of view. He was wronged by Ager in the past; Tashi
-was meant to be next in line to rule and take on the mantle of the Stalwart
-Protector.
-
-*** TODO Stat Block
-** Duke Shale Feleke Tegene (Level: 6)                            :neutral:
-:PROPERTIES:
-:ID:       1cb3b307-38d0-4836-9010-224a99ffce35
-:END:
-#+BEGIN_QUOTE
-#+END_QUOTE
-
-*Aligned With*: Sable Hegemony
-*Roleplaying*
- - pm: economy of movement
- - mode of speech: flowery
- - personality: hides behind big words
-
-*** Image
-[[file:./assets/duke shale.jpg]]
-
-*** TODO Key Info
- - not really all that bright
- - mostly gets good ideas from underlings
-   
-*** TODO Appearance
-
-*** Notes
- - Fox has made it very clear he's not welcome
- - A lot more subdued after the incident with Zeno
-
-*** TODO Stat Block
-
-** Savu Athuin (Level: 6)                                         :friendly:
-#+BEGIN_QUOTE
-Well now dearie, you don't get to know everything.
-#+END_QUOTE
-
-*Roleplaying*
-| Thing              | Physical Action                                           |
-|--------------------+-----------------------------------------------------------|
-| physical mannerism | greets people by patting them on the cheek, grandma style | 
-| mode of speech     | slow and a bit reedy                                      |
-| personality        | chipper but spaced out                                    |
-
-  a few brief bullet points. should have one simple, physical action to perform
-  while playing the npc. *avoid repetition* by having each point describe a
-  completely distinct classification of thing: values, physical mannerism, way
-  of speaking, personality, etc.
-  
-*** Image
-*** Key Info
- - knows about the dark creatures
-
-*** Appearance
- An old lady wearing simple travellers robes. Her silvered hair is bound up in a
- complex ponytail that reaches to her mid-back. She tends to hunch over her
- cane.
-
-https://www.pinterest.ca/pin/96545985752141997/
-https://www.pinterest.ca/pin/339177415698928638/
-https://www.pinterest.ca/pin/130604457936371035/
-https://www.pinterest.ca/pin/428616089548005466/
-https://www.pinterest.ca/pin/136656169933575045/
-https://www.pinterest.ca/pin/40602834127995400/
-https://www.pinterest.ca/pin/27373510225916226/
-https://www.pinterest.ca/pin/292030357095342206/
-https://www.pinterest.ca/pin/153263193561272006/
-https://www.pinterest.ca/pin/21251429481890743/
-
- 
-*** Background
-  This is what's left of Savathun after ~1 billion years. As far as she knows
-  she's the *only Hive left*, the only one still alive anywhere in the
-  universe. The pyramid ships and the Traveller are long since dust.
-
-  Now she's just a *lonely old woman* who refuses to die, partially still driven
-  by the urge to *collect secrets* and tell lies and weave complex webs -- but
-  honestly mostly just looking for company at this point. Everything she knew
-  turned out to be false, including what the Light would do for her.
-
-*** TODO Stat Block
-
-** Mex Gos (Level: 6)                                                 :ally:
-:PROPERTIES:
-Nickname: The Silver Wright
-:END:
-#+BEGIN_QUOTE
-Aww shucks, well I'm sure I can whip something up for ya!
-#+END_QUOTE
-
-*Roleplaying*
-  - slightly embarrsed by her hands and forearms <keeps her hands behind her back unless working on something>
-  - bright & peppy with a southern drawl <big laugh>
-  - friendly, caring, open <headbuts and elbow pokes>
-
-*** Key Info
- - left home at a young age because she killed her abuser
- - a bit too eager to be "cool", she's often described as "a bit much".
-
-*** Appearance
-Often covered in sweat and grime, Mex is a stocky blonde woman of average
-height. Tends to have arms uncovered, which are covered in blue/black geometric
-tattoos. There's always an aroma of the forge around her.
-
-**** Image
-[[file:./assets/mex.jpg]]
-
-*** TODO Background
-  a short narrative that covers essential context and interesting
-  anecdotes. something that will influence how they make decisions, or something
-  they'll use as context to explain stuff. use *bold* text to call out important
-  features.
-
-*** TODO Stat Block
-** Pamki Hammersplint (Level: 5)                                      :ally:
+** Ararholm
+*** Pamki Hammersplint (Level: 5)                                    :ally:
 :PROPERTIES:
 Nickname: The Swift
 :END:
@@ -224,10 +17,10 @@ People will always matter more than things!
   - will always put her wife first, no matter what
   - very empathetic, cares deeply about the town and everyone in it
 
-*** Key Info
+**** Key Info
  - can barely fight, knows some low-level esoteries, mostly relies on cyphers
    
-*** Appearance
+**** Appearance
 Long dark brown hair, kept in lose braids. Some of the braids have metal or bone
 beads, most are capped by a larger bead. Her face leans more towards "handsome"
 than "pretty", although she is by no means ugly.
@@ -240,18 +33,18 @@ shades.
 Carries herself with a grace not often seen by those who are not bards & dancers
 by trade.
 
-**** Image
+***** Image
 [[file:./assets/pamki.jpeg]]
-*** Background
+**** Background
 Born to Ager and Tashi, Pamki has grown up into a wise young woman. Often feels
 like she's way out of her depth, but knows she can rely on her wife and the rest
 of the town to help deal with the challenges of building a town out past the
 frontier. Most people in town call her by the honorific Capu; it means something
 akin to "Honorary Mayor".
 
-*** TODO Stat Block
+**** TODO Stat Block
 
-** Brigette Ottum (Level: 7)                                          :ally:
+*** Brigette Ottum (Level: 7)                                        :ally:
 :PROPERTIES:
 Nickname: One-Eye
 :END:
@@ -262,14 +55,14 @@ No-one is beyond redemption, but you can't force it upon them.
 Arrogance is more destructive than fire.
 #+END_QUOTE
 
-*** Key Info
+**** Key Info
  - Firecly loyal to Pamki and a handful of other folks in Ararholm
  - Still drinks like she isn't missing an arm and a leg.
  - Is very careful about hygine, as the the connection points for her arm and
    leg can get infected if she's not careful about keeping them cleaned and
    oiled.
    
-*** Appearance
+**** Appearance
  - green eyes
  - 5'8" tall
  - pale skin
@@ -280,9 +73,9 @@ Has a slight build that hides a wiry strength, her robotic limbs give her a
 slightly unbalanced apperance when she wears them.  Her robotic limbs, which
 seem to be made of a ceramic substance that is very hard to damage.
 
-**** Image
+***** Image
 [[file:./assets/brigette.jpeg]]
-*** Background
+**** Background
 A glaive who nearly died in a deadly ruin, but was transformed into something
 more and less than human.
 
@@ -307,11 +100,11 @@ experience. Unless she really needs to, Birgitte spends most of her time these
 days with the arm and leg disconnected. She uses a crutch to get around, and
 lives a happy and fulfilling life with Pamki in Ararholm.
 
-*** Stat Block
+**** Stat Block
 :PROPERTIES:
 :ID:       848cea65-3218-4488-ba61-89c540517d6d
 :END:
-** Sheriff Edgar Mannes (Level: 4)                          :ttrpg:npc:ally:
+*** Sheriff Edgar Mannes (Level: 4)                        :ttrpg:npc:ally:
 #+BEGIN_QUOTE
 "Sometimes the quickest way forward is a very twisty path."
 #+END_QUOTE
@@ -324,22 +117,22 @@ lives a happy and fulfilling life with Pamki in Ararholm.
 | personality        | bit of a smartass                                                               |
 | physical mannerism | kind of clumsy; has bad luck with mounts, tends to fall off in embarassing ways |
 
-*** Key Info
+**** Key Info
   essential interaction or info pcs should get from this npc. can have multiple
   key info sections, one for each 'type' of info (ie, an npc in a mystery game
   at a party might have 'clues' and 'topics of conversation' as key info
   sections ).
 
-*** Appearance
+**** Appearance
 Mutton chops and a trio of scars on the left side of his face, a token from when
 he barely escaped death. Broad shoulders, strong frame. Not very fast, but hits
 like a train when he does get some speed going.
 
 Tends to wear a cowboy hat, leather duster, a well-kept fancy red vest.
-**** Image
+***** Image
 [[file:./assets/edgar.jpg]]
 
-*** Background
+**** Background
 Learned most of his fighting style on the back streets of Qi. Picked up some
 tricks from glaives he travelled with when he was younger.
 
@@ -355,26 +148,41 @@ Failed to protect Pamki when she was younger, is a bit resentful that Fox saved
 her ( more resentful that Fox is kind of a constant reminder of one of his
 bigger failures, not really that resentful towards either of them ).
 
-*** Stat Block
+**** Stat Block
 *Equipment*
 A long gun that uses a reservoir of a silvery material as ammo. It
 fires as long as the trigger is held down. Edgar has a numenera that he can use
 to produce more ammo from any lose stones or pebbles, but it takes a day to
 finish processing the material into more ammo.
-** Tashi Shaho
-*** Key Info
- - left with Ager to escape becoming a terrible person and losing her humanity
- - left a recording for pamki in the ship that explains who Tashi really is, and
-   the options that gives Pamki -- but only if she wants them
-*** Background
-Wife of Ager, mother of Pamki.
+** Sable Hegemony
+*** Duke Shale Feleke Tegene (Level: 6)                           :neutral:
+:PROPERTIES:
+:ID:       1cb3b307-38d0-4836-9010-224a99ffce35
+:END:
+#+BEGIN_QUOTE
+#+END_QUOTE
 
-Actually the daughter of Sudkhan Kell.
+*Aligned With*: Sable Hegemony
+*Roleplaying*
+ - pm: economy of movement
+ - mode of speech: flowery
+ - personality: hides behind big words
 
-Full name is Ibakha Togh Shaho Tashi. Gave up clan and family names when she
-left Sudboia.
+**** Image
+[[file:./assets/duke shale.jpg]]
 
-** Lady Gol Tirade (Level: 8)                                :ttrpg:npc:npc:
+**** TODO Key Info
+ - not really all that bright
+ - mostly gets good ideas from underlings
+   
+**** TODO Appearance
+
+**** Notes
+ - Fox has made it very clear he's not welcome
+ - A lot more subdued after the incident with Zeno
+
+**** TODO Stat Block
+*** Lady Gol Tirade (Level: 8)                              :ttrpg:npc:npc:
 #+BEGIN_QUOTE
 I'm going to put my mark on this world, no matter what.
 #+END_QUOTE
@@ -386,7 +194,7 @@ I'm going to put my mark on this world, no matter what.
 | mode of speech     | talks fast but goes on tangents          |
 | personality        | bright, bubbly shine on a core of steel  |
 
-*** Key Info
+**** Key Info
 :PROPERTIES:
 :ID:       01ff51ac-a249-43c5-bc9a-1fffb6cd76bd
 :END:
@@ -394,7 +202,7 @@ I'm going to put my mark on this world, no matter what.
  - is plagued by doubts she's not good enough for her family
  - her doubts have made her headstrong and reckless
    
-*** Personality Traits
+**** Personality Traits
  - always, always, /always/ willing to help; even when she should take some time
    for herself
  - afraid her only worth to her family and her people is her physical strength
@@ -413,12 +221,12 @@ I'm going to put my mark on this world, no matter what.
  - would much rather just find a nice place to live, with lots of green stuff
    and books, and some real friends
 
-*** Appearance
+**** Appearance
 Muscular, strong, tattooed.
 [[file:./assets/lady-tirade.jpg]]
 
-*** Background
-*** Stat Block
+**** Background
+**** Stat Block
 *Health:* 50
 *Damage:* 6 points
 *Movement:* Short
@@ -445,7 +253,7 @@ On her turn, she can choose to do one of the following:
    damage, success allows the creature to move at half speed within immediate
    range of Lady Gol
 
-** Tigor (Level: 6)                                     :ttrpg:npc:friendly:
+*** Tigor (Level: 6)                                   :ttrpg:npc:friendly:
 #+BEGIN_QUOTE
 Q'dar ohn meto'an dob quar'oh. ( The most beautiful flower can sprout in the most wretched of places. )
 #+END_QUOTE
@@ -457,20 +265,20 @@ Q'dar ohn meto'an dob quar'oh. ( The most beautiful flower can sprout in the mos
 | mode of speech     | when not alone with Lady Tirade, gruff and not many words. when alone with Lady Tirade and she gives the okay, they're quite eloquent. |
 | personality        | serene warrior monk                                                                                                                    |
 
-*** Key Info
+**** Key Info
  - is curious to meet someone from the Voz Dynasty, wants to know what the fuss
    was about
  - would give their life to protect Lady Tirade
  - doesn't really understand the titles and ranks of the Royal Army, tends to
    call everyone by nicknames
 
-*** Appearance
+**** Appearance
 A large humanoid creature with blueish-grey skin. Wears armor that looks like
 retrofitted tank parts.
 
 [[file:~/Documents/CampaignNotes/Numenera/This Old Ship/gm_stuff/assets/512b954133215bf5f55da6f35fe3768c.jpg]]
 
-*** Background
+**** Background
 Used to be a member of an elite commando squad in the Ukor Federation. When the
 Federation was absorbed by the Sable Hegemony two decades ago, he chose to leave
 that life behind and wandered the land looking for a purpose.
@@ -505,7 +313,7 @@ met. Tigor was granted an audience to the Queen, so that she could determine
 Tigor's worth and trustworthiness. Apparently he passed, and Tigor has been Lady
 Tirade's guardian ever since.
   
-*** Stat Block
+**** Stat Block
 *Health:* 40
 *Damage:* 3 points
 *Armor:* 5
@@ -527,7 +335,7 @@ deflect attacks.
    might task or be knocked back 5 meters and stunned for one round, this occurs
    even if all damage from his attack is soaked up by armor
 
-** Senior Ambassador Kula Otoke (Level: 5)                   :ttrpg:npc:npc:
+*** Senior Ambassador Kula Otoke (Level: 5)                 :ttrpg:npc:npc:
 #+BEGIN_QUOTE
 By the light of the Golden Throne, you have no idea what you've gotten yourself into - do you?
 #+END_QUOTE
@@ -539,15 +347,15 @@ By the light of the Golden Throne, you have no idea what you've gotten yourself 
 | mode of speech     | speaks to anyone not a noble or general as if they're not worth talking to |
 | values             | himself and power                                                          |
 
-*** Key Info
+**** Key Info
  - is spying for Doubt
  - covets Lady Tirade, in a creepy kind of stalker way
  - thinks that the Voz Dynasty should be wiped out
    
-*** Appearance
+**** Appearance
  Big nose, deep voice, kind of built like Maui from Moana. Wears flowing robes.
 
-*** Background
+**** Background
 #+begin_quote
   a short narrative that covers essential context and interesting
   anecdotes. something that will influence how they make decisions, or something
@@ -555,8 +363,8 @@ By the light of the Golden Throne, you have no idea what you've gotten yourself 
   features.
 #+end_quote
 
-*** Stat Block
-** Lieutenant Kernel Ado Cheem (Level: 7)               :ttrpg:npc:friendly:
+**** Stat Block
+*** Lieutenant Kernel Ado Cheem (Level: 7)             :ttrpg:npc:friendly:
 #+BEGIN_QUOTE
 What I do, I do for the people of the Sable Hegemony!
 #+END_QUOTE
@@ -568,15 +376,15 @@ What I do, I do for the people of the Sable Hegemony!
 | mode of speech     | tends to use fables and myths when explaining things             |
 | personality        | a bright and cheerful soul that is hidden behind a fortress wall |
 
-*** Key Info
+**** Key Info
  - his only goal is to keep Lady Tirade safe
  - doesn't really trust Kula, but can't do anything about him
  - wants to keep his men safe as much as possible
    
-*** Appearance
+**** Appearance
  [[file:~/Documents/CampaignNotes/Numenera/This Old Ship/gm_stuff/assets/lt-ado-cheem.png]]
 
-*** Background
+**** Background
 :PROPERTIES:
 :ID:       e7d73ec1-f5e2-4901-aa8e-d6e475e6d8c4
 :END:
@@ -587,8 +395,209 @@ What I do, I do for the people of the Sable Hegemony!
   features.
 #+end_quote
 
-*** Stat Block
-** Nēta (Weaver) Felwinter (Level: 9)                :ttrpg:npc:ai:friendly:
+**** Stat Block
+*** Ukor Glaive
+The Ukor are a new client race to the Sable Hegemony, who have pleged to help
+fight in the army in return for getting medical aid & other support.
+
+[[file:~/Documents/CampaignNotes/Numenera/This Old Ship/gm_stuff/assets/512b954133215bf5f55da6f35fe3768c.jpg]]
+
+** Voz Dynasty
+*** Tashi Shaho
+**** Key Info
+ - left with Ager to escape becoming a terrible person and losing her humanity
+ - left a recording for pamki in the ship that explains who Tashi really is, and
+   the options that gives Pamki -- but only if she wants them
+**** Background
+Wife of Ager, mother of Pamki.
+
+Actually the daughter of Sudkhan Kell.
+
+Full name is Ibakha Togh Shaho Tashi. Gave up clan and family names when she
+left Sudboia.
+*** Captain Ibakha Togh (Level: 6)                                :neutral:
+:PROPERTIES:
+:ID:       ea69f355-6dcd-4668-aca3-7e7a29658423
+:END:
+#+BEGIN_QUOTE
+I'm willing to hear them out, but keep your sword sharp.
+#+END_QUOTE
+
+*Aligned With*: Voz Dynasty
+*Roleplaying*
+| Thing              | Physical Action                                                                              |
+|--------------------+----------------------------------------------------------------------------------------------|
+| physical mannerism | moves like a dancer, always on the balls of her feet                                         |
+| mode of speech     | brusque, short and to the point                                                              |
+| personality        | an extremely well-hidden core of kindness and warmth hidden beneath layers of steel and iron |
+
+**** Image
+[[file:./assets/ibakha.jpg]]
+**** Key Info
+***** Voz Dynasty
+ - is a member of the royal family (technically)
+ - the dynasty seeks to take control of Maka Tho
+ - her full name is Ibakha Togh Celi ( clan family personal, not personal family
+   like we're used to )
+***** Maka Tho
+ - there is a route through Maka Tho to Sudboia
+ - she needs to find it again
+***** Personal
+ - has never seen battle against other humans before
+ - believes in what she was taught in a way that makes her believes incompatible
+   with what the Dynasty wants to do
+
+**** Appearance
+ A woman of average height with raven hair and striking eyes. Her martial garb
+ is offset by the bright and varied colours. Moves like a dancer, stands still
+ like a stone.
+
+**** Background
+A lesser cousin of the Voz royal family, who has gotten incredibly lost trying
+to find a route through Maka Tho from her homeland. Wasn't put in charge of the
+expidition, but is the highest ranking officer left.
+
+Has never before left her homeland; she didn't fight in the wars because she was
+too young at the time. The trained harder than any in her class though, and has
+a need to prove that she's not just another royal brat.
+
+Arrived back in Maka Tho with ~10 people.
+
+Took in all the lessons about honor, only fighting as a last resort ( but
+fighting with everything you have ), and being a fair and equitable ruler --
+which, combined with her somewhat sheltered upbringing has made her somewhat
+incompatible with her father's plans. He's hoping that time in the army will
+bring her around to his point of view. He was wronged by Ager in the past; Tashi
+was meant to be next in line to rule and take on the mantle of the Stalwart
+Protector.
+
+**** TODO Stat Block
+** Ager's Crew
+*** Ager Hammersplint (Level: 9)                      :ttrpg:npc:dead:ally:
+#+BEGIN_QUOTE
+I hear the dice calling, let's see how this plays out.
+#+END_QUOTE
+
+*Roleplaying*
+| Thing | Physical Action |
+|-------+-----------------|
+| mode of speech | you're always his buddy, unless you're his enemy (kinda like Gon from Hunter X Hunter) |
+| personality | loud, brash, kind of a drunkard, perceptive, loyal, terrifying |
+| values | nobody and nothing will ever hurt those i care about |
+
+  a few brief bullet points. should have one simple, physical action to perform
+  while playing the npc. *avoid repetition* by having each point describe a
+  completely distinct classification of thing: values, physical mannerism, way
+  of speaking, personality, etc.
+
+**** Key Info
+ - base him a bit on Elijah Snow of Planetary; takes his time, gathers all the
+   facts, and then hits with the force of a spaceship the size of the moon
+ - at the time of his death, was 6134 years old
+ - him and his gang found the nightmares and accidentally released them, spent
+   the rest of their lives trying to put them back or kill them
+ - "rest of their lives" turned out to be longer than they thought, as they were
+   "cursed" by the tomb they found the nightmares in to live until the
+   nightmares were returned or killed
+ - the curse also functions as a fail safe: the curse is actually nanotechnology
+   that keeps humans alive and sane, but will react to the touch ( or proxy
+   touch via melee weapon, etc ) by attacking the nightmare and attempting to
+   subdue it -- but this kills the human
+ - that's what actually happened to ager, he wanted to shake things up and so
+   took himself and memory off the board ( memory is only off the board
+   temporarily, although it will take a while once they're back in play to get
+   back to their full strength )
+
+**** Appearance
+ picture
+
+**** Background
+
+**** Stat Block
+*** Savu Athuin (Level: 6)                                       :friendly:
+#+BEGIN_QUOTE
+Well now dearie, you don't get to know everything.
+#+END_QUOTE
+
+*Roleplaying*
+| Thing              | Physical Action                                           |
+|--------------------+-----------------------------------------------------------|
+| physical mannerism | greets people by patting them on the cheek, grandma style | 
+| mode of speech     | slow and a bit reedy                                      |
+| personality        | chipper but spaced out                                    |
+
+  a few brief bullet points. should have one simple, physical action to perform
+  while playing the npc. *avoid repetition* by having each point describe a
+  completely distinct classification of thing: values, physical mannerism, way
+  of speaking, personality, etc.
+  
+**** Image
+**** Key Info
+ - knows about the dark creatures
+
+**** Appearance
+ An old lady wearing simple travellers robes. Her silvered hair is bound up in a
+ complex ponytail that reaches to her mid-back. She tends to hunch over her
+ cane.
+
+https://www.pinterest.ca/pin/96545985752141997/
+https://www.pinterest.ca/pin/339177415698928638/
+https://www.pinterest.ca/pin/130604457936371035/
+https://www.pinterest.ca/pin/428616089548005466/
+https://www.pinterest.ca/pin/136656169933575045/
+https://www.pinterest.ca/pin/40602834127995400/
+https://www.pinterest.ca/pin/27373510225916226/
+https://www.pinterest.ca/pin/292030357095342206/
+https://www.pinterest.ca/pin/153263193561272006/
+https://www.pinterest.ca/pin/21251429481890743/
+
+ 
+**** Background
+  This is what's left of Savathun after ~1 billion years. As far as she knows
+  she's the *only Hive left*, the only one still alive anywhere in the
+  universe. The pyramid ships and the Traveller are long since dust.
+
+  Now she's just a *lonely old woman* who refuses to die, partially still driven
+  by the urge to *collect secrets* and tell lies and weave complex webs -- but
+  honestly mostly just looking for company at this point. Everything she knew
+  turned out to be false, including what the Light would do for her.
+
+**** TODO Stat Block
+
+*** Mex Gos (Level: 6)                                               :ally:
+:PROPERTIES:
+Nickname: The Silver Wright
+:END:
+#+BEGIN_QUOTE
+Aww shucks, well I'm sure I can whip something up for ya!
+#+END_QUOTE
+
+*Roleplaying*
+  - slightly embarrsed by her hands and forearms <keeps her hands behind her back unless working on something>
+  - bright & peppy with a southern drawl <big laugh>
+  - friendly, caring, open <headbuts and elbow pokes>
+
+**** Key Info
+ - left home at a young age because she killed her abuser
+ - a bit too eager to be "cool", she's often described as "a bit much".
+
+**** Appearance
+Often covered in sweat and grime, Mex is a stocky blonde woman of average
+height. Tends to have arms uncovered, which are covered in blue/black geometric
+tattoos. There's always an aroma of the forge around her.
+
+***** Image
+[[file:./assets/mex.jpg]]
+
+**** TODO Background
+  a short narrative that covers essential context and interesting
+  anecdotes. something that will influence how they make decisions, or something
+  they'll use as context to explain stuff. use *bold* text to call out important
+  features.
+
+**** TODO Stat Block
+** The Ship
+*** Nēta (Weaver) Felwinter (Level: 9)              :ttrpg:npc:ai:friendly:
 #+BEGIN_QUOTE
 I'm sure I could help, if only I could remember.
 #+END_QUOTE
@@ -601,20 +610,20 @@ I'm sure I could help, if only I could remember.
 | personality        | straightforward but naive                                                       |
 | physical mannerism | is always talking to herself about ship systems ( flow rates, luminosity, etc ) |
 
-*** Key Info
+**** Key Info
  - can control some aspects of the ship
  - large portions of her memory are locked away
  - the crystals they placed in the pedestal unlocked some of her memories (like
    how to make a hologram)
 
-*** Appearance
+**** Appearance
  A hologram of solid light, Felwinter appears as an adult human woman (age
  unknown). Surrounded by fragments of code that float through the air. Dressed
  in what appears to be noble garb from a past age.
-**** Image
+***** Image
 [[file:./assets/felweaver.png]]
 
-*** Background
+**** Background
 Went through rampancy and was responsible for the accident that caused the ship
 to end up where it is now. Knows she should feel something about that, but
 because the memory cores containing those memories went offline ages ago she
@@ -624,17 +633,51 @@ about the ship, but also because she feels she can't atone until she remembers
 what she did. She is also scared that gaining access to the memory cores on the
 ship will change who she is -- her greatest fear is becoming a monster.
 
-*** Stat Block
+**** Stat Block
 Doesn't have much she can do to affect the physical world beyond using
 automatons.
-** Ukor Glaive
-The Ukor are a new client race to the Sable Hegemony, who have pleged to help
-fight in the army in return for getting medical aid & other support.
 
-[[file:~/Documents/CampaignNotes/Numenera/This Old Ship/gm_stuff/assets/512b954133215bf5f55da6f35fe3768c.jpg]]
+** Other
+
 * Nightmares From Another Place And Time
-** Deceit 
-*** Image
+** The Nightmares
+ - Memory (de-facto leader)
+ - Deceit
+ - Doubt
+ - Hate
+ - Vanity
+ - Despair
+ - Scorn
+ - Anxiety
+ - Absurdity (quit/defected)
+ 
+** Overall Plans & Status
+What are the Nightmares trying to accomplish?
+
+ - trying to disrupt the workings of Ararholm, they know whatever Ager had
+   planned might still be running
+ - weakening key figures ( strong fighters, clever thinkers, etc ), either
+   through physical or mental attacks to wear them down and/or kill them
+ - restarting the war between the Voz Dynasty & Sable Hegemony
+ - release the "First Protector", Rulk
+
+**** Disrupt Ararholm
+*Assigned:* Scorn (Fox, Sheriff), Vanity (Klep, Ureos)
+
+**** Weakening Figures
+*Assigned:* Doubt (Zeno, Lady Gol), Despair (Pamki, Captain Togh)
+
+**** Restarting The War
+*Assigned:* Hate (Sudboia, Brigette), Vanity (Hegemony, Sudhan Kell)
+
+**** Releasing Rulk
+*Assigned:* Memory (Hegemony), Anxiety (Sudhan Kell, Empress)
+
+** Deceit
+*** Key Info
+ - currently targeting Klep & Brigette
+*** Forms
+**** Core
 #+ATTR_ORG: :width 400px
 [[file:./assets/deceit.jpg]]
 *** Description
@@ -670,7 +713,20 @@ You are never as strong as you need to be, and I am always one step ahead.
 | personality        | haughty, like it's better than you, and you know it                           |
 | physical mannerism | when inhabiting a human form, show excitement when someone talks about doubts |
 
+*** Relationships
+*Allies*
+ - Anxiety
+ - Memory ( leader )
+*Neutral*
+ - Deceit
+ - Despair
+*Antagonistic*
+ - Vanity
+ - Score
+ - Hate
+   
 *** Key Info
+ - currently targeting Zeno & Lady Gol Tirade
  - can only be defeated by someone who truly doesn't doubt themselves, who is
    fully confident in themselves and their abilities
  - this is because Doubt is actually incredibly weak physically, they make up
@@ -681,14 +737,8 @@ You are never as strong as you need to be, and I am always one step ahead.
    becomes true for the target. so if it is able to plant a doubt like "i'll
    never be able to hurt doubt" in your mind, with enough time and power it can
    make it so that you really *can't* hurt doubt (ager knows this)
- - is a sycophant to memory, allied with scorn and despair, neutral with
-   absurdity, deceit and vantiy, and opposed to hate and anxiety
  - will offer info on hate and anxiety if they think it'll get them out of a jam
- - current targets:
-   - Lady Gol Tirade
-   - Zeno
-   - Pamki
-   - Sheriff Edgar
+   
 *** Forms
 **** Core
 A bat-like creature, about the size of a ten year old human child. Weighs half
@@ -741,6 +791,16 @@ knocked unconscious as the spike scrambles their brain with pain. Uses this
 distraction to escape, appearing to turn into smoke and disappear.
 
 *** Description
+"Doubt is the one sent to weaken defenses from within. Doubt can plant a seed in
+your mind. Just a small thought, a tiny voice that speaks before you fall
+asleep. Maybe we can't hurt them, or find them, or even survive. That doubt
+grows, fed by both the target as they spiral and Doubt as they pour energy into
+the seed of doubt. When that seed sprouts, it changes reality for the
+target. Whatever they doubted is now true, for the target. Did the target doubt
+they could hurt the Nightmares? Now they can't, no matter what they try. Doubt
+tries to target the strongest, to remove key support from their enemies before
+one of Doubt's duped allies attacks in force.
+
 "Doubt" is a strange hunter. Its "hunting" is not so much a hunting as a funny
 farce. It all stems from the slightest psychological fluctuation. Maybe you will
 feel unnatural uneasiness one day, and the existence of "Doubt" will magnify
@@ -751,7 +811,10 @@ but can't see where it is, "Doubt" can start at any time, you are panicked and
 full of holes, but "Doubt" enjoys playing with prey, it is also As you think,
 all the time to show you that disgusting smile.
 ** Hate
-*** Image
+*** Key Info
+ - currently targeting Sheriff Edgar, Lt. Kernal Ado Cheem, & Sudhan Kell
+*** Forms
+**** Core
 #+ATTR_ORG: :width 400px
 [[file:./assets/hate.jpg]]
 *** Description
@@ -767,10 +830,21 @@ it's a nightmare or a traveler who dies through the "Hate" hand, there will be a
 new "Hate" in the nightmare or in the traveler, waiting quietly for the moment
 to break out of the cocoon...
 ** Vanity
-*** Image
+*** Key Info
+ - currently targeting Ureos & the Empress of the Sable Hegemony
+*** Forms
+**** Core
 #+ATTR_ORG: :width 400px
-[[file:./assets/vanity.jpg]
+file:./assets/vanity.jpg
 *** Description
+"Vanity, for example, can turn almost anyone to their cause if they're able to
+figure what someone wants. They turn that want into desire, while filling their
+targets heads with thoughts that makes them believe they deserve what the object
+of their affection is. Make them believe that Vanity really is willing to share
+their power with them, because of course they're worthy of it. That power twists
+their mind until they are nothing more than a puppet, a husk of their former
+self.
+
 in the dark night, please don't stay in the forest for a long time. Don't
 misunderstand it. The terrible thing is not just the depressed darkness. In such
 an environment, people are easily attracted by the light. Yes, the light of
@@ -781,9 +855,12 @@ nearby. It will drag the poor travelers into the deep forest. Your howling will
 be drowned by silence. The next day, there will be a beautiful and luminous
 butterfly in the forest...
 ** Despair
-*** Image
+*** Key Info
+ - currently targeting Pamki
+*** Forms
+**** Core
 #+ATTR_ORG: :width 400px
-[[file:./assets/despair.jpg]
+file:./assets/despair.jpg
 *** Description
 There is no doubt that the power of "Despair" is absolutely fatal. It acts
 elegantly and calmly. Every action seems to show its own strength and power to
@@ -835,11 +912,31 @@ the most painful "death" ...
    walking corpses, they will not be reborn again. In a real sense, they end the
    journey, and take "Despair" as an excuse to end "life".
 ** Scorn
-*** Image
+#+begin_quote
+What was that? You think you can say something like that to ME and get away with it?
+#+end_quote
+
+*Motive:* Weakening the foundations of relationships or governments.
+
+*Roleplaying*
+
+*** Key Info
+ - currently targeting Fox and Mex
+*** Forms
+**** Core
 #+ATTR_ORG: :width 400px
 [[file:./assets/scorn.jpg]]
 
 *** Description
+"Scorn is their insidious assassin. Careful and methodical, they weave phantoms
+and illusions. They twist the experiences of the target to twist and inflate their
+pride. Joking words of encouragement become sarcastic jibes. An innocent cough becomes
+twisted into the punchline of a sly joke at the targets expense. At the end of
+this road lay death. The target lashes out at the wrong person and either gets
+themselves killed; or should they succeed they are driven insane as Scorn strips
+away the falsehoods to show that every perceived slight was actually an
+expression of love and comradeship.
+
 "Scorn" is a pure combative. It likes to fight and is almost paranoid in this
 regard. Maybe it has no malice to you, but just for enjoying violence, "Scorn"
 is willing to fight with you and pursue you to the ends of the world. The more
@@ -852,7 +949,10 @@ proud posture until you are dying. Even the final dignity is deprived. It shows
 the symbolic ugly Smile, but you've never felt before that any nightmare is so
 suitable for this twisted smile.
 ** Anxiety
-*** Image
+*** Key Info
+ - Captain Ibakha Togh
+*** Forms
+**** Core
 #+ATTR_ORG: :width 400px
 [[file:./assets/anxiety.jpg]]
 
@@ -865,7 +965,12 @@ common feature - broken mirrors, but... Anyway, I think you can more or less
 feel that they are growing in size, whether they belong to a nightmare world or
 a reality, they have always been ...
 ** Absurdity
-*** Image
+*** Key Info
+ - left, doesn't want much to do with his cousins any more
+ - may help the party out ( in fact, they should have to figure out how to get
+   in touch with him to get his help when they need it )
+*** Forms
+**** Core
 #+ATTR_ORG: :width 400px
 [[file:./assets/absurdness.jpg]]
 *** Description
@@ -894,8 +999,22 @@ echoing in the empty hall, no one knew...——a diary diary
 :PROPERTIES:
 :ID:       a81d4099-1451-409d-80b2-6c9ed6457109
 :END:
-The hidden one
+#+begin_quote
+How many times have we met? How many times have we fought? How many times have you forgotten?
+#+end_quote
 
+*Motive:* Ensuring they and their cousins live for all eternity. The hidden one.
+*Roleplaying*
+| Thing | Physical Action |
+|-------+-----------------|
+|       |                 |
+
+*** Key Info
+ - Has been out in the world for centuries, trying to free its siblings
+*** Forms
+**** Core
 https://www.artstation.com/artwork/ZGB5Om
+** Allies
+*** Rulk, "First Protector"
 
-Has been out in the world for centuries, trying to free its siblings
+

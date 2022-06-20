@@ -1,0 +1,44 @@
+* Ager's Journals
+Ager spent a lot of time writing things down; not only that, he wrote in a
+number of various codes and ciphers. His encrypted journals are hard to
+decipher, even Fellwinter struggles.
+
+It's worth the effort though, as Ager hid numerous clues, hints, and tips within
+his journals -- as well as the outline of his plan to defeat the Nightmares. He
+even has notes on the ruins he visited, although he didn't leave clear
+directions on how to get back to them.
+
+Each journal covers a specific topic; some detail a specific ruin, with detailed
+notes on what he saw, felt, smelled, or otherwise experienced. Others deal with
+specific people, towns, creatures, or a variety of other topics.
+
+The topics are split up into groups:
+ - Numenera Plan Seeds
+ - Plans For The Nightmares
+ - Creatures & People
+ - "Stories"
+
+Each group has a varying number of journals, but each journal will provide the
+party with /something/. It might be just a location for a potential cache or
+hideout, or a cypher plan, or just something neat -- but every journal will
+provide some kind of actionable information.
+
+The next few sections will detail the topic groups, and what kind of information
+can be found within those journals.
+
+** Numenera Plan Seeds
+These journals tend to be more like archaeology field notes than journal
+entries. Each journal details a ruin, or part of a ruin. Some deal with portions
+of the buried ship.
+
+The difficulty of deciphering each journal depends on how valuable Ager thought
+that particular ruin or plan seed could be.
+
+| Plan | Difficulty | Ruin |
+|------+------------+------|
+|      |            |      |
+
+** Plans For The Nightmares
+** Creatures & People
+** Stories
+

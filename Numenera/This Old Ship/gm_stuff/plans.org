@@ -250,6 +250,66 @@ the rest of the army regiment catches up.
 Depending on where in the session we are, call the end or take them back to town.
  
 ** High Level
+*** How Folks In Town React To The Newcomers
+*Lady Gol*
+ - Sheriff Edgar just straight-up falls in love, does a pretty good job of
+   covering it up ( except for Ureos, who he had accidentally asked "who is that
+   beautiful, radiant woman?", not realizing who he was asking )
+
+*Tigor*
+ - Mex becomes immediate best buds, reveals to Tigor & Zeno who and what she
+   really is; partially because she wants to repay a debt to Tigor's family,
+   partially to show Zeno that there's a lot of ways to "be human"
+
+*Ambassador*
+ - Duke Tegene warns the party that the ambassador is /not/ good news, he's part
+   of a group of anti-Voz Dynasty hardliners, also warns them to be on the
+   lookout for sabotage while the Ambassador is in town
+
+*Lt. Kernel*
+ - Pamki greets as old friend, has met Cheem before
+   
+*** Why Lady Gol Tirade Is Coming To Ararholm
+Was sent by her mother ( the Empress ) to see if "the new fledgling outpost is
+in need of the generous aid of the Hegemony". Basically the Empress wants to
+know if Ararholm has grown too much and needs to be taken down a peg ( and
+perhaps a new province needs to be created ), or if they're fine as they are --
+or something else. The Empress is definitely leaning more towards "absorb them
+and set them up as a fire-shield against the Voz Dynasty". As a minion of Vanity,
+Ambassador Otoke is partially responsible for the Empress having these views.
+
+However, the Empress is smart, and knows the Nightmares are out there, so gave
+Gol a lot of leeway. The Ambassador still got himself put on the mission though,
+so Gol doesn't have as much leeway as she was intended to have. As he
+technically outranks Gol & Lt. Kernel Cheem, he's in a position to cause a lot
+of trouble for Ararholm.
+
+Lady Gol thinks the party is great, but still needs to learn about the town and
+the people in it -- particularly who's leading and how. There are things she has
+to be certain of before she passes her judgment.
+
+For one, she needs to know that the town has stable leadership in place. It
+doesn't really matter how that stability is achieved, but there has to at least
+be one person who has the power/responsibility/job of dealing with large
+issues. Basically, someone the Throne can hold accountable if things go
+pear-shaped.
+
+The other is that the town needs to decide what kind of relationship they want
+with the Sable Hegemony. Lady Gol warns that so long as the Ambassador is
+holding the reins, the options are basically "become a province where we put
+someone in charge" or "get wiped out". However, Lady Gol is open to other
+arrangements; becoming a protectorate, a semi-autonomus state, or even the first
+partner in a federation ( several outlying provinces have been pushing for the
+Hegemony to become a Federation of allies for a while now, Gol thinks it
+provides several benefits over the current political setup of the Hegemony ).
+
+Lastly is that regardless of what they choose, they should probably consider
+building a permanent trade route from Ararholm to the Grey Sea Trade Outpost. A
+road would considerably reduce travel time, which could be the difference
+between Ararholm "surviving until reinforcements arrive, or being a smoking
+ruin". Lady Gol is worried about the Voz Dynasty attacking, although she is
+more worried about the unknown threats.
+
 *** Monsters To Use For Sure
  - [ ] ARGANIED WARDEN ( ninth world bestiary 3, pg 23 )
  - [ ] DISSECTOR ( nwb3, pg 51 -- what one of Zeno's old companions has been
@@ -316,6 +376,7 @@ one who knows anything useful about The Merchant, but the team also can't face
 it without Zeno.
 
 She lets them know that she's got a score to settle with Doubt
+
 **** Who Else Knows Ager From Way Back?
  - Empress of Sable Hegemony?
  - Sudkhan Kell?
@@ -336,9 +397,11 @@ She lets them know that she's got a score to settle with Doubt
    
 **** Who Exactly Were Ager's Gang?
 And are they even human?
+
 *** Felwinter Sacrifices Herself To Save The Party
 Somehow, at their direst moment, Felwinter will rescue the party at the cost of
 her own life.
+
 *** Who Kills Which Nightmare
 Pair each Nightmare up with a PC or NPC that feels like a good match for what the
 Nightmare thought would be their weakest adversary.
@@ -366,6 +429,7 @@ Zeno needs to learn that part of defeating the Nightmares has to do with being
 able to rid yourself of the emotions they prey on. How you do it might not
 matter, as the Chuckling Shroud is what's blocking Doubt's aura from affecting
 Zeno -- Zeno still has doubts, he's human(-ish).
+
 *** Ager's Message To The Party
 Felwinter explains that the message is actually a limited-knowledge memory
 phantom; basically a copy of Ager's conciousness that he edited down to only
@@ -651,37 +715,12 @@ it's just Deceit, Doubt, Hate, Vanity, Despair, Scorn, Anxiety, and Absurdity.
 
 "Each of them has an ability, and you need to be careful they don't get a chance
 to use it. Once they have, it can be very tough to undo what they did before it
-has chance to take root. We only know a few of these abilities.
+has chance to take root. We don't know much about their abilities. What I was
+able to figure out is in my journals.
 
-"Vanity, for example, can turn almost anyone to their cause if they're able to
-figure what someone wants. They turn that want into desire, while filling their
-targets heads with thoughts that makes them believe they deserve what the object
-of their affection is. Make them believe that Vanity really is willing to share
-their power with them, because of course they're worthy of it. That power twists
-their mind until they are nothing more than a puppet, a husk of their former
-self.
 
-"Scorn is their insidious assassin. Careful and methodical, they weave phantoms
-and illusions. They twist the experiences of the target to twist and inflate their
-pride. Joking words of encouragement become sarcastic jibes. An innocent cough becomes
-twisted into the punchline of a sly joke at the targets expense. At the end of
-this road lay death. The target lashes out at the wrong person and either gets
-themselves killed; or should they succeed they are driven insane as Scorn strips
-away the falsehoods to show that every perceived slight was actually an
-expression of love and comradeship.
-
-"Doubt is the one sent to weaken defenses from within. Doubt can plant a seed in
-your mind. Just a small thought, a tiny voice that speaks before you fall
-asleep. Maybe we can't hurt them, or find them, or even survive. That doubt
-grows, fed by both the target as they spiral and Doubt as they pour energy into
-the seed of doubt. When that seed sprouts, it changes reality for the
-target. Whatever they doubted is now true, for the target. Did the target doubt
-they could hurt the Nightmares? Now they can't, no matter what they try. Doubt
-tries to target the strongest, to remove key support from their enemies before
-one of Doubt's duped allies attacks in force.
-
-"That's all we really know about the Nightmares right now. I'll figure out how
-to let you know about anything else we learn.
+"Sorry I don't have more for you right now. I'll figure out how to let you know
+about anything else we learn.
 
 "Now, how do we deal with them?
 

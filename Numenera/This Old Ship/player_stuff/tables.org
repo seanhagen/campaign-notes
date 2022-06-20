@@ -1,0 +1,110 @@
+* Journals
+Deciphering a journal requires a successful Intellect task. The difficulty is
+based on the journal, see the table below for more information.
+
+Ager has been around a long time, and knows how to write in codes that are truly
+hard for machines to decipher. Cyphers, artifacts, or other numenera that
+normally aid in deciphering code do not grant any additional assets or ease the
+task in any way.
+
+However, skills related to any of the following can aid in the task: decoding,
+cryptography, finding hidden things, perception, languages, and performance.
+
+| Journal  | Level | Title | Reveals                    | Type           | Location |
+|----------+-------+-------+----------------------------+----------------+----------|
+| I        |     1 |       | Alarm Tower                | Plan           |          |
+| II       |     1 |       | Ararholm: Plans            | History & Myth |          |
+| III      |     1 |       | Force Wall                 | Plan           |          |
+| IV       |     1 |       | Calda Creation Myth        | History & Myth |          |
+| V        |     2 |       | Sable Hegemony: Laws       | History & Myth |          |
+| VI       |     2 |       | Liquid Transfer Orb        | Artifact       |          |
+| VII      |     2 |       | Sudboia: Laws              | History & Myth |          |
+| VIII     |     2 |       | Transport Cart             | Plan           |          |
+| IX       |     2 |       | Everflowing Fountain       | Plan           |          |
+| X        |     3 |       | Absurdity, Weakness        | Nightmare      |          |
+| XI       |     3 |       | Voz Dynasty                | History & Myth |          |
+| XII      |     3 |       | Everflowing Nectar         | Plan           |          |
+| XIII     |     3 |       | Vanity, Motive             | Nightmare      |          |
+| XIV      |     3 |       | Keepsafe Bin               | Plan           |          |
+| XV       |     3 |       | Dynamic Frame              | Plan           |          |
+| XVI      |     4 |       | Ager's Plan: The Merchant  | History & Myth |          |
+| XVII     |     4 |       | Cable Projector            | Cypher Plan    |          |
+| XVIII    |     4 |       | Chainpod                   | Plan           |          |
+| XIX      |     4 |       | Express Tube               | Plan           |          |
+| XX       |     4 |       | Hover Frame                | Plan           |          |
+| XXI      |     4 |       | Jet Frame                  | Plan           |          |
+| XXII     |     4 |       | First Protector            | History & Myth |          |
+| XXIII    |     4 |       | Floatstone                 | Plan           |          |
+| XXIV     |     4 |       | Cleaning Mech              | Plan           |          |
+| XXV      |     5 |       | Temporal Chime             | Plan           |          |
+| XXVI     |     5 |       | Hate, Power                | Nightmare      |          |
+| XXVII    |     5 |       | Storyteller                | Plan           |          |
+| XXVIII   |     5 |       | Multi-Opener               | Artifact       |          |
+| XXXIX    |     5 |       | Farspeaking Pylon          | Plan           |          |
+| XL       |     5 |       | Lifting Aventron           | Plan           |          |
+| XLI      |     5 |       | Construction Foam          | Cypher Plan    |          |
+| XLII     |     5 |       | Garden Mech                | Plan           |          |
+| XLIII    |     5 |       | Materials Extruder         | Plan           |          |
+| XLIV     |     5 |       | Absurdity, Power           | Nightmare      |          |
+| XLV      |     5 |       | Servitor, Basic            | Plan           |          |
+| XLVI     |     5 |       | Water Purification Station | Plan           |          |
+| XLVII    |     5 |       | Gazer Swarm                | Plan           |          |
+| XLVIII   |     5 |       | Detonation (Foam)          | Cypher Plan    |          |
+| XLIX     |     5 |       | Rain Caller                | Plan           |          |
+| L        |     5 |       | Ager: Gang                 | History & Myth |          |
+| LI       |     5 |       | Exploring Aventron         | Plan           |          |
+| LII      |     5 |       | Turret, Gravity            | Plan           |          |
+| LIII     |     5 |       | Scorn, Motive              | Nightmare      |          |
+| LIV      |     5 |       | Hover Frame                | Plan           |          |
+| LV       |     5 |       | Galloping Gambado          | Plan           |          |
+| LVI      |     5 |       | Hate, Motive               | Nightmare      |          |
+| LVII     |     5 |       | Cloak of Finery            | Artifact       |          |
+| LVIII    |     5 |       | Ager's Plans: Calda        | History & Myth |          |
+| LVIX     |     5 |       | Fabricator                 | Plan           |          |
+| LX       |     5 |       | Deceit, Motive             | Nightmare      |          |
+| LXI      |     5 |       | Doubt, Motive              | Nightmare      |          |
+| LXII     |     5 |       | Vermin Ward                | Plan           |          |
+| LXIII    |     6 |       | Windrider                  | Plan           |          |
+| LXIV     |     6 |       | Febrifuge                  | Artifact       |          |
+| LXV      |     6 |       | Despair, Motive            | Nightmare      |          |
+| LXVI     |     6 |       | Ager's Plans: Sudboia      | History & Myth |          |
+| LXVII    |     6 |       | Automender, Enhanced       | Plan           |          |
+| LXVIII   |     6 |       | Anxiety, Motive            | Nightmare      |          |
+| LXIX     |     6 |       | Natalitial                 | Artifact       |          |
+| LXX      |     6 |       | Doubt, Weakness            | Nightmare      |          |
+| LXXI     |     6 |       | Truthbox                   | Plan           |          |
+| LXXII    |     6 |       | Breathing Field Spinner    | Artifact       |          |
+| LXXIII   |     6 |       | Ager's Plans: Maka Tho     | History & Myth |          |
+| LXXIV    |     6 |       | Scorn, Power               | Nightmare      |          |
+| LXXV     |     6 |       | Ager: The Plan Changed     | History & Myth |          |
+| LXXVI    |     7 |       | Doubt, Power               | Nightmare      |          |
+| LXXVII   |     7 |       | Mech Soldier, Basic        | Plan           |          |
+| LXXVIII  |     7 |       | Dead Timeline Viewer       | Artifact       |          |
+| LXXIX    |     7 |       | Library Obelisk            | Plan           |          |
+| LXXX     |     7 |       | Force Dome                 | Plan           |          |
+| LXXXI    |     7 |       | Despair, Weakness          | Nightmare      |          |
+| LXXXII   |     7 |       | Ager's Plans: Mex          | History & Myth |          |
+| LXXXIII  |     7 |       | Deceit, Power              | Nightmare      |          |
+| LXXXIV   |     7 |       | Vanity, Power              | Nightmare      |          |
+| LXXXV    |     7 |       | Instant Refuge             | Atrifact       |          |
+| LXXXVI   |     7 |       | Despair, Power             | Nightmare      |          |
+| LXXXVII  |     8 |       | Deceit, Weakness           | Nightmare      |          |
+| LXXXVIII |     8 |       | Anxiety, Power             | Nightmare      |          |
+| LXXXIX   |     8 |       | Ager & Absurdity           | History & Myth |          |
+| XC       |     8 |       | Psychic Eradicator         | Plan           |          |
+| XCI      |     8 |       | Anxiety, Weakness          | Nightmare      |          |
+| XCII     |     8 |       | Earthquake Carillon        | Plan           |          |
+| XCIII    |     9 |       | Ararholm: A History        | History & Myth |          |
+| XCV      |     9 |       | Scorn, Weakness            | Nightmare      |          |
+| XCVI     |     9 |       | Portal Mouth               | Plan           |          |
+| XCVII    |    10 |       | Hate, Weakness             | Nightmare      |          |
+| XCVIII   |    10 |       | Vanity, Weakness           | Nightmare      |          |
+| XCVIX    |    10 |       | Absurdity, Note            | Special        |          |
+| C        |     - |       | Memory                     | Special        |          |
+
+ - Deciphering every journal from I to L grants an asset when deciphering other
+   journals. Deciphering every journal from LI to LXXV grants an additional asset.
+ - Journal 100 (C) can only be deciphered once every other Journal has been
+   deciphered.   
+
+* Clues

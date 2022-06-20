@@ -1,3 +1,423 @@
+* Rules
+** Community Actions
+*** Glaive
+**** First Tier
+*Community Defender:* While you are present within a community, and actively and
+ personally working on behalf of that community, the community's effective rank
+ for damage inflicted is +1. Enabler.
+**** Third Tier
+*Improved Community Defender:* A community continues to modify its effective rank
+ for damage inflicted by +1. However, you do not need to be constantly present
+ in and actively working on behalf of the community for it to gain this benefit;
+ it gains it merely because of your past defense of the community. Enabler.
+**** Sixth-Tier
+*Ability Choice:* Choose /either/ Rampaging Beast Horde or Recruit Deputy as an
+ additional tier 6 ability. The ability you do not choose remains available from
+ the list of other tier 6 ability options that you normally choose from.
+  - *Rampaging Beast Horde (12 Might Points):* You can take community actions with
+    a horde or a community as if you were a rank 3 rampaging beast horde for one
+    hour. You can spend a few rounds or minutes here and there taking character
+    actions if something requires attention and still retain your horde
+    status. For each allied PC that joins you and remains with you during this
+    period who also spends 12 points from one of their Pools can extend the
+    duration by one hour. Each point of damage you take while being treated as a
+    rampaging beast horde is deducted from your Might Pool, or if you have
+    allied PCs helping, the damage is split up and deducted from all your Might
+    Pools evenly. Action to initiate.
+  - *Recruit Deputy:* You gain a level 4 follower. They are not restricted on
+    their modifications. Enabler.
+*** Jack
+**** First Tier
+*Community Fixer:* While you are present within a community, and actively and
+personally working on behalf of that community, the community’s effective rank
+for health or infrastructure is increased by +1. You choose which is modified
+during any given community action. Enabler.
+
+**** Third Tier
+*Improved Community Fixer:* A community continues to modify its health or
+infrastructure by +1 rank. However, you do not need to be constantly present in
+and actively working on behalf of the community for it to gain this benefit; it
+gains it merely because of your past efforts on the community’s
+behalf. Whichever stat you modified last remains active until you return and
+modify it to something else. Enabler.
+
+**** Sixth Tier
+*Recruit Deputy:* You gain a level 4 follower. They are not restricted on their
+modifications. Enabler.
+*** Nano
+**** First Tier
+*Community Scholar:* While you are present within a community, and actively and
+personally working on behalf of that community, the community’s health and
+infrastructure are both increased by +1. Enabler.
+
+**** Third Tier
+*Improved Community Scholar:* A community continues to modify its health and
+infrastructure by +1 rank. However, you do not need to be constantly present in
+and actively working on behalf of the community for it to gain this benefit; it
+gains it merely because of your past efforts on the community’s behalf. Enabler.
+
+**** Sixth Tier
+*Recruit Deputy:* You gain a level 4 follower. They are not restricted on their
+modifications. Enabler.
+*** Any Type
+A community task is something a PC attempts by taking part in a larger community
+action. The PC usually does so in order to modify a community's or horde's
+stats. A community task requires the PC's full attention for the duration of a
+community action. The effect of a PC’s attempted community task falls into one
+of four broad categories: Armor, damage inflicted, health, and infrastructure.
+
+Any PC can attempt a community task, investing an entire hour or more (depending
+on the length of a single community action) attempting to affect a community’s
+or horde’s stats.  Community tasks that PCs attempt usually automatically
+succeed, though the GM may require a roll if something is working against the
+PC.
+
+Example tasks include convincing a neighborhood to evacuate, recovering
+survivors from a flood across a wide area, cleaning up a market area in order to
+improve the quality of an upcoming event, and so on.
+
+All PCs have type abilities that grant them a specific effect to benefit a
+community they're helping. These abilities are akin to community tasks in the
+sense that they often affect a community's stats in some fashion, but they don't
+usually require that the PC devote all their actions toward a specific community
+action. The community benefits granted by these type abilities (and potentially
+some focus abilities) just happen, and do not require Effort.
+
+For instance, the Arkus’s Community Leader ability provides a +1 rank
+enhancement for all non-combat community actions attempted by the community,
+without requiring that the PC apply Effort. But if a PC doesn’t want to use a
+type or focus ability that provides a predefined benefit to a community or
+horde, they can attempt a community task (they can't do both in the same time
+period) by applying Effort from a Pool over the course of one community action,
+as long as that period of time doesn’t take much longer than one hour.
+
+A PC can do this even if they aren’t skilled at that task normally—you don’t
+have to be skilled in interaction tasks to apply Effort to attempt a community
+task to boost morale, or be skilled at healing to apply Effort to assist the
+community’s healers. (However, a character with an inability in a task can't
+attempt it as a community task.)
+
+For instance, if a PC Nano wants to increase a community’s health by 1 as shown
+on the Community Task Effect Table, they can apply 1 level of Effort from their
+Intellect Pool as they spend an hour tending wounds, helping healers, explaining
+how to treat weird diseases, and otherwise contributing.
+
+The Jack wants to increase the damage inflicted of the community by 1, so they
+spend an hour (and two levels of Effort from their Might or Speed Pool) going
+about the walls of a community under attack and physically helping out.
+
+The Glaive could do the same thing if they wanted, but instead, the Glaive uses
+their Community Defender ability, increasing the community’s effective rank for
+damage inflicted by 1 without spending anything from their Pools.
+
+| Effect                   | Effort     |
+|--------------------------+------------|
+| +1 Armor                 | 3 levels   |
+| +1 damage inflicted      | 2 levels   |
+| +1 health                | 1 level    |
+| +1 infrastructure        | 1 level    |
+| Other non-combat effects | 0-1 levels |
+
+** Long Term Actions
+*** Build Up Food or Water Stores (1 month)
+Through a variety of different methods, which the character can specify, food or
+water stores for the community can be built up in case of some kind of disaster
+or siege. The character can build up enough food or water stores for the
+community to survive an extra 1d6 days. Stores can continue to increase at this
+rate for each month the character spends pursuing this long-term activity.  The
+amount of work required for this task scales with the population and rank of the
+community, so it is assumed that the character is harnessing help from the
+community to successfully perform this activity.
+
+For example, a character in a rank 1 community might head a nulberry-picking
+expedition with dozens of volunteers to help out over a month’s time, gaining
+1d6 extra days of food. The same activity and outcome for a higher-ranked
+community assumes the character is aided by hundreds of volunteers instead of
+dozens. Excess food is preserved in some fashion so it won’t go bad.
+*** Craft Object or Structure (time varies)
+Any character can use the crafting rules to create a commonplace object or
+structure, or they can use a plan to create a numenera object or structure.
+Time and other resources required are described in the crafting rules and
+numenera plans.
+
+Crafting, Destiny, pg 117
+*** Discover New Area of Interest (1 month)
+By ranging out into previously unexplored areas farther and farther each day, a
+character can attempt to discover a new prior-world ruin, the site of some
+recent battle between machines, a hidden city, a transdimensional anomaly, or
+some other area of interest once every month. This is a difficulty 5 Intellect
+task.
+
+If unsuccessful or if there’s a GM intrusion, long-term play is interrupted
+because something unexpected happened—like an ambush or a trap—that the
+character must deal with.  If successful, the character has found a new area of
+interest—one more place PCs can explore and potentially salvage during regular
+play. When regular play resumes, the character and other PCs can investigate the
+area, dealing with any defenders, defenses, weird phenomena that poses a danger,
+and so on.
+*** Enhance Community Happiness (1 month)
+A character can spend a month adding to the community’s general happiness,
+permanently increasing community health by 1. The community’s health can be
+raised up to four times its current rank in this fashion. The ways a PC could
+spend a month raising general community happiness are varied, but include the
+following:
+
+ - Providing some kind of biweekly performance that involves song, dance,
+   comedy, drama, or some other art or entertaining performance.
+ - Opening a shop where savory foods or sweets are sold at least two nights out
+   of every seven.
+ - Holding weekly citizen forums where residents can talk and make their voices
+   heard.
+ - Hosting games where competing teams can face off or work in cooperation at
+   least two nights out of every seven.
+ - Picking up trash and litter, cleaning defacing marks, and touching up faded
+   facades throughout the community every day.
+ - Helping to establish a community center.
+ - Helping to establish a religious center in communities that have a bent
+   toward spirituality.
+ - Performing good works, such as caring for the community’s sick, distributing
+   food to the hungry, and helping those who are hurt or disabled.
+*** Establish Satellite Settlement (time varies)
+This long-term project requires a minimum of three PCs to spend one or more
+months looking for a suitable area where they can set up a small base that will
+remain associated with the main community. Essentially, this requires that the
+PCs undertake a series of searches for the same kinds of needs described in
+Chapter 25: Founding a Community.
+
+Each need requires at least a month but could take longer, and any might require
+an interruption from the long-term search in order to break out into a related
+adventure to resolve a related need.  Once a satellite community is set up, the
+final requirement is that the PCs install some kind of administrator, mayor, or
+other authority, who could be a follower of at least level 3 or an NPC whom the
+PCs meet and groom for the position during earlier encounters.
+
+If a satellite settlement is successfully founded, the main community’s rank
+increases by 1 until such time as the satellite community breaks off and becomes
+independent.
+*** Focus on an Ability (1 month)
+Whether a character is a Glaive with fighting moves, a Nano with esoteries, or
+an Arkus with precepts, all PCs have special abilities provided at each tier by
+their type. By focusing on just one of those abilities and practicing it each
+and every day to the height of perfection, the character becomes trained in that
+ability.
+
+A character can focus on only one ability in any given month in this manner. A
+character can do this only once between exploration or other instances of normal
+play, and a character can’t use this long-term task to become specialized.  For
+example, a Nano could practice using their Onslaught esotery every day for a
+month, and at the end of that time they become trained in Onslaught.
+*** Gain Experience (1 month)
+By practicing their abilities, studying, and training, a character can gain 1 XP
+every month. However, a character can never gain more than 2 XP in this fashion
+consecutively. Once they reach this limit, they must resume regular play and
+gain some XP normally before they can do so again with this long-term activity.
+*** General Maintenance (1 month)
+A character can spend a month providing general repairs to community roads,
+walls, buildings, and so on. This permanently increases the infrastructure of
+the community by 1. However, this activity (whether done by one character or
+several working in tandem) can never add more than a total of twice the
+community's rank to its infrastructure.
+*** Help Another PC (time varies)
+A PC could help another PC pursue their long-term activity. If any rolls are
+required for the task to succeed, this eases the task. In the specific case of
+helping someone craft, the help provided lowers the assessed difficulty for
+creating an object or structure by one step, though only one PC can help with
+another’s crafting task in this fashion.
+
+If any benefits are accrued to the character for the long-term activity, the
+helping PC also gains them. If external resources are gathered such as iotum or
+XP, both PCs gain the benefit.
+*** Create a Relationship (1 month)
+A character may decide to pursue a more serious relationship with an
+NPC. Deciding to make a good friend, take a lover, or find a spouse and being
+successful in doing so are two different things. Each month a character spends
+pursuing such a relationship gives them a chance to find someone compatible,
+with a difficulty equal to the level of the sought-after companion.
+
+If successful, the character gains the sought-after relationship and one Pool of
+their choice increases by 1 point. However, once a relationship is gained, it
+must be maintained or the relationship is lost. When a relationship is lost, the
+point the character gained to a Pool is lost. Unless the character has other
+relationships to fall back on, for the next three months they also lose an
+additional point from that Pool. Maintenance usually requires a minimum of one
+month out of every three, though some relationships are more demanding.
+
+Characters can pursue two long-term tasks at the same time, so maintaining a
+relationship shouldn’t be too much of a burden for most. In any case, no matter
+how many relationships the character gains, they can never add more than 1 point
+per tier to their Pools by pursuing this task (and no more than 1 point per
+relationship). Of course, unexpected events or bad decisions can also cause a
+relationship to fail.
+*** Raise a Child (time varies)
+Raising a child doesn’t require that the PC have successfully pursued a
+relationship to gain a spouse or partner because the child can be adopted or
+just taken into the character’s protection.  Raising a child is obviously a
+long-term task that lasts for years, but if the character houses the child,
+provides for their emotional support, and meets their other basic needs, they
+gain someone who loves and relies upon them and who will eventually be able to
+help them in turn—perhaps even serving as the founder of the next generation of
+residents in the community the character built.
+
+Until a child reaches their teenage years or older, they can only aid the
+character emotionally, increasing one Pool of the character's choice by 1
+point. After a child has reached their late teens, they typically become
+independent and move on, though they may provide aid to the PC from time to
+time, or ask for aid, as determined by the GM. A character may choose to raise
+multiple children, but no matter how many children the character gains, they can
+never add more than 1 point per tier to their Pools by pursuing this activity.
+
+If the child ever dies or the relationship turns hostile, the PC loses the 1
+point and 1 additional point as well.
+*** Recruit a Follower (optional; 1 month per level of follower)
+At the GM’s discretion, characters who gain followers may have to do more than
+simply sit back and hope followers will sniff them out. PCs may have to spend
+some time actually looking for a suitable follower. In this case, it takes one
+month for a PC to find a suitable level 1 follower, two months to find a
+well-matched level 2 follower, three months for a level 3 follower, and so
+on. Followers recruited in this way may provide the PC with some special
+additional benefit, such as having one additional modification beyond what the
+follower’s level would normally indicate.
+*** Relax or Pursue Hobbies (1 month)
+Even the most competent and driven character requires some downtime to recharge
+their mind and body. After at least a month of utterly relaxing or pursuing only
+pleasurable activities or hobbies, a character can ease all tasks for one day of
+their choosing per month of relaxation they enjoyed. A character can never gain
+this benefit more than twice in any twelve-month period, no matter how many
+months off they take.
+*** Scavenge Iotum (1 month)
+By meticulously searching through nearby areas—relatively safe areas that have
+already been salvaged for iotum and cleared of the most dangerous threats—a
+character can gain 2 units of iotum from the Iotum Result Table every
+month. Iotum gained in this fashion can never be higher than level 4.
+*** Treat With a Neighbor Community (1 month)
+If the PCs know (or strongly suspect) that another village, town, or other
+municipality is located somewhere within a week’s travel from their own base or
+allied community, they can attempt to locate it and set up a meeting with
+someone of importance there once every month. This is a difficulty 5 task. If
+successful in gaining the meeting, long-term play is interrupted so that the
+character can speak in real time with the envoy from the neighbor and attempt to
+make some sort of treaty.
+
+This is an opportunity to discover a need the neighboring community has that
+might be met by the PCs. The neighboring community might be willing to aid the
+PC’s community or set up a trade route, but only if the PCs do something on
+their behalf. For instance, they might ask the PCs to fight off a dangerous
+creature, investigate a series of grisly murders that no one locally has been
+able to solve, clear out a margr infestation in the valley that would threaten
+trade caravans, or something similar.  Essentially, an adventure of some sort
+can be hung on every new attempt PCs make to treat with neighboring communities.
+
+If things go poorly, no treaty is made.  However, if things go well, a treaty
+can be secured and long-term benefits can be accrued, provided one or more PCs
+continue to invest long-term time into keeping the treaty strong by engaging in
+monthly visits and engaging in positive social interactions. If the PC fails to
+maintain a treaty each month, the treaty is off, and any benefits that accrue
+end until a new treaty can be made.
+
+The following kinds of benefits can be gained by maintaining a treaty with a
+neighbor community.
+
+/Mutual Defense:/ As long as the treaty with a neighbor community is maintained
+each month, the neighbor provides a small company of fighters. This company is
+available on short notice, granting the PC’s allied community with +1 additional
+health. (This assumes the neighbor also gains similar aid provided by the PC’s
+allied community.)  More significant terms could be negotiated, up to the
+neighbor fielding a horde to aid in the allied community’s defense; however,
+that would require significant charisma and possibly monthly payments on the
+PC’s part.
+
+/Trade Route:/ As long as the treaty with a neighboring community is maintained
+each month, a trade route is set up, which provides the PC’s allied community
+with one kind of trade good. Trade can benefit a community in a variety of ways,
+including those listed below. Note that each established trade route requires a
+separate treaty and agreement; even if all treaties or trade routes are made
+with the same neighboring community, each one is made through different groups
+and organizations within that community.
+
+Possible trade route benefits include but aren't limited to the following options.
+ - Up to 4 units of a specific kind of iotum of no more than level 5 each month
+ - +1 to health (accrued from trade in food)
+ - +1 to damage inflicted (accrued from trade in arms)
+ - +1 to infrastructure (accrued from trade in building materials)
+   
+/Cessation of Hostilities:/ Lots of treaties merely call for a break in
+conflict. Such a treaty could open the way to more positive treaties later or
+they might only be a pause in larger hostilities, depending on how other
+negotiations go.
+
+/Pact of Mutual Non-Aggression:/ This is an agreement between two or more
+communities who pledge to leave each other alone and respect each others’
+territory. Sometimes with an adversarial neighbor, that’s the best that can be
+hoped for. However, this leaves room to improve the situation to more positive
+treaties later. This kind of treaty is also something that the PCs might
+negotiate between two different neighbors (neighbors who are hostile to each
+other but not to the PCs’ community) in order to bring peace to a region.
+*** Ararholm Specific Long Term Actions
+**** Decipher Journal ( 1-2 months )
+Choose one of Ager's journals.
+
+Your character spends the next month deciphering the journal. Successfully
+deciphering the journal requires succeeding on an Intellect task whose
+difficulty is determined by the journal. On a failure, it takes two months to
+decipher.
+
+****  Find Clue ( 1 month )
+Once you have deciphered a journal, you can properly analyze it for clues.
+
+To do so, you must succeed on a level 4 Intellect task. On success, you learn
+both the location of the ruin, and the location of the plan seed, artifact, or
+information you're looking for. On a failure you only learn the location of the
+ruin.
+
+On a failure, you don't learn anything ( but can attempt to analyze it again at
+a later time ).
+
+**** Hire NPC ( varies )
+Pay an NPC to do one of the following long term actions for you:
+
+ - Arkus, Demonstrate Grace Under Pressure
+ - Delve, Prospect For Iotum
+ - Delve, Find Specific Iotum
+ - Wright, Craft Objects or Structures
+
+These are all type-specific long-term actions, and can be found in the Destiny
+core book.
+
+The cost of hiring an NPC to do one of these actions varies. An arkus typically
+charges about 30-40 shins a day. Delves usually charge 5-10 shins a day,
+although will gladly negotiate if it means getting to keep any cyphers they
+find. Wrights charge based on what they've been asked to build, they'll often
+gladly bring their price down if you're able to provide the materials.
+
+**** Research Current Events ( varies )
+Sift through rumors, reach out to contacts, or buy a delver a drink -- there are
+many ways you gather information about what's going on, both near Ararholm and
+out in the world. The time this task takes depends on what kind of information
+it is you're looking for.
+
+ - *Ararholm ( 1 month )* - talk to the homesteaders, the delvers and adventurers
+   that hang around, or folks who've recently been on scouting missions to learn
+   something about what's happening near Ararholm and the homesteads. 
+   
+ - *Maka-Tho ( 1 month )* - same as above, but for information on what's happening
+   throughout Maka-Tho. will require that other settlements or trade routes be
+   founded, in order to get a wider picture of what's going on in Maka-Tho.
+   
+ - *Sable Hegemony ( 2 months )* - spend some time down at the Trade Outpost on
+   the other side of the Grey Sea talking to merchants and delvers passing
+   through to learn what's going on in the Hegemony.
+   
+ - *Voz Dynasty ( 4 months )* - due to the time involved in traveling to and from
+   the Dynasty, information takes longer to reach you. There are merchants who
+   make regular trips between the Grey Sea Outpost and other outposts closer to
+   the Dynasty but the travel time highly restricts the flow of
+   information. Perhaps opening up an alternate route through Maka-Tho will
+   reduce this time?
+   
+ - *Nightmares ( 2 months )* - sift through rumor and conjecture, reference things
+   you've learned from Ager's journals, and work with what you know to try and
+   figure out what the Nightmares are up to. Requires traveling to the Grey Sea
+   Trade Outpost.
 * Rulings
 ** Helping
 if you want to help someone when they're trying to accomplish a task, you have

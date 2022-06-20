@@ -999,19 +999,7 @@ He'll give the party an info crystal -- the same kind of crystal they (by now)
 will have been looking for to power the ship back up. It contains the true
 history of the conflict with the Nightmares, and what is known about the
 Nightmares.
-*** Clippy
-...is a fragement of the ship AI.
 
-Previous user was one of the Nightmares.
-
-Ager is the one that taught Clippy the language of Truth.
-
-The gang's consciousnesses were transported to the screaming tower after they all
-got struck by lightning from a strange storm. The rest of the town is fine --
-some others were also pulled in but either got spat out or found their own way
-back to their bodies.
-
-Until they exit the datasphere, they won't be able to remember the lightning strike.
 *** Creatures to use
  - Mozck Automaton, nwb2, pg 103
  - Dread Rider, nwb2, pg 48
