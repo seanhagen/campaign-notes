@@ -536,7 +536,7 @@ I hear the dice calling, let's see how this plays out.
 **** Background
 
 **** Stat Block
-*** Savu Athuin (Level: 6)                                       :friendly:
+*** Savu Athuin (Level: 8)                                       :friendly:
 #+BEGIN_QUOTE
 Well now dearie, you don't get to know everything.
 #+END_QUOTE
@@ -586,7 +586,7 @@ https://www.pinterest.ca/pin/21251429481890743/
 
 **** TODO Stat Block
 
-*** Mex Gos (Level: 6)                                               :ally:
+*** Mex Gos (Level: 7)                                               :ally:
 :PROPERTIES:
 Nickname: The Silver Wright
 :END:
@@ -786,14 +786,14 @@ into the air. It uses this smoke to confound and attack its foes.
 *Armour:* 1
 *Movement:* Long
 *Modifications:* All attacks that target it or defense against it must
-use Speed or are hindered by two levels, Level 8 for deceiving and confusing
+use Speed or are hindered by one level, Level 7 for deceiving and confusing
 
 *Combat:*
 Relies on misdirection and speed to attack from unexpected angles to hide the
 fact it's a psychic projection.
 
 As a pre-emptive move, attacks with a blast of psychic energy. Players must make
-a Level 8 Intellect save or have all attacks against the avatar be hindered by
+a Level 7 Intellect save or have all attacks against the avatar be hindered by
 one level. The attack inflicts a crippling sense of doubt upon the character,
 making every task harder to accomplish.
 

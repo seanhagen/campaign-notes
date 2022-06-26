@@ -212,7 +212,7 @@ constantly outmaneuvered?
    weapons as the only thing that can hurt it, and then shattering that
    certainty so it can plant the idea that they'll never be able to hurt it --
    because if it can do that, it has a chance of being able to make that true.
-
+  
 **** After The Fight
 Lady Gol is a wreck; she's curled up in a corner, crying and not looking that great.
 
@@ -247,7 +247,11 @@ information.
 She'd much rather just go with them and get to know the folks there a bit before
 the rest of the army regiment catches up.
 
-Depending on where in the session we are, call the end or take them back to town.
+***** Doubt's New Plan
+He knows that the party thinks that they can win in a straight-up physical
+fight. Will bait them with more and more powerful avatars, barely "escaping" to
+build their confidence, so he can shatter it and plant seeds that will blossom
+very quickly.
 
 ** High Level
 *** How Folks In Town React To The Newcomers
@@ -281,7 +285,7 @@ Ambassador Otoke is partially responsible for the Empress having these views.
 However, the Empress is smart, and knows the Nightmares are out there, so gave
 Gol a lot of leeway. The Ambassador still got himself put on the mission though,
 so Gol doesn't have as much leeway as she was intended to have. As he
-technically outranks Gol & Lt. Kernel Cheem, he's in a position to cause a lot
+technically outranks Gol & Lt. Colonel Cheem, he's in a position to cause a lot
 of trouble for Ararholm.
 
 Lady Gol thinks the party is great, but still needs to learn about the town and
@@ -441,7 +445,6 @@ Nightmares learn what exactly it is you know.
 Savu, Captain Togh, Princess Gol, Mex, & Brigette. He only knew Savu, Mex, and
 Brigette would be there, other than that he just asks for the "royal daughter of
 the Sable Hegemony" and the "runaway child of the Voz Dynasty".
-
 
 Felwinter asks the party to get Pamki, Brigette, Mex, Savu, "royal daughter of
 the Sable Hegemony" and the "runaway child of the Voz Dynasty", and to bring

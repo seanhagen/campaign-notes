@@ -117,7 +117,10 @@ turn order:
 * Session 10
 ** Rescuing Lady Gol
 *** Notes
+ - Zeno spends a month doing *Raise A Child*
  - 
-*** Combat
-**** 
 *** For Next Session
+ - map of Ararholm
+ - map of larger area
+ - list of journals for the players
+ - print-outs of long-term actions

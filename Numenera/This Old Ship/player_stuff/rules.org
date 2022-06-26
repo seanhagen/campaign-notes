@@ -369,9 +369,6 @@ both the location of the ruin, and the location of the plan seed, artifact, or
 information you're looking for. On a failure you only learn the location of the
 ruin.
 
-On a failure, you don't learn anything ( but can attempt to analyze it again at
-a later time ).
-
 **** Hire NPC ( varies )
 Pay an NPC to do one of the following long term actions for you:
 
