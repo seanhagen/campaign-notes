@@ -79,7 +79,7 @@ mvp:
 - rolls appropriate dice to determine item level
 - produces link to description
 - sends info to discord
-  
+
 ** Ruins & Exploration
 is there a better way than tags to mark rooms in a ruin unexplored/explored (
 that can adapt to other "room statuses", like "destroyed" )
@@ -227,7 +227,7 @@ was really attacking Lady Gol. It's planted seeds ( though the characters don't
 know that yet ) that it will work to make real.
 
 They have to convince her that nothing Doubt has convinced her of is true, or
-the seeds will sprout. 
+the seeds will sprout.
 
 Tigor will speak after the party, and will basically Ted Lasso the
 situation. Something along the lines of how she feels as if she is a jarba (
@@ -242,13 +242,13 @@ or some voice of her subconcious. She'll thank the party, and asks if she can
 accompany them back to their town; she really dislikes the kind of ceremonies
 the ambassador insists on when they travel. That, and she prefers to make an
 assessment like the one she's been sent to make with first-hand and unbiased
-information. 
+information.
 
 She'd much rather just go with them and get to know the folks there a bit before
 the rest of the army regiment catches up.
 
 Depending on where in the session we are, call the end or take them back to town.
- 
+
 ** High Level
 *** How Folks In Town React To The Newcomers
 *Lady Gol*
@@ -268,7 +268,7 @@ Depending on where in the session we are, call the end or take them back to town
 
 *Lt. Kernel*
  - Pamki greets as old friend, has met Cheem before
-   
+
 *** Why Lady Gol Tirade Is Coming To Ararholm
 Was sent by her mother ( the Empress ) to see if "the new fledgling outpost is
 in need of the generous aid of the Hegemony". Basically the Empress wants to
@@ -383,18 +383,18 @@ She lets them know that she's got a score to settle with Doubt
  - Ghoka?
  - Sheriff Edgar?
  - Savu Athuin?
-   
+
 **** Nightmares <=> Ager's Gang
  - Doubt <=> Mex
  - Deceit <=> Savu Athuin
- - Hate <=> 
+ - Hate <=>
  - Vanity <=> Savu Athuin
- - Despair <=> 
+ - Despair <=>
  - Scorn <=> Empress
  - Anxiety <=> Mex
- - Absurdity <=> 
+ - Absurdity <=>
  - Memory <=> Ager
-   
+
 **** Who Exactly Were Ager's Gang?
 And are they even human?
 
@@ -408,15 +408,15 @@ Nightmare thought would be their weakest adversary.
 
  - Hate => Mex
  - Despair => Pamki
-   
+
  - Doubt => Zeno
  - Deceit => Klep
  - Vanity => Ureos
  - Scorn => Fox
  - Anxiety => Belel (Zeno)
-   
+
  - Memory => Party
-   
+
  - Absurdity => ?
 
 *** How Zeno Kills Doubt
@@ -681,7 +681,7 @@ with everything the Nightmares needed to break free.
 
 "I don't remember much of what happened after that. There was a lot of fighting,
 and running, and madness. We chased and were chased through ruins and
-dimensions, trying to undo what we had done. 
+dimensions, trying to undo what we had done.
 
 "We know this much though. We let them out, and we became their anchors. We
 chased them down, and managed to take out a few of them. Unfortunately, the were
@@ -782,8 +782,8 @@ travels.
 
 Once Ager is alone agin, he begins speaking again.
 
-"So that means that I've got to go through some stuff I'm really hoping you
-already know. And if not, I'm sorry baby girl, but you're going to have to clean
-up one of my messes.
+"So that means you're going to have to learn some stuff I was really hoping you
+would never have to learn. I'm sorry little falcon, but you're going to have to
+clean up one of my messes.
 
-
+"Read my journals. Everything you need to know is in there.

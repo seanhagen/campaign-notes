@@ -2,6 +2,47 @@
 :ID:       7f8b06da-122a-4cd3-885f-205d9ab8b7b0
 :END:
 
+* Goli Tiyamike, We Praise The First, The Midnight Empress (Level: 10) :ttrpg:npc:neutral:
+#+BEGIN_QUOTE
+History will forget you.
+#+END_QUOTE
+
+*Roleplaying*
+| Thing | Physical Action |
+|-------+-----------------|
+| physical mannerism | always carries herself with a serene noblity, giving her an undenyably regal bearing |
+| values | her family, her people, the world |
+| mode of speech | always questioning |
+
+  a few brief bullet points. should have one simple, physical action to perform
+  while playing the npc. *avoid repetition* by having each point describe a
+  completely distinct classification of thing: values, physical mannerism, way
+  of speaking, personality, etc.
+
+** Key Info
+  essential interaction or info pcs should get from this npc. can have multiple
+  key info sections, one for each 'type' of info (ie, an npc in a mystery game
+  at a party might have 'clues' and 'topics of conversation' as key info
+  sections ).
+
+** Appearance
+ A large but powerfuly built woman. Her face is more handsome than pretty;
+ though her stern visage is usually softened by her jovial and trickster-ish
+ nature. Her skin is a darker shade of brown, close to black, and is part of the
+ reason for her title as "The Midnight Empress".
+
+ Wields two ancient numenera in battle; two devices that create blades of
+ flowing water when activated. Goli can control the density & shape of the water
+ with a thought, giving her extreme tactical flexibility in combat.
+
+  - [[https://www.pinterest.ca/pin/413909022014692802/][image]]
+  - [[https://www.pinterest.ca/pin/511017888941633648/][weapon example]]
+
+** Background
+Met Ager when they were both going after the same prize in a ruin, along with a
+few other delvers. They decided to join up and go delving together.
+
+** Stat Block
 * Inbox
 ** Character Songs To Listen To
 *** Zeno

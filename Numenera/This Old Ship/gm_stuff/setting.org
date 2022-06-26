@@ -170,6 +170,20 @@ Capital city, seat of government.
 *** Myths, Legends, Stories, Rumors
 *** Major Historical Events
 *** Major Factions
+****  Royal Sable Army
+***** Hierarchy
+| Name       | Comprised Of   | Example Names                                        | Led By             |
+|------------+----------------+------------------------------------------------------+--------------------|
+| Royal Army | 5 Field Armies | The Royal Sable Army                                 | Lord Marshal       |
+| Field Army | 5 Corps        | First Army, Fifth Army                               | Marshal            |
+| Corps      | 2-5 Divisions  | I Corps, V Corps                                     | General            |
+| Division   | 3 Brigades     | Regular, Mounted, Scout, Heavy, Special, Engineering | Lieutenant General |
+| Brigade    | 3+ Regiments   | 1st, 5th, 9th, 10th                                  | Colonel            |
+| Regiment   | 3-5 Companies  | Regiment A, Regiment D                               | Lieutenant Colonel |
+| Company    | 3-4 Platoons   | 1st Company, 5th Company                             | Captain            |
+| Platoon    | 3-4 Squads     | uniquely named                                       | Lieutenant         |
+| Squad      | 4-10 soldiers  |                                                      | Staff Sergeant     |
+
 ** Who Rules Now
 *** Sable Hegemony
 * Sudboia

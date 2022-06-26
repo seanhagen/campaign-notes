@@ -549,7 +549,7 @@ and there should be some powerful numenera hiding out there too
  - how close other parties are to town ( sable army, merchant, others )
  - what is ghoka up to
  - what stuff in & around town needs to be handled sooner rather than later?
-   - water? 
+   - water?
    - demon t-rex thing?
    - families needing help?
    - ruins that need searching?
@@ -561,7 +561,7 @@ and there should be some powerful numenera hiding out there too
    - 20 units of io
    - 2 units of philosophine
    - 3 cyphers
-     
+
 *** stuff they need to learn
  - many of the ruins used to be parts of the ship, it broke up as it crashed
  - one of the crystals they need to unlock the airship force field is here
@@ -569,10 +569,10 @@ and there should be some powerful numenera hiding out there too
    one of the Nightmares
  - one of the people traveling with the Merchant is a Nightmare
 * Big Old To-Do List [0/6]
- - [ ] clue tables! [0/5]
-   - [ ] list of artifacts they can find
-   - [ ] list of numenera plans
-   - [ ] nightmare clues
+ - [-] clue tables! [3/5]
+   - [X] list of artifacts they can find
+   - [X] list of numenera plans
+   - [X] nightmare clues
    - [ ] locations!
    - [ ] shuffle the tables into multiple variants
  - [ ] map of area at close scale
@@ -580,4 +580,3 @@ and there should be some powerful numenera hiding out there too
  - [ ] make nice print-out of community actions
  - [ ] make nice print-out of long-term actions
  - [ ] determine what the regiment is okay doing, how they're willing to help out
-

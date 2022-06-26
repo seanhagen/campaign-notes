@@ -1,5 +1,5 @@
 #+TAGS: friend ally neutral indifferent hostile
-* NPCs
+* NPCs & Hordes
 ** Ararholm
 *** Pamki Hammersplint (Level: 5)                                    :ally:
 :PROPERTIES:
@@ -364,7 +364,7 @@ By the light of the Golden Throne, you have no idea what you've gotten yourself 
 #+end_quote
 
 **** Stat Block
-*** Lieutenant Kernel Ado Cheem (Level: 7)             :ttrpg:npc:friendly:
+*** Lieutenant Colonel Ado Cheem (Level: 7)             :ttrpg:npc:friendly:
 #+BEGIN_QUOTE
 What I do, I do for the people of the Sable Hegemony!
 #+END_QUOTE
@@ -401,6 +401,28 @@ The Ukor are a new client race to the Sable Hegemony, who have pleged to help
 fight in the army in return for getting medical aid & other support.
 
 [[file:~/Documents/CampaignNotes/Numenera/This Old Ship/gm_stuff/assets/512b954133215bf5f55da6f35fe3768c.jpg]]
+*** Royal Sable Army, First Army, I Corps, Special Division, 1st Brigade, Regiment A
+*Rank:* 3, Defensive & Skirmishing Horde
+*Health:* 9  *Armor:* 3   *Damage:* 4
+
+3x companies, each with 4 platoons, each with 3 squads of 5 soldiers.
+180x active soldiers, 40x reserve
+20x staff, 10x aides
+3x advisors
+1x Lieutenant Colonel
+
+*Modifications:* Trained by Lady Gol Tirade to be expert monster hunters; they attack
+ hordes of non-humanoid creatures as rank 4. If the horde contains fewer than 10
+ creatures, they attack as rank 5.
+
+*Command Structure:* On paper, this platoon is technically led by Lieutenant
+ Colonel Ado Cheem, but for all intents and purposes is led by Lady Gol Tirade.
+
+ At the moment, however, Senior Ambassador Kula Otoke has final approval on what
+ actions the Regiment is allowed to undertake. This only extends as far as
+ approving missions; he is unable to dictate strategy or tactics. For example,
+ he can approve of a plan to assault a tribe of abhumans, but he has no say in
+ how the mission is undertaken -- or what happens to any surviving abhumans.
 
 ** Voz Dynasty
 *** Tashi Shaho
@@ -812,7 +834,7 @@ full of holes, but "Doubt" enjoys playing with prey, it is also As you think,
 all the time to show you that disgusting smile.
 ** Hate
 *** Key Info
- - currently targeting Sheriff Edgar, Lt. Kernal Ado Cheem, & Sudhan Kell
+ - currently targeting Sheriff Edgar, Lt. Colonel Ado Cheem, & Sudhan Kell
 *** Forms
 **** Core
 #+ATTR_ORG: :width 400px

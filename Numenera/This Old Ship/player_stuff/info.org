@@ -1,4 +1,7 @@
 * Journals
+:PROPERTIES:
+:ID:       80762ecb-93c2-40f6-b972-ed9063a6fd3b
+:END:
 Deciphering a journal requires a successful Intellect task. The difficulty is
 based on the journal, see the table below for more information.
 
@@ -15,14 +18,14 @@ cryptography, finding hidden things, perception, languages, and performance.
 | I        |     1 |       | Alarm Tower                | Plan           |          |
 | II       |     1 |       | Ararholm: Plans            | History & Myth |          |
 | III      |     1 |       | Force Wall                 | Plan           |          |
-| IV       |     1 |       | Calda Creation Myth        | History & Myth |          |
+| IV       |     1 |       | Meeting Goli (Empress)     | History & Myth |          |
 | V        |     2 |       | Sable Hegemony: Laws       | History & Myth |          |
 | VI       |     2 |       | Liquid Transfer Orb        | Artifact       |          |
-| VII      |     2 |       | Sudboia: Laws              | History & Myth |          |
+| VII      |     2 |       | Meeting Mex                | History & Myth |          |
 | VIII     |     2 |       | Transport Cart             | Plan           |          |
 | IX       |     2 |       | Everflowing Fountain       | Plan           |          |
 | X        |     3 |       | Absurdity, Weakness        | Nightmare      |          |
-| XI       |     3 |       | Voz Dynasty                | History & Myth |          |
+| XI       |     3 |       | Maka Tho: Primer           | History & Myth |          |
 | XII      |     3 |       | Everflowing Nectar         | Plan           |          |
 | XIII     |     3 |       | Vanity, Motive             | Nightmare      |          |
 | XIV      |     3 |       | Keepsafe Bin               | Plan           |          |
@@ -32,7 +35,7 @@ cryptography, finding hidden things, perception, languages, and performance.
 | XVIII    |     4 |       | Chainpod                   | Plan           |          |
 | XIX      |     4 |       | Express Tube               | Plan           |          |
 | XX       |     4 |       | Hover Frame                | Plan           |          |
-| XXI      |     4 |       | Jet Frame                  | Plan           |          |
+| XXI      |     4 |       | Sudboia: Info              | History & Myth |          |
 | XXII     |     4 |       | First Protector            | History & Myth |          |
 | XXIII    |     4 |       | Floatstone                 | Plan           |          |
 | XXIV     |     4 |       | Cleaning Mech              | Plan           |          |
@@ -42,7 +45,7 @@ cryptography, finding hidden things, perception, languages, and performance.
 | XXVIII   |     5 |       | Multi-Opener               | Artifact       |          |
 | XXXIX    |     5 |       | Farspeaking Pylon          | Plan           |          |
 | XL       |     5 |       | Lifting Aventron           | Plan           |          |
-| XLI      |     5 |       | Construction Foam          | Cypher Plan    |          |
+| XLI      |     5 |       | Jet Frame                  | Plan           |          |
 | XLII     |     5 |       | Garden Mech                | Plan           |          |
 | XLIII    |     5 |       | Materials Extruder         | Plan           |          |
 | XLIV     |     5 |       | Absurdity, Power           | Nightmare      |          |
@@ -105,6 +108,61 @@ cryptography, finding hidden things, perception, languages, and performance.
  - Deciphering every journal from I to L grants an asset when deciphering other
    journals. Deciphering every journal from LI to LXXV grants an additional asset.
  - Journal 100 (C) can only be deciphered once every other Journal has been
-   deciphered.   
+   deciphered.
 
 * Clues
+* Settlements
+** Ararholm
+*Population:* ~350   *Rank:* 2
+*Health:* 4     *Infrastructure:* 16
+*Armor:*  1     *Damage:* 3
+
+*Modifications:*
+Gains an additional 12 infrastructure thanks to the bazaar, Pamki's
+mansion/common hall, and Mex's specialty workshop.
+
+Defends as rank 4 due to the SHeriff & Brigette contributing to the defenses.
+
+Can attack at very long range thanks to the light mortar.
+
+If given three days warning, can shelter the entire population in the
+ship. While the population is sheltered in this manner, no health damage is
+taken until all infrastructure is gone *AND* the attacker finds a way into the
+ship.
+
+However, there is currently only about enough food and water for about 400
+people for three days. There are currently no means of obtaining safe food or
+drinking water within the ship itself.
+
+Additionally, there is currently only enough room to safely house about 400
+people. There are sections of the ship that could be fully explored, repaired,
+and made safe for people to use to take refuge -- but that will require
+materials, time, and effort.
+
+Lastly, due to the sheer size of the ship, not all of it has been explored. It
+is unknown if there are alternate entrances outside of Ararholm. There is also
+the danger of creatures or automatons making there way into the "safe" areas of
+the ship.
+*** Structures
+This is a list of all the structures currently standing in Ararholm.
+
+| Structure           | Level |
+|---------------------+-------|
+| Wood Gate           |     2 |
+| Wooden Wall         |     3 |
+| Cobbled Road        |     4 |
+| Hut                 |     1 |
+| Tavern              |     3 |
+| Storehouse          |     3 |
+| SHop                |     3 |
+| Mill                |     3 |
+| Residence, Small    |     3 |
+| Healer's Hall       |     3 |
+| Barracks            |     3 |
+| Workshop, simple    |     3 |
+| City Hall           |     4 |
+| Inn                 |     4 |
+| Residence, Large    |     4 |
+| Bazaar              |     5 |
+| Mansion             |     5 |
+| Workshop, specialty |     6 |
