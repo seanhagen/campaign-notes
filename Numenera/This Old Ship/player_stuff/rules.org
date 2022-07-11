@@ -1,16 +1,16 @@
-* Rules
-** Community Actions
-*** Glaive
-**** First Tier
+** Community 
+*** Community Actions
+**** Glaive
+***** First Tier
 *Community Defender:* While you are present within a community, and actively and
  personally working on behalf of that community, the community's effective rank
  for damage inflicted is +1. Enabler.
-**** Third Tier
+***** Third Tier
 *Improved Community Defender:* A community continues to modify its effective rank
  for damage inflicted by +1. However, you do not need to be constantly present
  in and actively working on behalf of the community for it to gain this benefit;
  it gains it merely because of your past defense of the community. Enabler.
-**** Sixth-Tier
+***** Sixth-Tier
 *Ability Choice:* Choose /either/ Rampaging Beast Horde or Recruit Deputy as an
  additional tier 6 ability. The ability you do not choose remains available from
  the list of other tier 6 ability options that you normally choose from.
@@ -26,14 +26,14 @@
     Pools evenly. Action to initiate.
   - *Recruit Deputy:* You gain a level 4 follower. They are not restricted on
     their modifications. Enabler.
-*** Jack
-**** First Tier
+**** Jack
+***** First Tier
 *Community Fixer:* While you are present within a community, and actively and
 personally working on behalf of that community, the community’s effective rank
 for health or infrastructure is increased by +1. You choose which is modified
 during any given community action. Enabler.
 
-**** Third Tier
+***** Third Tier
 *Improved Community Fixer:* A community continues to modify its health or
 infrastructure by +1 rank. However, you do not need to be constantly present in
 and actively working on behalf of the community for it to gain this benefit; it
@@ -41,25 +41,25 @@ gains it merely because of your past efforts on the community’s
 behalf. Whichever stat you modified last remains active until you return and
 modify it to something else. Enabler.
 
-**** Sixth Tier
+***** Sixth Tier
 *Recruit Deputy:* You gain a level 4 follower. They are not restricted on their
 modifications. Enabler.
-*** Nano
-**** First Tier
+**** Nano
+***** First Tier
 *Community Scholar:* While you are present within a community, and actively and
 personally working on behalf of that community, the community’s health and
 infrastructure are both increased by +1. Enabler.
 
-**** Third Tier
+***** Third Tier
 *Improved Community Scholar:* A community continues to modify its health and
 infrastructure by +1 rank. However, you do not need to be constantly present in
 and actively working on behalf of the community for it to gain this benefit; it
 gains it merely because of your past efforts on the community’s behalf. Enabler.
 
-**** Sixth Tier
+***** Sixth Tier
 *Recruit Deputy:* You gain a level 4 follower. They are not restricted on their
 modifications. Enabler.
-*** Any Type
+**** Any Type
 A community task is something a PC attempts by taking part in a larger community
 action. The PC usually does so in order to modify a community's or horde's
 stats. A community task requires the PC's full attention for the duration of a
@@ -118,8 +118,8 @@ damage inflicted by 1 without spending anything from their Pools.
 | +1 infrastructure        | 1 level    |
 | Other non-combat effects | 0-1 levels |
 
-** Long Term Actions
-*** Build Up Food or Water Stores (1 month)
+*** Long Term Actions
+**** Build Up Food or Water Stores (1 month)
 Through a variety of different methods, which the character can specify, food or
 water stores for the community can be built up in case of some kind of disaster
 or siege. The character can build up enough food or water stores for the
@@ -134,14 +134,14 @@ expedition with dozens of volunteers to help out over a month’s time, gaining
 1d6 extra days of food. The same activity and outcome for a higher-ranked
 community assumes the character is aided by hundreds of volunteers instead of
 dozens. Excess food is preserved in some fashion so it won’t go bad.
-*** Craft Object or Structure (time varies)
+**** Craft Object or Structure (time varies)
 Any character can use the crafting rules to create a commonplace object or
 structure, or they can use a plan to create a numenera object or structure.
 Time and other resources required are described in the crafting rules and
 numenera plans.
 
 Crafting, Destiny, pg 117
-*** Discover New Area of Interest (1 month)
+**** Discover New Area of Interest (1 month)
 By ranging out into previously unexplored areas farther and farther each day, a
 character can attempt to discover a new prior-world ruin, the site of some
 recent battle between machines, a hidden city, a transdimensional anomaly, or
@@ -155,7 +155,7 @@ interest—one more place PCs can explore and potentially salvage during regular
 play. When regular play resumes, the character and other PCs can investigate the
 area, dealing with any defenders, defenses, weird phenomena that poses a danger,
 and so on.
-*** Enhance Community Happiness (1 month)
+**** Enhance Community Happiness (1 month)
 A character can spend a month adding to the community’s general happiness,
 permanently increasing community health by 1. The community’s health can be
 raised up to four times its current rank in this fashion. The ways a PC could
@@ -177,7 +177,7 @@ following:
    toward spirituality.
  - Performing good works, such as caring for the community’s sick, distributing
    food to the hungry, and helping those who are hurt or disabled.
-*** Establish Satellite Settlement (time varies)
+**** Establish Satellite Settlement (time varies)
 This long-term project requires a minimum of three PCs to spend one or more
 months looking for a suitable area where they can set up a small base that will
 remain associated with the main community. Essentially, this requires that the
@@ -194,7 +194,7 @@ PCs meet and groom for the position during earlier encounters.
 If a satellite settlement is successfully founded, the main community’s rank
 increases by 1 until such time as the satellite community breaks off and becomes
 independent.
-*** Focus on an Ability (1 month)
+**** Focus on an Ability (1 month)
 Whether a character is a Glaive with fighting moves, a Nano with esoteries, or
 an Arkus with precepts, all PCs have special abilities provided at each tier by
 their type. By focusing on just one of those abilities and practicing it each
@@ -206,18 +206,18 @@ character can do this only once between exploration or other instances of normal
 play, and a character can’t use this long-term task to become specialized.  For
 example, a Nano could practice using their Onslaught esotery every day for a
 month, and at the end of that time they become trained in Onslaught.
-*** Gain Experience (1 month)
+**** Gain Experience (1 month)
 By practicing their abilities, studying, and training, a character can gain 1 XP
 every month. However, a character can never gain more than 2 XP in this fashion
 consecutively. Once they reach this limit, they must resume regular play and
 gain some XP normally before they can do so again with this long-term activity.
-*** General Maintenance (1 month)
+**** General Maintenance (1 month)
 A character can spend a month providing general repairs to community roads,
 walls, buildings, and so on. This permanently increases the infrastructure of
 the community by 1. However, this activity (whether done by one character or
 several working in tandem) can never add more than a total of twice the
 community's rank to its infrastructure.
-*** Help Another PC (time varies)
+**** Help Another PC (time varies)
 A PC could help another PC pursue their long-term activity. If any rolls are
 required for the task to succeed, this eases the task. In the specific case of
 helping someone craft, the help provided lowers the assessed difficulty for
@@ -227,7 +227,7 @@ another’s crafting task in this fashion.
 If any benefits are accrued to the character for the long-term activity, the
 helping PC also gains them. If external resources are gathered such as iotum or
 XP, both PCs gain the benefit.
-*** Create a Relationship (1 month)
+**** Create a Relationship (1 month)
 A character may decide to pursue a more serious relationship with an
 NPC. Deciding to make a good friend, take a lover, or find a spouse and being
 successful in doing so are two different things. Each month a character spends
@@ -248,7 +248,7 @@ how many relationships the character gains, they can never add more than 1 point
 per tier to their Pools by pursuing this task (and no more than 1 point per
 relationship). Of course, unexpected events or bad decisions can also cause a
 relationship to fail.
-*** Raise a Child (time varies)
+**** Raise a Child (time varies)
 Raising a child doesn’t require that the PC have successfully pursued a
 relationship to gain a spouse or partner because the child can be adopted or
 just taken into the character’s protection.  Raising a child is obviously a
@@ -268,7 +268,7 @@ never add more than 1 point per tier to their Pools by pursuing this activity.
 
 If the child ever dies or the relationship turns hostile, the PC loses the 1
 point and 1 additional point as well.
-*** Recruit a Follower (optional; 1 month per level of follower)
+**** Recruit a Follower (optional; 1 month per level of follower)
 At the GM’s discretion, characters who gain followers may have to do more than
 simply sit back and hope followers will sniff them out. PCs may have to spend
 some time actually looking for a suitable follower. In this case, it takes one
@@ -277,19 +277,19 @@ well-matched level 2 follower, three months for a level 3 follower, and so
 on. Followers recruited in this way may provide the PC with some special
 additional benefit, such as having one additional modification beyond what the
 follower’s level would normally indicate.
-*** Relax or Pursue Hobbies (1 month)
+**** Relax or Pursue Hobbies (1 month)
 Even the most competent and driven character requires some downtime to recharge
 their mind and body. After at least a month of utterly relaxing or pursuing only
 pleasurable activities or hobbies, a character can ease all tasks for one day of
 their choosing per month of relaxation they enjoyed. A character can never gain
 this benefit more than twice in any twelve-month period, no matter how many
 months off they take.
-*** Scavenge Iotum (1 month)
+**** Scavenge Iotum (1 month)
 By meticulously searching through nearby areas—relatively safe areas that have
 already been salvaged for iotum and cleared of the most dangerous threats—a
 character can gain 2 units of iotum from the Iotum Result Table every
 month. Iotum gained in this fashion can never be higher than level 4.
-*** Treat With a Neighbor Community (1 month)
+**** Treat With a Neighbor Community (1 month)
 If the PCs know (or strongly suspect) that another village, town, or other
 municipality is located somewhere within a week’s travel from their own base or
 allied community, they can attempt to locate it and set up a meeting with
@@ -352,8 +352,8 @@ hoped for. However, this leaves room to improve the situation to more positive
 treaties later. This kind of treaty is also something that the PCs might
 negotiate between two different neighbors (neighbors who are hostile to each
 other but not to the PCs’ community) in order to bring peace to a region.
-*** Ararholm Specific Long Term Actions
-**** Decipher Journal ( 1-2 months )
+**** Ararholm Specific Long Term Actions
+***** Decipher Journal ( 1-2 months )
 Choose one of Ager's journals.
 
 Your character spends the next month deciphering the journal. Successfully
@@ -361,7 +361,7 @@ deciphering the journal requires succeeding on an Intellect task whose
 difficulty is determined by the journal. On a failure, it takes two months to
 decipher.
 
-****  Find Clue ( 1 month )
+***** Find Clue ( 1 month )
 Once you have deciphered a journal, you can properly analyze it for clues.
 
 To do so, you must succeed on a level 4 Intellect task. On success, you learn
@@ -369,7 +369,7 @@ both the location of the ruin, and the location of the plan seed, artifact, or
 information you're looking for. On a failure you only learn the location of the
 ruin.
 
-**** Hire NPC ( varies )
+***** Hire NPC ( varies )
 Pay an NPC to do one of the following long term actions for you:
 
  - Arkus, Demonstrate Grace Under Pressure
@@ -386,7 +386,7 @@ although will gladly negotiate if it means getting to keep any cyphers they
 find. Wrights charge based on what they've been asked to build, they'll often
 gladly bring their price down if you're able to provide the materials.
 
-**** Research Current Events ( varies )
+***** Research Current Events ( varies )
 Sift through rumors, reach out to contacts, or buy a delver a drink -- there are
 many ways you gather information about what's going on, both near Ararholm and
 out in the world. The time this task takes depends on what kind of information
@@ -415,8 +415,8 @@ it is you're looking for.
    you've learned from Ager's journals, and work with what you know to try and
    figure out what the Nightmares are up to. Requires traveling to the Grey Sea
    Trade Outpost.
-* Rulings
-** Helping
+** Rulings
+*** Helping
 if you want to help someone when they're trying to accomplish a task, you have
 to be untrained or better ( remember, skills can be inability -> untrained ->
 trained -> specialized, from worst to best ). if you're untrained, you ease the
@@ -443,7 +443,7 @@ think of right now.
 hint you could even use 1 XP for a player intrusion to come up with those
 suggestions i made above, or think up your own -- it's something we can discuss
 and hammer out the details during game.
-** Healing
+*** Healing
 1. If you go down the damage track due to losing all the points in a pool,
    healing 1 or more points to an empty pool moves you back up the damage track
 
@@ -462,15 +462,15 @@ and hammer out the details during game.
 
 6. healing points in a pool is an intellect task with the difficulty equal to
    how many points they're trying to heal
-** Weapon Modifiers
-*** Reach
+*** Weapon Modifiers
+**** Reach
  - eases attacks vs opponents without reach
  - hinders attacks vs opponents within immediate range
-*** Entangle
+**** Entangle
 May be used to inflict damage, or it may be used to stun a creature with a level
 of the weapon's damage or less (attack roll required every round to maintain
 effect, miss means the target gets free and may act normally). Higher level
 creatures may be entangled by using effort to increase 'damage', however to
 maintain the effect Effort must be spent every turn.
 
-* To Decide
+** To Decide                                                      :noexport:

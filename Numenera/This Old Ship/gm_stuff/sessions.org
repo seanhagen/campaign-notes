@@ -117,10 +117,110 @@ turn order:
 * Session 10
 ** Rescuing Lady Gol
 *** Notes
- - Zeno spends a month doing *Raise A Child*
- - 
+:PROPERTIES:
+:ID:       9a3b8ecc-b03f-4ea6-a2c9-304f6e93aa7c
+:END:
+ - each character does something for the next two months:
+   - Ureos: increase community happiness (1 month), gain XP (1 month)
+   - Klep: operate workshop (1 month), decipher journal ( 2x 1 month )
+   - Fox: trained xp (1 month) develop community network (1 month) & train skill (1 month)
+   - Zeno: puruse a relationship (1 month, mex), raise a child (1 month)
+   - Belel:
+     
 *** For Next Session
  - map of Ararholm
  - map of larger area
  - list of journals for the players
  - print-outs of long-term actions
+* Session 11
+** 4 month gap
+*** first two months
+[[id:9a3b8ecc-b03f-4ea6-a2c9-304f6e93aa7c][here's what the players did in the first two months]]
+*** next two months
+ - regiment arrives at end of second month
+ - time for politicing
+ - word that the merchant will arrive in 8 months reaches Ararholm at end of 3rd month
+
+stuff that happens:
+ - Ibakha's group gets moved out to one of the homesteads so they can help out,
+   but also not be in town so that the regiment won't accidentally cause an issue
+ - 
+
+3rd month long-term actions: (8 months until merchant arrives)
+ - Fox: develop community networks (1 month, engineering corps)
+ - Ureos: develop community networks (1 month, regiment)
+ - Klep: helps zeno
+ - Zeno: build training center (3 months)
+
+interruption: ghoka's gang sends mob of abhumans (margr) to attack the town   
+   
+4th month long-term actions: (7 months until merchant arrives) fall now
+ - Fox: analyze a journal (1 month), gain xp (1 month)
+ - Ureos: enhance community happiness [[id:82ae3d94-acec-4728-b14c-6c4b5d5b22fe][(side effect)]] (1 month), gain xp (1 month)
+ - Klep: helps building training center (-1 month on that, range is done), gain
+   xp (1 month)
+ - Zeno: build training center (2 months left), gain xp (1 month)
+
+fox wants:
+ - rock fists (as activated ability, costs effort); do less damage, but easier
+   to hit by ranged attack (hunters mark for other folks). provides asset for
+   all ranged attacks. will require 4 units of thaum dust.
+
+
+over the next few months:
+ - Zeno: recruit a follower, treat with a neighboring community,
+ - Fox: discover new area of interest ( specifically resources for building the
+   road )
+ - Ureos: discover new area of interest
+ - Klep: develop community knowledge
+ 
+5th month long-term actions: (6 months until merchant arrives)
+ - Fox:
+ - Ureos:
+ - Klep:
+ - Zeno: 
+
+6th month long-term actions: (5 months until merchant arrives)
+ - Fox:
+ - Ureos:
+ - Klep:
+ - Zeno: 
+
+7th month long-term actions: (4 months until merchant arrives) winter now
+ - Fox:
+ - Ureos:
+ - Klep:
+ - Zeno: 
+
+8th month long-term actions: (3 months until merchant arrives)
+ - Fox:
+ - Ureos:
+ - Klep:
+ - Zeno: 
+
+9th month long-term actions: (2 months until merchant arrives)
+ - Fox:
+ - Ureos:
+ - Klep:
+ - Zeno: 
+
+10th month long-term actions: (1 months until merchant arrives) spring arrives
+ - Fox:
+ - Ureos:
+ - Klep:
+ - Zeno: 
+
+11th month long-term actions: (merchant arrives!)
+ - Fox:
+ - Ureos:
+ - Klep:
+ - Zeno:
+   
+**** Ureos's Enhancing Comunity Happiness
+:PROPERTIES:
+:ID:       82ae3d94-acec-4728-b14c-6c4b5d5b22fe
+:END:
+Puts on plays, but also does good works ( caring for the sick, helping feed the
+hungry, etc ).
+
+Any tasks where Ureos is trying to convince the entire town are now eased by one.

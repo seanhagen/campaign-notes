@@ -1,31 +1,30 @@
-* Mex's Shop
-All about Mex's shop!
-
 ** Resources
 This is the list of what Mex has on hand to build things with.
+
+*Materials:* 300
 
 Iotum
 | Name             | Level | Salvage amount | Amount |
 |------------------+-------+----------------+--------|
-| Io               |     1 |            1d6 |    358 | 
-| Responsive synth |     2 |            1d6 |    101 |
-| Apt clay         |     3 |            1d6 |     50 |
+| Io               |     1 |            1d6 |    360 |
+| Responsive synth |     2 |            1d6 |    103 |
+| Apt clay         |     3 |            1d6 |     52 |
 | Bio-circuitry    |     4 |            1d6 |     28 |
 | Synthsteel       |     4 |            1d6 |    123 |
 | Pliable metal    |     4 |            1d6 |     11 |
 | Azure steel      |     5 |            1d6 |     83 |
-| Mimetic gel      |     5 |            1d6 |      5 |
+| Mimetic gel      |     5 |            1d6 |      9 |
 | Quantium         |     5 |            1d6 |      8 |
-| Amber crystal    |     6 |            1d6 |     73 |
+| Amber crystal    |     6 |            1d6 |     76 |
 | Protomatter †    |     6 |              1 |      0 |
 | Thaum dust       |     6 |            1d6 |      0 |
 | Smart tissue     |     7 |            1d6 |      0 |
 | Psiranium        |     7 |              2 |      0 |
 | Kaon dot         |     7 |              2 |      1 |
 | Monopole         |     7 |              2 |     32 |
-| Midnight stone   |     8 |              2 |      0 |
+| Midnight stone   |     8 |              2 |      2 |
 | Oraculum         |     8 |              1 |      0 |
-| Virtuon particle |     8 |              1 |      0 | 
+| Virtuon particle |     8 |              1 |      0 |
 | Tamed iron       |     9 |              1 |      2 |
 | Philosophine     |     9 |              1 |      1 |
 | Data Orb         |     9 |              1 |      0 |
@@ -38,6 +37,7 @@ a side because 1 unit of protomatter is almost that massive (unless some sort of
 extradimensional space to house the protomatter unit is involved). If this
 result occurs in relation to a source that’s too small, thaum dust is salvaged
 instead.
+
 ** Build Times
 
 | Object Level | Cypher   | Artifact | Commonplace Object | Commonplace Structure | Installation | Automaton | Vehicle  |

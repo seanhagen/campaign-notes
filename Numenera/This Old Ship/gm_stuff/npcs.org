@@ -1,6 +1,41 @@
 #+TAGS: friend ally neutral indifferent hostile
 * NPCs & Hordes
 ** Ararholm
+*** The Town
+*Population:* ~350   *Rank:* 2
+*Health:* 6     *Infrastructure:* 16
+*Armor:*  1     *Damage:* 3
+
+*Modifications:*
+
+ - Ureos: Enhance Community Happiness, +1 health (x2)
+
+Gains an additional 12 infrastructure thanks to the bazaar, Pamki's
+mansion/common hall, and Mex's specialty workshop.
+
+Defends as rank 4 due to the Sheriff & Brigette contributing to the defenses.
+
+Can attack at very long range thanks to the light mortar.
+
+If given three days warning, can shelter the entire population in the
+ship. While the population is sheltered in this manner, no health damage is
+taken until all infrastructure is gone *AND* the attacker finds a way into the
+ship.
+
+However, there is currently only about enough food and water for about 400
+people for three days. There are currently no means of obtaining safe food or
+drinking water within the ship itself.
+
+Additionally, there is currently only enough room to safely house about 400
+people. There are sections of the ship that could be fully explored, repaired,
+and made safe for people to use to take refuge -- but that will require
+materials, time, and effort.
+
+Lastly, due to the sheer size of the ship, not all of it has been explored. It
+is unknown if there are alternate entrances outside of Ararholm. There is also
+the danger of creatures or automatons making there way into the "safe" areas of
+the ship.
+
 *** Pamki Hammersplint (Level: 5)                                    :ally:
 :PROPERTIES:
 Nickname: The Swift
@@ -660,6 +695,17 @@ Doesn't have much she can do to affect the physical world beyond using
 automatons.
 
 ** Other
+* Hordes
+** Margr Raiders
+*Rank:* 2
+*Health:* 4
+*Damage:* 2
+
+*Ambushing Horde*
+rank for attacks is modified by +2 in first exchange
+
+*Marauding Horde*
+Only does health damage.
 
 * Nightmares From Another Place And Time
 ** The Nightmares

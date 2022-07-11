@@ -1,34 +1,30 @@
-#+EXCLUDE_TAGS: noexport
-Reference list for cyphers, artifacts, and anything that Mex can build.
-
-* Numenera
-** Cyphers
-*** Explosive Implant
+*** Cyphers
+**** Explosive Implant
  Once this substance enters the bloodstream, it travels to the brain and
  reorganizes into an explosive that detonates when activated via a detonator
  (must be within long range), inflicting 10 points of damage (ignoring Armor)
-*** Defoliant
+**** Defoliant
  One chlorophyl-based plant of a level lower than the cypher is instantly killed
-*** Rejuvinator
+**** Rejuvinator
  One Pool of the user's choice is restored by a number of points equal to the
  cypher's level.
-*** Poison (Pacification)
+**** Poison (Pacification)
  The victim lays down for one minute with eyes closed when told to do so (once).
-*** Force Shield Projector                                         :noexport:
+**** Force Shield Projector                                     :noexport:
  Creates a shimmering energy shield around the user for one hour, during which
  time they gain +3 Armor (+4 Armor if the cypher is level 5 or higher)
-*** Gravity Nullifier                                              :noexport:
+**** Gravity Nullifier                                          :noexport:
  For one hour, the user can float into the air, moving vertically (but not
  horizontally without some other action, such as pushing along the ceiling) up to
  a short distance per round. The user must weigh less than 50 pounds (22kg) per
  level of the cypher.
-*** Magnetic Shield                                                :noexport:
+**** Magnetic Shield                                            :noexport:
  For 10 minutes, metal objects cannot come within immediate range of the
  activated device. Metal items already in the area when the device is activated
  are slowly pushed out.
-*** Cable Projector
-** Artifacts
-*** Automated Bath
+**** Cable Projector
+*** Artifacts
+**** Automated Bath
  *Level*: 1d6
 
  *Form*: A small metal-and-synth hovering sphere that has metallic arms, tubes, and
@@ -40,7 +36,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  brushed, and their nails are trimmed. This also cleans the target’s clothing.
 
  *Depletion*: 1 in 1d100
-*** Cellular Annealer                                              :noexport:
+**** Cellular Annealer                                          :noexport:
  *Level*: 1d6 + 4
 
  *Form*: A small handheld device with a few simple controls
@@ -52,7 +48,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  equal to their level × 3).
 
  *Depletion*: 1 in 1d10
-*** Cloak of Finery                                                :noexport:
+**** Cloak of Finery                                            :noexport:
  *Level*: 1d6 + 1
 
  *Form*: A multilayered cloak of glittering material
@@ -66,7 +62,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  next minute.
 
  Depletion: 1 in 1d20
-*** Empty Field Generator                                          :noexport:
+**** Empty Field Generator                                      :noexport:
  *Level*: 1d6
 
  *Form*: : A 12-foot (4 m) tall collapsible metal tripod with a complex antenna
@@ -82,7 +78,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  artifact’s level.
 
  *Depletion*: 1 in 1d20
-*** Instant Refuge                                                 :noexport:
+**** Instant Refuge                                             :noexport:
  *Level*: 1d6 + 4
 
  *Form*: A 2-foot (60 cm) cube with a control surface
@@ -99,7 +95,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  those inside the portal, no time seems to have passed.
 
  *Depletion*: 1–2 in 1d6
-*** Salvage Pack                                                   :noexport:
+**** Salvage Pack                                               :noexport:
  *Level*: 1d6 + 1
 
  *Form*: Synth pack with attached devices
@@ -111,7 +107,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
 
  *Depletion*: 1 in 1d100 (check each time something is added to the pack; on
  depletion, all objects are expelled from the pack)
-*** Box of Embers
+**** Box of Embers
  *Level*: 1d6
 
  *Form*: Very small synth panel or patch affixed to a melee weapon or other tool
@@ -126,8 +122,8 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
 
  *Depletion*: —
 ***
-** Installations
-*** Alarm Tower
+*** Installations
+**** Alarm Tower
  *Minimum Crafting Level*: 5   *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (10 units); synthsteel (8 units); apt
@@ -150,7 +146,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  related to perception.
 
  *Depletion*: 1 in 1d20 (check per year of use)
-*** Automender
+**** Automender
  *Minimum Crafting Level*: 3    *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (5 units); synthsteel (2 units); apt
@@ -164,7 +160,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  than once in any ten-hour period.
 
  *Depletion*: 1 in 1d20 (check after each day the automender is used)
-*** Cooling Obelisk
+**** Cooling Obelisk
  *Minimum Crafting Level*: 1   *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (10 units); synthsteel (1 unit)
@@ -180,7 +176,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  amidst desert-like conditions.
 
  *Depletion*: 1 in d20 (check per month of use)
-*** Everflowing Fountain                                           :noexport:
+**** Everflowing Fountain                                       :noexport:
  *Minimum Crafting Level*: 6  *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (13 units); amber crystal (5 units);
@@ -196,7 +192,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  per day. This device adds +5 to a community’s infrastructure stat.
 
  *Depletion*: 1 in 1d20 (check each year of use)
-*** Express Tube                                                   :noexport:
+**** Express Tube                                               :noexport:
  *Minimum Crafting Level*: 2   *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (10 units); synthsteel (1 unit); mimetic
@@ -217,7 +213,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  controls on the cubes directing each canister to the correct end point.
 
  *Depletion*: 1 in d20 (check per month of use)
-*** Fabricator                                                     :noexport:
+**** Fabricator                                                 :noexport:
  *Minimum Crafting Level*: 6   *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (25 units); apt clay (2 units); mimetic
@@ -234,7 +230,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
 
  *Depletion*: 1 in 1d20 (check after every time an object or structure higher than
  level 3 is produced)
-*** Farspeaking Pylon                                              :noexport:
+**** Farspeaking Pylon                                          :noexport:
  *Minimum Crafting Level*: 4    *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (12 units); pliable metal (3 units);
@@ -253,7 +249,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  community’s infrastructure stat.
 
  *Depletion*: 1 in 1d100 (check each day the pylon is used)
-*** Force Dome                                                     :noexport:
+**** Force Dome                                                 :noexport:
  *Minimum Crafting Level*: 8  *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (20 units); synthsteel (5 units);
@@ -271,7 +267,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  doesn’t add to the benefit provided by a force sphere).
 
  *Depletion*: 1 in 1d20 (check each century of use)
-*** Force Wall
+**** Force Wall
  *Minimum Crafting Level*: 6   *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (17 units); synthsteel (5 units);
@@ -288,7 +284,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  to a community’s stats if the wall controls a checkpoint.
 
  *Depletion*: 1 in 1d20 (check each year of use)
-*** Keepsafe Bin
+**** Keepsafe Bin
  *Minimum Crafting Level*: 2  *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (13 units); synthsteel (3 units); thaum dust (1 unit)
@@ -301,7 +297,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  of the week, the cavity hatch opens and must be reset.
 
  *Depletion*: 1 in 1d20 (check after each week of use)
-*** Luminous Dynamo
+**** Luminous Dynamo
  *Minimum Crafting Level*: 1   *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (9 units); quantium (1 unit)
@@ -315,7 +311,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  they are touched again to turn the light off.
 
  *Depletion*: 1 in 1d100 (check per week of use)
-*** Rain Caller                                                    :noexport:
+**** Rain Caller                                                :noexport:
  *Minimum Crafting Level*: 5    *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (12 units); synthsteel (2 units);
@@ -330,7 +326,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  for another hour, covering an area up to 1 mile (1.5 km) in diameter.
 
  *Depletion*: 1 in 1d100 (check each use)
-*** Temporal Chime                                                 :noexport:
+**** Temporal Chime                                             :noexport:
  *Minimum Crafting Level*: 4  *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (13 units); pliable metal (3 units);
@@ -349,7 +345,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  units), thaum dust (10 units), and tamed iron (5 units) to the required iotum.
 
  *Depletion*: 1 in 1d20 (check each use)
-*** Turret, Basic                                                  :noexport:
+**** Turret, Basic                                              :noexport:
  *Minimum Crafting Level*: 2   *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (10 units); synthsteel (5 units);
@@ -366,7 +362,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  inflicted by +1.
 
  *Depletion*: 1 in 1d20 (check once after any hour the turret was used)
-*** Vermin Ward
+**** Vermin Ward
  *Minimum Crafting Level*: 2  *Kind*: Installation
 
  *Iotum*: Io (1d6 units); responsive synth (14 units); synthsteel (5 units); apt
@@ -380,7 +376,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  across from mundane insects and vermin via a psychic exclusion field.
 
  *Depletion*: 1 in 1d20 (check each month of use)
-*** Water Purification Station                                     :noexport:
+**** Water Purification Station                                 :noexport:
  *Minimum Crafting Level*: 8
 
  *Kind*: Installation
@@ -397,8 +393,8 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  purify). This installation adds +15 to a community’s infrastructure stat.
 
  *Depletion*: 1 in 1d100 (check each year of use)
-** Vehicles
-*** Battle Cart                                                    :noexport:
+*** Vehicles
+**** Battle Cart                                                :noexport:
  *Minimum Crafting Level*: 7  *Kind*: Vehicle
 
  *Iotum*: Io (2d6 units); responsive synth (25 units); pliable metal (6 units);
@@ -425,7 +421,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  hour before it becomes operational again.
 
  *Depletion*: 1 in 1d20 (check per day of use)
-*** Chainpod                                                       :noexport:
+**** Chainpod                                                   :noexport:
  *Minimum Crafting Level*: 4   *Kind*: Vehicle
 
  *Iotum*: Io (1d6 units); responsive synth (8 units); pliable metal (1 unit);
@@ -458,7 +454,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  and drivable).
 
  *Depletion*: 1–2 in 1d100 (check per day of use)
-*** Hover Frame
+**** Hover Frame
  *Minimum Crafting Level*: 2   *Kind*: Vehicle
 
  *Iotum*: Io (1d6 units); responsive synth (23 units); pliable metal (3 units);
@@ -477,9 +473,46 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  for at least one hour before it becomes operational again.
 
  *Depletion*: 1 in 1d20 (check per week of use)
+**** Transport Cart                                             :noexport:
+*Minimum Crafting Level:* 4     *Kind:* Vehicle
 
-** Automatons
-*** Assistant
+*Iotum:* Io (1d6 units); responsive synth (33 units); pliable metal (6 units);
+synthsteel (10 units); mimetic gel (4 units); quantium (3 units)
+
+*Parts:* 48 units
+
+*Specifications:* This plan produces a multi- wheeled enclosed vehicle of shining
+synthsteel with wide windows for passengers to look out. The vehicle can carry
+one driver, up to four passengers, and some cargo comfortably. The driver can
+use the control surface to cause the vehicle to move up to a long distance each
+round over smooth terrain or a well-maintained road, or up to a short distance
+per round over rough roads or wild terrain. On extended trips on perfectly
+smooth terrain, it can move up to 80 miles per hour (130 kph).
+
+After each five hours of use, the vehicle must rest in the sun for at least one
+hour before it becomes operational again.
+
+*Depletion:* 1 in 1d20 (check per week of use)
+
+**** Dynamic Frame                                              :noexport:
+*Minimum Crafting Level:* 1    *Kind:* Vehicle
+*Iotum:* Io (1d6 units); responsive synth (13 units); pliable metal (3 units); apt
+clay (2 units)
+
+*Parts:* 13 units
+
+*Specifications:* This plan produces a wheeled frame with a simple seat for a
+human- sized creature plus an additional space immediately behind the rider for
+a passenger or cargo. The driver can use the control surface to ride the wheeled
+frame up to a short distance each round over rough terrain or a long distance
+each round over smooth terrain, such as a road.  On extended trips over roads,
+it can move up to 60 miles per hour (96 kph).  After each ten hours of use, the
+dynamic frame must rest in the sun for at least one hour before it becomes
+operational again.
+
+*Depletion:* 1 in 1d20 (check per day of use)
+*** Automatons
+**** Assistant
  *Minimum Crafting Level*: 5
  *Kind*: Automaton
  *Iotum*: io (1d6 units); responsive synth (14 units); apt clay (8 units); pliable
@@ -502,7 +535,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  units of responsive synth for each additional capability desired.
 
  *Depletion*: 1 in 1d20 (check per month of use)
-*** Extractor
+**** Extractor
  *Minimum Crafting Level*: 4   *Kind*: Automaton
 
  *Iotum*: Io (1d6 units); responsive synth (16 units); apt clay (4 units); pliable
@@ -522,7 +555,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  higher and add 3 units of smart tissue and 1 unit of psiranium.
 
  *Depletion*: 1 in 1d20 (check per week of use)
-*** Garden Mech
+**** Garden Mech
  *Minimum Crafting Level*: 2  *Kind*: Automaton
 
  *Iotum*: Io (1d6 units); responsive synth (9 units); apt clay (2 units); pliable
@@ -539,7 +572,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  successfully grow plants within that area.
 
  *Depletion*: 1 in 1d20 (check per growing season)
-*** Buildnought                                                    :noexport:
+**** Buildnought                                                :noexport:
  *Minimum Crafting Level*: 9
 
  *Kind*: Automaton
@@ -567,7 +600,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  small armies of extractors, which it sends out to salvage from nearby ruins.
 
  *Depletion*: 1 in 1d100 (check per century of building)
-*** Lifting Aventron                                               :noexport:
+**** Lifting Aventron                                           :noexport:
  *Minimum Crafting Level*: 3  *Kind*: Automaton
 
  *Iotum*: Io (1d6 units); responsive synth (12 units); apt clay (3 units); pliable
@@ -584,7 +617,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  and so on.
 
  *Depletion*: 1 in 1d20 (check per year of use)
-*** Mech Soldier, Basic                                            :noexport:
+**** Mech Soldier, Basic                                        :noexport:
  *Minimum Crafting Level*: 4  *Kind*: Automaton
 
  *Iotum*: Io (1d6 units); responsive synth (19 units); apt clay (4 units); pliable
@@ -605,7 +638,7 @@ Reference list for cyphers, artifacts, and anything that Mex can build.
  them until the targets flee or are eliminated.
 
  *Depletion*: 1 in 1d20 (check once after any hour that the mech attacks)
-*** Storyteller                                                    :noexport:
+**** Storyteller                                                :noexport:
  *Minimum Crafting Level*: 4 *Kind*: Automaton
 
  *Iotum*: Io (1d6 units); responsive synth (23 units); apt clay (4 units); pliable
