@@ -1,0 +1,142 @@
+* Session Notes
+ - it's currently late summer
+   
+** prepping for arrival of the regiment
+ - party decided to move Ibahka's group out to a homestead, where they can help
+   with farming and hopefully blend in better than they do in town
+ - Farmer Joe helps move Ibakha's group to a homestead
+   
+** town formalizes the council
+ - a requirement of Lady Gol's, they chose to just formalize the "informal"
+   council that had mostly been running things
+   
+** zeno finds a ruin
+ - decide which journal this is attached to
+ - they can't find what's in it until they have the clue
+   
+** Ararholm attacked by Margr horde
+ - sent by Ghoka, using tech provided by Voz Dynasty ( via influence of
+   Nightmare )
+ - used up all the supplies of medicinal blood to lure the Margr into a canyon
+ - killed them all by using explosives to collapse a portion of the canyon, and
+   then doing the same at the rear -- boxing them in; then using the light
+   mortar to pretty much wipe out the horde
+ - gave out salvage they found in the aftermath
+
+things i need to do:
+ - figure out where the Margr came from
+ - Ghoka is corrupted, figure out what that means
+   
+** reaching out to the army
+ - fox has been spending time with the engineers in the regiment
+ - worked out a deal with the council; folks in the regiment can join the town
+   as citizens *once they're done with their service*
+ - can't join while they're actively serving in the army
+ - they'd be set up with a kind of "home starter kit"
+   
+** Ambassador stuff
+ - he's okay with the regiment helping out around town, but is planning to
+   exploit the soilders by getting them to care about the town and then causing
+   an incident of some kind -- so he can more easily convince them that the town
+   needs to be taken over "for their own good"
+ - a small but growing minority of folks in the regiment are considering staying
+   behind after the regiment is done ( mostly folks who are close to the end of
+   their service, or have voluntarily stayed on )
+   
+** ureos & the duke put on a play
+ - put on a play that was a thinly veiled allegory for the duke becoming "cool"
+   and becoming more relaxed since he arrived in town and how that's better for everyone
+ - the Ambassador saw straight through it, and wants to kill the Duke for
+   disrespecting him
+   
+** belel -- what's she been up to?
+ - talk to haley; ask what belel has been up to
+ - if belel has been in town, why hasn't she been interacting ( or at least, not
+   going out with the party )
+ - if belel has been avoiding the party, why?
+   
+** klep
+ - long term goal: set up a group of folks who can decrypt a journal each month
+ - klep will need to recruit a level 4 or 5 follower
+ - he'd also like a surgeon or someone who can help him with modifications ( the
+   town could probably use a doctor, too )
+   
+** rules stuff to figure out
+ - effort on long-term tasks?
+ - put the pc community tasks ( destiny, pg 310 ) in the rules handout for the
+   players
+   
+** other stuff that happened
+ - fox analyzed a journal. figures out the ruin & exactly where the artifact is
+ - zeno basically adopted a kid ( 9 years old, they're weird and kinda creepy )
+   
+** stuff to sort out for next session
+ - sort out a ruin for journal VIII
+ - create several "unexplored" ruins (3-5) the party knows about but haven't
+   explored yet
+ - map of the town, area, region, and all of maka tho
+ - put some small settlements in the region; some old ( from before the mist
+   left ), some new ( founded after Ararholm by folks moving from Voz Dynasty or
+   the Hegemony ). at least one settlement in maka tho should be from before the
+   mist ( although much, much reduced, obviously )
+ - how many units of stone does a quarry produce each month ( should also figure
+   out for wood and synth ), and place some spots on the map where quarries or
+   logging camps could be set up
+   
+*** ruins
+figure out some ruins and put them on the map. don't need to map them out, but
+need to at least sort out stuff like theme, a few special rooms, etc. for the
+thing to be found in the ruin, choose how many rooms deep rather than picking a
+specific room maybe?
+
+put hints in the ruins where possible about the weapon/mech/thing that Ager was
+planning to use against the Nightmares. also put hints that Ghoka is searching
+for something ( dead bodies with notes, clear signs they've been searching the
+ruins for something, and clues that point to what's happening to Ghoka -- and
+maybe his men, too )
+
+set up some ruins with potentially dangerous hordes, either large groups of
+creatures or some giant ones. these should be too much for the party to handle
+on their own. the party should need the help of the regiment or their own armed
+forces ( or a particularly powerful cypher ). if it's a giant creature they
+might be able to deal with it on their own, but level 9/10 creatures are no joke.
+
+some of the ruins don't have to be underground. they can be open air ruins (
+like destroyed ancient cities or skyscrapers ).
+   
+*** journals
+ - one of the journals should tell them how to get to the airship and what it
+   needs to get working again
+ - name all the journals; the name should reflect what kind of thing they'll
+   find when they decipher
+ - place the ruins for each journal on the map, higher level journals should
+   lead to ruins further away -- and some of the ruins should be in other
+   regions
+   
+*** upcoming events/timeline
+need to figure out a timeline of when things will happen ( unless the players
+interfere, or the person behind the event pushes up their timeline in repsonse
+to what the players are up to ).
+
+also need to figure out some events that get triggered by the players making
+progress; ie, going into ruins should trigger some stuff. maybe someone is
+waiting for them in a ruin to ambush them, or maybe leaving a ruin will cause a
+natural disaster -- or something. maybe there's something waiting for them
+outside, maybe one of the npcs gets a piece of info or finds something.
+
+these events don't *have* to be bad, some should be neutral or good
+
+ - something in a ruin
+ - Ghoka attacks the town again
+ - Ghoka's gang attacks the party in the wild or in a ruin
+ - a "testing" attack from the Merchant, which Zeno should recognize as such
+ - a "softening" attack from the Merchant ( which Zeno again, should recognize )
+ - another 'herald' is sent by the Merchant
+ - Ambassador makes an attempt on the Duke's life ( but should be very much a
+   "we can't prove it" thing )
+ - an 'incident' ( someone is killed, is it murder or something else; use this
+   as a chance to introduce a weird numenera creature )
+ - unconnected to what the party does, have some natural disasters ( a fire, an
+   earthquake, and the iron wind )
+ - flesh out the NPCs a bit
+   
